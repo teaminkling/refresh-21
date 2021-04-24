@@ -1,14 +1,9 @@
-# REMOVE THIS
-themesDir = "../../" 
+theme = "codex"
 
-# DO NOT REMOVE THIS
-theme = "hugo-theme-codex" 
-
-# Override these settings with your own
-title = "codex"
-languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "© {year}"
+title = "#2021DesignRefresh"
+languageCode = "en-au"
+baseURL = "https://example.org/"  # FIXME
+copyright = "© {year}"  # FIXME
 
 # Add your Disqus shortname here.
 # disqusShortname = ""

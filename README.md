@@ -1,6 +1,6 @@
 ## web-refresh
 
-Source code for the `#2021DesignRefresh`'s supplementary software tools and marketing web-front matter.
+Source code for the `#2021DesignRefresh`'s supplementary software tools and marketing web frontend.
 
 ## Components
 
@@ -23,7 +23,6 @@ A static website powered by the [Hugo](https://gohugo.io/) static site generator
 To run the development server:
 
 ```shell
-cd blog
 brew install hugo
 hugo server -D
 ```
