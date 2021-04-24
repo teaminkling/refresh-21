@@ -31,10 +31,10 @@ WEEK_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
         r"(?:[Ww]eek)(?!-)(?:.*?)"
-        r"(?P<week>[0-9]+|One)"
-        r"(?:.*)(?:[\s])"
-        r"(?P<remainder>[\S\s]+?)"
-        r"(?:(?=[Ww]eek.*[0-9]+)"
+        r"(?P<week>[0-9]+|One)(?:.*)"
+        r"(?:[\s])(?P<remainder>[\S\s]+?)"
+        r"(?:(?<!title: )"
+        r"(?=[Ww]eek.*[0-9]+)"
         r"(?!week-)|(?:\Z))"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
