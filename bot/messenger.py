@@ -94,12 +94,16 @@ def do_dump_all_messages():
 
             # Save all attachments to disk and then reference it.
 
-            LOGGER.debug("Writing attachments for user: [%s]...", author_with_discriminator)
+            LOGGER.debug(
+                "Writing attachments for user: [%s]...",
+                author_with_discriminator,
+            )
 
             attachments: List[Dict[str, str]] = []
             for attachment in message.attachments:
                 author_directory: str = os.path.join(
-                    "../blog/images", author_with_discriminator.lower()
+                    "../blog/images",
+                    author_with_discriminator.lower(),
                 )
 
                 # Dynamic directory generation.
