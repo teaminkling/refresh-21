@@ -1,4 +1,8 @@
-"""Relays messages from the Discord API to local JSON files. Downloads all files."""
+"""
+Relays messages from the Discord API to local JSON files. Downloads all files.
+
+Do not run this script on a pipeline.
+"""
 
 import json
 import logging
@@ -94,7 +98,9 @@ def do_dump_all_messages():
 
             attachments: List[Dict[str, str]] = []
             for attachment in message.attachments:
-                author_directory: str = os.path.join("out", author_with_discriminator.lower())
+                author_directory: str = os.path.join(
+                    "../blog/images", author_with_discriminator.lower()
+                )
 
                 # Dynamic directory generation.
 
