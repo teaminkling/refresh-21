@@ -29,7 +29,7 @@ LOGGER.addHandler(stream_handler)
 
 WEEK_PARSING_REGEX: Pattern = re.compile(
     (
-        r"(?P<preamble>[\s\S]*)"
+        r"(?P<preamble>[\s\S]*?)"
         r"(?:[Ww]eek)(?!-)(?:.*?)"
         r"(?P<week>[0-9]+|One)"
         r"(?:.*)(?:[\s])"
@@ -48,19 +48,14 @@ Note that this can't handle one post for multiple submissions if there are attac
 """
 
 TITLE_PARSING_REGEX: Pattern = re.compile(
-    (
-        r"(?P<preamble>[\s\S]*)"
-        r"(?:title[:\-*]*[\s]+)"
-        r"(?P<title>.*$)"
-        r"(?P<remainder>[\s\S]*)"
-    ),
+    r"(?P<preamble>[\s\S]*?)(?:title[:\-* ]+)(?P<title>.*$)(?P<remainder>[\s\S]*)",
     flags=re.MULTILINE | re.IGNORECASE,
 )
 """Regex that retrieves a title if applicable."""
 
 MEDIUM_PARSING_REGEX: Pattern = re.compile(
     (
-        r"(?P<preamble>[\s\S]*)"
+        r"(?P<preamble>[\s\S]*?)"
         r"(?<!social )"
         r"(?:medi(?:(?:um)|a)[:\-*]*[\s]+)"
         r"(?P<medium>.*$)"
@@ -72,7 +67,7 @@ MEDIUM_PARSING_REGEX: Pattern = re.compile(
 
 RAW_SOCIAL_PARSING_REGEX: Pattern = re.compile(
     (
-        r"(?P<preamble>[\s\S]*)"
+        r"(?P<preamble>[\s\S]*?)"
         r"(?i)(?P<raw_socials>social(?:s|(?: media))?[:\-*]*[\s]+)"
         r"(?P<remainder>[\s\S]*)"
     ),
@@ -106,19 +101,15 @@ def parse_retrieved() -> None:
 
     final_data: dict = {
         "users": {},
-        "submissions": {},
+        "submissions": [],
     }
-
-    joined_messages: List[dict] = []
 
     with open("out/retrieved.json") as retrieved_file:
         retrieved_data: dict = json.load(retrieved_file)
 
     # Keep certain information over from the retrieved data.
 
-    final_data["message_count"] = retrieved_data["message_count"]
     final_data["user_count"] = retrieved_data["user_count"]
-    final_data["attachment_count"] = retrieved_data["attachment_count"]
 
     # Parse matches and add them to a mapping of "author: week".
 
@@ -128,7 +119,14 @@ def parse_retrieved() -> None:
         content: str = message["message"]
         attachments: List[str] = message["attachments"]
 
-        extract_all_content(content)
+        final_data["submissions"].extend(extract_all_content(content, author, attachments))
+
+    # Write final data before we start to write blog posts and pages.
+
+    final_data["submission_count"] = len(final_data["submissions"])
+
+    with open("out/parsed.json", "w") as json_output_file:
+        json.dump(final_data, json_output_file, indent=2)
 
 
 def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
@@ -169,7 +167,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
                 {
                     "message": cumulative_message,
                     "attachments": cumulative_attachments,
-                    "author": author,
+                    "author": last_author,
                 }
             )
 
@@ -192,7 +190,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
     return joined_messages
 
 
-def extract_all_content(content: str) -> List[dict]:
+def extract_all_content(content: str, author: str, attachments: List[str]) -> List[dict]:
     # Don't bother extracting if it's the template message.
 
     if content.startswith(TEMPLATE_BEGINNING):
@@ -206,6 +204,8 @@ def extract_all_content(content: str) -> List[dict]:
         LOGGER.warning("No [week]s found for content over next line:\n\n%s\n", content)
 
         return []
+
+    content_data: List[dict] = []
 
     for match in matches:
         # Initialise what may be found from the parsers. Note that week is the only mandatory value
@@ -287,29 +287,67 @@ def extract_all_content(content: str) -> List[dict]:
         dynamic_content: str = f"{preamble}\n{remainder}".strip()
         dynamic_content = re.sub(r"\n{3,}", "\n\n", dynamic_content)
         dynamic_content = re.sub(r"(?i:description)[: -]*", "", dynamic_content)
+
+        # Note that further processing may be done later in dedicated code for making things look
+        # better. It does not need to happen here but we partially clean it because we can.
+
         description = re.sub(r"(?i:social[s]?(?: media)?)[: -]*", "", dynamic_content)
 
-        pass
+        # If there's no week, we can't form an ID.
+
+        content_data.append({
+            "author": author,
+            "week": week,
+            "title": title.strip(),
+            "medium": medium.strip(),
+            "description": description.strip(),
+            "attachments": attachments,
+            "socials": socials,
+        })
+
+        # TODO: unexpected no medium/description/title/socials: handle it.
+
+    return content_data
 
 
 def parse_content(text: str, pattern: Pattern, parse_type: str) -> Tuple[str, str, str]:
+    """
+    Using a regular expression, parse something as a preamble, extraction, and remainder.
+
+    Parameters
+    ----------
+    text : `str`
+        The text to parse.
+
+    pattern : `Pattern`
+        The pattern which is used to parse and must have three group returns.
+
+    parse_type : `str`
+        The parse type used for logging.
+
+    Returns
+    -------
+    `Tuple[str, str, str]`
+        A preamble, extraction, and remainder.
+    """
+
     text = text.strip()
 
     matches: List[Tuple[str, str, str]] = re.findall(pattern, text)
 
     if not matches:
-        LOGGER.warning("No [%s]s found for content over next line:\n\n%s\n", parse_type, text)
+        LOGGER.info("No [%s]s found for content over next line:\n\n%s\n", parse_type, text)
 
         return "", "", text
     elif len(matches) > 1:
-        LOGGER.warning(
+        LOGGER.info(
             "Multiple [%s]s found for content over next line:\n\n%s\n", parse_type, text,
         )
 
     return matches[0][0], matches[0][1], matches[0][2]
 
 
-def parse_socials(text: str) -> Tuple[List[Tuple[str, str]], str]:
+def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
     """
     Parse social links and references to tags on popular social media websites.
 
@@ -319,14 +357,15 @@ def parse_socials(text: str) -> Tuple[List[Tuple[str, str]], str]:
 
     Returns
     -------
-    `Tuple[List[Tuple[str, str]], str]`
-        A `tuple` of the socials found (which is of `tuple`: provider, username) and the
+    `Tuple[List[Dict[str, str]], str]`
+        A `tuple` of the socials found (which is a mapping of provider to username) and the
         remainder of the content which was not parsed, if applicable, to be added back to the
         description to be formatted.
     """
 
-
     # TODO: Implement.
+
+    return [{"Test": text}], text
 
 
 if __name__ == "__main__":
