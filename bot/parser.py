@@ -73,7 +73,10 @@ MEDIUM_PARSING_REGEX: Pattern = re.compile(
 RAW_SOCIAL_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
-        r"(?P<raw_socials>social(?:s|(?: media))?[:\-*]*[\s]+)"
+        r"(?P<raw_socials>socia"
+        r"(?:(?:ls)|"
+        r"(?:l media)|"
+        r"(?:sl)|l)?[:\-*]*[\s]+)"
         r"(?P<remainder>[\s\S]*)"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
@@ -524,7 +527,7 @@ def match_replacement_or_expected_missing(
 
 
 def extract_socials_using_hyperlinks():
-    pass  # TODO
+    pass  # TODO: only take excplit social links; they might not want it advertised
 
 
 if __name__ == "__main__":
