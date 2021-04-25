@@ -720,9 +720,9 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
         if replacement in (
             "@fiveclawd on instagram/twitter | cindrytuna @ twitch",
             "@/jorchaelp on twitter and @/jrchlp.png on insta",
-            'charmandaar on twitch (https://www.twitch.tv/charmandaar)',
-            '@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch',
-            '@rjmmendoza444 on Instagram and Twitter | @a1ewanrichards on Twitch',
+            "charmandaar on twitch (https://www.twitch.tv/charmandaar)",
+            "@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch",
+            "@rjmmendoza444 on Instagram and Twitter | @a1ewanrichards on Twitch",
         ):
             continue
 
@@ -778,7 +778,9 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
     return found_socials, text
 
 
-def assign_submission_socials_to_users(submissions: List[dict]) -> Dict[str, List[Dict[str, str]]]:
+def assign_submission_socials_to_users(
+    submissions: List[dict],
+) -> Dict[str, List[Dict[str, str]]]:
     """
     Search through all submissions and assign all socials for each individual user.
 
@@ -798,7 +800,9 @@ def assign_submission_socials_to_users(submissions: List[dict]) -> Dict[str, Lis
 
     for submission in submissions:
         if submission["socials"]:
-            user_to_socials[submission["author"]] = user_to_socials[submission["author"]].union(
+            user_to_socials[submission["author"]] = user_to_socials[
+                submission["author"]
+            ].union(
                 {tuple(social_dict.items()) for social_dict in submission["socials"]}
             )
 
@@ -809,7 +813,9 @@ def assign_submission_socials_to_users(submissions: List[dict]) -> Dict[str, Lis
     for discord_username, unique_socials in user_to_socials.items():
         for provider_user_pairs in unique_socials:
             for provider, username in provider_user_pairs:
-                output_users[discord_username].append({"provider": provider, "username": username})
+                output_users[discord_username].append(
+                    {"provider": provider, "username": username}
+                )
 
     return output_users
 
