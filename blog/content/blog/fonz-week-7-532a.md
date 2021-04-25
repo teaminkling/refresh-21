@@ -3,7 +3,7 @@ title = "desert strands"
 description = "80 minute speed draw this time <:klaeiaFeels:731112542956683274> happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real..."
 author = "fonz#0001"
 date = "2021-02-19"
-categories = ["Week 7: TODO"]
+categories = ["Week 07: TODO"]
 tags = []
 +++
 

@@ -1,9 +1,9 @@
 +++
 title = "One Drug Please"
-description = "Alternative title: playing around with Live 11's new cool features.  \\"High Sheen\\" reminds me of a few things. Getting high (on life) in a club, shiny lights from the sun and from stage lights, bright, natural naive feelings. \\"Sheen\\" of youth, so to speak,..."
+description = "Alternative title: playing around with Live 11's new cool features.  \"High Sheen\" reminds me of a few things. Getting high (on life) in a club, shiny lights from the sun and from stage lights, bright, natural naive feelings. \"Sheen\" of youth, so to speak,..."
 author = "papapastry#8888"
 date = "2021-02-25"
-categories = ["Week 8: TODO"]
+categories = ["Week 08: TODO"]
 tags = []
 +++
 

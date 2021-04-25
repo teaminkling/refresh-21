@@ -3,7 +3,7 @@ title = "Paper Pond"
 description = "Going back to my first art love - paper. I've always been surrounded by paper and origami ever since I was kid, and wanted to pay homage to both my roots and the medium that has so much potential. Also I've been wanting a piece to bring in the two parts o..."
 author = "vectorong#7566"
 date = "2021-02-12"
-categories = ["Week 6: TODO"]
+categories = ["Week 06: TODO"]
 tags = []
 +++
 

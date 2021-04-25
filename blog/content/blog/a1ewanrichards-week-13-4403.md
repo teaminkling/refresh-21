@@ -1,6 +1,6 @@
 +++
 title = "Portrait 7: Ruminations"
-description = "Completely dissatisfied with my previous entry, so here's a new one. I've been feeling lonely and isolated lately for so long. I feel that nobody will ever bother to listen or understand me.  My interpretation of Otomatsu Sato from the movie \\"Poppoya\\" (Ra..."
+description = "Completely dissatisfied with my previous entry, so here's a new one. I've been feeling lonely and isolated lately for so long. I feel that nobody will ever bother to listen or understand me.  My interpretation of Otomatsu Sato from the movie \"Poppoya\" (Ra..."
 author = "a1ewanrichards#0881"
 date = "2021-04-02"
 categories = ["Week 13: TODO"]

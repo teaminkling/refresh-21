@@ -1,9 +1,9 @@
 +++
 title = "Footprints"
-description = "<https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>   (Headphones will benefit you for this song).  \\"Desert\\" to me means the mixolydian mode (a tonal \\"pattern\\"). You know, like The Beatles (Norwegian Wood, I Feel Fine) and a lot of classic rock aro..."
+description = "<https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>   (Headphones will benefit you for this song).  \"Desert\" to me means the mixolydian mode (a tonal \"pattern\"). You know, like The Beatles (Norwegian Wood, I Feel Fine) and a lot of classic rock aro..."
 author = "papapastry#8888"
 date = "2021-02-19"
-categories = ["Week 7: TODO"]
+categories = ["Week 07: TODO"]
 tags = []
 +++
 

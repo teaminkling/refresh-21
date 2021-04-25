@@ -3,7 +3,7 @@ title = "Amalgamation: Smile and Smile"
 description = "Ink on paper, 9x12 inches.  Another week, another rush job lol. I had an initial idea but I dumped it since I couldn't execute it. I made this just now.  Anyway... I tried to recreate the moment I shared with friend and a crush from around 2015. I earlier..."
 author = "a1ewanrichards#0881"
 date = "2021-02-12"
-categories = ["Week 6: TODO"]
+categories = ["Week 06: TODO"]
 tags = []
 +++
 

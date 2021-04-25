@@ -1,9 +1,9 @@
 +++
 title = "Repetition, Reminisce, Reflection"
-description = "\\"It reflects me. It reflects you...Two lines become one\\" - Mirrors by STUTS (ft. SUMIN, Daichi Yamamoto & CHINZA DOPENESS) (the song I was vibin to while making this piece: https://www.youtube.com/watch?v=wdwzLaljOzw) While working alongside printmaking f..."
+description = "\"It reflects me. It reflects you...Two lines become one\" - Mirrors by STUTS (ft. SUMIN, Daichi Yamamoto & CHINZA DOPENESS) (the song I was vibin to while making this piece: https://www.youtube.com/watch?v=wdwzLaljOzw) While working alongside printmaking f..."
 author = "vectorong#7566"
 date = "2021-03-04"
-categories = ["Week 9: TODO"]
+categories = ["Week 09: TODO"]
 tags = []
 +++
 

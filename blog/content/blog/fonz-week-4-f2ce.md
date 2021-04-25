@@ -1,9 +1,9 @@
 +++
 title = "mask"
-description = "i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. \\"movement\\" really got me thinking about the creeping of shadows so i tried to subject that in th..."
+description = "i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. \"movement\" really got me thinking about the creeping of shadows so i tried to subject that in th..."
 author = "fonz#0001"
 date = "2021-01-29"
-categories = ["Week 4: TODO"]
+categories = ["Week 04: TODO"]
 tags = []
 +++
 

@@ -1,9 +1,9 @@
 +++
 title = "This is why I drink"
-description = "\\"In the year 20XX Every living being on Earth Is late for dinner\\"  Had to redo the whole thing after being unhappy with the first go at it - and I feel like the \\"SPACE\\" keyword wasn't given any justice. I have some ideas on how it could have been dealt wi..."
+description = "\"In the year 20XX Every living being on Earth Is late for dinner\"  Had to redo the whole thing after being unhappy with the first go at it - and I feel like the \"SPACE\" keyword wasn't given any justice. I have some ideas on how it could have been dealt wi..."
 author = "arancil#8622"
 date = "2021-01-15"
-categories = ["Week 2: TODO"]
+categories = ["Week 02: TODO"]
 tags = []
 +++
 

@@ -3,7 +3,7 @@ title = "_Dragon Collage_"
 description = "Desc: Wow I'm the first one submitting this week? That's weird. Anyways, I decided for this week to draw a bunch of dragons because I couldn't decide on just one with all the thumbnails I made! Each piece has it's own title, as well as a color palette of ..."
 author = "DynoLoafer#7070"
 date = "2021-03-02"
-categories = ["Week 9: TODO"]
+categories = ["Week 09: TODO"]
 tags = []
 +++
 

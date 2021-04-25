@@ -3,7 +3,7 @@ title = "Judgement"
 description = "Desc: When I thought of what to draw for this theme I thought cyberpunk and cool flashing lights. I realized I wasn't that good at the subject yet and would need time to develop it so instead I went to my mor comfortable style.  This piece represents an i..."
 author = "D3m0n_Msc#9927"
 date = "2021-03-02"
-categories = ["Week 9: TODO"]
+categories = ["Week 09: TODO"]
 tags = []
 +++
 

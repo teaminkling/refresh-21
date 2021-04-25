@@ -3,7 +3,7 @@ title = "SOL 0"
 description = "This morning the Perseverance Rover landed safely in the Jezero Crater on Mars. It's NASA's fifth Rover to land on the red planet and, other than Curiosity, is the only thing 'alive' on the dusty world.  Art wise, a bit of a quick and dirty one. (Was star..."
 author = "TrixyNetex#1167"
 date = "2021-02-19"
-categories = ["Week 7: TODO"]
+categories = ["Week 07: TODO"]
 tags = []
 +++
 

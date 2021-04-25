@@ -1,9 +1,9 @@
 +++
 title = "Tamago Tama"
-description = "Red circle was Japan for me this week. It should be obvious where I went with that in the recording.  To me \\"garnet red\\" meant a very bold sound that's not lowkey at all. Gems are formed under pressure, which to me means heavy distorted guitars, improvisa..."
+description = "Red circle was Japan for me this week. It should be obvious where I went with that in the recording.  To me \"garnet red\" meant a very bold sound that's not lowkey at all. Gems are formed under pressure, which to me means heavy distorted guitars, improvisa..."
 author = "papapastry#8888"
 date = "2021-01-22"
-categories = ["Week 3: TODO"]
+categories = ["Week 03: TODO"]
 tags = []
 +++
 

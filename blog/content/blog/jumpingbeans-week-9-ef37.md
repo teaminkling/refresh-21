@@ -1,9 +1,9 @@
 +++
 title = "This is the literal worst shit i have created, i think my parent think im weird."
-description = "i saw a dude making cool advertisement with a TV as background and thought \\" hmmmm seems easy\\" then i proceed to do stupid things. my parents saw me do stupid things, and editing is hell. overall i rate the experience 4/10, maybe i would increase the scor..."
+description = "i saw a dude making cool advertisement with a TV as background and thought \" hmmmm seems easy\" then i proceed to do stupid things. my parents saw me do stupid things, and editing is hell. overall i rate the experience 4/10, maybe i would increase the scor..."
 author = "jumpingbeans#6967"
 date = "2021-03-02"
-categories = ["Week 9: TODO"]
+categories = ["Week 09: TODO"]
 tags = []
 +++
 

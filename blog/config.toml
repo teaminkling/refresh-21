@@ -41,7 +41,7 @@ iOSColor            = "#ffffff"
 [params.header]
 navbarTitle         = "Home"
 dynamicTitles       = true
-searchMenu          = true
+searchMenu          = false
 shareMenu           = true
 languageMenu        = false
 

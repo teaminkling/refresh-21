@@ -3,7 +3,7 @@ title = "Paper Aeroplanes demo.mp3, collab with @papapastry"
 description = "A demo track of our collab song 'Paper Aeroplanes', capturing an instance between two lovers and what their simple but gentle love brings.   paper aeroplanes DEMO track: https://soundcloud.com/papapastry/fuck-so-late-god-fucking-damnit the lyrics were bas..."
 author = "Charmandaar#3357"
 date = "2021-02-12"
-categories = ["Week 6: TODO"]
+categories = ["Week 06: TODO"]
 tags = []
 +++
 

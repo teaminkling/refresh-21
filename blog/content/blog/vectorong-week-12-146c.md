@@ -1,6 +1,6 @@
 +++
 title = "The Comfy Chair"
-description = "Inspired by the range of Italian designer Massimo Vignelli's work, and that \\"If you can design one thing, you can design everything.\\" Often I feel as a designer and artist, we're directed to only learn a specific \\"style\\" of skills, when in reality all you..."
+description = "Inspired by the range of Italian designer Massimo Vignelli's work, and that \"If you can design one thing, you can design everything.\" Often I feel as a designer and artist, we're directed to only learn a specific \"style\" of skills, when in reality all you..."
 author = "vectorong#7566"
 date = "2021-03-24"
 categories = ["Week 12: TODO"]

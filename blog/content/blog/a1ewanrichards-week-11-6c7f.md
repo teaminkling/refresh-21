@@ -1,6 +1,6 @@
 +++
 title = "Undercooled 1: Please Return The Moon To Us"
-description = "I first conceptualized a starry universe portrait theme of sorts, but I thought a landscape would be better. This is my first time using oil pastel.  The flying figure is my interpretation of a \\"bakunawa,\\" a serpent-like dragon in Philippine mythology, wh..."
+description = "I first conceptualized a starry universe portrait theme of sorts, but I thought a landscape would be better. This is my first time using oil pastel.  The flying figure is my interpretation of a \"bakunawa,\" a serpent-like dragon in Philippine mythology, wh..."
 author = "a1ewanrichards#0881"
 date = "2021-03-18"
 categories = ["Week 11: TODO"]

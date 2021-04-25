@@ -3,7 +3,7 @@ title = "High Sheen from Jimmy Neutron"
 description = "Woman in armour... high sheen from Jimmy Neutron"
 author = "paintsepsi#6673"
 date = "2021-02-23"
-categories = ["Week 8: TODO"]
+categories = ["Week 08: TODO"]
 tags = []
 +++
 

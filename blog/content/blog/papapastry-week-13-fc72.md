@@ -1,6 +1,6 @@
 +++
 title = "Coming Up Spades"
-description = "Volume warning.  To play with expressiveness would be the opposite of playing robotically. Adding the \\"face\\" to that means it's also about passion and improvisation. When you add the voice, it's about falsetto, belting, loudness, distortion, mistakes, and..."
+description = "Volume warning.  To play with expressiveness would be the opposite of playing robotically. Adding the \"face\" to that means it's also about passion and improvisation. When you add the voice, it's about falsetto, belting, loudness, distortion, mistakes, and..."
 author = "papapastry#8888"
 date = "2021-04-09"
 categories = ["Week 13: TODO"]

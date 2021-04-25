@@ -1,6 +1,6 @@
 +++
 title = "Ozymandias"
-description = "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better 😛 So this is based off the poem \\"Ozymandias\\" by Percy Bysshe Shel..."
+description = "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better 😛 So this is based off the poem \"Ozymandias\" by Percy Bysshe Shel..."
 author = "TrixyNetex#1167"
 date = "2021-04-22"
 categories = ["Week 16: TODO"]

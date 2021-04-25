@@ -3,7 +3,7 @@ title = "Three Celebrations (Change)"
 description = "3 white chocolate caramel souffle cakes to celebrate three different events.  Growth: 1st cake for Herschel's birthday, sadly we missed his birthday party due to lockdown. Goodbyes: 2nd cake for my roommate who decided his job wasn't worth his sanity anym..."
 author = "winsome#5621"
 date = "2021-02-19"
-categories = ["Week 7: TODO"]
+categories = ["Week 07: TODO"]
 tags = []
 +++
 

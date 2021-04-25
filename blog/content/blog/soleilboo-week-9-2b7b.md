@@ -3,7 +3,7 @@ title = "Be Bold and Believe"
 description = "Tomorrow I will compete in my Jiu Jisu tournament so I try to keep my mind calm and did something related to my feelings. the moment I'm on the mat is the moment I feel alive. 6 mins. only 6 mins to see how far I have become compared to myself yesterday. ..."
 author = "soleilboo#1662"
 date = "2021-03-05"
-categories = ["Week 9: TODO"]
+categories = ["Week 09: TODO"]
 tags = []
 +++
 

@@ -32,8 +32,12 @@ def create_all_posts():
             if len(description) > 256:
                 short_description = f"{description[:255]}..."
 
-            short_description = short_description.replace('"', "\\\"").replace("\n", " ").replace(
+            short_description = short_description.replace(
+                "\n", " ",
+            ).replace(
                 "\\", "\\\\",
+            ).replace(
+                '"', "\\\"",
             )
 
             output_post_file.write(
@@ -41,7 +45,7 @@ def create_all_posts():
                 .replace("<!SHORT_DESCRIPTION>", short_description)
                 .replace("<!AUTHOR>", submission["author"])
                 .replace("<!SUBMITTED_DATE>", submission["created_at"])
-                .replace("<!THEME>", f"Week {submission['week']}: TODO")
+                .replace("<!THEME>", f"Week {int(submission['week']):02d}: TODO")
             )
 
             output_post_file.write("\n\n")

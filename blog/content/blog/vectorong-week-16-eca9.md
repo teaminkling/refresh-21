@@ -1,6 +1,6 @@
 +++
 title = "Rat Race"
-description = "The idiom is defined as \\"an endless, self-defeating, or pointless pursuit...The term is commonly associated with an exhausting, repetitive lifestyle that leaves no time for relaxation or enjoyment.\\"~~(thanks wikipedia)~~ The concept was initially sketched..."
+description = "The idiom is defined as \"an endless, self-defeating, or pointless pursuit...The term is commonly associated with an exhausting, repetitive lifestyle that leaves no time for relaxation or enjoyment.\"~~(thanks wikipedia)~~ The concept was initially sketched..."
 author = "vectorong#7566"
 date = "2021-04-23"
 categories = ["Week 16: TODO"]

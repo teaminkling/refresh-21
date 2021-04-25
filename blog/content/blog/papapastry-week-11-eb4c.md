@@ -1,6 +1,6 @@
 +++
 title = "The Island"
-description = "This song features the feeling of oppressive clouds and weather, harsh harmonies and clashing timbres.  This song isn't \\"soft\\" but I wrote it by surrealist writing about the sea, the land, and the sky. I wrote back then: \\"The concept [is] a man on an isla..."
+description = "This song features the feeling of oppressive clouds and weather, harsh harmonies and clashing timbres.  This song isn't \"soft\" but I wrote it by surrealist writing about the sea, the land, and the sky. I wrote back then: \"The concept [is] a man on an isla..."
 author = "papapastry#8888"
 date = "2021-03-19"
 categories = ["Week 11: TODO"]

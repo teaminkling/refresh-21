@@ -1,9 +1,9 @@
 +++
 title = "7/11 Burrito"
-description = "\\"Bold strokes\\" sounds upbeat, aggressive, complex, and coloured by live instrumentals.  Before the 'rona there was live music. For those who have not been in a crowd or performed contemporary music, there is nothing like it. Every mistake, every ad lib: t..."
+description = "\"Bold strokes\" sounds upbeat, aggressive, complex, and coloured by live instrumentals.  Before the 'rona there was live music. For those who have not been in a crowd or performed contemporary music, there is nothing like it. Every mistake, every ad lib: t..."
 author = "papapastry#8888"
 date = "2021-03-05"
-categories = ["Week 9: TODO"]
+categories = ["Week 09: TODO"]
 tags = []
 +++
 

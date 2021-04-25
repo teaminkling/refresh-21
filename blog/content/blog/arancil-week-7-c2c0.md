@@ -3,7 +3,7 @@ title = "placeholder edit later"
 description = "Scene: Oh no, one of the remnant forces of the humans are being hunted by the reptilian empire led by Hiss Majesty - but the sand starts rumbling and what rises out of it?  Three panel piece, there's some storyboarding done for the pre-first-panel storyte..."
 author = "arancil#8622"
 date = "2021-02-19"
-categories = ["Week 7: TODO"]
+categories = ["Week 07: TODO"]
 tags = []
 +++
 

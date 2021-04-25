@@ -1,6 +1,6 @@
 +++
 title = "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
-description = "|    ボロボロ (\\"boroboro\\") often refers to an item that is worn out to the point where it is in tatters. Rather than throw it out, I find it can be a very personal and relaxing process to repair it, following similar Japanese repairing idealogy where the fix ..."
+description = "|    ボロボロ (\"boroboro\") often refers to an item that is worn out to the point where it is in tatters. Rather than throw it out, I find it can be a very personal and relaxing process to repair it, following similar Japanese repairing idealogy where the fix ..."
 author = "vectorong#7566"
 date = "2021-03-12"
 categories = ["Week 10: TODO"]

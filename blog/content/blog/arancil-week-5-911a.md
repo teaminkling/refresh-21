@@ -1,9 +1,9 @@
 +++
 title = "Untitled"
-description = "On her birthday stream, cindy's birthday wishes were \\"read chainsaw man\\" (lol no you read it) and \\"draw a dragon\\". So here's the dragon. Couple weeks late, but still.  This week was rough. Probably gonna come back to the sketch and redo this at some point..."
+description = "On her birthday stream, cindy's birthday wishes were \"read chainsaw man\" (lol no you read it) and \"draw a dragon\". So here's the dragon. Couple weeks late, but still.  This week was rough. Probably gonna come back to the sketch and redo this at some point..."
 author = "arancil#8622"
 date = "2021-02-05"
-categories = ["Week 5: TODO"]
+categories = ["Week 05: TODO"]
 tags = []
 +++
 

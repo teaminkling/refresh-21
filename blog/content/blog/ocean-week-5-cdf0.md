@@ -3,7 +3,7 @@ title = "Seal soapstone carving"
 description = "Although the prompt centres around green jade, I carved a piece of soapstone under the pretense of it as white jade. The design is influenced by a well known chinese poem: Quiet Night Thoughts by LiBai, it describes looking up at the moon and thinking of ..."
 author = "ocean#8289"
 date = "2021-02-05"
-categories = ["Week 5: TODO"]
+categories = ["Week 05: TODO"]
 tags = []
 +++
 
