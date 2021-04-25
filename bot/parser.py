@@ -4,8 +4,11 @@ import json
 import logging
 import re
 from collections import defaultdict
+from datetime import datetime
+from hashlib import md5
 from logging import Logger
 from typing import Any, Dict, List, Optional, Pattern, Set, Tuple, Union
+from urllib.parse import quote
 
 # Initialise logging.
 
@@ -30,7 +33,7 @@ LOGGER.addHandler(stream_handler)
 
 WEEK_PARSING_REGEX: Pattern = re.compile(
     (
-        r"(?P<preamble>[\s\S]*?)(?<!my )(?<!for )(?:week)(?!-)(?:.{0,16})(?P<week>[0-9]+|One)"
+        r"(?P<preamble>[\s\S]*?)(?<!my )(?<!for )(?:week)(?!-)(?:.{0,16}?)(?P<week>[0-9]+|One)"
         r"(?:.*)(?:[\s])(?P<remainder>[\S\s]+?)(?:(?<!title: )(?=week.{1,16}?[0-9]+)"
         r"(?!week-)(?!week \d+[ ,])|(?:\Z))"
     ),
@@ -285,10 +288,16 @@ def parse_retrieved() -> None:
     for message in parse_cumulative_messages(retrieved_data):
         author: str = message["author"]
         content: str = message["message"]
+        created_at: str = message["created_at"]
         attachments: List[str] = message["attachments"]
 
         final_data["submissions"].extend(
-            extract_all_content(content, author, attachments),
+            extract_all_content(
+                content=content,
+                author=author,
+                created_at=datetime.fromisoformat(created_at).date().isoformat(),
+                attachments=attachments,
+            ),
         )
 
     # Write final data before we start to write blog posts and pages.
@@ -360,6 +369,10 @@ def write_missing_meta_file(submissions: List[dict], parse_type: str) -> None:
 
             if parse_type == "description":
                 value = value.strip()
+
+            if parse_type == "title" and value == "Untitled":
+                value = ""
+
             if not value:
                 count += 1
 
@@ -393,12 +406,14 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
     cumulative_attachments: List[str] = []
     author: str = ""
     last_author: str = ""
+    last_seen_date: str = ""
 
     for message in reversed(retrieved_data["messages"]):
         author: str = message["author"]["mention_name"]
         attachments: List[str] = [
             attachment["local_url"] for attachment in message["attachments"]
         ]
+        last_seen_date = message["created_at"]
 
         if author == last_author or not last_author:
             cumulative_message += f"\n{message['content']}\n"
@@ -409,6 +424,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
                     "message": cumulative_message,
                     "attachments": cumulative_attachments,
                     "author": last_author,
+                    "created_at": last_seen_date,
                 }
             )
 
@@ -425,6 +441,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
                 "message": cumulative_message,
                 "attachments": cumulative_attachments,
                 "author": author,
+                "created_at": last_seen_date,
             }
         )
 
@@ -432,7 +449,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
 
 
 def extract_all_content(
-    content: str, author: str, attachments: List[str]
+    content: str, author: str, created_at: str, attachments: List[str]
 ) -> List[dict]:
     """
     Extract all information for content, allowing for multiple week submissions in one post.
@@ -444,6 +461,9 @@ def extract_all_content(
 
     author : `str`
         The author of the submission(s).
+
+    created_at : `str`
+        The created timestamp.
 
     attachments : `List[str]`
         The found attachments for the given content. Note that if there are attachments for
@@ -609,11 +629,23 @@ def extract_all_content(
             link for link in links if re.findall(CONTENT_LINK_REGEX, link)
         ]
 
+        # Ensure title and ID exists.
+
+        title = title.strip() or "Untitled"
+        submission_id: str = quote(
+            f"{author[:-5]}-week-{week}-{md5(title.encode()).hexdigest()[:4]}".lower()
+            .replace(" ", "-")
+            .encode("ascii", "ignore")
+            .decode()
+        )
+
         content_data.append(
             {
+                "id": submission_id,
                 "author": author,
+                "created_at": created_at,
                 "week": week,
-                "title": title.strip(),
+                "title": title.replace('"', ""),
                 "medium": medium.strip(),
                 "description": description.strip(),
                 "attachments": attachments + url_attachments,

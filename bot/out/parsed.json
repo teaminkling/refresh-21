@@ -2,30 +2,30 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Instagram",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Twitch",
         "username": "paintsepsi"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
         "provider": "Everywhere",
         "username": "paintsepsi"
+      },
+      {
+        "provider": "Twitter",
+        "username": "paintsepsi"
       }
     ],
     "Bell-Bones#0091": [
       {
-        "provider": "Tumblr",
-        "username": "bellbones1207"
-      },
-      {
         "provider": "Twitter",
         "username": "bbart1207"
+      },
+      {
+        "provider": "Tumblr",
+        "username": "bellbones1207"
       }
     ],
     "Lithium#7468": [
@@ -34,22 +34,22 @@
         "username": "lithiumreflections"
       },
       {
-        "provider": "Twitter",
-        "username": "jaimeskelton"
-      },
-      {
         "provider": "Tumblr",
         "username": "lithiumreflections"
+      },
+      {
+        "provider": "Twitter",
+        "username": "jaimeskelton"
       }
     ],
     "vectorong#7566": [
       {
-        "provider": "Instagram",
-        "username": "karen_tsugawa"
-      },
-      {
         "provider": "Twitch",
         "username": "vectorong"
+      },
+      {
+        "provider": "Instagram",
+        "username": "karen_tsugawa"
       }
     ],
     "Boyf#4064": [
@@ -60,12 +60,8 @@
     ],
     "DoughYeast#7521": [
       {
-        "provider": "Twitch",
-        "username": "DoughYeast"
-      },
-      {
         "provider": "Instagram",
-        "username": "Dough.Yeast"
+        "username": "dough.yeast"
       },
       {
         "provider": "Twitch",
@@ -73,7 +69,11 @@
       },
       {
         "provider": "Instagram",
-        "username": "dough.yeast"
+        "username": "Dough.Yeast"
+      },
+      {
+        "provider": "Twitch",
+        "username": "DoughYeast"
       }
     ],
     "Charmandaar#3357": [
@@ -92,15 +92,15 @@
     ],
     "arancil#8622": [
       {
-        "provider": "Twitch",
-        "username": "arancil"
-      },
-      {
         "provider": "Twitter",
         "username": "arancil"
       },
       {
         "provider": "Instagram",
+        "username": "arancil"
+      },
+      {
+        "provider": "Twitch",
         "username": "arancil"
       }
     ],
@@ -116,27 +116,27 @@
     ],
     "Pumpkan#2447": [
       {
+        "provider": "Twitch",
+        "username": "pumpkanart"
+      },
+      {
         "provider": "Twitter",
+        "username": "pumpkanart"
+      },
+      {
+        "provider": "Twitch",
+        "username": "Pumpkanart"
+      },
+      {
+        "provider": "Twitch",
         "username": "PumpkanArt"
       },
       {
         "provider": "Twitter",
-        "username": "pumpkanart"
-      },
-      {
-        "provider": "Twitch",
         "username": "Pumpkanart"
       },
       {
         "provider": "Twitter",
-        "username": "Pumpkanart"
-      },
-      {
-        "provider": "Twitch",
-        "username": "pumpkanart"
-      },
-      {
-        "provider": "Twitch",
         "username": "PumpkanArt"
       }
     ],
@@ -152,12 +152,12 @@
     ],
     "CapoKey#0003": [
       {
-        "provider": "Instagram",
-        "username": "caposketch"
-      },
-      {
         "provider": "Twitter",
         "username": "CapoKeyT"
+      },
+      {
+        "provider": "Instagram",
+        "username": "caposketch"
       }
     ],
     "jc#3609": [
@@ -166,32 +166,32 @@
         "username": "rybaris"
       },
       {
-        "provider": "Instagram",
+        "provider": "Tumblr",
         "username": "rybaris"
       },
       {
-        "provider": "Tumblr",
+        "provider": "Instagram",
         "username": "rybaris"
       }
     ],
     "Scimister#6508": [
       {
         "provider": "Twitch",
-        "username": "scimister"
+        "username": "Scimister"
       },
       {
         "provider": "Twitch",
-        "username": "Scimister"
+        "username": "scimister"
       }
     ],
     "papapastry#8888": [
       {
-        "provider": "Twitch",
-        "username": "papapastry"
-      },
-      {
         "provider": "Twitter",
         "username": "papapastry_"
+      },
+      {
+        "provider": "Twitch",
+        "username": "papapastry"
       }
     ],
     "HadesPsd#6683": [
@@ -202,6 +202,10 @@
     ],
     "cindry#4068": [
       {
+        "provider": "Instagram",
+        "username": "fiveclawd"
+      },
+      {
         "provider": "Twitter",
         "username": "cindrytuna"
       },
@@ -212,10 +216,6 @@
       {
         "provider": "Twitch",
         "username": "cindrytuna"
-      },
-      {
-        "provider": "Instagram",
-        "username": "fiveclawd"
       }
     ],
     "rainydaze#5604": [
@@ -226,15 +226,7 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
-      },
-      {
-        "provider": "Twitch",
-        "username": "a1ewanrichards#0881"
-      },
-      {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "rjmmendoza444"
       },
       {
@@ -242,12 +234,20 @@
         "username": "and"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "rjmmendoza444"
       },
       {
         "provider": "Twitter",
         "username": "rjmendoza444"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards#0881"
       }
     ],
     "soggyissoggy#7277": [
@@ -268,11 +268,11 @@
     ],
     "mrtnong#3026": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       }
     ],
@@ -284,11 +284,11 @@
     ],
     "Linalifox#4145": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "linalifox"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "linalifox"
       }
     ],
@@ -320,12 +320,12 @@
     ],
     "Psyko#9587": [
       {
-        "provider": "Twitter",
-        "username": "psykoframe"
-      },
-      {
         "provider": "Instagram",
         "username": "austeezus"
+      },
+      {
+        "provider": "Twitter",
+        "username": "psykoframe"
       }
     ],
     "Magus_Hellwalker#9661": [
@@ -346,11 +346,11 @@
     ],
     "jumpingbeans#6967": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "jumpingbeansz"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "jumpingbeansz"
       }
     ],
@@ -372,11 +372,11 @@
     ],
     "winsome#5621": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       }
     ],
@@ -418,22 +418,24 @@
     ],
     "MimiChair#9326": [
       {
+        "provider": "Instagram",
+        "username": "mimichair.art"
+      },
+      {
         "provider": "Twitch",
         "username": "mimichair"
       },
       {
         "provider": "Twitter",
         "username": "mimikuchan"
-      },
-      {
-        "provider": "Instagram",
-        "username": "mimichair.art"
       }
     ]
   },
   "submissions": [
     {
+      "id": "jumpingbeans-week-1-d1b6",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-01-02",
       "week": 1,
       "title": "Bowl",
       "medium": "MS Paint",
@@ -447,7 +449,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-1-cce9",
       "author": "paintsepsi#6673",
+      "created_at": "2021-01-03",
       "week": 1,
       "title": "Profile",
       "medium": "Procreate Digital Painting",
@@ -465,7 +469,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "ramen-week-1-c830",
       "author": "Ramen#6343",
+      "created_at": "2021-01-04",
       "week": 1,
       "title": "Objects",
       "medium": "Clip Studio Paint",
@@ -479,7 +485,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "malorbaker-week-1-86f3",
       "author": "MalorBaker#4631",
+      "created_at": "2021-01-04",
       "week": 1,
       "title": "flush",
       "medium": "ms paint",
@@ -493,7 +501,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-1-61ec",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-01-05",
       "week": 1,
       "title": "Honey, I'm Home!",
       "medium": "FireAlpaca",
@@ -514,7 +524,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-1-8366",
       "author": "Lithium#7468",
+      "created_at": "2021-01-05",
       "week": 1,
       "title": "New Year's Compass",
       "medium": "Digital (Clip Studio Paint)",
@@ -532,7 +544,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-1-fa7e",
       "author": "vectorong#7566",
+      "created_at": "2021-01-05",
       "week": 1,
       "title": "Origin Point",
       "medium": "Processing (program) + Java",
@@ -550,7 +564,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "boyf-week-1-b79d",
       "author": "Boyf#4064",
+      "created_at": "2021-01-05",
       "week": 1,
       "title": "Just a Peep",
       "medium": "FireAlpaca64",
@@ -568,7 +584,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "heidelburger-week-1-7b09",
       "author": "Heidelburger#7391",
+      "created_at": "2021-01-05",
       "week": 1,
       "title": "Yellow Ice Bar",
       "medium": "Switch Harv's Island",
@@ -582,7 +600,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arren-week-1-9c0e",
       "author": "arren#3311",
+      "created_at": "2021-01-06",
       "week": 1,
       "title": "sparkly mandrake",
       "medium": "photoshop",
@@ -596,7 +616,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "madboi-week-1-608f",
       "author": "madboi#0540",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "Distance...",
       "medium": ": Traditional (fine liner, artist pitt pen, paper)",
@@ -610,7 +632,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "doughyeast-week-1-0370",
       "author": "DoughYeast#7521",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "Noodle Dancer",
       "medium": "Procreate",
@@ -628,7 +652,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-1-3d18",
       "author": "eggyolk#4129",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "Week 1 submission \ud83d\udc41\ufe0f \ud83d\udc44 \ud83d\udc41\ufe0f",
       "medium": "Procreate",
@@ -642,7 +668,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jc-week-1-c31f",
       "author": "jc#3609",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "egg galaxy",
       "medium": "csp",
@@ -656,7 +684,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-1-64a9",
       "author": "cindry#4068",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "Rat 1 and Rat 2",
       "medium": "Digital, Paint Tool SAI",
@@ -670,7 +700,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-1-4283",
       "author": "Charmandaar#3357",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "upon sunflowers",
       "medium": "digital, procreate",
@@ -688,7 +720,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-1-44e7",
       "author": "arancil#8622",
+      "created_at": "2021-01-07",
       "week": 1,
       "title": "Plaid & Lace sans Lace",
       "medium": "Ink, watercolour",
@@ -706,7 +740,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jorchael_p-week-1-81a6",
       "author": "jorchael_p#2534",
+      "created_at": "2021-01-08",
       "week": 1,
       "title": "sunny day, pouring rain",
       "medium": "Digital, Photoshop",
@@ -727,7 +763,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-1-e8d5",
       "author": "Pumpkan#2447",
+      "created_at": "2021-01-09",
       "week": 1,
       "title": "Four of Pumpkins",
       "medium": "procreate",
@@ -748,7 +786,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-2-73ac",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-01-10",
       "week": 2,
       "title": "the movement of water in two cups multiplicative of volumetric estimated measurement of water",
       "medium": "pErForMaNcE aRT in video form / video",
@@ -764,7 +804,9 @@
       ]
     },
     {
+      "id": "moonlit-narcy-week-1-ce9d",
       "author": "Moonlit Narcy#0961",
+      "created_at": "2021-01-10",
       "week": 1,
       "title": "Luminated Darkness",
       "medium": "Procreate",
@@ -785,7 +827,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-2-d6f4",
       "author": "Goblet#7026",
+      "created_at": "2021-01-11",
       "week": 2,
       "title": "simple angler pog",
       "medium": "ibispaint x",
@@ -799,7 +843,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-2-f7ac",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-01-11",
       "week": 2,
       "title": "Engulf",
       "medium": "SketchBook",
@@ -813,7 +859,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-2-a425",
       "author": "paintsepsi#6673",
+      "created_at": "2021-01-11",
       "week": 2,
       "title": "Atlantis",
       "medium": "Procreate",
@@ -827,7 +875,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "capokey-week-2-7802",
       "author": "CapoKey#0003",
+      "created_at": "2021-01-11",
       "week": 2,
       "title": "Maw of the Deep",
       "medium": "Procreate",
@@ -848,7 +898,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arren-week-2-d908",
       "author": "arren#3311",
+      "created_at": "2021-01-12",
       "week": 2,
       "title": "bright sea",
       "medium": "photoshop",
@@ -862,7 +914,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-2-1981",
       "author": "TITAN011#5766",
+      "created_at": "2021-01-13",
       "week": 2,
       "title": "King of the Sea",
       "medium": "Clipstudio",
@@ -876,9 +930,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-2-5205",
       "author": "Pumpkan#2447",
+      "created_at": "2021-01-14",
       "week": 2,
-      "title": "\"You have new text message! High five!\"",
+      "title": "You have new text message! High five!",
       "medium": "Procreate",
       "description": "Wanted to draw a mermaid. I really wanted to show this massive lady with something strange and unexpected. And those nokia phones are probably the only thing that could survive the crushing depths of the deep sea",
       "attachments": [
@@ -897,7 +953,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-2-4b63",
       "author": "vectorong#7566",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "Little Dragons",
       "medium": "Gyotaku (traditional jp printmaking method using ink on fish, tho I used shrimp for this so I guess ebitaku lol) + dyed paper napkin",
@@ -915,9 +973,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-2-16df",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-01-15",
       "week": 2,
-      "title": "\"Hello there!\"",
+      "title": "Hello there!",
       "medium": "FireAlpaca",
       "description": "Ok, ok, I see your tiny human and large creature entries, but I raise you this,,, large human and tiny creature! But in all seriousness, whaaat, I've drawn something that isn't just a character standing in a void? Shocking! I really challenged myself lol, hope I'll continue to improve :)",
       "attachments": [
@@ -936,7 +996,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jc-week-2-86d7",
       "author": "jc#3609",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "oarfish",
       "medium": "csp & lasso tool",
@@ -957,7 +1019,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-2-22bc",
       "author": "Lithium#7468",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "The Galaxy Beneath",
       "medium": "Digital (Clip Studio Paint)",
@@ -975,7 +1039,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "scimister-week-2-17d4",
       "author": "Scimister#6508",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "Ascend",
       "medium": "PaintToolSAI",
@@ -993,7 +1059,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-2-99c5",
       "author": "papapastry#8888",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "b\u0334\u0358\u0346e\u0338\u034c\u0332w\u0335\u0358\u0351a\u0334\u0309\u0340r\u0336\u033e\u030ee\u0337\u030f\u030c \u0336\u0303\u030et\u0338\u034b\u0344h\u0335\u030e\u0307e\u0334\u0351\u0342 \u0338\u0351\u0307d\u0336\u0344\u035de\u0335\u030c\u0324e\u0336\u0358\u034ap\u0335\u0312\u0340",
       "medium": "Audio (Ableton Live 10) and a Fender Stratocaster",
@@ -1013,7 +1081,9 @@
       ]
     },
     {
+      "id": "cindry-week-2-5c23",
       "author": "cindry#4068",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "Deep Discovery",
       "medium": "2 page comic, Ink on Paper",
@@ -1028,9 +1098,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-2-8b05",
       "author": "arancil#8622",
+      "created_at": "2021-01-15",
       "week": 2,
-      "title": "\"This is why I drink\"",
+      "title": "This is why I drink",
       "medium": "Watercolor (Arches A5 rough)",
       "description": "\"In the year 20XX\nEvery living being on Earth\nIs late for dinner\"\n\nHad to redo the whole thing after being unhappy with the first go at it - and I feel like the \"SPACE\" keyword wasn't given any justice. I have some ideas on how it could have been dealt with better, but alas, we'll just see that as part of the lesson and learning. Looking forward to getting a better camera & lighting opportunities.",
       "attachments": [
@@ -1046,7 +1118,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-2-210a",
       "author": "Charmandaar#3357",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "felix, the jellyfish",
       "medium": "traditional, embroidery on tulle",
@@ -1064,7 +1138,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "hadespsd-week-2-4cb4",
       "author": "HadesPsd#6683",
+      "created_at": "2021-01-15",
       "week": 2,
       "title": "Perspective is fun",
       "medium": "CSP",
@@ -1082,7 +1158,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jorchael_p-week-2-3cec",
       "author": "jorchael_p#2534",
+      "created_at": "2021-01-16",
       "week": 2,
       "title": "Ah, Bright Light",
       "medium": "Photoshop",
@@ -1105,7 +1183,9 @@
       ]
     },
     {
+      "id": "eggyolk-week-2-b1aa",
       "author": "eggyolk#4129",
+      "created_at": "2021-01-16",
       "week": 2,
       "title": "Jormungandr",
       "medium": "Procreate",
@@ -1119,7 +1199,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "doughyeast-week-2-20a3",
       "author": "DoughYeast#7521",
+      "created_at": "2021-01-16",
       "week": 2,
       "title": "The Deep End",
       "medium": "Procreate",
@@ -1139,7 +1221,9 @@
       ]
     },
     {
+      "id": "magus_hellwalker-week-1-d71e",
       "author": "Magus_Hellwalker#9661",
+      "created_at": "2021-01-17",
       "week": 1,
       "title": "It Spins",
       "medium": "3D Digital",
@@ -1153,7 +1237,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-3-e514",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-01-17",
       "week": 3,
       "title": "Untitled (society)",
       "medium": "autodesk sketchbook (mobile)",
@@ -1167,7 +1253,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-3-9ea7",
       "author": "Goblet#7026",
+      "created_at": "2021-01-17",
       "week": 3,
       "title": "cold inside",
       "medium": "ibispaint and phone photos",
@@ -1181,7 +1269,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "askpatt-week-3-e80d",
       "author": "askpatt#4779",
+      "created_at": "2021-01-17",
       "week": 3,
       "title": "Circle and flow",
       "medium": "illustrator",
@@ -1195,7 +1285,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "magus_hellwalker-week-2-9ff9",
       "author": "Magus_Hellwalker#9661",
+      "created_at": "2021-01-18",
       "week": 2,
       "title": "Temple discovery",
       "medium": "3D Digital",
@@ -1209,7 +1301,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-3-efde",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-01-18",
       "week": 3,
       "title": "Summon",
       "medium": "Sketchbook Pro",
@@ -1223,7 +1317,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "magus_hellwalker-week-3-19ab",
       "author": "Magus_Hellwalker#9661",
+      "created_at": "2021-01-19",
       "week": 3,
       "title": "A circle in abstractness",
       "medium": "3D Digital",
@@ -1237,7 +1333,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-3-e808",
       "author": "TITAN011#5766",
+      "created_at": "2021-01-19",
       "week": 3,
       "title": "Brain Echo",
       "medium": "Clipstudio",
@@ -1251,7 +1349,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "moonlit-narcy-week-3-2ab1",
       "author": "Moonlit Narcy#0961",
+      "created_at": "2021-01-20",
       "week": 3,
       "title": "compassionate eye",
       "medium": "Procreate",
@@ -1265,7 +1365,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-3-0e2f",
       "author": "Lithium#7468",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "Appoh",
       "medium": "Digital (Clip Studio Paint)",
@@ -1279,7 +1381,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-3-7d52",
       "author": "Pumpkan#2447",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "The Forest King",
       "medium": "Rubber stamp block + ink, procreate",
@@ -1300,7 +1404,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "doughyeast-week-3-d3de",
       "author": "DoughYeast#7521",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "Cindy\u2019s Imaginary Friend",
       "medium": "Procreate",
@@ -1321,7 +1427,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-3-6fd7",
       "author": "cindry#4068",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "Fire Fist Ace",
       "medium": "Digital, SAI",
@@ -1339,9 +1447,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-3-911a",
       "author": "paintsepsi#6673",
+      "created_at": "2021-01-21",
       "week": 3,
-      "title": "",
+      "title": "Untitled",
       "medium": "Procreate",
       "description": "Simple profile draw based on Akihiko Yoshida\u2019s art. Was trying to do a new rendering style with the hair and am not quite happy with it yet, but it\u2019s getting there!",
       "attachments": [
@@ -1357,9 +1467,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "ichika%28%29-week-3-911a",
       "author": "\ud83c\udf3aIchika\ud83c\udf3a(\u30df\u30b1\u30e9)#3160",
+      "created_at": "2021-01-21",
       "week": 3,
-      "title": "",
+      "title": "Untitled",
       "medium": "",
       "description": "wolf idk what to say im new to this\ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f\u2728",
       "attachments": [
@@ -1371,7 +1483,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "rainydaze-week-3-ffb6",
       "author": "rainydaze#5604",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "Shadow of the Red Sun",
       "medium": "Marker, brush pen, acrylic (red)",
@@ -1389,7 +1503,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "draco-week-3-2a39",
       "author": "Draco#3625",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "\u795e\u4eba",
       "medium": "Krita",
@@ -1403,7 +1519,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "zat-week-3-6f68",
       "author": "Zat#5731",
+      "created_at": "2021-01-21",
       "week": 3,
       "title": "Eye to the stars",
       "medium": "Photographs/Krita",
@@ -1417,7 +1535,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-3-f068",
       "author": "vectorong#7566",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Tesseract",
       "medium": "Vector illustration",
@@ -1431,7 +1551,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-3-ee54",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Blood Moon_",
       "medium": "Paint Tool SAI",
@@ -1445,7 +1567,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "zja2damax-week-3-f85c",
       "author": "zja2damax#9693",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "The Red Circle",
       "medium": "Charcoal, Acrylic, and Watercolor on paper",
@@ -1459,9 +1583,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "space-warfare-development-week-3-66c9",
       "author": "Space Warfare Development#3942",
+      "created_at": "2021-01-22",
       "week": 3,
-      "title": "\"Harbinger\"",
+      "title": "Harbinger",
       "medium": "Traditional, Copic markers & pens",
       "description": "I took a regular goldfinch, and jammed it full of steroids and heavy metal.\n\"Beware the red moonlight,\nAcross the Black Forest night,\nThe deathwings in the tree,\nKill everything they see.\"",
       "attachments": [
@@ -1473,7 +1599,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-3-4fca",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "A Shining Star",
       "medium": "FireAlpaca",
@@ -1494,7 +1622,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jc-week-3-c968",
       "author": "jc#3609",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "am i coming outta left field",
       "medium": "csp",
@@ -1518,7 +1648,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "winsome-week-3-a45d",
       "author": "winsome#5621",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Out of Your Depth",
       "medium": "Digital (Photopea)",
@@ -1532,7 +1664,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jzann-week-3-4d1b",
       "author": "Jzann#6205",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Bat Cave",
       "medium": "Clip Studio Paint",
@@ -1546,7 +1680,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-3-7fa8",
       "author": "eggyolk#4129",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Week 3 Submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>",
       "medium": "Procreate",
@@ -1560,7 +1696,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jorchael_p-week-3-292d",
       "author": "jorchael_p#2534",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "'0",
       "medium": "Photoshop",
@@ -1574,7 +1712,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-3-31f0",
       "author": "papapastry#8888",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Tamago Tama",
       "medium": "Audio (Ableton Live 10)",
@@ -1596,7 +1736,9 @@
       ]
     },
     {
+      "id": "hamishmr-week-3-e121",
       "author": "hamishmr#8519",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "koi \ud83d\ude42",
       "medium": "Ps",
@@ -1610,7 +1752,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-3-6e93",
       "author": "Charmandaar#3357",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "cirque of monkeys except it's me. i am the monkey",
       "medium": "photography/photoshop",
@@ -1628,9 +1772,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-3-5f20",
       "author": "arancil#8622",
+      "created_at": "2021-01-22",
       "week": 3,
-      "title": "\"Behold my stand - [BRIGHT EYES!!]\"",
+      "title": "Behold my stand - [BRIGHT EYES!!]",
       "medium": "Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)",
       "description": "DAMN IT DIDN'T KEEP THE IN CLIPBOARD WHEN DELETING THE SUBMISSION but from memory:\n\nA JoJo-esque pre-fight peacocking scene. Imagine this being followed by the villain capturing the hero from behind, whispering some sort of mockery in the hero's ear with his deep voice. Cue hero thinking \"His breath is so cold... It's nothing like how I imagined it!!\"",
       "attachments": [
@@ -1646,7 +1792,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "scimister-week-3-c664",
       "author": "Scimister#6508",
+      "created_at": "2021-01-22",
       "week": 3,
       "title": "Blood Moon",
       "medium": "PaintToolSAI",
@@ -1664,7 +1812,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "thelagexpert-week-3-8cfa",
       "author": "TheLagExpert#6867",
+      "created_at": "2021-01-23",
       "week": 3,
       "title": "Lonely in the Quartz desert",
       "medium": "Affinity Photo",
@@ -1678,7 +1828,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-3-4532",
       "author": "a1ewanrichards#0881",
+      "created_at": "2021-01-23",
       "week": 3,
       "title": "Gui",
       "medium": "Felt and ink on paper",
@@ -1699,7 +1851,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "kami-week-3-a911",
       "author": "Kami#0048",
+      "created_at": "2021-01-23",
       "week": 3,
       "title": "Shine No Shogun",
       "medium": "Pencil on paper",
@@ -1713,7 +1867,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "hamishmr-week-4-1ce3",
       "author": "hamishmr#8519",
+      "created_at": "2021-01-23",
       "week": 4,
       "title": "beach \ud83d\ude42",
       "medium": "Photo and Adobe Suite",
@@ -1727,7 +1883,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soggyissoggy-week-3-433e",
       "author": "soggyissoggy#7277",
+      "created_at": "2021-01-24",
       "week": 3,
       "title": "Icarus and the Sun",
       "medium": "",
@@ -1745,7 +1903,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-4-e553",
       "author": "paintsepsi#6673",
+      "created_at": "2021-01-24",
       "week": 4,
       "title": "Joker",
       "medium": "Procreate",
@@ -1769,7 +1929,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-4-6b80",
       "author": "Goblet#7026",
+      "created_at": "2021-01-24",
       "week": 4,
       "title": "Orange jump",
       "medium": "Krita with mouse",
@@ -1787,7 +1949,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-4-43e3",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-01-25",
       "week": 4,
       "title": "Stress",
       "medium": "Game",
@@ -1803,7 +1967,9 @@
       ]
     },
     {
+      "id": "mrtnong-week-4-4f54",
       "author": "mrtnong#3026",
+      "created_at": "2021-01-26",
       "week": 4,
       "title": "cat<a:B8_vibe:776693937498095637>  (cant think of a title xd)",
       "medium": "Procreate",
@@ -1824,7 +1990,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-4-e6d0",
       "author": "TITAN011#5766",
+      "created_at": "2021-01-26",
       "week": 4,
       "title": "Sleepless Night",
       "medium": "ClipStudio",
@@ -1838,7 +2006,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "kami-week-4-8c00",
       "author": "Kami#0048",
+      "created_at": "2021-01-27",
       "week": 4,
       "title": "Practice",
       "medium": "Pencil , sketch pens",
@@ -1856,7 +2026,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "meplaysgamez-week-4-0b03",
       "author": "meplaysgamez#0442",
+      "created_at": "2021-01-27",
       "week": 4,
       "title": "Rhythm and Tones Outine",
       "medium": "free photo editor thing idk",
@@ -1870,7 +2042,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-4-4be9",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-01-27",
       "week": 4,
       "title": "The Search",
       "medium": "Sketchbook Pro",
@@ -1884,7 +2058,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-4-ac13",
       "author": "arancil#8622",
+      "created_at": "2021-01-28",
       "week": 4,
       "title": "1:21 AM",
       "medium": "Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)",
@@ -1903,7 +2079,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-4-c9e7",
       "author": "Lithium#7468",
+      "created_at": "2021-01-28",
       "week": 4,
       "title": "Dancing Cloud",
       "medium": "Digital (Clip Studio Paint)",
@@ -1917,7 +2095,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jc-week-4-1490",
       "author": "jc#3609",
+      "created_at": "2021-01-28",
       "week": 4,
       "title": "costume change",
       "medium": "csp!",
@@ -1938,7 +2118,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-4-b82c",
       "author": "vectorong#7566",
+      "created_at": "2021-01-28",
       "week": 4,
       "title": "Fa\u00e7ade",
       "medium": "ink + paper collage",
@@ -1956,7 +2138,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-4-bb08",
       "author": "Pumpkan#2447",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Assimilation",
       "medium": "procreate",
@@ -1977,7 +2161,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-4-b8b8",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Family Portrait",
       "medium": "FireAlpaca",
@@ -1999,7 +2185,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-4-b341",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "_You Ain't No Bounty Hunter_",
       "medium": "Paint Tool SAI",
@@ -2013,7 +2201,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "scimister-week-4-427d",
       "author": "Scimister#6508",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Giraffe",
       "medium": "PaintToolSAI",
@@ -2031,7 +2221,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-4-2681",
       "author": "cindry#4068",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Morning Breeze",
       "medium": "Animation, CSP",
@@ -2049,7 +2241,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-4-36cd",
       "author": "Charmandaar#3357",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "POV you dust off an old VHS tape and slot it in the player\u2026",
       "medium": "video/photoshop",
@@ -2067,7 +2261,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jzann-week-4-222a",
       "author": "Jzann#6205",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Current",
       "medium": "Clip Studio Paint",
@@ -2081,7 +2277,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "doughyeast-week-4-cdf9",
       "author": "DoughYeast#7521",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Bog",
       "medium": "Procreate, Pixaloop",
@@ -2103,7 +2301,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "av-week-4-3f90",
       "author": "av#8827",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Snap Shot 1",
       "medium": "Clip Studio Paint",
@@ -2117,7 +2317,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "linalifox-week-4-9594",
       "author": "Linalifox#4145",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Blue",
       "medium": "Procreate",
@@ -2138,7 +2340,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-4-64a1",
       "author": "papapastry#8888",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "MURKE SHADOES",
       "medium": "Ableton Live 10",
@@ -2154,7 +2358,9 @@
       ]
     },
     {
+      "id": "winsome-week-4-fa6e",
       "author": "winsome#5621",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Dead Squats",
       "medium": "Digital (Photopea)",
@@ -2168,7 +2374,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "fonz-week-4-f2ce",
       "author": "fonz#0001",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "mask",
       "medium": "csp",
@@ -2186,7 +2394,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-4-759c",
       "author": "a1ewanrichards#0881",
+      "created_at": "2021-01-29",
       "week": 4,
       "title": "Bloody Fields",
       "medium": "Felt pen on paper",
@@ -2200,7 +2410,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "askpatt-week-4-54e5",
       "author": "askpatt#4779",
+      "created_at": "2021-01-30",
       "week": 4,
       "title": "Green mOon",
       "medium": "PS",
@@ -2214,9 +2426,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "space-warfare-development-week-4-36dc",
       "author": "Space Warfare Development#3942",
+      "created_at": "2021-01-30",
       "week": 4,
-      "title": "\"Coconut Crab\"",
+      "title": "Coconut Crab",
       "medium": "Traditional, Copic markers",
       "description": "Gray background, black silhouette of palm tree and grass.",
       "attachments": [
@@ -2228,7 +2442,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-5-328d",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-01-30",
       "week": 5,
       "title": "Here we go again",
       "medium": "\"Installation\"",
@@ -2242,7 +2458,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "moonlit-narcy-week-4-3b95",
       "author": "Moonlit Narcy#0961",
+      "created_at": "2021-01-31",
       "week": 4,
       "title": "Just Smile & Smell the Flowers",
       "medium": "Procreate",
@@ -2263,7 +2481,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dylan-week-5-7bf8",
       "author": "Dylan\u00ae#0666",
+      "created_at": "2021-02-01",
       "week": 5,
       "title": "Behind The Doors",
       "medium": "Digital (PhotoShop)",
@@ -2277,7 +2497,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-5-6fad",
       "author": "TITAN011#5766",
+      "created_at": "2021-02-01",
       "week": 5,
       "title": "Green Emerald",
       "medium": "ClipStudio",
@@ -2291,7 +2513,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-5-d857",
       "author": "Goblet#7026",
+      "created_at": "2021-02-02",
       "week": 5,
       "title": "Jade Jian",
       "medium": "ibispaint x",
@@ -2305,7 +2529,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-5-f539",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-02-02",
       "week": 5,
       "title": "Flawless",
       "medium": "Sketchbook Pro",
@@ -2319,7 +2545,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-5-1fa0",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-02-03",
       "week": 5,
       "title": "Need a Hand?",
       "medium": "FireAlpaca",
@@ -2340,7 +2568,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "mrtnong-week-5-0702",
       "author": "mrtnong#3026",
+      "created_at": "2021-02-04",
       "week": 5,
       "title": "Jade Temple",
       "medium": "Digital (Procreate)",
@@ -2358,7 +2588,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-5-79ae",
       "author": "paintsepsi#6673",
+      "created_at": "2021-02-04",
       "week": 5,
       "title": "Irene",
       "medium": "Procreate",
@@ -2382,7 +2614,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "kami-week-5-2ea5",
       "author": "Kami#0048",
+      "created_at": "2021-02-04",
       "week": 5,
       "title": "The Vessel",
       "medium": "Photoshop",
@@ -2400,7 +2634,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "poru-week-5-5cd3",
       "author": "poru#3659",
+      "created_at": "2021-02-04",
       "week": 5,
       "title": "Jadeite",
       "medium": "Digital - Clip Studio Paint",
@@ -2424,7 +2660,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "meplaysgamez-week-5-f303",
       "author": "meplaysgamez#0442",
+      "created_at": "2021-02-04",
       "week": 5,
       "title": "Jade Possessions",
       "medium": "i love airbrushes",
@@ -2439,7 +2677,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "d3m0n_msc-week-5-1b42",
       "author": "D3m0n_Msc#9927",
+      "created_at": "2021-02-04",
       "week": 5,
       "title": "Jade scales",
       "medium": "Digital - Ibis Paintx",
@@ -2457,7 +2697,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-5-657f",
       "author": "vectorong#7566",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Decay",
       "medium": "colored pencils + ink",
@@ -2475,7 +2717,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-5-e0bc",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "_Not My Forte_",
       "medium": "Paint Tool SAI",
@@ -2489,7 +2733,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-5-ba91",
       "author": "Pumpkan#2447",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Prosperity",
       "medium": "Procreate",
@@ -2510,7 +2756,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "psyko-week-5-f1a7",
       "author": "Psyko#9587",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Flow",
       "medium": "Acrylics",
@@ -2531,7 +2779,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-5-af61",
       "author": "Lithium#7468",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Jade Bee",
       "medium": "Digital (Clip Studio Paint)",
@@ -2549,7 +2799,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "magus_hellwalker-week-5-8cfe",
       "author": "Magus_Hellwalker#9661",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Jade Dragon on plinth",
       "medium": "Digital 3D (Blender)",
@@ -2568,7 +2820,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-5-ba11",
       "author": "soleilboo#1662",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "for this portrait. Can someone name it?I just took on the meaning of Jade Stone which bring good luck, peace and harmony just like a smile did.",
       "medium": "digital/ photoshop",
@@ -2586,9 +2840,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-5-911a",
       "author": "arancil#8622",
+      "created_at": "2021-02-05",
       "week": 5,
-      "title": "",
+      "title": "Untitled",
       "medium": "A3 watercolor, some fine liners, autumn gold ink, a color pencil from a dusty box",
       "description": "On her birthday stream, cindy's birthday wishes were \"read chainsaw man\" (lol no you read it) and \"draw a dragon\". So here's the dragon. Couple weeks late, but still.\n\nThis week was rough. Probably gonna come back to the sketch and redo this at some point, because I really like the concept itself. Scales are worked over with multiple greens + autumn gold ink. \nMore notes here: https://imgur.com/a/4UO7n4s",
       "attachments": [
@@ -2607,7 +2863,9 @@
       ]
     },
     {
+      "id": "papapastry-week-5-1d3c",
       "author": "papapastry#8888",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Big Green Dragon Kingdom",
       "medium": "Music/Ableton Live 10 Suite",
@@ -2623,7 +2881,9 @@
       ]
     },
     {
+      "id": "winsome-week-5-4c35",
       "author": "winsome#5621",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Queen of the Skies",
       "medium": "",
@@ -2637,7 +2897,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "ocean-week-5-cdf0",
       "author": "ocean#8289",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Seal soapstone carving",
       "medium": "soapstone carving",
@@ -2652,7 +2914,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-5-8858",
       "author": "cindry#4068",
+      "created_at": "2021-02-05",
       "week": 5,
       "title": "Jaysom Kim",
       "medium": "Digital, Clip Studio Paint",
@@ -2670,7 +2934,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "fonz-week-4-ad79",
       "author": "fonz#0001",
+      "created_at": "2021-02-06",
       "week": 4,
       "title": "green eyed girl",
       "medium": "csp",
@@ -2688,7 +2954,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-6-21a4",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-02-06",
       "week": 6,
       "title": "The introspection of self, the different facades of life and embrace of the multifaceted appearences",
       "medium": "Video of beansz wearing clothing (aka i ran out of mediums, time to recycle)",
@@ -2708,7 +2976,9 @@
       ]
     },
     {
+      "id": "paintsepsi-week-6-185c",
       "author": "paintsepsi#6673",
+      "created_at": "2021-02-06",
       "week": 6,
       "title": "It's Not Living (If It's Not With You)",
       "medium": "Photoshop",
@@ -2727,7 +2997,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-6-3827",
       "author": "Goblet#7026",
+      "created_at": "2021-02-06",
       "week": 6,
       "title": "Ducks by docks",
       "medium": "Krita with mouse",
@@ -2745,7 +3017,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "kami-week-6-d09a",
       "author": "Kami#0048",
+      "created_at": "2021-02-07",
       "week": 6,
       "title": "Everlasting Hope",
       "medium": "Photoshop",
@@ -2763,7 +3037,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-6-7ed9",
       "author": "Pumpkan#2447",
+      "created_at": "2021-02-08",
       "week": 6,
       "title": "Magical girl",
       "medium": "Procreate",
@@ -2784,7 +3060,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "thelagexpert-week-6-44f6",
       "author": "TheLagExpert#6867",
+      "created_at": "2021-02-10",
       "week": 6,
       "title": "Cyber Love",
       "medium": "Affinity Photo",
@@ -2798,7 +3076,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "rainydaze-week-6-0452",
       "author": "rainydaze#5604",
+      "created_at": "2021-02-10",
       "week": 6,
       "title": "inanimate objects that give me comfort",
       "medium": "Procreate, with the Narinder Pencil",
@@ -2812,7 +3092,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "psyko-week-6-f17c",
       "author": "Psyko#9587",
+      "created_at": "2021-02-11",
       "week": 6,
       "title": "Dreams in TechieLand",
       "medium": "Krita",
@@ -2826,7 +3108,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-6-1e74",
       "author": "cindry#4068",
+      "created_at": "2021-02-11",
       "week": 6,
       "title": "Simple Love",
       "medium": "Digital, and publication",
@@ -2846,7 +3130,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-6-af98",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Midnight Magic Musings",
       "medium": "Sketchbook Pro",
@@ -2860,7 +3146,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-6-56a2",
       "author": "vectorong#7566",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Paper Pond",
       "medium": "Origami + ink",
@@ -2879,7 +3167,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-6-f33c",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "_Slice of Life_",
       "medium": "Paint Tool SAI",
@@ -2893,7 +3183,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-6-46a6",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Roleplay! (and a puppet show I suppose)",
       "medium": "FireAlpaca",
@@ -2914,7 +3206,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-6-eb83",
       "author": "soleilboo#1662",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Self portrait",
       "medium": "digital/ photoshop",
@@ -2932,7 +3226,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "chari-week-6-3bfe",
       "author": "chari#7347",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Ghosties",
       "medium": "Digital, Clip Studio Paint",
@@ -2950,7 +3246,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-6-ca60",
       "author": "eggyolk#4129",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>",
       "medium": "Procreate",
@@ -2964,9 +3262,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-6-634a",
       "author": "a1ewanrichards#0881",
+      "created_at": "2021-02-12",
       "week": 6,
-      "title": "\"Amalgamation: Smile and Smile\"",
+      "title": "Amalgamation: Smile and Smile",
       "medium": "Ink on paper, 9x12 inches.",
       "description": "Ink on paper, 9x12 inches.\n\nAnother week, another rush job lol. I had an initial idea but I dumped it since I couldn't execute it. I made this just now.\n\nAnyway... I tried to recreate the moment I shared with friend and a crush from around 2015. I earlier sent her a message apologizing for \"being weird\" (not my words) after being scolded by someone for acting weird towards two girls. I sent both of them an apology message, unfriended one of them, but left the other to decide for herself. To my surprise, a week later (this exact moment), she said she wasn't mad at me, and we even embraced in the rain, much to my surprise. I held her shoulders and instinctively said, \"We're still friends, right?\"\n\nAnd we've remained friends ever since. Last year, I messaged her, short of spilling my feelings for her, while apologizing for all my awkward moments between me and her. She replied that I shouldn't have to be sorry for it, and even she has had her own realizations.\n\nRecently, she even told me maybe we'd work on a project someday and even referred me to her friend about building a community start up. She's been so kind to me, it actually disarms me.\n\nThe title is derived from a piece by Joe Hisaishi for the movie HANA-BI (Fireworks), directed by Takeshi Kitano.\n\nrjmmendoza444 (Twitter/IG)\nA1EwanRichards (Twitch)",
       "attachments": [
@@ -2978,7 +3278,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "okie.dokie.enoki-week-6-42f0",
       "author": "okie.dokie.enoki#0233",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "solemn night",
       "medium": "procreate",
@@ -2999,7 +3301,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-6-9a3d",
       "author": "arancil#8622",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of.",
       "medium": "Trad art, watercolor",
@@ -3023,7 +3327,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "winsome-week-6-92a1",
       "author": "winsome#5621",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Sweet Nothings",
       "medium": "Modelling Clay (Sculpey)",
@@ -3041,7 +3347,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "d3m0n_msc-week-6-834b",
       "author": "D3m0n_Msc#9927",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Love in the air",
       "medium": ": Ibis paint x",
@@ -3059,7 +3367,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-6-7344",
       "author": "Charmandaar#3357",
+      "created_at": "2021-02-12",
       "week": 6,
       "title": "Paper Aeroplanes demo.mp3, collab with @papapastry",
       "medium": "Ableton Live 10 Suite",
@@ -3082,7 +3392,9 @@
       ]
     },
     {
+      "id": "scimister-week-6-9323",
       "author": "Scimister#6508",
+      "created_at": "2021-02-13",
       "week": 6,
       "title": "Perspectives of Love",
       "medium": "Paint Tool SAI",
@@ -3100,7 +3412,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eyyojimbo-week-6-fd6f",
       "author": "EyYoJimbo#7595",
+      "created_at": "2021-02-14",
       "week": 6,
       "title": "Tenacity (Year of the Ox)",
       "medium": "Procreate",
@@ -3114,7 +3428,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dylan-week-7-384d",
       "author": "Dylan\u00ae#0666",
+      "created_at": "2021-02-14",
       "week": 7,
       "title": "Desert heat",
       "medium": "blender",
@@ -3128,7 +3444,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-7-f970",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-02-17",
       "week": 7,
       "title": "Ghost City (ft bad cropping)",
       "medium": "Krita",
@@ -3146,7 +3464,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jorchael_p-week-6-92bc",
       "author": "jorchael_p#2534",
+      "created_at": "2021-02-17",
       "week": 6,
       "title": "Nian Gao, old and new",
       "medium": "photoshop",
@@ -3169,7 +3489,9 @@
       ]
     },
     {
+      "id": "goblet-week-7-d10c",
       "author": "Goblet#7026",
+      "created_at": "2021-02-18",
       "week": 7,
       "title": "Welcome to Sandy Point! Population: me",
       "medium": "ibispaint x",
@@ -3187,7 +3509,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-7-7f38",
       "author": "vectorong#7566",
+      "created_at": "2021-02-18",
       "week": 7,
       "title": "Seconds in Sand",
       "medium": "Photography (shot w/ a Canon 40D)",
@@ -3205,7 +3529,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "zat-week-7-42e5",
       "author": "Zat#5731",
+      "created_at": "2021-02-18",
       "week": 7,
       "title": "Rain Over the Desert",
       "medium": "Photography",
@@ -3221,7 +3547,9 @@
       ]
     },
     {
+      "id": "pumpkan-week-7-cd92",
       "author": "Pumpkan#2447",
+      "created_at": "2021-02-18",
       "week": 7,
       "title": "Sunset at Calico Desert",
       "medium": "Procreate",
@@ -3242,7 +3570,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-6-68da",
       "author": "Lithium#7468",
+      "created_at": "2021-02-18",
       "week": 6,
       "title": "A Flash of Peace",
       "medium": "Digital (Clip Studio Paint)",
@@ -3263,7 +3593,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-7-c59a",
       "author": "paintsepsi#6673",
+      "created_at": "2021-02-18",
       "week": 7,
       "title": "Skull",
       "medium": "Procreate",
@@ -3281,9 +3613,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-7-d4f0",
       "author": "a1ewanrichards#0881",
+      "created_at": "2021-02-18",
       "week": 7,
-      "title": "\"Resistance 3: When The Lands Become Graveyards\"",
+      "title": "Resistance 3: When The Lands Become Graveyards",
       "medium": "Digital (Clip Studio Paint)",
       "description": "@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch\n\n\n\nIt's not a desert in the typical sense. It's an amalgam of sugar cane farms and the concept of \"peace of the cemetery,\" referring to a quote by St. Oscar Romero. The title is a rough translation of a poem by Filipino poet Axel Pinpin, originally titled \"Kung Puntod na ang Lupa\" (literal: If the Land is a Tomb\").",
       "attachments": [
@@ -3295,9 +3629,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-7-7b4a",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-02-19",
       "week": 7,
-      "title": "\"Hey you! Yeah, up here!\"",
+      "title": "Hey you! Yeah, up here!",
       "medium": "FireAlpaca",
       "description": "I didn't really get to post many wips for this piece because Discord decided it was too unholy to be seen before it was fully developed, but here it is! Did a screenshot redraw of a place called Scorched Gorge, which a desert area in Bugsnax :3\n\n; /\n\nLink to art piece because apparently discord hates me and thinks this is explicit content: https://imgur.com/a/R9TdafM",
       "attachments": [
@@ -3318,7 +3654,9 @@
       ]
     },
     {
+      "id": "dynoloafer-week-7-8d7b",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "_The Sandstorm_",
       "medium": "Paint Tool SAI",
@@ -3332,7 +3670,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-7-3510",
       "author": "TITAN011#5766",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "Dune Surfing",
       "medium": "clip studio",
@@ -3346,7 +3686,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-7-78e8",
       "author": "cindry#4068",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "Strange Sands",
       "medium": "ink on paper,  a comic!",
@@ -3368,7 +3710,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "poru-week-7-a9a8",
       "author": "poru#3659",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "Desert Plains",
       "medium": "Clip Studio Paint",
@@ -3389,7 +3733,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "winsome-week-7-16e6",
       "author": "winsome#5621",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "Three Celebrations (Change)",
       "medium": "Photography, Clay Figure & Cake",
@@ -3408,7 +3754,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-7-f8df",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "SOL 0",
       "medium": "Sketchbook Pro",
@@ -3422,9 +3770,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-7-911a",
       "author": "soleilboo#1662",
+      "created_at": "2021-02-19",
       "week": 7,
-      "title": "",
+      "title": "Untitled",
       "medium": "Procreate",
       "description": "Everyone have their own desert to carry. And flower can grow in the desert you know \ud83d\ude42 \n\nInspiration: orange sand colour of Australian desert and Goodenia-one of Australian desert Plants \nCombined with my goal of digital portrait painting this year. \n\nHope you all enjoy this work. \n\nAnd yes flowers can grow in the desert.",
       "attachments": [
@@ -3440,7 +3790,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-7-9d88",
       "author": "papapastry#8888",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "Footprints",
       "medium": "Ableton Live 10 Suite",
@@ -3457,7 +3809,9 @@
       ]
     },
     {
+      "id": "arancil-week-7-c2c0",
       "author": "arancil#8622",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "placeholder edit later",
       "medium": "Ink, traditional",
@@ -3480,7 +3834,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "fonz-week-7-532a",
       "author": "fonz#0001",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "desert strands",
       "medium": "csp",
@@ -3498,7 +3854,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "chari-week-7-b2ee",
       "author": "chari#7347",
+      "created_at": "2021-02-19",
       "week": 7,
       "title": "Academy, Disrepair",
       "medium": "Digital, Clip Studio Paint",
@@ -3516,7 +3874,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-7-fbb3",
       "author": "jonasw#3087",
+      "created_at": "2021-02-22",
       "week": 7,
       "title": "Angry Bird",
       "medium": "Ballpoint and hand smudge",
@@ -3530,7 +3890,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-7-c62c",
       "author": "Lithium#7468",
+      "created_at": "2021-02-23",
       "week": 7,
       "title": "Desert~~ (Creative I know)~~",
       "medium": "Digital (Clip Studio Paint)",
@@ -3544,7 +3906,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-8-af29",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-02-23",
       "week": 8,
       "title": "Trashbin",
       "medium": "Autodesk sketch",
@@ -3565,7 +3929,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-8-41d3",
       "author": "paintsepsi#6673",
+      "created_at": "2021-02-23",
       "week": 8,
       "title": "High Sheen from Jimmy Neutron",
       "medium": "Procreate",
@@ -3583,7 +3949,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-8-24cb",
       "author": "Goblet#7026",
+      "created_at": "2021-02-23",
       "week": 8,
       "title": "felled tree",
       "medium": "ibispaint x",
@@ -3601,7 +3969,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "d3m0n_msc-week-8-02a0",
       "author": "D3m0n_Msc#9927",
+      "created_at": "2021-02-23",
       "week": 8,
       "title": "My favourite artist",
       "medium": ": Phone",
@@ -3615,7 +3985,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-8-fb4e",
       "author": "arancil#8622",
+      "created_at": "2021-02-24",
       "week": 8,
       "title": "1:43:51 (PB)",
       "medium": "Oil sticks & oil crayons + some paper cutout",
@@ -3636,7 +4008,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-6-0868",
       "author": "TITAN011#5766",
+      "created_at": "2021-02-24",
       "week": 6,
       "title": "Do what make you happy",
       "medium": "Clip studio",
@@ -3650,7 +4024,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-8-03c2",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-02-24",
       "week": 8,
       "title": "_Pretty, Ain't It?_",
       "medium": "Paint Tool SAI",
@@ -3664,7 +4040,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "space-warfare-development-week-8-6a17",
       "author": "Space Warfare Development#3942",
+      "created_at": "2021-02-24",
       "week": 8,
       "title": "Spicy Tuna",
       "medium": "Traditional art.  Copic markers and pens, gell pen.",
@@ -3678,7 +4056,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-8-0c0e",
       "author": "papapastry#8888",
+      "created_at": "2021-02-25",
       "week": 8,
       "title": "One Drug Please",
       "medium": "Audio/Ableton Live 11 Suite",
@@ -3699,7 +4079,9 @@
       ]
     },
     {
+      "id": "lithium-week-8-bf02",
       "author": "Lithium#7468",
+      "created_at": "2021-02-25",
       "week": 8,
       "title": "Jupiter Falling",
       "medium": "Digital (Clip Studio Paint)",
@@ -3713,7 +4095,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-8-f7d9",
       "author": "jonasw#3087",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Swim for the Ball",
       "medium": "Pencil on Paper",
@@ -3727,7 +4111,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-8-f626",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "The Herald",
       "medium": "Sketchbook Pro",
@@ -3741,7 +4127,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-8-3521",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Brooke Rivers",
       "medium": "FireAlpaca",
@@ -3762,7 +4150,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-8-71ed",
       "author": "cindry#4068",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Foish",
       "medium": "graphic, Illustrator",
@@ -3780,7 +4170,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-8-6f53",
       "author": "a1ewanrichards#0881",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Amalagamation: Vague Memory",
       "medium": "Adobe Photoshop",
@@ -3804,7 +4196,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-8-0f99",
       "author": "vectorong#7566",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Fixation",
       "medium": "Photoshop",
@@ -3825,7 +4219,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-8-36ae",
       "author": "Pumpkan#2447",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Angels in our Atmosphere",
       "medium": "Digital collage (procreate)",
@@ -3846,7 +4242,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "winsome-week-8-1c0e",
       "author": "winsome#5621",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Just a couple of Daft Punks",
       "medium": "Digital collage (photopea)",
@@ -3864,7 +4262,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jorchael_p-week-8-5f75",
       "author": "jorchael_p#2534",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Out of Touch Tuesday",
       "medium": "Photoshop",
@@ -3887,7 +4287,9 @@
       ]
     },
     {
+      "id": "soleilboo-week-8-fde4",
       "author": "soleilboo#1662",
+      "created_at": "2021-02-26",
       "week": 8,
       "title": "Wall- E fan Art",
       "medium": "Photoshop",
@@ -3910,9 +4312,11 @@
       ]
     },
     {
+      "id": "frog-glasses-week-8-911a",
       "author": "Frog Glasses#1940",
+      "created_at": "2021-03-01",
       "week": 8,
-      "title": "",
+      "title": "Untitled",
       "medium": "procreate",
       "description": "Hi im doing this piece while you\u2019re going through the submissions =SPEED RUn= i missed the actual stream but metal goes brrrrrr :) \n\nit\u2019s  a life study for the blueberries im eating rn while watching u. I want to work with more bold shapes. 21 minutes)",
       "attachments": [
@@ -3924,7 +4328,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-9-09aa",
       "author": "DynoLoafer#7070",
+      "created_at": "2021-03-02",
       "week": 9,
       "title": "_Dragon Collage_",
       "medium": "Paint Tool SAI",
@@ -3938,7 +4344,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "d3m0n_msc-week-9-3785",
       "author": "D3m0n_Msc#9927",
+      "created_at": "2021-03-02",
       "week": 9,
       "title": "Judgement",
       "medium": "phone",
@@ -3952,7 +4360,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-9-ef37",
       "author": "jumpingbeans#6967",
+      "created_at": "2021-03-02",
       "week": 9,
       "title": "This is the literal worst shit i have created, i think my parent think im weird.",
       "medium": "video",
@@ -3972,7 +4382,9 @@
       ]
     },
     {
+      "id": "jonasw-week-9-8e62",
       "author": "jonasw#3087",
+      "created_at": "2021-03-03",
       "week": 9,
       "title": "Important Dream",
       "medium": "Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)",
@@ -3986,7 +4398,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-9-8bb3",
       "author": "Lithium#7468",
+      "created_at": "2021-03-03",
       "week": 9,
       "title": "Berry Dragon",
       "medium": "Digital (Clip Studio Paint)",
@@ -4002,7 +4416,9 @@
       ]
     },
     {
+      "id": "a1ewanrichards-week-9-7020",
       "author": "a1ewanrichards#0881",
+      "created_at": "2021-03-03",
       "week": 9,
       "title": "Amalgamation - Welcome To Hell",
       "medium": "Clip Studio Paint",
@@ -4026,7 +4442,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-9-7236",
       "author": "paintsepsi#6673",
+      "created_at": "2021-03-04",
       "week": 9,
       "title": "CMY",
       "medium": "Photoshop",
@@ -4044,7 +4462,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-9-d8ff",
       "author": "TrixyNetex#1167",
+      "created_at": "2021-03-04",
       "week": 9,
       "title": "Chromatic Dragon",
       "medium": "Sketchbook Pro",
@@ -4058,7 +4478,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-9-fe02",
       "author": "vectorong#7566",
+      "created_at": "2021-03-04",
       "week": 9,
       "title": "Repetition, Reminisce, Reflection",
       "medium": "Suminagashi (Japanese ink marbling technique) on handmade paper",
@@ -4079,7 +4501,9 @@
       ]
     },
     {
+      "id": "bell-bones-week-9-9eca",
       "author": "Bell-Bones#0091",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "Introspection",
       "medium": "FireAlpaca",
@@ -4100,7 +4524,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-9-1267",
       "author": "Pumpkan#2447",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "wikipedia",
       "medium": "Procreate",
@@ -4121,7 +4547,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-9-79a8",
       "author": "Charmandaar#3357",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "POV you find another VHS tape, and your sleep deprived self slots it in the player\u2026",
       "medium": "video/photoshop",
@@ -4144,7 +4572,9 @@
       ]
     },
     {
+      "id": "cindry-week-9-c756",
       "author": "cindry#4068",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "ANIME AM I RIGHT",
       "medium": "digital painting",
@@ -4162,9 +4592,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "winsome-week-9-ca4a",
       "author": "winsome#5621",
+      "created_at": "2021-03-05",
       "week": 9,
-      "title": "\"Hi! I like shorts! They're comfy and easy to wear!\"",
+      "title": "Hi! I like shorts! They're comfy and easy to wear!",
       "medium": "Photography (Photo set)",
       "description": "Celebrating the 25th Anniversary of Pokemon and myself, with a Pokemon that I like a lot. I'm sure I'm still a youngster trainer class.",
       "attachments": [
@@ -4184,7 +4616,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-9-6e62",
       "author": "Goblet#7026",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "Color factory",
       "medium": "survival Minecraft",
@@ -4204,7 +4638,9 @@
       ]
     },
     {
+      "id": "soleilboo-week-9-2b7b",
       "author": "soleilboo#1662",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "Be Bold and Believe",
       "medium": "photoshop",
@@ -4222,9 +4658,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-9-7061",
       "author": "arancil#8622",
+      "created_at": "2021-03-05",
       "week": 9,
-      "title": "I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on \"CHOKE ME LIKE YOU HATE ME\" obviously sorry",
+      "title": "I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on CHOKE ME LIKE YOU HATE ME obviously sorry",
       "medium": "Pencil, watercolor, acrylics, promarkers, various fineliners, ink, hands, anger, frustration, stress, acceptance, coffee",
       "description": "so this kind of didn't happen as intended, just smashed together everything that had color on it\n\nconsider that bit inspired by @DynoLoafer \n\nAlso @jonasw was my spirit animal",
       "attachments": [
@@ -4240,7 +4678,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-9-d52c",
       "author": "papapastry#8888",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "7/11 Burrito",
       "medium": "Audio/Ableton Live 11 Suite",
@@ -4261,7 +4701,9 @@
       ]
     },
     {
+      "id": "chari-week-9-318e",
       "author": "chari#7347",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "iPod Nano",
       "medium": "Digital, Clip Studio Paint",
@@ -4279,7 +4721,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lyfeu-week-9-0514",
       "author": "Lyfeu#7064",
+      "created_at": "2021-03-05",
       "week": 9,
       "title": "Flame Soul spirit",
       "medium": "Photoshop",
@@ -4293,7 +4737,9 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "thelagexpert-week-9-70ee",
       "author": "TheLagExpert#6867",
+      "created_at": "2021-03-06",
       "week": 9,
       "title": "Welcome to the brave new world of me",
       "medium": "Affinity photo",
@@ -4307,8 +4753,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-10-0414",
       "author": "jumpingbeans#6967",
-      "week": 0,
+      "created_at": "2021-03-08",
+      "week": 10,
       "title": "Apple 16",
       "medium": "Apple",
       "description": "This apple has weird fashion.",
@@ -4328,8 +4776,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-10-66bc",
       "author": "TITAN011#5766",
-      "week": 0,
+      "created_at": "2021-03-08",
+      "week": 10,
       "title": "Folds",
       "medium": "Clip Studio",
       "description": "Baggy fashion kimono wear \ud83c\uddef\ud83c\uddf5",
@@ -4342,8 +4792,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "wellcookedegg-week-10-992c",
       "author": "WellCookedEgg#9680",
-      "week": 0,
+      "created_at": "2021-03-09",
+      "week": 10,
       "title": "The Bat Man",
       "medium": "Clip Studio Paint",
       "description": "I went for some baggier street wear cause street wear is sick",
@@ -4356,8 +4808,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-10-d23d",
       "author": "paintsepsi#6673",
-      "week": 0,
+      "created_at": "2021-03-10",
+      "week": 10,
       "title": "Sitting",
       "medium": "Procreate",
       "description": "just a simple qurl wearing street style. uhhh lines/colouring isn\u2019t super clean and I didn\u2019t add shading but I like it as is tbh.",
@@ -4374,8 +4828,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-10-1944",
       "author": "Lithium#7468",
-      "week": 0,
+      "created_at": "2021-03-10",
+      "week": 10,
       "title": "Pulling Back From The Edge",
       "medium": "Clip Studio Paint",
       "description": "Study of movement and clothing from an incredible performance by Kai during a Freestyle Roulette (link with timestamp cause y'all should watch this performance anyway https://youtu.be/XFUyeYrCcN0?t=280) - this moment was so emotive I just felt pulled to paint it in particular. Clothing and hoomans are not my forte. \n\nlithiumreflections (IG, tumblr, twitter)",
@@ -4391,8 +4847,10 @@
       ]
     },
     {
+      "id": "lyfeu-week-10-66bc",
       "author": "Lyfeu#7064",
-      "week": 0,
+      "created_at": "2021-03-10",
+      "week": 10,
       "title": "Folds",
       "medium": "Photoshop",
       "description": "Edgy Basket Baller",
@@ -4409,8 +4867,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "phoebecreates-week-10-678c",
       "author": "PhoebeCreates#1403",
-      "week": 0,
+      "created_at": "2021-03-11",
+      "week": 10,
       "title": "cute outfits",
       "medium": "ink and watercolour",
       "description": "This is the beginning of my 100 outfits challenge. Yes I'm planning to do 100 of them. Ambitious? Maybe...",
@@ -4427,8 +4887,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "hadespsd-week-10-04b4",
       "author": "HadesPsd#6683",
-      "week": 0,
+      "created_at": "2021-03-11",
+      "week": 10,
       "title": "Zelda Study",
       "medium": "CSP with Basic Brushes",
       "description": "Cindy said I was allowed. But also, I really admire the character designs in Breath Of The Wild.",
@@ -4441,8 +4903,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-10-f4b3",
       "author": "jonasw#3087",
-      "week": 0,
+      "created_at": "2021-03-11",
+      "week": 10,
       "title": "Harlem '33/'83",
       "medium": "Colored Pencils",
       "description": "?\n\n(Wanted to reupload to fix how dark it was, sorry!)",
@@ -4455,9 +4919,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-10-c07e",
       "author": "vectorong#7566",
-      "week": 0,
-      "title": "\"Boroboro Bobbin\" pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)",
+      "created_at": "2021-03-12",
+      "week": 10,
+      "title": "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)",
       "medium": "Fabric / fashion (upcycled fabric, screenprinting, and sewing)",
       "description": "|   \n\u30dc\u30ed\u30dc\u30ed (\"boroboro\") often refers to an item that is worn out to the point where it is in tatters. Rather than throw it out, I find it can be a very personal and relaxing process to repair it, following similar Japanese repairing idealogy where the fix / mend also becomes a point of beauty. The pattern is based on other traditional Japanese patterns - this is one focuses on the imagery of a bobbin and thread to create an almost water-like pattern, which was screenprinted with gold ink, a reference back to Kintsugi which is a pottery repair technique using gold lacquer.\n\nI also included a comparison image for fun and how you can use non-functionality in fast fashion to your advantage.",
       "attachments": [
@@ -4477,8 +4943,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-10-1d26",
       "author": "DynoLoafer#7070",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "_Pico's Target_",
       "medium": "Paint Tool SAI",
       "description": "Not too much behind this lol, just wanted to draw some fanart for good ol' Pico from Pico's School and Friday Night Funkin'. He's a good edgy boy.",
@@ -4491,8 +4959,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-10-a407",
       "author": "Bell-Bones#0091",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "Prince Backey",
       "medium": "FireAlpaca",
       "description": "Ok, so,, I didn't feel like shading, but partially colored lines are cool, right? Anyway, here's an AU version of Backey where he's a prince in a fantasy setting! Figured that an experiment with his design was long overdue lol, people can check <#794059396165926913> to see his og outfit",
@@ -4512,8 +4982,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-10-43db",
       "author": "cindry#4068",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "Implied emotion??",
       "medium": "Digital, Illustrator and CSP",
       "description": "Trying out gradient maps for the first time!! wow it's super cool and colours are fresh! kinda want it to hold some sort of emotion in the fabric, what do you think?\n\nshop.fiveclawd.com LOL",
@@ -4526,8 +4998,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-10-9303",
       "author": "papapastry#8888",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "Good Clothes",
       "medium": "Audio/Ableton Live 11 Suite",
       "description": "This one speaks for itself.\n\n- Twitter: <>\n- YouTube: <http://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg?sub_confirmation=1>\n- Spotify (latest release): <https://open.spotify.com/album/02mN7iFb1ZGfIQlJvUATgc?si=JDQri4OMRNCAIrXyi4I1hg>\n- Apple Music (latest release): <https://music.apple.com/us/album/lost-pastry-child/1556553688?uo=4&app=apple+music>\n\nLink: https://youtu.be/KwACnHlAEmY",
@@ -4549,8 +5023,10 @@
       ]
     },
     {
+      "id": "trixynetex-week-10-b389",
       "author": "TrixyNetex#1167",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "Sunset Vibes, aka it was 30\u00b0 degrees today",
       "medium": "Sketchbook pro",
       "description": "GUESS WHOES FIVECLAWD MERCH ARRIVED TODAY!!!!\n#notsponseredjustexcited\nThought I'd draw last week's CMYK Dragon jacket and pair it with the Perseverance shirt cause who doesn't want double dragons?\nBit of a quick one today cause running out of time. Yes, I did use a photo of my shirt for the shirt. No, I am not copy Cindy's dragoon by hand, how much time do you think I have!?!",
@@ -4563,8 +5039,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-10-5a04",
       "author": "Goblet#7026",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "textile grook",
       "medium": "ibispaint x",
       "description": "Sorry, used 5 min",
@@ -4581,8 +5059,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-10-aaa2",
       "author": "a1ewanrichards#0881",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "Portrait 6: Get Together",
       "medium": "Felt marker on paper, 9x12in",
       "description": "Drew this earlier at the office since our room didn't have internet since yesterday afternoon. I couldn't think of anything nice, but this came to mind soon enough.\n\nThe dance is called \"tinikling,\" where a couple dances between two bamboo poles being clapped to the musical beat. It is somewhat similar to a waltz and a mazurka. \n\n(My markers are slowly drying out T_T)",
@@ -4605,8 +5085,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-10-104e",
       "author": "Pumpkan#2447",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "The dread beach bum La Verne",
       "medium": "Procreate",
       "description": "This one got away from me a bit. I intended to do something simple, I really did. All I really wanted to do was do some stronger posing than usual. I hope this fits within the prompt for this week, shes wearing clothes lmao...\nAnyway here is my dnd character Joselynn La Verne being no more dramatic than usual",
@@ -4626,8 +5108,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-10-fa9b",
       "author": "soleilboo#1662",
-      "week": 0,
+      "created_at": "2021-03-12",
+      "week": 10,
       "title": "Jiu jitsu The Art of Folding Clothes While People are Still in Them.",
       "medium": "Photoshop",
       "description": "",
@@ -4644,8 +5128,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "gianhet-week-10-5339",
       "author": "gianhet#8416",
-      "week": 0,
+      "created_at": "2021-03-13",
+      "week": 10,
       "title": "silk",
       "medium": ": CSP",
       "description": ": /\nrushed this one a bit lmao",
@@ -4662,8 +5148,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-11-03ba",
       "author": "Goblet#7026",
-      "week": 1,
+      "created_at": "2021-03-13",
+      "week": 11,
       "title": "Passive smoking",
       "medium": "ibispaint x and phone photo",
       "description": "Went skiing, had fun, saw happy little clouds. Was pretty, smelled chimney smoke. Wanted to make something fun.",
@@ -4680,8 +5168,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-11-0c75",
       "author": "jumpingbeans#6967",
-      "week": 1,
+      "created_at": "2021-03-14",
+      "week": 11,
       "title": "Are we at the weekends yet?",
       "medium": "Krita",
       "description": "Saw this artist's (ig: mofu_sand) work, saw cute cat, inspired. also, i like weekends.",
@@ -4698,8 +5188,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "wellcookedegg-week-11-a1f0",
       "author": "WellCookedEgg#9680",
-      "week": 1,
+      "created_at": "2021-03-14",
+      "week": 11,
       "title": "Laputa",
       "medium": "Clip studio paint",
       "description": "Pressed enter before I put stuff by accident lol\n\n\"Castle in the Sky\" is one of my favorite movies of all time, so I figured I'd draw something inspired by it. The castle's name is Laputa, so I named the piece accordingly.",
@@ -4716,8 +5208,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dylan-week-11-d4a7",
       "author": "Dylan\u00ae#0666",
-      "week": 1,
+      "created_at": "2021-03-16",
+      "week": 11,
       "title": "Cloudy Night",
       "medium": "Photoshop",
       "description": "I usually draw night scenes all the time so this time I tried adding some more colours then your basic black and white added some purple and blue clouds and a heart",
@@ -4730,8 +5224,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-11-aba0",
       "author": "TITAN011#5766",
-      "week": 1,
+      "created_at": "2021-03-16",
+      "week": 11,
       "title": "Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890>",
       "medium": "Clip studio",
       "description": "Decided to utilize everything I\u2019ve learned in these past few months (perspective, anatomy, value, color etc.) Conclusion: this was a very humbling experience (I was a bit overwhelmed / kinda gave up on the ship towards the end) xD \u2013 I will keep practicing  \u270d\ufe0f",
@@ -4744,8 +5240,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-11-6c7f",
       "author": "a1ewanrichards#0881",
-      "week": 1,
+      "created_at": "2021-03-18",
+      "week": 11,
       "title": "Undercooled 1: Please Return The Moon To Us",
       "medium": "Felt marker and oil pastel on paper",
       "description": "I first conceptualized a starry universe portrait theme of sorts, but I thought a landscape would be better. This is my first time using oil pastel.\n\nThe flying figure is my interpretation of a \"bakunawa,\" a serpent-like dragon in Philippine mythology, who is said to cause various natural phenomena, such as eclipses. It was said that people would shout at the sky, pleading to give the moon back to them during eclipses.\n\n\"Undercooled\" is derived from a 2005 song by MC Sniper, composed by Ryuichi Sakamoto as his call for the world to \"cool down\" in the aftermath of 9/11.\n\nAs I kept on drawing, it became apparent that, in line with the song's theme, this would be my prayer of sorts for the world, and my country, to \"cool down\" and for a return to normalcy after a whirlwind year.",
@@ -4768,8 +5266,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-11-b3a9",
       "author": "Lithium#7468",
-      "week": 1,
+      "created_at": "2021-03-18",
+      "week": 11,
       "title": "Impressionable Sky",
       "medium": "Photomanipulation",
       "description": "Sick this week so keeping it simple and quick - photomanipulation focused on clouds over the mountains (original photograph also my own). \n\nlithiumreflections (tumblr, IG), lireflections (twitter)",
@@ -4782,8 +5282,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-11-ff87",
       "author": "DynoLoafer#7070",
-      "week": 1,
+      "created_at": "2021-03-18",
+      "week": 11,
       "title": "_They Come Out at Night_",
       "medium": "Paint Tool SAI",
       "description": "Getting into dragons again more than I usually do, so I decided to draw some dragon silhouette's against a pretty night sky! I learned an easy trick to making galaxy/night sky patterns awhile back, so I put that to use in the top part of the screen! I like how this came out, even if it's more simple because I've been busy and tired with the new time change.",
@@ -4796,8 +5298,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "rainydaze-week-11-c4f8",
       "author": "rainydaze#5604",
-      "week": 1,
+      "created_at": "2021-03-18",
+      "week": 11,
       "title": "glitch clouds inc",
       "medium": "Procreate",
       "description": "sky with slightly glitched-out clouds plus reflection in water, i like pretty stuff \u2764\ufe0f gonna use it in my panels ehehe",
@@ -4810,8 +5314,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-11-ca4c",
       "author": "TrixyNetex#1167",
-      "week": 1,
+      "created_at": "2021-03-18",
+      "week": 11,
       "title": "Liminal Sky",
       "medium": "Sketchbook Pro",
       "description": "I love the sky at dusk, a storm looming on the horizon. The brilliant colours doomed to a few moments before the sky grows dark and the rain begins. That liminal space where you just look at the sky in awe.\n\nTrying to get better at digital painting. Think I got the vibe at least \ud83d\ude0a",
@@ -4824,8 +5330,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-11-3c65",
       "author": "vectorong#7566",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "Cancri",
       "medium": "Relief printing",
       "description": "Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at <:CattoCry:800558786418835477>  ~~",
@@ -4845,8 +5353,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-11-e2ea",
       "author": "Bell-Bones#0091",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "Aster Flower Looking Upon a Star",
       "medium": "FireAlpaca",
       "description": "Kinda been stressed this week, but I managed to squeeze this piece out. Sketchier lineart than usual because it's literally a sketch that's cleaned up a bit lol, I'm tired and need to study for a test :p \n\nAlso check <#794059396165926913> for a sketch done by DynoLoafer that's basically what the guy looks like from the front lol",
@@ -4866,8 +5376,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-11-4cdb",
       "author": "paintsepsi#6673",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "Bruh",
       "medium": "Photoshop",
       "description": "No time to draw something this week so instead I decided on a quick little design. One is a lil goth boy and the other is his pastel bf",
@@ -4885,8 +5397,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-11-c06c",
       "author": "eggyolk#4129",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "Week 11 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186> head stuck in the clouds",
       "medium": "Procreate",
       "description": "A simple one, again. Just a mood I sometimes feel, wonder what it's like up there aye. \n\nurmom 11.0 <:doughy4Idle:787151835311636540> <:cindry4Idle:814123098928185394>",
@@ -4899,8 +5413,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-11-49d3",
       "author": "Pumpkan#2447",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "He RUINED my DREAM JOURNAL",
       "medium": "paper and gold thread and glue and stuff",
       "description": "couldn't bare to draw anything this week, so i bound a book. getting the inner pages printed was a goddamn trial, and i wish I had matt laminate for the cover bc the shiny is gross, but I like the little gold thread stars on the front and the shiny paper on the inside makes it feel very dreamy. Making books is fun yo, but lets be real, I'm never gonna actually use this. \n\nClick for video of book \n\nhttps://twitter.com/pumpkanart/status/1372889078400647169?s=21",
@@ -4922,8 +5438,10 @@
       ]
     },
     {
+      "id": "cindry-week-11-1d65",
       "author": "cindry#4068",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "Rolling Lonely Star",
       "medium": "Digital, CSP",
       "description": "Hey I love the stars and I love katamari. Star  gazing is something i really love doing, and wouldn't it be fun if a little prince came along and ruined your long exposure photography??",
@@ -4940,8 +5458,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "doughyeast-week-11-33d0",
       "author": "DoughYeast#7521",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "\u201cyou would make the sky a gijinka\u201d - enoki",
       "medium": "Procreate",
       "description": "* Used the two references above *(an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn** and *Noon, but time prevails <:cindryBURN:775498317336805416> \n\nI need to stop making non-human things human <:ThankEgg:797490219716050954>",
@@ -4960,8 +5480,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-11-eb4c",
       "author": "papapastry#8888",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "The Island",
       "medium": "Music",
       "description": "This song features the feeling of oppressive clouds and weather, harsh harmonies and clashing timbres.\n\nThis song isn't \"soft\" but I wrote it by surrealist writing about the sea, the land, and the sky. I wrote back then: \"The concept [is] a man on an island panicking and struggling to survive against the weather and wildlife. He makes it on further and further, surprising even himself. Whether or not he survives is answered by the punctuated and sudden conclusion of the last beat.\"\n\n(This is an old song of mine. Proper submission next week since this week has been hectic. This song will not appear on the Design Refresh album.)\n\nLink: https://soundcloud.com/papapastry/the-island\n\nSpotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76KtZtYVuzUYg",
@@ -4977,8 +5499,10 @@
       ]
     },
     {
+      "id": "soleilboo-week-11-b79c",
       "author": "soleilboo#1662",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "Hydrangea Star Gazer",
       "medium": "Watercolour",
       "description": "There are 9,096 stars in the sky and I know one of them is you.  I love you to the moon and back.",
@@ -4995,8 +5519,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-11-fb4d",
       "author": "arancil#8622",
-      "week": 1,
+      "created_at": "2021-03-19",
+      "week": 11,
       "title": "This is where I live now",
       "medium": "Watercolor",
       "description": "Based on DoughyYeast's headcanon\n\nThis week has been chaotic art-wise but did some fineliner cheating so you viewers probably can't spot half the mistakes HAH! \nHave a good day day/night/morning/evening, everyone, you're all lovely.",
@@ -5016,8 +5542,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "mrgreeyne-week-11-ebfe",
       "author": "MrGreeyne#4723",
-      "week": 1,
+      "created_at": "2021-03-21",
+      "week": 11,
       "title": "Yesterday",
       "medium": "Few word",
       "description": "A smattering of haikus for my first (and late ehehe) design refresh. Enjoy!\n\nI mumble and groan\nBasking in her warm embrace\nGood morning, sunshine\n\nJust as the wind blows,\nAs the clouds and trees just be,\nI think of nothing.\n\nAccompany me\nEbony night, Lake Shore Drive\nWhat's for dinner, beans?\n\nUnfathomable\nMagnificent, glorious\nTwinkling far away",
@@ -5032,8 +5560,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-12-215e",
       "author": "jumpingbeans#6967",
-      "week": 2,
+      "created_at": "2021-03-23",
+      "week": 12,
       "title": "wrod",
       "medium": "gif",
       "description": "im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues <:ThankEgg:797490219716050954>)\n\nedit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning.",
@@ -5050,8 +5580,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-12-78e9",
       "author": "Lithium#7468",
-      "week": 2,
+      "created_at": "2021-03-24",
+      "week": 12,
       "title": "RELAX",
       "medium": "Digital (Clip Studio Paint)",
       "description": "Ever had anxiety or panic and heard the word relax? That's a bit of what I tried to capture here. The inner font with harmful/intrusive thoughts I made from my own handwriting and you can download it (linked in next message) and use it if you like. \n\nIG/Tumblr `lithiumreflections` twitter `lireflections`\nHandmade font used above - free for your use because you're awesome!",
@@ -5065,9 +5597,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-12-146c",
       "author": "vectorong#7566",
-      "week": 2,
-      "title": "The \"Comfy\" Chair",
+      "created_at": "2021-03-24",
+      "week": 12,
+      "title": "The Comfy Chair",
       "medium": "Ink + Marker, Photoshop",
       "description": "Inspired by the range of Italian designer Massimo Vignelli's work, and that \"If you can design one thing, you can design everything.\" Often I feel as a designer and artist, we're directed to only learn a specific \"style\" of skills, when in reality all your knowledge ends up coming into play in some form. Combining a typeface (inspired by Quicksand), functionality, and my personal love of multi-use furniture - I bring you the \"Comfy\" chair. The letters of the word form the wooden frame that allows reclining for use as a chair or a makeshift bed.",
       "attachments": [
@@ -5086,8 +5620,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-11-6ec2",
       "author": "jonasw#3087",
-      "week": 1,
+      "created_at": "2021-03-24",
+      "week": 11,
       "title": "Six Pix Mix",
       "medium": "Watercolor",
       "description": "Some different sky colors",
@@ -5100,8 +5636,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "wellcookedegg-week-12-bfe9",
       "author": "WellCookedEgg#9680",
-      "week": 2,
+      "created_at": "2021-03-25",
+      "week": 12,
       "title": "Letter from her",
       "medium": "Clip Studio Paint",
       "description": "I am not a huge fan of typography so this is my first crack at it. It was ok, maybe not my favorite lol. Though it was a good exercise for sure.",
@@ -5114,8 +5652,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-12-2b80",
       "author": "Pumpkan#2447",
-      "week": 2,
+      "created_at": "2021-03-25",
+      "week": 12,
       "title": "Are You Listening?",
       "medium": "Indesign (if you prefer illustrator you can fight me)",
       "description": "Throwback to that time I did a graphic design degree. The hardest thing I find when designing is deciding what stupid pointless words to put on the page. I feel like, especially at uni, a lot of words are there to look pretty and have no message. I wonder if that just means I have nothing to say? (How can I be so opinionated and have nothing to say?) \nMaybe this is less 3D than I could have experimented with, but it felt comforting to just open indesign and mess around",
@@ -5135,8 +5675,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "charmandaar-week-12-9763",
       "author": "Charmandaar#3357",
-      "week": 2,
+      "created_at": "2021-03-25",
+      "week": 12,
       "title": "unspoken words of affirmation",
       "medium": "procreate",
       "description": "not sure if this counts as typography hahaha oOPs but uhh i really like writing even tho my handwriting is illegible at times so i honestly just wrote what came to mind which is that hm i guess i\u2019m havin a tough time lately and i know a lot of my community is as well, so i kind of wrote this as a reminder for them (and myself, and you!!). kinda more the idea of repeating this to a mirror/yourself i guess? uhh ignore the meme-y ness at the bottom i was just writing random shit lol\n\n<>\n<>\n</>",
@@ -5159,8 +5701,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-12-62d1",
       "author": "Bell-Bones#0091",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Exhaustion",
       "medium": "FireAlpaca",
       "description": "Was going to do something cuter this week and make a lovecore aesthetic piece, buuuut I've just been,, so tired lately. Mom's been keeping me up until 2 am all week for `reasons` so I haven't been getting more than 5 hours of sleep per day... so I decided to convey that through handwritten lettering. I like the ghostly vibe that I stumbled onto. Don't worry btw, I'll rest up... take this simple piece cuz I'm stubborn and want to participate in every week lol",
@@ -5180,8 +5724,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-12-6b6a",
       "author": "DynoLoafer#7070",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "_Crazy Bird_",
       "medium": "Paint Tool SAI",
       "description": "I made it after all, sweet! Anyways, I decided to use a sharp type of typography I've used in the past to help emphasize the power in this picture. Yes this is the gay cowboys (I draw them both as humans and as people.) No spoilers for part 2, (part 1 is finished) but someone is struck by a smooth criminal.. and not in a fun way.",
@@ -5194,8 +5740,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-12-8990",
       "author": "a1ewanrichards#0881",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Amalgamation - The Body Keeps The Score",
       "medium": "Felt markers and highlighters",
       "description": "This one was really hard to make, both physically and emotionally. I felt a lot of things doing this. These... things were borne from both internal and external stuff I've heard throughout my life. I think... that's all I can say for now. I might expand on this elsewhere, IDK.\n\nThe concept and title is based from a book by Dr. Bessel van der Kolk, a psychologist who is one of the leading pioneers and specialists of trauma psychology and research.\n\nInstagram/Twitter: rjmmendoza444",
@@ -5212,8 +5760,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-12-f36b",
       "author": "soleilboo#1662",
-      "week": 3,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Disappear",
       "medium": "Procreate",
       "description": "English is my second language and I\u2019m having fun with all suffix and prefix. Google said \u201cdis\u201d =  \u201ca Latin prefix meaning \u201capart,\u201d \u201casunder,\u201d \u201caway,\u201d \u201cutterly,\u201d or having a privative, negative, or reversing force.... Also my art always revolving around my daily life so this work inspired by this week little getaway trip... I\u2019m disappeared into nature now....\nhttps://www.instagram.com/soleil.boo/\n\ntwitch.tv/soleilboo",
@@ -5228,8 +5778,10 @@
       ]
     },
     {
+      "id": "cindry-week-12-713c",
       "author": "cindry#4068",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Just a normal day as an asian girl online",
       "medium": "Photography and Digital Editing",
       "description": "TW: racism, sexism\nThis is a response piece to the experience of being a female online. The quotes are all taken from real messages sent to me on my stream. The use of keycaps represents not only the digital nature of these messages but allude to how anonymous messages are written with magazine clippings. I hope you like i!",
@@ -5251,8 +5803,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "thelagexpert-week-12-f76f",
       "author": "TheLagExpert#6867",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Glass House",
       "medium": "Affinity Photo",
       "description": "A bit too late cz I am busy with the exams. These are Lyrics from my favourite Song from last year it's called Glass House by Gabbie Hanna, It has a good message behind it (I think), and it has the best music video I have ever seen, check it out if you have time.",
@@ -5269,8 +5823,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-12-b350",
       "author": "eggyolk#4129",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Reach",
       "medium": "Procreate",
       "description": "i mek hand gif \n\nurmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186>",
@@ -5283,8 +5839,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-12-972c",
       "author": "papapastry#8888",
-      "week": 2,
+      "created_at": "2021-03-26",
+      "week": 12,
       "title": "Noodle Bar",
       "medium": "Music/Ableton Live 11 Suite",
       "description": "This week's theme has given me completely free rein on what I wanted to write. I fulfilled the theme entirely through the video. It's visual and it's words innit.\n\nI was going to do kinetic typography but I had ten minutes to learn, which I determined to not be enough time. Songwriting process: noodle two chords, sing in a bathroom, noodle some more.\n\nLink: https://youtu.be/Co70PhYuGBI\n\nYouTube: ???, Spotify/Apple Music: \"papapastry\"",
@@ -5299,8 +5857,10 @@
       ]
     },
     {
+      "id": "d3m0n_msc-week-12-2f81",
       "author": "D3m0n_Msc#9927",
-      "week": 2,
+      "created_at": "2021-03-27",
+      "week": 12,
       "title": "Trust",
       "medium": "phone",
       "description": "really rushed submission school is hectic. Saw this quote somewhere and really liked it so I decided to do like a little image.which turned out to be like a tatto design \ud83d\ude02 hope you enjou",
@@ -5313,8 +5873,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-13-40e8",
       "author": "Goblet#7026",
-      "week": 3,
+      "created_at": "2021-03-29",
+      "week": 13,
       "title": "<:cuporiGun:825806539918278686>",
       "medium": "Krita",
       "description": "remade my emote. made the expression better. (first one is the new one)",
@@ -5332,8 +5894,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-13-a56d",
       "author": "TITAN011#5766",
-      "week": 3,
+      "created_at": "2021-03-29",
+      "week": 13,
       "title": "Spicy Expressions",
       "medium": "Clip studio",
       "description": "The Beginning of a ego fueled Spicy food challenge #What's ur spice tolerance? \ud83d\udd25 \ud83d\udd25 \ud83d\udd25",
@@ -5346,8 +5910,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-13-0c7e",
       "author": "jumpingbeans#6967",
-      "week": 3,
+      "created_at": "2021-03-29",
+      "week": 13,
       "title": "Things you use to see yourself with",
       "medium": "MS paint /some online video compiler",
       "description": "My sister took my computer, so i used a potato to do this work.",
@@ -5364,8 +5930,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "piacine-week-13-915b",
       "author": "Piacine#5358",
-      "week": 3,
+      "created_at": "2021-03-30",
+      "week": 13,
       "title": "Life of Avocados",
       "medium": "Procreate",
       "description": "The daily life of avocados. Here I will present to you today, to make you all aware of how appalling avocado cruelty really is and why it must be stopped. #savetheavocados \n\n(My imagination when I was working on an avocado farm)",
@@ -5378,8 +5946,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-12-6dbd",
       "author": "paintsepsi#6673",
-      "week": 2,
+      "created_at": "2021-04-02",
+      "week": 12,
       "title": "Lorem Ipsum",
       "medium": "Photoshop/Premiere Pro",
       "description": "whoops I missed last week but here we gooooo",
@@ -5397,8 +5967,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-13-335d",
       "author": "Bell-Bones#0091",
-      "week": 3,
+      "created_at": "2021-04-02",
+      "week": 13,
       "title": "OMORI AU",
       "medium": "FireAlpaca",
       "description": "Wasn't sure if I was gonna finish on time, but I managed to get these done! I finished watching a let's play of OMORI recently, and it was wonderful experience... I felt inspired to draw little battle portraits of my OCs in the game's style! Was gonna draw their real world counterparts, but I... don't have the time nor energy. Either way, here's Astro and Backey as kids, aren't they cute?\n\n; /\n\nAlso here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basilfanmade_battle_portraits_a_bit_latetemplate/",
@@ -5421,9 +5993,11 @@
       ]
     },
     {
+      "id": "vectorong-week-13-04d1",
       "author": "vectorong#7566",
-      "week": 3,
-      "title": "\"Then She Fell\u201d",
+      "created_at": "2021-04-02",
+      "week": 13,
+      "title": "Then She Fell\u201d",
       "medium": "Mixed media (plaster strips, paper clay, paint), Photoshop",
       "description": "Inspired by the song Bad Dream by Tatsuya Kitani (https://www.youtube.com/watch?v=lkYeBXXHgY4)\n*I'm forced to live a meaningless and unreasonable tragedy\nWho the hell said \u201cafter rain comes fair weather\u201d\nI can't imagine this bad dream ending*\n\nThe mask is referencing a Hannya mask that's used in Noh theater, which is used in the performances to depict female demons that are filled with jealousy. The traditional mask, depending on the angle it is viewed, can show either a demonic or tortured expression. I've also been intrigued by the themes in Japanese horror stories, which often focus on building the suspense, and the duality of tragedy and anger in vengeful spirits.\n\n|  \nlol and here's the front of the mask since it's hard to see in the lighting of the photo",
       "attachments": [
@@ -5446,8 +6020,10 @@
       ]
     },
     {
+      "id": "dynoloafer-week-13-77c7",
       "author": "DynoLoafer#7070",
-      "week": 3,
+      "created_at": "2021-04-02",
+      "week": 13,
       "title": "_P\u0337\u0311\u031aA\u0334\u0344\u0305I\u0334\u031a\u0352N\u0337\u0308\u0360F\u0335\u0302\u0333U\u0337\u030b\u0353L\u0335\u031b\u035d \u0336\u0343\u030fB\u0337\u0344\u0314L\u0334\u0305\u0302I\u0336\u0304\u0344S\u0335\u0313\u033eS\u0337\u0310\u0310_",
       "medium": "Paint Tool SAI",
       "description": "bright colors, just as a warning\n\"AST\u0336\u0309\u033dR\u0334\u0301\u030aO\u0337\u0351\u0351, ASTRO! P\u0337\u0360\u0326L\u0338\u034b\u0312E\u0337\u0303\u0319A\u0336\u0343\u0314S\u0335\u0343\u0309E\u0336\u0341\u0305!\u0334\u030f\u033e \u0337\u0300\u0302B\u0336\u031a\u0310L\u0338\u0351\u030dI\u0338\u0313\u033aN\u0337\u0357\u033eK\u0335\u034c\u033e \u0334\u0315\u035dA\u0337\u0357\u031aT\u0336\u0302\u034c \u0334\u0310\u0343M\u0336\u0310\u0300E\u0335\u030d\u0301!\u0335\u0304\u030c WHAT HAPPENED? W\u0336\u0309\u031fH\u0336\u0312\u0357Y\u0335\u0344\u0342 \u0336\u0307\u0318D\u0336\u033d\u035cI\u0334\u031b\u0343D\u0334\u0302\u032f \u0338\u0344\u0302T\u0337\u0300\u034aH\u0335\u030b\u0343I\u0336\u0301\u0359S\u0336\u030d\u0306 \u0334\u0305\u0346H\u0335\u0344APPEN?! NO! WAKE UP WAKE UP!!\"\n(Don't bother trying to read that if you struggle lmao) I got this piece in, yay! More `crazy eyes` and insight into the story lol. If only this were an April Fools so Astro could go \"It was just a prank, bro!\" What a twisted prank it'd be.",
@@ -5460,8 +6036,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-13-f4a6",
       "author": "Pumpkan#2447",
-      "week": 3,
+      "created_at": "2021-04-02",
+      "week": 13,
       "title": "i suffer",
       "medium": "procreate",
       "description": "hurt my wrist so this is all I've got.  suffering in real time",
@@ -5481,9 +6059,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-13-4403",
       "author": "a1ewanrichards#0881",
-      "week": 3,
-      "title": "\"Portrait 7: Ruminations\"",
+      "created_at": "2021-04-02",
+      "week": 13,
+      "title": "Portrait 7: Ruminations",
       "medium": "Clip Studio Paint",
       "description": "Completely dissatisfied with my previous entry, so here's a new one. I've been feeling lonely and isolated lately for so long. I feel that nobody will ever bother to listen or understand me.\n\nMy interpretation of Otomatsu Sato from the movie \"Poppoya\" (Railroad Man), a stationmaster at a former coal mining town, whose train station he mans is about to close. In light of it, he's forced to revisit his past; life events and life that passed him by due to his sheer dedication to his work.\n\n@rjmmendoza444 on  Twitter | @a1ewanrichards on Twitch",
       "attachments": [
@@ -5499,8 +6079,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-13-d52f",
       "author": "Lithium#7468",
-      "week": 3,
+      "created_at": "2021-04-02",
+      "week": 13,
       "title": "Some Pig",
       "medium": "Digital (Clip Studio Paint)",
       "description": "Animal portrait with an emphasis on exaggerated proportions for distinct features - tiny eyes, big nose, super pudgy. \n\nIG/tumblr lithiumreflections / twitter lireflections",
@@ -5513,8 +6095,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "paintsepsi-week-13-3864",
       "author": "paintsepsi#6673",
-      "week": 3,
+      "created_at": "2021-04-02",
+      "week": 13,
       "title": "Selfie",
       "medium": "Procreate",
       "description": "my gf likes to take pics with my mirror lmao.",
@@ -5531,8 +6115,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-13-4534",
       "author": "cindry#4068",
-      "week": 3,
+      "created_at": "2021-04-03",
+      "week": 13,
       "title": "im dying btw",
       "medium": "digital, CSP and SAI",
       "description": "based off true events like 1:50 PM 2/4/2021\nmy water was too hot to drink so i was dying.\ni think this has inspired me to do more 4komas tho in the future!!! i really like short fun comics, one of my favourite things to draw... so i hope you like it too!!!!",
@@ -5553,8 +6139,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "mrgreeyne-week-13-9eca",
       "author": "MrGreeyne#4723",
-      "week": 3,
+      "created_at": "2021-04-03",
+      "week": 13,
       "title": "Introspection",
       "medium": "Keyboard, and some words.",
       "description": "The first thing I thought of when looking at the title of this week's prompt was introspection. I wanted to explore poetry a bit more so I did some reading on limericks and worked with that structure. So the first one titled SeemsGood* is about my general high school experience. The second one titled *Mirror, mirror is about how I used to have a hard time looking at my own reflection. I also recorded myself reading them cause why not? Enjoy!\n\nSeemsGood\nI look back and think \"god that was tough\".\nIt was just four years, though they were rough.\nGrandiose my plans,\nThen, well, shit hit the fan.\nI stumbled, yet here I stand, proudly scuffed. \n\nMirror, mirror\nThey say pictures hold one thousand words.\nA reflection? Perhaps two-thirds?\nStupid, sad, ugly,\nPretentious, pudgy?\nGiving them value? Now thats absurd.",
@@ -5572,8 +6160,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-13-fd44",
       "author": "papapastry#8888",
-      "week": 3,
+      "created_at": "2021-04-03",
+      "week": 13,
       "title": "Fuck",
       "medium": "Procreate, Audio/Ableton Live 10 Suite, Adoble Premiere Pro CC",
       "description": "lmao haven't drawn since year 9 and i'm in my mid twenties now so good time to start over\n\ni drew this in around five minutes\n\ncontext:  woke up at 4pm today and had an hour to write a song. wasn't gonna happen so here's a rerun and some art, and a reason why i shouldn't be allowed near a drawing tablet ever again\n\ntried looking for somebody to credit for the gif, i just found it on giphy \ud83d\ude26\n\nyes i really did render this at 4K\n\nexpect two submissions next week\n\nLink: https://www.youtube.com/watch?v=s2bUtKo88HQ\n\njust Spotify search \"papapastry\"",
@@ -5589,7 +6179,9 @@
       ]
     },
     {
+      "id": "suavestrawberry-week-13-0fde",
       "author": "SuaveStrawberry#5623",
+      "created_at": "2021-04-03",
       "week": 13,
       "title": "Fragments of Remembrance",
       "medium": "procreate",
@@ -5605,8 +6197,10 @@
       ]
     },
     {
+      "id": "trixynetex-week-13-b7c6",
       "author": "TrixyNetex#1167",
-      "week": 3,
+      "created_at": "2021-04-03",
+      "week": 13,
       "title": "Fake Animu Screenshot",
       "medium": "Sketchbook pro & paint.net",
       "description": "Super last minute submission, but I didn't want to miss two weeks in a row!\nSo you know when you have a plan, but then you realise you did not give yourself enough time? \n\n...yeah that was me \ud83d\ude05\n\nOriginally was gonna have like 3 or 4 fake screenshots. But time is a cruel mistress. Heard the prompt was \"look at me\", and I'm like \"oh! I've said that in game! Let's make screenshots.\"\nAnyway, met Thistle, my Curse of Strahd character, and Ireena, the npc we've been travelling with.  \ud83d\ude1b\nEnjoy",
@@ -5619,8 +6213,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-13-62e9",
       "author": "soleilboo#1662",
-      "week": 3,
+      "created_at": "2021-04-04",
+      "week": 13,
       "title": "\u201cuhmmm Mine!!! It\u2019s mine\u201d",
       "medium": "digital,photoshop+procreate",
       "description": "I\u2019m late but here it is \n\nthe title said it all I guess \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
@@ -5640,8 +6236,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-14-e259",
       "author": "jumpingbeans#6967",
-      "week": 4,
+      "created_at": "2021-04-04",
+      "week": 14,
       "title": "Fire Sale",
       "medium": "Krita w/ mouse",
       "description": "Think about the value",
@@ -5658,8 +6256,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-14-04ca",
       "author": "TITAN011#5766",
-      "week": 4,
+      "created_at": "2021-04-06",
+      "week": 14,
       "title": "His name is Shiro \ud83d\udd25",
       "medium": "Clip studio",
       "description": "Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:779990724212293642>",
@@ -5672,8 +6272,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "d3m0n_msc-week-14-d670",
       "author": "D3m0n_Msc#9927",
-      "week": 4,
+      "created_at": "2021-04-07",
+      "week": 14,
       "title": "idk",
       "medium": "phone",
       "description": "I like the concept of this peicr and I'm on spring break now so I can acctually participate.\nMy drawing skills arnt the best compared to others in this discord but this still fun improving and taking part",
@@ -5686,8 +6288,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "piacine-week-14-e01a",
       "author": "Piacine#5358",
-      "week": 4,
+      "created_at": "2021-04-08",
+      "week": 14,
       "title": "comfy spot",
       "medium": "Procreate",
       "description": "The fire is warm, comforting, bright. Just warms your cold toes and the tip of the nose after a cold walk along the beach at night time.",
@@ -5700,8 +6304,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-14-aee4",
       "author": "Bell-Bones#0091",
-      "week": 4,
+      "created_at": "2021-04-08",
+      "week": 14,
       "title": "That's gotta hurt",
       "medium": "FireAlpaca",
       "description": "\"You're a monster, a loon. Everybody wants you dead, including me.\" Oops, more angst! This is just a nightmare Astro has though, Backey never actually says this lol. Decided to use purposely messy lineart in this piece, I think it looks pretty decent! Astro just needs to stop snooping around in places he shouldn't... Backey doesn't appreciate him reading his journal.\n\n; /\n\n(reuploaded to fix some things and also add my signature cuz I forgot it lol)",
@@ -5721,8 +6327,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-14-b10a",
       "author": "Goblet#7026",
-      "week": 4,
+      "created_at": "2021-04-08",
+      "week": 14,
       "title": "My cat is on fire",
       "medium": "Krita",
       "description": "Played around with a photo of my cat.",
@@ -5739,8 +6347,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-13-2bfa",
       "author": "jonasw#3087",
-      "week": 3,
+      "created_at": "2021-04-09",
+      "week": 13,
       "title": "Look behind you, they're the Captain now",
       "medium": "Watercolor, GOLD COLOR",
       "description": "Return to monke\nGOLD",
@@ -5755,8 +6365,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-14-6699",
       "author": "jonasw#3087",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Hungry Firelings",
       "medium": "Fire",
       "description": "SPEEDRUN SUBMISSION",
@@ -5771,8 +6383,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "rainydaze-week-14-c8c8",
       "author": "rainydaze#5604",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Anarchy Loves Fire",
       "medium": "Procreate (and DaVinci Resolve)",
       "description": "a piece of an animatic I'm currently working on about an anarchist pig and his contemporaries and their relationship with violence. (edit: it's a little heavy so pls don't be wearing headphones if you're not used to heavy music)",
@@ -5789,8 +6403,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-14-de8e",
       "author": "vectorong#7566",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "The Five Virtues",
       "medium": "Pyrography (woodburning)",
       "description": "Illustration based on the Fenghuang, a mythological bird whose body symbolizes the celestial bodies and the five tail feathers representing the five virtues of Confucius. It is said that their appearance signals the coming of a new era.\n\nAnd what better way to honor my favorite mythological bird than to burn in directly into some wood with fire LOL\n\n|  \ndetail shot since i have shaky hands",
@@ -5811,8 +6427,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-14-9ae5",
       "author": "Pumpkan#2447",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "A contract for the vain, the price paid in pain",
       "medium": "Procreate",
       "description": "wrist still hurts, I want to D word \n\n@/pumpkanart on tooter and touch",
@@ -5825,8 +6443,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-14-c105",
       "author": "Lithium#7468",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Hearts on Fire",
       "medium": "Digital/Clip Studio Paint",
       "description": "Didn't quite get to finish this up with polish but I enjoyed making the flames.\n\nIG/tumblr lithiumreflections, twitter lireflections",
@@ -5839,8 +6459,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-14-acb9",
       "author": "a1ewanrichards#0881",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "The End of Zeno's Paradox",
       "medium": "Clip Studio Paint",
       "description": "I've tried, entered, done, a lot of creative endeavors throughout my life, and looking back, it has been quite frustrating, to say the least. This frustration has consumed me over the past several years, and I'm not sure last year was even the peak.\n\nI've sold all my camera gear to help make ends meet, threw away my collection of piano sheet music (much to my older brother's surprise), and I'm not sure where to go from here; I think I've reached my limit, whatever it may be.\n\nI based this on a scene from Takeshi Kitano's 2008 movie \"Achilles and the Tortoise,\" where he based the film plot on the concept of Zeno's paradox in an artistic sense.",
@@ -5863,8 +6485,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "shredarbayn-week-14-1e42",
       "author": "Shredarbayn#8127",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Fiery heart",
       "medium": "Charcoal & Watercolour on 110gsm Dollar-store Paper",
       "description": "With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)\n\nTimelapse\nhttps://www.youtube.com/watch?v=l-7cvM7f3Ps\n\nThis was my first endeavor with watercolour and wanted to give it a red hot go (haha) I used a charcoal pencil to free hand the foundation which took me approximately 1 hour to accomplish. I followed with the watercolours spending mixed amounts of my time trying to mix what I wanted and painting in sections at a time, taking a further 4 hours to accomplish.\n\nI like to imagine what shootings off around Howl is the fire from the star, casting amazing light and shadows. I found this quite fun to bring to life! \n\nHowl, the boy who ate a star. Spicy fire spirit \ud83d\udd25",
@@ -5880,8 +6504,10 @@
       ]
     },
     {
+      "id": "papapastry-week-14-92c3",
       "author": "papapastry#8888",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Cindy Should Pay Me to Moderate",
       "medium": "Music/Ableton Live 11 Suite",
       "description": "(Cindy please play this song first).\n\nSo of course \"fire\" means \"rapping\" but Cindy also mentioned \"value\", \"contrast\", \"bright\", \"heart\", and \"too much.\" So that's what I used to write the bars.\n\nThis is the first non-meme rap song I've ever written. I could have gone down the meme route but it's more challenging if I welcome people cringing at my lyrics and rap voice.\n\nThis song will not appear on the refresh album.\n\nLink: https://www.youtube.com/watch?v=3D31aBLn-bs\n\n----",
@@ -5896,8 +6522,10 @@
       ]
     },
     {
+      "id": "papapastry-week-13-fc72",
       "author": "papapastry#8888",
-      "week": 3,
+      "created_at": "2021-04-09",
+      "week": 13,
       "title": "Coming Up Spades",
       "medium": "Music/Ableton Live 11 Suite",
       "description": "Volume warning.\n\nTo play with expressiveness would be the opposite of playing robotically. Adding the \"face\" to that means it's also about passion and improvisation. When you add the voice, it's about falsetto, belting, loudness, distortion, mistakes, and roughness.\n\nLines means melody lines, emphasis is about progression/phrase changes over time. \"Look at me\" represents the boisterous pride of what is being sung and represented.\n\nLink: https://soundcloud.com/papapastry/coming-up-spades-2021designrefresh-week-13\n\n----\n\nSpotify/Apple Music/YouTube Music: \"papapastry\"",
@@ -5912,8 +6540,10 @@
       ]
     },
     {
+      "id": "trixynetex-week-14-6ff8",
       "author": "TrixyNetex#1167",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Flames of Phlegethos",
       "medium": "Sketchbook Pro",
       "description": "Let's draw another one of my D&D characters, because dang it! Why not!?\nMet Athenaeum; tiefling lore bard/warlock and general wielder of hell fire.\nSo fun fact, when I started digital art about a year ago one of my first pieces was of Ath doing neato flame shit. Thought I'd revisit the concept with this one.\nVery pleased with how it turned out \ud83d\ude0a",
@@ -5926,8 +6556,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-14-52b8",
       "author": "soleilboo#1662",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "Once in a while",
       "medium": "procreate pocket",
       "description": "have yourself a little girlled marshmallow in this cold winter night... ( ok you can have more than one \ud83d\ude06\ud83d\ude06\ud83d\ude06)",
@@ -5947,8 +6579,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "frog-glasses-week-14-d441",
       "author": "Frog Glasses#1940",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "hey girl bites lip",
       "medium": "procrate",
       "description": "I started this in  January but i changed up a lot of things in the last 1 hour like the clouds and i moved like half the facial anatomy\nSocaisl:  https://frogglasses.carrd.co/",
@@ -5963,8 +6597,10 @@
       ]
     },
     {
+      "id": "cindry-week-14-8305",
       "author": "cindry#4068",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "burnout",
       "medium": "paper cutting photography",
       "description": "This is about burnout and how hard it is sometimes to recognise it while in haste. Just remember to take your time, recognise to take care of your body. Don't burn yourself, it'll take a while to recover!",
@@ -5981,9 +6617,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-14-911a",
       "author": "arancil#8622",
-      "week": 4,
-      "title": "",
+      "created_at": "2021-04-09",
+      "week": 14,
+      "title": "Untitled",
       "medium": "Watercolor",
       "description": "Still very much a work in progress, but posting what's currently on paper. Friend asked if I could make something for his wall, so I sat down and improvised some stuff, did a refined version, then an A3 sketch, now lightboxing it up to watercolor. Didn't have time to do something for week 14, but this happened to line up with having flames, so why not! The thoughts I did have about something DesignRefresh were focused around calm, comforting fire providing warmth & a safe haven. \n\nForest w/ blue flame wisps, foxes & birbs rorodoAAA congregating around a big owl statue. Lore yet to be determined. \n\n@arancil",
       "attachments": [
@@ -5995,8 +6633,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-14-762c",
       "author": "eggyolk#4129",
-      "week": 4,
+      "created_at": "2021-04-09",
+      "week": 14,
       "title": "OH SHIT DID I MAKE IT ON TIME? (actual title: extinguished)",
       "medium": "LMFAO HELP",
       "description": "AAAAAAAAAAH (actual figured my take would be on the idea of the death of a fire? extinguished. ye)\n\nurmomr1.4505",
@@ -6009,8 +6649,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "meplaysgamez-week-14-2f2a",
       "author": "meplaysgamez#0442",
-      "week": 4,
+      "created_at": "2021-04-10",
+      "week": 14,
       "title": "Burnt Out",
       "medium": "Photograph/Free Photo Editing Thingymajig",
       "description": "feeling a bit burnt out",
@@ -6023,8 +6665,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "wellcookedegg-week-13-d1bc",
       "author": "WellCookedEgg#9680",
-      "week": 3,
+      "created_at": "2021-04-10",
+      "week": 13,
       "title": "\ud83d\ude33",
       "medium": "Clip Studio Paint",
       "description": "I drew my OC because I like her :)",
@@ -6038,8 +6682,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "wellcookedegg-week-14-845f",
       "author": "WellCookedEgg#9680",
-      "week": 4,
+      "created_at": "2021-04-10",
+      "week": 14,
       "title": "Fusion Flare",
       "medium": "Clip Studio Paint",
       "description": "Reshiram is my favorite fire type pokemon, so I figured I'd try drawing them for fun :)",
@@ -6053,8 +6699,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-15-f94f",
       "author": "jumpingbeans#6967",
-      "week": 5,
+      "created_at": "2021-04-11",
+      "week": 15,
       "title": "illiteracy",
       "medium": "chinese calligraphy",
       "description": "The art philosophy known as \"Nanyang Art Style\" is a fusion of western and eastern art style. Often, pioneers of this art styles employed western mediums and materials, paired with subject matters of eastern origins / things you commonly see in asia. Some of the pioneering artists are Georgette Chen, Liu Kang etc. \n\nHowever, thats not what im doing, im doing a reverse Nanyang Art style, and another art philosophy \"Xieyi\" (write meaning), where in traditional chinese art is often paired with peotry, yea fuck that, the words is the subject matter and the icon of the respective words are the peotry. \n\nBut, doing this work reminds me, i suck at calligraphy.",
@@ -6071,8 +6719,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-14-dd61",
       "author": "DynoLoafer#7070",
-      "week": 4,
+      "created_at": "2021-04-11",
+      "week": 14,
       "title": "_My Protective Assistant_",
       "medium": "Paint Tool SAI",
       "description": "I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...",
@@ -6085,8 +6735,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-15-66fb",
       "author": "TITAN011#5766",
-      "week": 5,
+      "created_at": "2021-04-12",
+      "week": 15,
       "title": "Durian at sea",
       "medium": "Clip Studio",
       "description": "Decide to try something new this week so i tried animation for the first time...yea...its hard \ud83e\udd72 Could only use 24 frames cause of clipstudio's restriction. Does anyone have any recommendation for 2d animation software? \ud83c\udf9e\ufe0f",
@@ -6099,8 +6751,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "mimichair-week-15-906c",
       "author": "MimiChair#9326",
-      "week": 5,
+      "created_at": "2021-04-13",
+      "week": 15,
       "title": "#1 Sour Lemon",
       "medium": "Adobe Photoshop",
       "description": "I actually love the sourness of lemons ~ that is what lemons are known for too. What if we could give an award to a lemon? that would be judged by sourness wouldn't it \ud83d\ude0c",
@@ -6123,8 +6777,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-15-438c",
       "author": "Lithium#7468",
-      "week": 5,
+      "created_at": "2021-04-15",
+      "week": 15,
       "title": "Still Life Succulents",
       "medium": "Clip Studio Paint",
       "description": "No fruit around and I decided I'd go more for the still life angle of the assignment using my succulent pot as a base (yes, it's sparse for now, but it'll have new cuttings soon.)\n\nIG/tumblr lithiumreflections, twitter lireflections",
@@ -6137,8 +6793,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-15-4b55",
       "author": "a1ewanrichards#0881",
-      "week": 5,
+      "created_at": "2021-04-15",
+      "week": 15,
       "title": "Resistance 4 - Sometimes, The Heart Yearns For Mangoes",
       "medium": "Clip Studio Paint",
       "description": "A change of pace, I think? I couldn't really pinpoint any concept to execute for this week, but this imagery had lingered to me for a few days. Then I also remembered a 1994 poem I read from a book whose title for this I based it from.\n\nThe poem is about homesickness and wishing for a better world from a faraway place, a faraway country. It kind of reminds me about our own home in the province, where we had a mango tree where we'd sometimes get unripe mangoes for snacks.\n\nThe mango is the national fruit of the Philippines, and are usually in season around the hot and dry season (April-May).",
@@ -6161,8 +6819,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-15-78d8",
       "author": "vectorong#7566",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "Bread, Butter, Boysenberry",
       "medium": "Food",
       "description": "My grandfather loved boysenberry jam, so I made a simple tribute to him and my favorite meal, breakfast. Used a knife and jam to create the basic form of a boysenberry, with bread as the \"canvas\" and butter to prevent it from getting soggy. ~~Jammin with jam lol~~",
@@ -6182,8 +6842,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-15-2fdb",
       "author": "Pumpkan#2447",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "Whats Left : Left handed Leftovers, vol. 1",
       "medium": "markers + paper in gif",
       "description": "I'm still dealing with wrist pain so I'm making the most of it. What do I have left? A whole other side of my body to learn to draw with! Shout out to LeftHandedToons, a comic site that I spent a lot of time on as a kid. This one's for you \n\nedit: fixed the file",
@@ -6203,8 +6865,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-15-8495",
       "author": "cindry#4068",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "leeeeemons",
       "medium": "relief printing on note books",
       "description": "taking it easy this week with something i found relaxing and i guess soothing? something like the lemon honey i was drinking while sick. make some stamps! have a good time! take care of yourself",
@@ -6221,8 +6885,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-15-c2a4",
       "author": "Goblet#7026",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "Tightrope banana.",
       "medium": "Paper, permanent marker.",
       "description": "Sorry, life happened and I forgot. Here take this shitpost instead. Balance!",
@@ -6239,8 +6905,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "eggyolk-week-15-69ac",
       "author": "eggyolk#4129",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "hEhE LEmon bUTt but also strawberry and coffee is kinda vibes",
       "medium": "Procreate",
       "description": "been having late nights with strawberries and coffees. ALSO HONESTLY HIGHKEY INSPIRED BY MIMI'S LEMON OBVIOUSLY HEHEHEHE, and some shirt designs that i peeped a couple nights ago.\n\nurmom 15.0 hurhur",
@@ -6253,8 +6921,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-15-a473",
       "author": "papapastry#8888",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "Hades",
       "medium": "Music/Fruity Loops Studio 20",
       "description": "Fruit doesn't really make a lot of noise, at least nothing that sounds pleasant. My banana ocarina was not shelf-stable.\n\nBut I get what Cindy's trying to do here. The analogue for basics for musicians is, I dunno, first pieces? Drills? Fur Elise? Wonderwall? Well, I learned music production using FL Studio (Fruity Loops) which is a funny coincidence, so I'll use that. Everything I wrote when I was younger (12), I put on Newgrounds Audio Portal. This song may bring back memories for you as it does for me.\n\nNote: Please turn the volume all the way up. Might not be loud enough even then.\n\nLink:\n\n- YouTube (Showcase): https://www.youtube.com/watch?v=yxPwiVmq5PM\n- Soundcloud (No SFX): <https://soundcloud.com/papapastry/hades-album-version>\n\n- YT: <http://papapastry.io/youtube>\n- Spotify: <http://papapastry.io/spotify>",
@@ -6273,8 +6943,10 @@
       ]
     },
     {
+      "id": "soleilboo-week-15-1453",
       "author": "soleilboo#1662",
-      "week": 5,
+      "created_at": "2021-04-16",
+      "week": 15,
       "title": "still life",
       "medium": "watercolour",
       "description": "Collection of my ongoing still life fruit project. All photos for reference taken by me. My DMs are open if anyone want to join.",
@@ -6292,8 +6964,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "meplaysgamez-week-15-0547",
       "author": "meplaysgamez#0442",
-      "week": 5,
+      "created_at": "2021-04-17",
+      "week": 15,
       "title": "tomatoes are the potatoes of fruit",
       "medium": "gw acrylic paint for mini figures",
       "description": "tomato potato",
@@ -6306,8 +6980,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "dynoloafer-week-15-4f6d",
       "author": "DynoLoafer#7070",
-      "week": 5,
+      "created_at": "2021-04-18",
+      "week": 15,
       "title": "_Red Delicious with a Red Delicious_",
       "medium": "Paint Tool SAI",
       "description": "Whoopsies, I'm late again! Oh well, school finals are happening right now and, particularly in math (I'm a grade ahead of my peers in it) homework likes to pile up. But, even if I'm late, I know that this would've came out really bad if I rushed it, so I took my time and.. would you look at that! Apple dragon with an apple <:CattoBlush:800558786372173824> So you know, this creature design is not owned by me; that would belong to the developers of Creatures of Sonaria (it's on Roblox, good game) ((yes I know it's roblox shut up)) But, I did make the skin! Soo yea, hope you like it!",
@@ -6320,8 +6996,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jumpingbeans-week-16-2be7",
       "author": "jumpingbeans#6967",
-      "week": 6,
+      "created_at": "2021-04-19",
+      "week": 16,
       "title": "what is bigger, a giant bidoof or an individual's life?",
       "medium": "krita",
       "description": "subject matters of artists like Edward Hopper tends to place equal weight for the furniture and the human matter, for example, the parallelism of the shapes of his human subject and non-human subjects, the compositions as well. Edward Hopper has invoked thought within his audience, how important is life? Are our lives just as unimportant than the furniture we buy? Despite his work is influenced by post war America, it can resonate to his audience even in contemporary times. \n\nMost people would agree, giant scaly creatures were killed by a  zooming rock, how much of this event lead up to the development of the homo genus, will anyone of us be here? Through death we start a new, just like creativity, starting a fresh might require one to give up everything and start anew. \n\nAnother thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. \n\nSidenote,<:ThankEgg:797490219716050954> bidoof, my top 3 fav pokemon, in gen 3, my fav gen.\n\ntl;dr beans (who cant draw) having existential dread",
@@ -6338,8 +7016,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-15-6259",
       "author": "Bell-Bones#0091",
-      "week": 5,
+      "created_at": "2021-04-20",
+      "week": 15,
       "title": "sometimes art is not worth having a mental breakdown over",
       "medium": "FireAlpaca",
       "description": "So... I was late for once. Annnd this wasn't even what I was working on, this is just that same warm up I posted a while back. I probably should've just posted this last week so I could avoid falling into a depression after crumbling under the pressure, but... it wasn't polished, and I didn't want my work on the other piece to go to waste. However... the piece I was working on sent me into a depression spiral where I hated working on it and hated myself for the quality slowly deteriorating as I attempted to render a whole painting in just two days. Moral of the story: don't push yourself too hard. And... learn proper time management lol (although school kinda forced my hand... and I overestimated myself haha). I'll go back to the other piece when I'm ready (since I do still want to finish it), but I'll post what I currently have of it in the <#794059396165926913> channel for those who are curious.",
@@ -6359,8 +7039,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "titan011-week-16-872f",
       "author": "TITAN011#5766",
-      "week": 6,
+      "created_at": "2021-04-21",
+      "week": 16,
       "title": "A Titan's Journey",
       "medium": "Clip Studio",
       "description": "To improve as an artist its important to try new things so i decided to draw with no line art \u270d\ufe0f My first take on gaming concept art? \ud83e\udd14",
@@ -6373,8 +7055,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "lithium-week-16-fc95",
       "author": "Lithium#7468",
-      "week": 6,
+      "created_at": "2021-04-21",
+      "week": 16,
       "title": "It's acting weird!",
       "medium": "Clip Studio Paint",
       "description": "Mola mola with a few babies. They're actually way smaller than this in scale but I have to make them visible! \n\nlithiumreflections (IG/tumblr), lireflections (twitter)",
@@ -6387,8 +7071,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "trixynetex-week-16-31cb",
       "author": "TrixyNetex#1167",
-      "week": 6,
+      "created_at": "2021-04-22",
+      "week": 16,
       "title": "Ozymandias",
       "medium": "Clip studio paint",
       "description": "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better \ud83d\ude1b\nSo this is based off the poem \"Ozymandias\" by Percy Bysshe Shelley. Good poem, go read it. This is also my first real go with Clip studio and trying to make a webtoon/uploading a webtoon.\nSo yeah, go read it \ud83d\ude18\n(Don't worry, it's short)\n\nhttps://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titleno=633899&episodeno=1",
@@ -6403,8 +7089,10 @@
       ]
     },
     {
+      "id": "dynoloafer-week-16-e690",
       "author": "DynoLoafer#7070",
-      "week": 6,
+      "created_at": "2021-04-22",
+      "week": 16,
       "title": "_The ~~Diving~~ Maternal Legendary_",
       "medium": "Paint Tool SAI",
       "description": "(a small TW for alcohol and drug abuse) I decided to draw not my most favorite pokemon for this week, but the pokemon I respect* the most. Lugia's past is quite depressing. The creator of Lugia, Takeshi Shudo, heavily relied on alcohol, pills and even *tranquilizers* to get his mind in the workspace, which sadly isn't an uncommon practice with creators. Lugia was supposedly supposed to only show up in Pokemon: The Movie, but it found it's way in the game. She was supposed to represent *life and maternity. She was supposed to be the Goddess of the Sea, mother of life. Buuut, sadly the details were taken out of Shudo's grasp, and Lugia became a genderless legendary. They even made her a psychic type because, quote \"We wanted to make it more powerful.\"\nIt's disappointing and disheartening to see what happened to this deep-ocean beauty. The bastardizing of Shudo's ideas caused him to fall into a great despair, where he overdosed a few years later. I never knew Lugia's story before, but now that I do, she is the only legendary I look at and feel something. I hope it's the same for you too. She's truly the mother of all glory hidden in Pokemon's lore.\nhttps://www.youtube.com/watch?v=TQbKwNmsTes\nhere's a video with more information on Lugia's Story",
@@ -6420,8 +7108,10 @@
       ]
     },
     {
+      "id": "paintsepsi-week-14-3200",
       "author": "paintsepsi#6673",
-      "week": 6,
+      "created_at": "2021-04-22",
+      "week": 14,
       "title": "PK Fire",
       "medium": "Procreate",
       "description": "I missed the last few weeks so here\u2019s a combination of them as comic!!",
@@ -6438,8 +7128,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "goblet-week-16-7100",
       "author": "Goblet#7026",
-      "week": 6,
+      "created_at": "2021-04-22",
+      "week": 16,
       "title": "Mechanics love their jobs sometimes",
       "medium": "Krita (still mouse)",
       "description": "Don't be deceived, the Blue Amazon is a killing machine. Although these robots are programmed to try to act human, they are infact very much controlled by their masters (at least that is what the master thinks). If you think you are in ara ara distance, you are in fact in danger. (didn't manage to finish)",
@@ -6456,8 +7148,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "bell-bones-week-16-b445",
       "author": "Bell-Bones#0091",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "oof",
       "medium": "FireAlpaca",
       "description": "This isn't up to the usual quality of what I make, but I wanted to do something simple since I've felt so overwhelmed lately. Gotta love growing up and facing the crushing weight of your new responsibilities am I right? I'll at least try to make something good for week 17 =3= (also if you want some \"giant thing next to a small thing\" art that's of actual quality, go look at my submission for week 2 lol)",
@@ -6477,8 +7171,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "vectorong-week-16-eca9",
       "author": "vectorong#7566",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Rat Race",
       "medium": "Graphite",
       "description": "The idiom is defined as \"an endless, self-defeating, or pointless pursuit...The term is commonly associated with an exhausting, repetitive lifestyle that leaves no time for relaxation or enjoyment.\"~~(thanks wikipedia)~~ The concept was initially sketched out two years ago, but quickly shelved after major life events and and work affected my ability to put effort into it. I felt like it was the right time to come back and finish it, especially as I'm currently at a point of trying to find a lifestyle that is sustainable yet enjoyable for me as I currently am. Despite how small rat skeletons are in actuality, the piece is the largest I've ever worked with pencil - the drawing itself is around 122cm / 4ft in height.",
@@ -6498,9 +7194,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "a1ewanrichards-week-16-dcab",
       "author": "a1ewanrichards#0881",
-      "week": 6,
-      "title": "\"Amalgamation: At A Time Like This, Will Someone Be There For You?\"",
+      "created_at": "2021-04-23",
+      "week": 16,
+      "title": "Amalgamation: At A Time Like This, Will Someone Be There For You?",
       "medium": "Digital - Clip Studio Paint",
       "description": "My first attempt at digital painting! Meh results, I think.\n\nI tried to recreate this scenery of the Taal Volcano Island in Tagaytay, a popular tourist destination south of Manila, along a steep access road that we crossed during an official business trip where a teammate and I were doing ocular inspections of venues from the recently-concluded 30th Southeast Asian Games.\n\nAt that time, I recently had two breakdowns, and a string of realizations stemming from an office crush. And when I saw the view from our service vehicle, I couldn't help but tear up a little. It was so majestic, and made me realize that I had been so preoccupied with my own self that I've forgotten to \"stop and smell the flowers,\" so to speak. I couldn't be bothered to just... be.\n\nThe title is derived from the text displayed on the original Japanese theatrical trailer for Takeshi Kitano's 1997 movie HANA-BI.",
       "attachments": [
@@ -6519,8 +7217,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "rainydaze-week-16-21e5",
       "author": "rainydaze#5604",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "d'Eggfsg",
       "medium": "Procreate",
       "description": "I wanted to draw big egg. Smol soldier. In combination, they make a pretty striking pair. I've been having really out of the world dreams lately, and some of them feel like Neil Gaiman stories, but them sometimes they feel like this piece. It's both familiar and not, something that we've all been feeling after being stuck inside for so long. Hope you like it \u2764\ufe0f",
@@ -6537,8 +7237,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "pumpkan-week-16-ca58",
       "author": "Pumpkan#2447",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "It'sssss Smelbourne!",
       "medium": "Photo + Procreate",
       "description": "I've been feeling nostalgic for blue skies and pub crawls in the city. Here's a shot from 2017 from a bar verandah, now ssssswarming with ssssssnakes. Taking it easy on the wrist still, but I had enough in me to make this!",
@@ -6555,8 +7257,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "jonasw-week-16-64e9",
       "author": "jonasw#3087",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Big Skeleton",
       "medium": "Pencils",
       "description": "Almost forgot to submit :I",
@@ -6569,9 +7273,11 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "arancil-week-16-911a",
       "author": "arancil#8622",
-      "week": 6,
-      "title": "",
+      "created_at": "2021-04-23",
+      "week": 16,
+      "title": "Untitled",
       "medium": "Fineliner 0.05 mm yay",
       "description": "Not cleaning my submission up today ;_; seriously sorry please make do\n\nIt's treefolk migration season, and for woodland folk daring to climb them it's prime time to gather food from up there. \n\nGuys, guys, just sitting down putting in lines here and there where you feel like it is so much fun. Birds around the treefolk for scale.",
       "attachments": [
@@ -6591,8 +7297,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "cindry-week-16-8ba4",
       "author": "cindry#4068",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "ooh shit",
       "medium": "digital painting on photograph, CSP",
       "description": "hey you should read kaiju no.8 its really good and big things are really cool!!! im sad i couldnt show the whole process on my stream but here it is! is it creepy yet??",
@@ -6609,8 +7317,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "soleilboo-week-16-39f7",
       "author": "soleilboo#1662",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Dobby and me",
       "medium": "digital painting on photograph",
       "description": "This is how I feel everytime I hug my cat. He is a giant things to my heart! Yeah sometimes I wanted to be smaller just to cuddle with him \ud83e\udd70\u2728\ud83d\udc9c",
@@ -6628,8 +7338,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "scimister-week-16-25d6",
       "author": "Scimister#6508",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Guardian",
       "medium": "Paint Tool SAI",
       "description": "A giant golem accompanies and provides shade to desert travellers",
@@ -6646,8 +7358,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "papapastry-week-16-1985",
       "author": "papapastry#8888",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Pain",
       "medium": "Music/Ableton Live Studio 11",
       "description": "I was going to write a 5 minute epic rock opera piece with lots of contrasts, fun guitar parts, etc, but life made it impossible. When life gives you lemons...\n\nLink:\n\n- Soundcloud: https://soundcloud.com/papapastry/pain-2021-design-refresh\n\n- YT: <http://papapastry.io/youtube>\n- Spotify: <http://papapastry.io/spotify>",
@@ -6664,8 +7378,10 @@
       ]
     },
     {
+      "id": "winsome-week-16-aef1",
       "author": "winsome#5621",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Broccaiju",
       "medium": "Photo + CLIP STUDIO PAINT",
       "description": "Godzilla v Kong cut content. Actually though, heavily inspired by an old PS2 game called War of the Monsters that is a Kaiju-filled beat-em-up.",
@@ -6682,8 +7398,10 @@
       "raw_hyperlinks": []
     },
     {
+      "id": "meplaysgamez-week-16-aea7",
       "author": "meplaysgamez#0442",
-      "week": 6,
+      "created_at": "2021-04-23",
+      "week": 16,
       "title": "Dynames",
       "medium": "Photography + free photo edit thing again lmao",
       "description": "Gundam Dynames with Lockon Stratos as pilot. idk lol",

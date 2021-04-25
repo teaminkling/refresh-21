@@ -4,13 +4,13 @@
 
     <section id="categories">
         <header>
-            <h1><a href="{{ "categories" | relLangURL }}">Themes</a></h1>
+            <h1><a href="{{ "categories" | relLangURL }}">Weeks</a></h1>
         </header>
         <ul>
             {{ $.Scratch.Set "categories" (cond .Site.Params.sidebar.categoriesByCount .Site.Taxonomies.categories.ByCount .Site.Taxonomies.categories.Alphabetical) }}
             {{ range $key, $value := $.Scratch.Get "categories" }}
             <li>
-                <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span class="count">{{ $value.Count }}</span></a>
+                <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ replace $value.Name "-" " " }}<span class="count">{{ $value.Count }}</span></a>
                 {{ end }}
             </li>
         </ul>

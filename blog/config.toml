@@ -22,8 +22,8 @@ jsFiles               = ["default"]
 highlightjs           = true
 highlightjsTheme      = ""
 highlightjsLang       = []
-viewMorePostsLink     = "/blog/"
-readingTime           = true
+viewMorePostsLink     = "/"
+readingTime           = false
 imageStretch          = ""
 removeBlur            = false
 socialShare           = ["twitter", "facebook", "reddit", "pinterest"]
@@ -57,7 +57,7 @@ alwaysOnHomepage      = false
 src                 = "img/main/logo.jpg"
 shape               = "circle"
 width               = ""
-alt                 = "Introduction logo."
+alt                 = "REPLACE_LOGO."
 
 [params.sidebar]
 about               = ""
