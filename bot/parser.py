@@ -4,13 +4,13 @@ import json
 import logging
 import re
 from logging import Logger
-from typing import Any, Dict, List, Pattern, Tuple
+from typing import Any, Dict, List, Optional, Pattern, TextIO, Tuple
 
 # Initialise logging.
 
 LOGGER: Logger = logging.getLogger(__name__)
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.WARNING)
 log_formatter: logging.Formatter = logging.Formatter(
     "(%(asctime)s) [%(levelname)s]: %(message)s",
     "%Y-%m-%d %H:%M:%S",
@@ -18,7 +18,7 @@ log_formatter: logging.Formatter = logging.Formatter(
 
 stream_handler: logging.StreamHandler = logging.StreamHandler()
 
-stream_handler.setLevel(logging.INFO)
+stream_handler.setLevel(logging.WARNING)
 stream_handler.setFormatter(log_formatter)
 
 logging.root.handlers.clear()
@@ -30,12 +30,15 @@ LOGGER.addHandler(stream_handler)
 WEEK_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
-        r"(?:[Ww]eek)(?!-)(?:.*?)"
-        r"(?P<week>[0-9]+|One)(?:.*)"
-        r"(?:[\s])(?P<remainder>[\S\s]+?)"
+        r"(?<!my )(?<!for )"
+        r"(?:week)(?!-)(?:.*?)"
+        r"(?P<week>[0-9]+|One)"
+        r"(?:.*)(?:[\s])"
+        r"(?P<remainder>[\S\s]+?)"
         r"(?:(?<!title: )"
-        r"(?=[Ww]eek.*[0-9]+)"
-        r"(?!week-)|(?:\Z))"
+        r"(?=week.*?[0-9]+)"
+        r"(?!week-)"
+        r"(?!week \d+ )|(?:\Z))"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
 )
@@ -46,6 +49,15 @@ preamble and remainder of the content to be parsed for optional values.
 
 Note that this can't handle one post for multiple submissions if there are attachments.
 """
+
+with open("in/replacements.json") as replacements_json_file:
+    REPLACEMENTS_AND_EXPECTED_MISSING_MAP: dict = json.load(replacements_json_file)
+    """
+    A map containing replacements and expected missing values for invalid submissions.
+    
+    Note that this is pre-processing. If the parser got something wrong or the formatting just 
+    wasn't very good for the final blog post, I suggest using the `formatting.json` file instead.
+    """
 
 TITLE_PARSING_REGEX: Pattern = re.compile(
     r"(?P<preamble>[\s\S]*?)(?:title[:\-* ]+)(?P<title>.*$)(?P<remainder>[\s\S]*)",
@@ -68,15 +80,24 @@ MEDIUM_PARSING_REGEX: Pattern = re.compile(
 RAW_SOCIAL_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
-        r"(?i)(?P<raw_socials>social(?:s|(?: media))?[:\-*]*[\s]+)"
+        r"(?P<raw_socials>social(?:s|(?: media))?[:\-*]*[\s]+)"
         r"(?P<remainder>[\s\S]*)"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
 )
 """Regex that splits text into preamble and remainder after the socials marker."""
 
-TEMPLATE_BEGINNING: str = "**Submission Template**"
-"""The start of the template post which gets ignored."""
+TEMPLATE_FRAGMENT: str = """
+**Submission Template**
+``Week: 
+**Title:  **
+Medium: 
+Description: 
+
+Social Media:
+``
+""".strip()
+"""Part of the template post which gets ignored."""
 
 
 def parse_retrieved() -> None:
@@ -128,6 +149,32 @@ def parse_retrieved() -> None:
     with open("out/parsed.json", "w") as json_output_file:
         json.dump(final_data, json_output_file, indent=2)
 
+    # Handle missing content logging by placing it in the output temp directory. It's not
+    # ignored by VCS but it is not expected to actually be used outside of diagnostically.
+
+    write_missing_meta_file("out/temp/missing_socials.txt", final_data["submissions"], "socials")
+    write_missing_meta_file("out/temp/missing_media.txt", final_data["submissions"], "medium")
+    write_missing_meta_file("out/temp/missing_titles.txt", final_data["submissions"], "title")
+    write_missing_meta_file(
+        "out/temp/missing_descriptions.txt", final_data["submissions"], "description"
+    )
+
+
+def write_missing_meta_file(file_path: str, submissions: List[dict], parse_type: str):
+    with open(file_path, "w") as missing_meta_file:
+        missing_meta_file.write(f"This file contains all missing [{parse_type}]s.")
+
+        count: int = 0
+        for submission in submissions:
+            if not submission[parse_type]:
+                count += 1
+
+                missing_meta_file.write(f"\n\nENTRY {count}\n{'='*119}\n\n")
+                missing_meta_file.write(submission["raw_content"].strip())
+                missing_meta_file.write(f"\n\n{'='*119}")
+
+        missing_meta_file.write("\n")
+
 
 def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
     """
@@ -160,7 +207,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
         ]
 
         if author == last_author or not last_author:
-            cumulative_message += message["content"]
+            cumulative_message += f"\n{message['content']}\n"
             cumulative_attachments.extend(attachments)
         else:
             joined_messages.append(
@@ -193,7 +240,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
 def extract_all_content(content: str, author: str, attachments: List[str]) -> List[dict]:
     # Don't bother extracting if it's the template message.
 
-    if content.startswith(TEMPLATE_BEGINNING):
+    if TEMPLATE_FRAGMENT in content:
         return []
 
     # Find all matches otherwise.
@@ -201,9 +248,38 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
     matches: List[Tuple[str, str, str]] = re.findall(WEEK_PARSING_REGEX, content)
 
     if not matches:
-        LOGGER.warning("No [week]s found for content over next line:\n\n%s\n", content)
+        is_handled: bool
+        replacement: Optional[str]
 
-        return []
+        is_handled, replacement = match_replacement_or_expected_missing(content, "week")
+
+        if not is_handled:
+            LOGGER.warning("No [week]s found for content over next line:\n\n%s\n", content)
+
+            return []
+
+        if replacement and not isinstance(replacement, str):
+            LOGGER.warning(
+                "Week replacement found but it is not text for content over next line:\n\n%s\n",
+                content,
+            )
+
+            return []
+
+        if not replacement:
+            LOGGER.info("Ignoring post entirely for content over next line:\n\n%s\n", content)
+
+            return []
+
+        # If it's handled, manually force a match and try to parse the rest.
+
+        matches = [
+            (
+                "",
+                replacement,
+                content,
+            ),
+        ]
 
     content_data: List[dict] = []
 
@@ -303,6 +379,7 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
             "description": description.strip(),
             "attachments": attachments,
             "socials": socials,
+            "raw_content": content,
         })
 
         # TODO: unexpected no medium/description/title/socials: handle it.
@@ -323,7 +400,7 @@ def parse_content(text: str, pattern: Pattern, parse_type: str) -> Tuple[str, st
         The pattern which is used to parse and must have three group returns.
 
     parse_type : `str`
-        The parse type used for logging.
+        The parse type, e.g., "raw_socials".
 
     Returns
     -------
@@ -336,9 +413,17 @@ def parse_content(text: str, pattern: Pattern, parse_type: str) -> Tuple[str, st
     matches: List[Tuple[str, str, str]] = re.findall(pattern, text)
 
     if not matches:
-        LOGGER.info("No [%s]s found for content over next line:\n\n%s\n", parse_type, text)
+        is_handled: bool
+        replacement: Optional[Any]
 
-        return "", "", text
+        is_handled, replacement = match_replacement_or_expected_missing(text, parse_type)
+
+        if not is_handled:
+            LOGGER.info("No [%s]s found for content over next line:\n\n%s\n", parse_type, text)
+
+            return "", "", text
+
+        return "", replacement or "", text
     elif len(matches) > 1:
         LOGGER.info(
             "Multiple [%s]s found for content over next line:\n\n%s\n", parse_type, text,
@@ -366,6 +451,38 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
     # TODO: Implement.
 
     return [{"Test": text}], text
+
+
+def match_replacement_or_expected_missing(
+    description: str, name: str
+) -> Tuple[bool, Optional[Any]]:
+    """
+    See if the description provided can be parsed using explicit replacements or ignores.
+
+    Parameters
+    ----------
+    description : `str`
+        The description or description fragment to search.
+
+    name : `str`
+        The name of the field to replace or ignore.
+
+    Returns
+    -------
+    `Tuple[bool, Optional[Any]]`
+        Whether or not it was handled (replaced or ignored) and what to replace it with,
+        if applicable.
+    """
+
+    for replacement in REPLACEMENTS_AND_EXPECTED_MISSING_MAP["replacements"]:
+        if replacement["description"] in description and name == replacement["name"]:
+            return True, replacement["value"]
+
+    for replacement in REPLACEMENTS_AND_EXPECTED_MISSING_MAP["expected_missing"]:
+        if replacement["description"] in description and name == replacement["name"]:
+            return True, None
+
+    return False, None
 
 
 if __name__ == "__main__":

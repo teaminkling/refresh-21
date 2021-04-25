@@ -1,0 +1,83 @@
+{
+  "replacements": [
+    {
+      "description": "simple geometry shape of a bowl highlighted using pre-programmed algorithm",
+      "name": "week",
+      "value": "1"
+    },
+    {
+      "description": "I'm bad with descriptions so I'm just gonna put this here and dip",
+      "name": "week",
+      "value": "2"
+    },
+    {
+      "description": "a view from my house at opposite ends of the year. Could have been a",
+      "name": "week",
+      "value": "3"
+    },
+    {
+      "description": "Just dropping this idea down during stream.",
+      "name": "week",
+      "value": "3"
+    },
+    {
+      "description": "based from girl in red . I'm part of the LGBTQ+ community ",
+      "name": "week",
+      "value": "6"
+    },
+    {
+      "description": "A demo track of our collab song 'Paper Aeroplanes', capturing",
+      "name": "week",
+      "value": "6"
+    },
+    {
+      "description": "The cubes are symbolic of the fragments of love and how each fragment",
+      "name": "week",
+      "value": "6"
+    },
+    {
+      "description": "My favourite music artist Ariana Grande and her sing",
+      "name": "week",
+      "value": "8"
+    },
+    {
+      "description": "this is a comic I made with my friends a couple months ago",
+      "name": "week",
+      "value": "13"
+    }
+  ],
+  "expected_missing": [
+    {
+      "description": "i made this at 2 am. there is something special about this drawing",
+      "name": "raw_socials"
+    },
+    {
+      "description": "sideways yellow waterfall there is harmony in all the whoosh's",
+      "name": "raw_socials"
+    },
+    {
+      "description": "I cannot art so here are yellow ACNH vibes, maybe (big maybe)",
+      "name": "raw_socials"
+    },
+    {
+      "description": "here's a sparkly mandrake gif that I made, file was too big",
+      "name": "raw_socials"
+    },
+    {
+      "description": "Distancing concept from the WiFi Symbol applied",
+      "name": "raw_socials"
+    },
+    {
+      "description": "I'm bad with descriptions so I'm just gonna put this here and dip",
+      "name": "raw_socials"
+    },
+    {
+      "description": "Started Digital art few month ago, First art post ever",
+      "name": "raw_socials"
+    },
+    {
+      "description": "i rushed the fuck out of the mixing and mastering for this because it's ",
+      "name": "week"
+    }
+  ]
+}
