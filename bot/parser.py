@@ -176,21 +176,44 @@ def parse_retrieved() -> None:
     # Handle missing content logging by placing it in the output temp directory. It's not
     # ignored by VCS but it is not expected to actually be used outside of diagnostically.
 
-    write_missing_meta_file("out/temp/missing_socials.txt", final_data["submissions"], "socials")
-    write_missing_meta_file("out/temp/missing_media.txt", final_data["submissions"], "medium")
-    write_missing_meta_file("out/temp/missing_titles.txt", final_data["submissions"], "title")
+    write_missing_meta_file(final_data["submissions"], "medium")
+    write_missing_meta_file(final_data["submissions"], "title")
+    write_missing_meta_file(final_data["submissions"], "description")
+    write_missing_meta_file(final_data["submissions"], "attachments")
+    write_missing_meta_file(final_data["submissions"], "raw_socials")
+    write_missing_meta_file(final_data["submissions"], "socials")
 
-    write_missing_meta_file(
-        "out/temp/missing_descriptions.txt", final_data["submissions"], "description"
-    )
+    # There is one more special case: if the "raw_socials" exists but the "socials" does not.
 
-    write_missing_meta_file(
-        "out/temp/missing_attachments.txt", final_data["submissions"], "attachments"
-    )
+    with open("out/temp/unparsed_socials.txt", "w") as unparsed_socials_file:
+        unparsed_socials_file.write(f"This file contains all unparsed socials with available raws.")
+
+        count: int = 0
+        for submission in final_data["submissions"]:
+            if submission["raw_socials"] and not submission["socials"]:
+                count += 1
+
+                unparsed_socials_file.write(f"\n\nENTRY {count}\n{'='*119}\n\n")
+                unparsed_socials_file.write(submission["raw_content"].strip())
+                unparsed_socials_file.write(f"\n\n{'='*119}")
+
+        unparsed_socials_file.write("\n")
 
 
-def write_missing_meta_file(file_path: str, submissions: List[dict], parse_type: str):
-    with open(file_path, "w") as missing_meta_file:
+def write_missing_meta_file(submissions: List[dict], parse_type: str) -> None:
+    """
+    Write a meta file for missing attributes in any submission.
+
+    Parameters
+    ----------
+    submissions : `List[dict]`
+        The submissions `list`.
+
+    parse_type : `str`
+        The parse type used for attribute lookup.
+    """
+
+    with open(f"out/temp/missing_{parse_type}.txt", "w") as missing_meta_file:
         missing_meta_file.write(f"This file contains all missing [{parse_type}]s.")
 
         count: int = 0
@@ -271,6 +294,27 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
 
 
 def extract_all_content(content: str, author: str, attachments: List[str]) -> List[dict]:
+    """
+    Extract all information for content, allowing for multiple week submissions in one post.
+
+    Parameters
+    ----------
+    content : `str`
+        The content text.
+
+    author : `str`
+        The author of the submission(s).
+
+    attachments : `List[str]`
+        The found attachments for the given content. Note that if there are attachments for
+        multiple weeks in one post, there will be duplications that must be handled manually.
+
+    Returns
+    -------
+    `List[dict]`
+        Content `dict` that can be extended for the final parsed JSON file.
+    """
+
     # Don't bother extracting if it's the template message.
 
     if TEMPLATE_FRAGMENT in content:
@@ -391,6 +435,12 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
         )
 
         if raw_socials:
+            # Set the raw socials to be saved as meta-information later.
+
+            raw_socials = remainder
+
+            # Parse the socials in a tabular manner.
+
             socials, remainder = parse_socials(remainder)
 
         dynamic_content: str = f"{preamble}\n{remainder}".strip()
@@ -412,14 +462,14 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
             "title": title.strip(),
             "medium": medium.strip(),
             "description": description.strip(),
-            "attachments": attachments + parse_content_hyperlinks(links),
+            "attachments": attachments + [
+                link for link in links if re.findall(CONTENT_LINK_REGEX, link)
+            ],
             "socials": socials,
             "raw_content": content,
+            "raw_socials": raw_socials,
             "raw_hyperlinks": links
         })
-
-        # TODO: attachments need to include hyperlinks if found.
-        # TODO: hyperlinks surrounded by <> are not added to the links.
 
     return content_data
 
@@ -487,15 +537,19 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
 
     # TODO: Implement.
 
-    return [{"__raw__": text}], text
+    return [], text
 
 
-def parse_content_hyperlinks(links: List[str]) -> List[str]:
-    return [link for link in links if re.findall(CONTENT_LINK_REGEX, link)]
+def extract_socials_using_hyperlinks():
+    pass  # TODO: only take excplit social links; they might not want it advertised
+
+
+def assign_submission_socials_to_users():
+    pass  # TODO.
 
 
 def match_replacement_or_expected_missing(
-    description: str, name: str
+        description: str, name: str
 ) -> Tuple[bool, Optional[Any]]:
     """
     See if the description provided can be parsed using explicit replacements or ignores.
@@ -524,10 +578,6 @@ def match_replacement_or_expected_missing(
             return True, None
 
     return False, None
-
-
-def extract_socials_using_hyperlinks():
-    pass  # TODO: only take excplit social links; they might not want it advertised
 
 
 if __name__ == "__main__":
