@@ -4,7 +4,7 @@ import json
 import logging
 import re
 from logging import Logger
-from typing import Any, Dict, List, Optional, Pattern, TextIO, Tuple, Union
+from typing import Any, Dict, List, Optional, Pattern, Tuple, Union
 
 # Initialise logging.
 
@@ -164,7 +164,9 @@ def parse_retrieved() -> None:
         content: str = message["message"]
         attachments: List[str] = message["attachments"]
 
-        final_data["submissions"].extend(extract_all_content(content, author, attachments))
+        final_data["submissions"].extend(
+            extract_all_content(content, author, attachments),
+        )
 
     # Write final data before we start to write blog posts and pages.
 
@@ -186,7 +188,9 @@ def parse_retrieved() -> None:
     # There is one more special case: if the "raw_socials" exists but the "socials" does not.
 
     with open("out/temp/unparsed_socials.txt", "w") as unparsed_socials_file:
-        unparsed_socials_file.write(f"This file contains all unparsed socials with available raws.")
+        unparsed_socials_file.write(
+            f"This file contains all unparsed socials with available raws.",
+        )
 
         count: int = 0
         for submission in final_data["submissions"]:
@@ -293,7 +297,9 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
     return joined_messages
 
 
-def extract_all_content(content: str, author: str, attachments: List[str]) -> List[dict]:
+def extract_all_content(
+    content: str, author: str, attachments: List[str]
+) -> List[dict]:
     """
     Extract all information for content, allowing for multiple week submissions in one post.
 
@@ -331,7 +337,10 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
         is_handled, replacement = match_replacement_or_expected_missing(content, "week")
 
         if not is_handled:
-            LOGGER.warning("No [week]s found for content over next line:\n\n%s\n", content)
+            LOGGER.warning(
+                "No [week]s found for content over next line:\n\n%s\n",
+                content,
+            )
 
             return []
 
@@ -344,7 +353,10 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
             return []
 
         if not replacement:
-            LOGGER.info("Ignoring post entirely for content over next line:\n\n%s\n", content)
+            LOGGER.info(
+                "Ignoring post entirely for content over next line:\n\n%s\n",
+                content,
+            )
 
             return []
 
@@ -389,7 +401,11 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
         # Remove bolds.
 
         preamble = re.sub(r"\*\*(?P<unformatted>.*)\*\*", r"\g<unformatted>", preamble)
-        remainder = re.sub(r"\*\*(?P<unformatted>.*)\*\*", r"\g<unformatted>", remainder)
+        remainder = re.sub(
+            r"\*\*(?P<unformatted>.*)\*\*",
+            r"\g<unformatted>",
+            remainder,
+        )
 
         # Remove italics.
 
@@ -454,22 +470,25 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
 
         # Form the hyperlinks and augment attachments if applicable.
 
-        links: list[Any] = re.findall(HYPERLINK_REGEX, description)
+        links: List[str] = re.findall(HYPERLINK_REGEX, description)
+        url_attachments: List[str] = [
+            link for link in links if re.findall(CONTENT_LINK_REGEX, link)
+        ]
 
-        content_data.append({
-            "author": author,
-            "week": week,
-            "title": title.strip(),
-            "medium": medium.strip(),
-            "description": description.strip(),
-            "attachments": attachments + [
-                link for link in links if re.findall(CONTENT_LINK_REGEX, link)
-            ],
-            "socials": socials,
-            "raw_content": content,
-            "raw_socials": raw_socials,
-            "raw_hyperlinks": links
-        })
+        content_data.append(
+            {
+                "author": author,
+                "week": week,
+                "title": title.strip(),
+                "medium": medium.strip(),
+                "description": description.strip(),
+                "attachments": attachments + url_attachments,
+                "socials": socials,
+                "raw_content": content,
+                "raw_socials": raw_socials,
+                "raw_hyperlinks": links,
+            },
+        )
 
     return content_data
 
@@ -503,17 +522,26 @@ def parse_content(text: str, pattern: Pattern, parse_type: str) -> Tuple[str, st
         is_handled: bool
         replacement: Optional[Any]
 
-        is_handled, replacement = match_replacement_or_expected_missing(text, parse_type)
+        is_handled, replacement = match_replacement_or_expected_missing(
+            text,
+            parse_type,
+        )
 
         if not is_handled:
-            LOGGER.info("No [%s]s found for content over next line:\n\n%s\n", parse_type, text)
+            LOGGER.info(
+                "No [%s]s found for content over next line:\n\n%s\n",
+                parse_type,
+                text,
+            )
 
             return "", "", text
 
         return "", replacement or "", text
     elif len(matches) > 1:
         LOGGER.info(
-            "Multiple [%s]s found for content over next line:\n\n%s\n", parse_type, text,
+            "Multiple [%s]s found for content over next line:\n\n%s\n",
+            parse_type,
+            text,
         )
 
     return matches[0][0], matches[0][1], matches[0][2]
@@ -540,16 +568,12 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
     return [], text
 
 
-def extract_socials_using_hyperlinks():
-    pass  # TODO: only take excplit social links; they might not want it advertised
-
-
 def assign_submission_socials_to_users():
     pass  # TODO.
 
 
 def match_replacement_or_expected_missing(
-        description: str, name: str
+    description: str, name: str
 ) -> Tuple[bool, Optional[Any]]:
     """
     See if the description provided can be parsed using explicit replacements or ignores.
