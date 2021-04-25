@@ -44,6 +44,36 @@
       "description": "this is a comic I made with my friends a couple months ago",
       "name": "week",
       "value": "13"
+    },
+    {
+      "description": "In this technical folk metal piece, I focus on changing textures.",
+      "name": "medium",
+      "value": "Music/Ableton Live 10 Suite"
+    },
+    {
+      "description": "Another week, another rush job lol. I had an initial",
+      "name": "medium",
+      "value": "Ink on paper, 9x12 inches."
+    },
+    {
+      "description": "Murky, silhouette... well, I must oblige! (It's like you",
+      "name": "title",
+      "value": "The Search"
+    },
+    {
+      "description": "A delicious Japanese meal for lunch - a bowl of spicy tuna",
+      "name": "title",
+      "value": "Spicy Tuna"
+    },
+    {
+      "description": "Tomorrow I will compete in my Jiu Jisu tournament so I try to keep my mind",
+      "name": "title",
+      "value": "Be Bold and Believe"
+    },
+    {
+      "description": "murke-shadoes-instrumental-week-4-2021designrefresh",
+      "name": "raw_socials",
+      "value": "https://soundcloud.com/papapastry"
     }
   ],
   "expected_missing": [
@@ -78,6 +108,10 @@
     {
       "description": "i rushed the fuck out of the mixing and mastering for this because it's ",
       "name": "week"
+    },
+    {
+      "description": "A smattering of haikus for my first (and late ehehe) design refresh. Enjoy!",
+      "name": "attachments"
     }
   ]
 }

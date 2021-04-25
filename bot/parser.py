@@ -4,7 +4,7 @@ import json
 import logging
 import re
 from logging import Logger
-from typing import Any, Dict, List, Optional, Pattern, TextIO, Tuple
+from typing import Any, Dict, List, Optional, Pattern, TextIO, Tuple, Union
 
 # Initialise logging.
 
@@ -29,16 +29,9 @@ LOGGER.addHandler(stream_handler)
 
 WEEK_PARSING_REGEX: Pattern = re.compile(
     (
-        r"(?P<preamble>[\s\S]*?)"
-        r"(?<!my )(?<!for )"
-        r"(?:week)(?!-)(?:.*?)"
-        r"(?P<week>[0-9]+|One)"
-        r"(?:.*)(?:[\s])"
-        r"(?P<remainder>[\S\s]+?)"
-        r"(?:(?<!title: )"
-        r"(?=week.*?[0-9]+)"
-        r"(?!week-)"
-        r"(?!week \d+ )|(?:\Z))"
+        r"(?P<preamble>[\s\S]*?)(?<!my )(?<!for )(?:week)(?!-)(?:.{0,16})(?P<week>[0-9]+|One)"
+        r"(?:.*)(?:[\s])(?P<remainder>[\S\s]+?)(?:(?<!title: )(?=week.{1,16}?[0-9]+)"
+        r"(?!week-)(?!week \d+[ ,])|(?:\Z))"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
 )
@@ -69,7 +62,7 @@ MEDIUM_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
         r"(?<!social )"
-        r"(?:medi(?:(?:um)|a)[:\-*]*[\s]+)"
+        r"(?:medi(?:(?:um)|a)[,:\-*]*[\s]+)"
         r"(?P<medium>.*$)"
         r"(?P<remainder>[\s\S]*)"
     ),
@@ -98,6 +91,34 @@ Social Media:
 ``
 """.strip()
 """Part of the template post which gets ignored."""
+
+
+HYPERLINK_REGEX: Pattern = re.compile(
+    r"https?://[A-Za-z0-9./\-_~!+,*:@?=&$#]*", flags=re.MULTILINE | re.IGNORECASE
+)
+"""
+Regex that finds simple hyperlinks.
+
+Notes
+-----
+This is not meant to be extremely accurate but pick up most links you would find pasted into 
+Discord. There are niche and non-ASCII examples that will break this but we do not consider them.
+"""
+
+CONTENT_LINK_REGEX: Pattern = re.compile(
+    (
+        r"(?:youtu\.be/\S)|"
+        r"(?:youtube\.com/watch\?v="
+        r"(?!xGP1pUeVJYA))|"
+        r"(?:soundcloud\.com/\S+/\S)|"
+        r"(?:itch\.io/\S)|"
+        r"(?:docs\.google\.com)|"
+        r"(?:imgur\.com/a/\S)|"
+        r"(?:vimeo\.com)|"
+        r"(?:webtoons\.com)"
+    )
+)
+"""Regex used to parse content links, i.e., if they match a hyperlink, it's content."""
 
 
 def parse_retrieved() -> None:
@@ -155,8 +176,13 @@ def parse_retrieved() -> None:
     write_missing_meta_file("out/temp/missing_socials.txt", final_data["submissions"], "socials")
     write_missing_meta_file("out/temp/missing_media.txt", final_data["submissions"], "medium")
     write_missing_meta_file("out/temp/missing_titles.txt", final_data["submissions"], "title")
+
     write_missing_meta_file(
         "out/temp/missing_descriptions.txt", final_data["submissions"], "description"
+    )
+
+    write_missing_meta_file(
+        "out/temp/missing_attachments.txt", final_data["submissions"], "attachments"
     )
 
 
@@ -166,7 +192,11 @@ def write_missing_meta_file(file_path: str, submissions: List[dict], parse_type:
 
         count: int = 0
         for submission in submissions:
-            if not submission[parse_type]:
+            value: Union[str, list] = submission[parse_type]
+
+            if parse_type == "description":
+                value = value.strip()
+            if not value:
                 count += 1
 
                 missing_meta_file.write(f"\n\nENTRY {count}\n{'='*119}\n\n")
@@ -369,7 +399,9 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
 
         description = re.sub(r"(?i:social[s]?(?: media)?)[: -]*", "", dynamic_content)
 
-        # If there's no week, we can't form an ID.
+        # Form the hyperlinks and augment attachments if applicable.
+
+        links: list[Any] = re.findall(HYPERLINK_REGEX, description)
 
         content_data.append({
             "author": author,
@@ -377,12 +409,14 @@ def extract_all_content(content: str, author: str, attachments: List[str]) -> Li
             "title": title.strip(),
             "medium": medium.strip(),
             "description": description.strip(),
-            "attachments": attachments,
+            "attachments": attachments + parse_content_hyperlinks(links),
             "socials": socials,
             "raw_content": content,
+            "raw_hyperlinks": links
         })
 
-        # TODO: unexpected no medium/description/title/socials: handle it.
+        # TODO: attachments need to include hyperlinks if found.
+        # TODO: hyperlinks surrounded by <> are not added to the links.
 
     return content_data
 
@@ -450,7 +484,11 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
 
     # TODO: Implement.
 
-    return [{"Test": text}], text
+    return [{"__raw__": text}], text
+
+
+def parse_content_hyperlinks(links: List[str]) -> List[str]:
+    return [link for link in links if re.findall(CONTENT_LINK_REGEX, link)]
 
 
 def match_replacement_or_expected_missing(
@@ -483,6 +521,10 @@ def match_replacement_or_expected_missing(
             return True, None
 
     return False, None
+
+
+def extract_socials_using_hyperlinks():
+    pass  # TODO
 
 
 if __name__ == "__main__":
