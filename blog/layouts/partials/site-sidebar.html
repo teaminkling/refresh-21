@@ -1,0 +1,20 @@
+<section id="site-sidebar">
+    {{ if .Site.Params.sidebar.categories }}
+    {{ if ne ($.Scratch.Get "showCategories") false }}
+
+    <section id="categories">
+        <header>
+            <h1><a href="{{ "categories" | relLangURL }}">Themes</a></h1>
+        </header>
+        <ul>
+            {{ $.Scratch.Set "categories" (cond .Site.Params.sidebar.categoriesByCount .Site.Taxonomies.categories.ByCount .Site.Taxonomies.categories.Alphabetical) }}
+            {{ range $key, $value := $.Scratch.Get "categories" }}
+            <li>
+                <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span class="count">{{ $value.Count }}</span></a>
+                {{ end }}
+            </li>
+        </ul>
+    </section>
+    {{ end }}
+    {{ end }}
+</section>
