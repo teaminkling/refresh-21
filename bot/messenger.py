@@ -135,6 +135,15 @@ def do_dump_all_messages():
                 attachments.append(attachments_map)
                 data["attachments"].append(attachments_map)
 
+            # Replace mentions with direct @Username references.
+
+            content: str = message.content
+
+            mention: User
+            for mention in message.mentions:
+                content = content.replace(f"<@!{mention.id}>", f"@{mention.name}")
+                content = content.replace(mention.mention, f"@{mention.name}")
+
             data["messages"].append(
                 {
                     "id": message.id,
@@ -145,7 +154,7 @@ def do_dump_all_messages():
                         "display_name": message.author.name,
                         "mention_name": author_with_discriminator,
                     },
-                    "content": message.content,
+                    "content": content,
                     "attachments": attachments,
                 }
             )

@@ -76,7 +76,7 @@ RAW_SOCIAL_PARSING_REGEX: Pattern = re.compile(
         r"(?P<raw_socials>socia"
         r"(?:(?:ls)|"
         r"(?:l media)|"
-        r"(?:sl)|l)?[:\-*]*[\s]+)"
+        r"(?:sl)|l)?(?! life)[:\-*]*[\s]+)"
         r"(?P<remainder>[\s\S]*)"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
@@ -97,7 +97,8 @@ Social Media:
 
 
 HYPERLINK_REGEX: Pattern = re.compile(
-    r"https?://[A-Za-z0-9./\-_~!+,*:@?=&$#]*", flags=re.MULTILINE | re.IGNORECASE
+    r"https?://[A-Za-z0-9./\-_~!+,*:@?=&$#]*",
+    flags=re.MULTILINE | re.IGNORECASE,
 )
 """
 Regex that finds simple hyperlinks.
@@ -119,9 +120,130 @@ CONTENT_LINK_REGEX: Pattern = re.compile(
         r"(?:imgur\.com/a/\S)|"
         r"(?:vimeo\.com)|"
         r"(?:webtoons\.com)"
-    )
+    ),
+    flags=re.MULTILINE | re.IGNORECASE,
 )
 """Regex used to parse content links, i.e., if they match a hyperlink, it's content."""
+
+
+SOCIAL_PATTERN_PARENTHESES: Pattern[str] = re.compile(
+    r"(?P<replacement>@(?P<username>\S+) +(?:\((?P<platforms>.*?)\)))",
+    flags=re.MULTILINE | re.IGNORECASE,
+)
+"""Regex used to find social patterns based on parentheses."""
+
+SOCIAL_PATTERN_ON: Pattern[str] = re.compile(
+    (
+        r"(?P<replacement>"
+        r"(?P<username>\S+) on "
+        r"(?P<platform>"
+        r"(?:(?:tw?itter)|"
+        r"(?:twitch)|"
+        r"(?:insta)|"
+        r"(?:everything)|"
+        r"(?:ig)).*))"
+    ),
+    flags=re.MULTILINE | re.IGNORECASE,
+)
+"""Regex used to find social patterns based on the word "on"."""
+
+SOCIAL_PATTERNS = [
+    (
+        "Instagram",
+        re.compile(
+            r"(?P<link>(?:(?:Insta(?:gram)?)|(?:IG)[: ,-]+)?"
+            r"(?:https?://)?"
+            r"(?:www\.)?instagram\.com/"
+            r"(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Twitter",
+        re.compile(
+            r"(?P<link>(?:Twitter[: ,-]+)?"
+            r"(?:https?://)?"
+            r"(?:www\.)?twitter\.com/"
+            r"(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Twitch",
+        re.compile(
+            r"(?P<link>(?:Twitch[: ,-]+)?"
+            r"(?:https?://)?"
+            r"(?:www\.)?twitch\."
+            r"(?:(?:tv)|(?:com))/"
+            r"(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Tumblr",
+        re.compile(
+            r"(?P<link>(?:Tumblr[: ,-]+)?"
+            r"(?:https?://)?"
+            r"(?P<username>[A-Za-z0-9_\-+&%#@^.]+)\.tumblr\.com)",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Twitter",
+        re.compile(
+            r"(?P<replacement>twitter[ :=]+@(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Instagram",
+        re.compile(
+            r"(?P<replacement>instagram[ :=]+@(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Instagram",
+        re.compile(
+            r"(?P<replacement>instagram: +(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+    (
+        "Instagram",
+        re.compile(
+            (
+                r"(?P<replacement>"
+                r"(?:(?i:instagram)|(?:IG)|(?i:Insta))[ =\-:]+@?"
+                r"(?P<username>[A-Za-z0-9_\-+&%#@^.]+))"
+            ),
+            flags=re.MULTILINE,
+        ),
+    ),
+    (
+        "Twitch",
+        re.compile(
+            r"(?P<replacement>twitch[ :=]+@(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            flags=re.MULTILINE | re.IGNORECASE,
+        ),
+    ),
+]
+"""Tuples of a platform to a regex to find that platform as a replacement and username."""
+
+PLATFORM_MAP: Dict[str, str] = {
+    "twit": "Twitter",
+    "titter": "Twitter",
+    "twitter": "Twitter",
+    "twittter": "Twitter",
+    "twitch": "Twitch",
+    "titch": "Twitch",
+    "ig": "Instagram",
+    "instagram": "Instagram",
+    "insta": "Instagram",
+    "everything": "Everywhere",
+    "tumblr": "Tumblr",
+}
+"""Mapping of names for platforms to formatted names."""
 
 
 def parse_retrieved() -> None:
@@ -195,6 +317,16 @@ def parse_retrieved() -> None:
         count: int = 0
         for submission in final_data["submissions"]:
             if submission["raw_socials"] and not submission["socials"]:
+                # Clean up incorrect socials and give special treatment.
+
+                if (
+                    "urmom" in submission["raw_socials"]
+                    or "first" == submission["raw_socials"]
+                    or "tooter and touch" in submission["raw_socials"]
+                    or submission["author"] == "papapastry#8888"
+                ):
+                    continue
+
                 count += 1
 
                 unparsed_socials_file.write(f"\n\nENTRY {count}\n{'='*119}\n\n")
@@ -553,7 +685,8 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
 
     Parameters
     ----------
-    text :
+    text : `str`
+        The text to parse and replace.
 
     Returns
     -------
@@ -563,9 +696,84 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
         description to be formatted.
     """
 
-    # TODO: Implement.
+    found_socials: List[Dict[str, str]] = []
 
-    return [], text
+    # Handle situations where people put socials in brackets, use "X on Y", and have multiple of
+    # the same username on different social platforms.
+
+    replacement: str
+    username: str
+    platforms_text: str
+    platform: str
+
+    for match in list(re.findall(SOCIAL_PATTERN_PARENTHESES, text)) + list(
+        re.findall(SOCIAL_PATTERN_ON, text)
+    ):
+        replacement = match[0]
+        username = match[1].replace("@", "").replace("/", "")
+        platforms_text = match[2].encode("ascii", "ignore").decode().strip()
+
+        # Handle specific complex case by ignoring them.
+
+        if replacement in (
+            "@fiveclawd on instagram/twitter | cindrytuna @ twitch",
+            "@/jorchaelp on twitter and @/jrchlp.png on insta",
+            'charmandaar on twitch (https://www.twitch.tv/charmandaar)',
+            '@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch',
+            '@rjmmendoza444 on Instagram and Twitter | @a1ewanrichards on Twitch',
+        ):
+            continue
+
+        for platform in re.split(r"(?: and )|(?: \+ )|\|| |/", platforms_text):
+            platform = platform.lower().replace("!", "").replace(".", "")
+
+            found_platform: Optional[str] = PLATFORM_MAP.get(platform)
+
+            if found_platform:
+                found_socials.append({found_platform: username})
+            else:
+                LOGGER.warning("Unknown platform: [%s].", platform)
+
+        text = text.replace(replacement, "").strip()
+
+        LOGGER.info("Found [%s], replacing: [%s].", username, replacement)
+
+    # Handle remainder cases.
+
+    for name, regex in SOCIAL_PATTERNS:
+        for social in re.findall(regex, text):
+            if social[1]:
+                LOGGER.info(
+                    "Found [%s], replacing: [%s], using: [%s].",
+                    social[1],
+                    social[0],
+                    regex,
+                )
+
+                found_socials.append({name: social[1]})
+
+                # Replace the exact match in the regex such that it does not appear in the
+                # description when it is added back.
+
+                text = text.replace(social[0], "").strip()
+
+    text = text.strip()
+
+    if all([character in " |,;/" for character in text]):
+        text = ""
+
+    # Handle special cases that should not be logged.
+
+    if text in ("urmom", "first"):
+        text = ""
+
+    if text:
+        LOGGER.warning(
+            "There is remainder text that can't be parsed as socials over next line:\n\n%s\n",
+            text,
+        )
+
+    return found_socials, text
 
 
 def assign_submission_socials_to_users():

@@ -1,1 +1,11 @@
 This file contains all missing [description]s.
+
+ENTRY 1
+=======================================================================================================================
+
+Week 10:
+Title: Jiu jitsu The Art of Folding Clothes While People are Still in Them.
+Medium: Photoshop
+Social: https://www.twitch.tv/soleilboo
+
+=======================================================================================================================
