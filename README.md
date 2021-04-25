@@ -9,8 +9,10 @@ Source code for the `#2021DesignRefresh`'s supplementary software tools and mark
 This Discord Bot lives in Cindy's server and allows us to grab all the posts in the `#submissions` channel 
 programmatically.
 
-Despite it being called a "bot" it does not display as online in the Discord server. It is soley used to access 
+Despite it being called a "bot" it does not display as online in the Discord server. It is solely used to access 
 Discord's authenticated public API.
+
+All files are directly invoked without arguments on the command line. It is a typical `Pipenv` project.
 
 ### Showcase Website (`/blog`)
 
@@ -36,9 +38,12 @@ build during local development:
 # TBD
 ```
 
-### Configuring the Home Page
+#### Customisation
 
-The site's home page can be configured by creating a `content/_index.md` file. This file can use the following frontmatter:
+- Home page:
+
+The site's home page can be configured by creating a `content/_index.md` file. This file can use the following
+frontmatter:
 
 ```md
 ---
@@ -48,11 +53,7 @@ handle: "hugo-theme-codex"
 ---
 ```
 
-If you would rather override the about page's layout with your own, you can do so by creating a `layouts/index.html`. You can find the `index.html` file that `hugo-theme-codex` uses [here](https://github.com/jakewies/hugo-theme-codex/blob/master/layouts/index.html).
-
-### Configuring Social Icons
-
-Social Icons are optional. To show any of these icons, just provide the value in the `[params]` section of `config.toml`.
+- Social Icons:
 
 ```toml
 # config.toml
@@ -65,11 +66,10 @@ Social Icons are optional. To show any of these icons, just provide the value in
   iconOrder = ["Twitter", "GitHub"]
 ```
 
-If any of these options are given, `hugo-theme-codex` will render the social icon in the footer, using the order specified in `iconOrder`.
-
-See the contents of the [example site](https://github.com/jakewies/hugo-theme-codex/tree/master/exampleSite) for more details.
+These will be placed in the footer.
 
 You can also create additional social icons by:
+
 1. Adding your own SVGs in `static/svg/`, for example `static/svg/reddit.svg`.
 2. Modifying your site's config as follows:
    ```toml
@@ -80,12 +80,12 @@ You can also create additional social icons by:
       iconOrder = ["Reddit"]
    ```
 
-Make sure that the icon title must match the icon's file name. If the title contains more than one word, say "My Awesome Site",
-you can use dash "-" for the icon name: `my-awesome-site.svg`. 
+Make sure that the icon title must match the icon's file name. If the title contains more than one word, e.g., "My 
+Awesome Site", you can use a hyphen for the icon name: `my-awesome-site.svg`. 
 
-### Creating a blog post
+#### Posts/Submissions
 
-You can create a new blog post page by going to the root of your project and typing:
+You can manually create a new blog post page by going to the root of your project and typing:
 
 ```
 hugo new blog/:blog-post.md
@@ -93,7 +93,8 @@ hugo new blog/:blog-post.md
 
 Where `:blog-post.md` is the name of the file of your new post. 
 
-This will execute the theme's `blog` archetype to create a new markdown file in `contents/blog/:blog-post.md` with the following frontmatter:
+This will execute the theme's `blog` archetype to create a new markdown file in `contents/blog/:blog-post.md` with
+the following frontmatter:
 
 ```md
 # Default post frontmatter:
@@ -121,20 +122,7 @@ toc: false
 
 The frontmatter above is the default for a new post, but all values can be changed.
 
-### Configuring Table of Contents in blog posts
-
-To display post title in Table of Contents in blog posts, set `showPageTitleInTOC`
-to `true` in the `[params]` section of `config.toml`.
-
-```toml
-# config.toml
-
-[params]
-  # ...
-  showPageTitleInTOC = true
-```
-
-### Adding a new section menu
+#### Sections
 
 In your site's `config.toml`, add a new menu definition for say, "photos":
 ```toml
@@ -149,9 +137,10 @@ In your site's `config.toml`, add a new menu definition for say, "photos":
 
 Then, put your posts under "content/photos". 
 
-### Custom styling
+#### Styles
 
-You have two options for custom styling. The first is to create an `assets/scss/custom.scss` in your project and put your custom styling there. For example, the snippet below changes the dot's color on your About page to blue:
+You have two options for custom styling. The first is to create an `assets/scss/custom.scss` in your project and put
+your custom styling there. For example, the snippet below changes the dot's color on your About to blue:
 
 ```scss
 // custom.scss
@@ -175,7 +164,8 @@ You can even use Hugo variables/params in your custom styles too!
     fancy = "#f06292"
 ```
 
-The second option is to use the supported scss overrides. You can do this by creating an `assets/scss/overrides/scss` file in your project. The following overrides are supported:
+The second option is to use the supported scss overrides. You can do this by creating an `assets/scss/overrides/scss`
+file in your project. The following overrides are supported:
 
 ```scss
 // overrides.scss
@@ -186,23 +176,5 @@ $primary: ''
 
 ### Tags
 
-Right now `hugo-theme-codex` uses the `tags` taxonomy for blog posts. You can view all the blog posts of a given tag by going to `/tags/:tag-name`, where `:tag-name` is the name of your tag.
-
-### i18n
-
-Support for [`i18n`](https://gohugo.io/functions/i18n/#readout) is currently available for the following languages:
-
-- English
-- German
-
-If you would like to have another language supported, create a post in the [Discussions](https://github.com/jakewies/hugo-theme-codex/discussions) section of the repository. You may also support your language of choice by creating a `i18n/` directory in your project with a `.toml` file named after the language you are supporting. 
-
-There are not many UI-related strings to override in this theme. If you are looking to support a language of your own, refer to [the `i18n/en.toml` file](https://github.com/jakewies/hugo-theme-codex/blob/a7800567242b6c7d3b4bd8b36dd329c3232faf5a/i18n/en.toml) to see which strings can be overridden.
-
-### Favicon
-
-To update favicon of the site, replace the one in `static/favicon.ico` with your own.
-
-## Contributing
-
-Check out the [CONTRIBUTORS.md file](https://github.com/jakewies/hugo-theme-codex/blob/master/CONTRIBUTING.md) for more info on how you can contribute!
+Right now the blog uses the `tags` taxonomy for blog posts. You can view all the blog posts of a given tag by going 
+to `/tags/:tag-name`, where `:tag-name` is the name of your tag.
