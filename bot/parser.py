@@ -3,8 +3,9 @@
 import json
 import logging
 import re
+from collections import defaultdict
 from logging import Logger
-from typing import Any, Dict, List, Optional, Pattern, Tuple, Union
+from typing import Any, Dict, List, Optional, Pattern, Set, Tuple, Union
 
 # Initialise logging.
 
@@ -293,6 +294,7 @@ def parse_retrieved() -> None:
     # Write final data before we start to write blog posts and pages.
 
     final_data["submission_count"] = len(final_data["submissions"])
+    final_data["users"] = assign_submission_socials_to_users(final_data["submissions"])
 
     with open("out/parsed.json", "w") as json_output_file:
         json.dump(final_data, json_output_file, indent=2)
@@ -776,8 +778,40 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
     return found_socials, text
 
 
-def assign_submission_socials_to_users():
-    pass  # TODO.
+def assign_submission_socials_to_users(submissions: List[dict]) -> Dict[str, List[Dict[str, str]]]:
+    """
+    Search through all submissions and assign all socials for each individual user.
+
+    Parameters
+    ----------
+    submissions : `List[dict]`
+        The submissions `list`.
+
+    Returns
+    -------
+    `Dict[str, List[Dict[str, str]]]`
+        A mapping of users to a list of their providers, which is provided as a `dict` mapping a
+        provider name and username.
+    """
+
+    user_to_socials: Dict[str, Set[Tuple[str, str]]] = defaultdict(set)
+
+    for submission in submissions:
+        if submission["socials"]:
+            user_to_socials[submission["author"]] = user_to_socials[submission["author"]].union(
+                {tuple(social_dict.items()) for social_dict in submission["socials"]}
+            )
+
+    # Now turn the tuples into dicts again.
+
+    output_users: Dict[str, List[Dict[str, str]]] = defaultdict(list)
+
+    for discord_username, unique_socials in user_to_socials.items():
+        for provider_user_pairs in unique_socials:
+            for provider, username in provider_user_pairs:
+                output_users[discord_username].append({"provider": provider, "username": username})
+
+    return output_users
 
 
 def match_replacement_or_expected_missing(
