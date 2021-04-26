@@ -2,16 +2,18 @@
 title =       "Orange jump"
 author =      "Goblet"
 date =        "2021-01-24"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Goblet"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Goblet"]
+description = "by Goblet for week 4: Murky Silhouettes. Created using: Krita with mouse."
 [[images]]
-                      src = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg"
-                      alt = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg"
-                      stretch = "cover"
+              src = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg"
+              href = "/blog/goblet-week-4-6b80"
+              alt = "Orange jump"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" >}}
+{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Krita with mouse**.
@@ -22,8 +24,8 @@ Chose orange, quickly doodled a jumping person, decided to make some kind of par
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Chose orange, quickly doodled a jumping person, decided to make some kind of par
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 **Title: Orange jump  **
 Medium: Krita with mouse

@@ -2,16 +2,18 @@
 title =       "Wall- E fan Art"
 author =      "soleilboo"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["soleilboo"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["soleilboo"]
+description = "by soleilboo for week 8: High Sheen. Created using: Photoshop."
 [[images]]
-                      src = "/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg"
-                      alt = "/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg"
-                      stretch = "cover"
+              src = "/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg"
+              href = "/blog/soleilboo-week-8-fde4"
+              alt = "Wall- E fan Art"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
@@ -26,8 +28,8 @@ https://vm.tiktok.com/ZSJdWxeBV/
 
 ## Social Media
 
-- **Instagram**: [soleil.boo]()
-- **Twitch**: [soleilboo]()
+- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
+- **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ https://vm.tiktok.com/ZSJdWxeBV/
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: Wall- E fan Art
 Medium: Photoshop

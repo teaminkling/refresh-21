@@ -2,9 +2,14 @@
 title =       "b̴͆͘e̸̲͌w̵͑͘ả̴̀r̶̾̎ȅ̷̌ ̶̃̎t̸͋̈́h̵̎̇e̴͑͂ ̸͑̇d̶̈́͝ě̵̤e̶͊͘p̵̒̀"
 author =      "papapastry"
 date =        "2021-01-15"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["papapastry"]
-
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["papapastry"]
+description = "by papapastry for week 2: Deep Ocean. Created using: Audio (Ableton Live 10) and a Fender Stratocaster."
+[[images]]
+              src = "img/audio-placeholder.png"
+              href = "/blog/papapastry-week-2-99c5"
+              alt = "b̴͆͘e̸̲͌w̵͑͘ả̴̀r̶̾̎ȅ̷̌ ̶̃̎t̸͋̈́h̵̎̇e̴͑͂ ̸͑̇d̶̈́͝ě̵̤e̶͊͘p̵̒̀"
+              stretch = "cover"
 +++
 
 
@@ -31,8 +36,8 @@ EDIT: I also have an early/meme version (I'll send it after you've seen the "rea
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -41,7 +46,7 @@ EDIT: I also have an early/meme version (I'll send it after you've seen the "rea
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week 2**
 
 - Title: b̴͆͘e̸̲͌w̵͑͘ả̴̀r̶̾̎ȅ̷̌ ̶̃̎t̸͋̈́h̵̎̇e̴͑͂ ̸͑̇d̶̈́͝ě̵̤e̶͊͘p̵̒̀

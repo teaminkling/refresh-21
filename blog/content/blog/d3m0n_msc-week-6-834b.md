@@ -2,16 +2,18 @@
 title =       "Love in the air"
 author =      "D3m0n_Msc"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["D3m0n_Msc"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["D3m0n_Msc"]
+description = "by D3m0n_Msc for week 6: Simple Love. Created using: : Ibis paint x."
 [[images]]
-                      src = "/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png"
-                      alt = "/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png"
-                      stretch = "cover"
+              src = "/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png"
+              href = "/blog/d3m0n_msc-week-6-834b"
+              alt = "Love in the air"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" file="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **: Ibis paint x**.
@@ -30,7 +32,7 @@ Sorry the is a mess
 
 ## Social Media
 
-- **Instagram**: [leolayne]()
+- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
 
 
 ## Other
@@ -39,7 +41,7 @@ Sorry the is a mess
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Social: twitch: leo_d3mom
 Insta: leo__layne
 Description: based from girl in red . I'm part of the LGBTQ+ community and it basically represents us

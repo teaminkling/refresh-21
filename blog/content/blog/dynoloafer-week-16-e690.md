@@ -2,16 +2,18 @@
 title =       "The ~~Diving~~ Maternal Legendary"
 author =      "DynoLoafer"
 date =        "2021-04-22"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 16: Scaling Giants. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png"
-                      alt = "/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png"
-                      stretch = "cover"
+              src = "img/video-placeholder.png"
+              href = "/blog/dynoloafer-week-16-e690"
+              alt = "The ~~Diving~~ Maternal Legendary"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" file="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" >}}
 
 {{< youtube TQbKwNmsTes >}}
 
@@ -35,7 +37,7 @@ here's a video with more information on Lugia's Story
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Medium: Paint Tool SAI
 Title: __The ~~Diving~~ Maternal Legendary__

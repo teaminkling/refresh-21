@@ -2,9 +2,14 @@
 title =       "Cindy Should Pay Me to Moderate"
 author =      "papapastry"
 date =        "2021-04-09"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["papapastry"]
-
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["papapastry"]
+description = "by papapastry for week 14: Absolute Fire. Created using: Music/Ableton Live 11 Suite."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/papapastry-week-14-92c3"
+              alt = "Cindy Should Pay Me to Moderate"
+              stretch = "cover"
 +++
 
 
@@ -29,8 +34,8 @@ Link: https://www.youtube.com/watch?v=3D31aBLn-bs
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -39,7 +44,7 @@ Link: https://www.youtube.com/watch?v=3D31aBLn-bs
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 14
 **Title:** Cindy Should Pay Me to Moderate
 **Medium:** Music/Ableton Live 11 Suite

@@ -2,16 +2,18 @@
 title =       "Angels in our Atmosphere"
 author =      "Pumpkan"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["Pumpkan"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 8: High Sheen. Created using: Digital collage (procreate)."
 [[images]]
-                      src = "/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png"
-                      alt = "/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png"
+              href = "/blog/pumpkan-week-8-36ae"
+              alt = "Angels in our Atmosphere"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" file="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital collage (procreate)**.
@@ -22,8 +24,8 @@ I love doing collage my dudes. From brainstorm to submission with was about 75 m
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I love doing collage my dudes. From brainstorm to submission with was about 75 m
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: Angels in our Atmosphere
 Medium: Digital collage (procreate)

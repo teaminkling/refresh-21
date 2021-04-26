@@ -2,9 +2,14 @@
 title =       "One Drug Please"
 author =      "papapastry"
 date =        "2021-02-25"
-categories =  ["Week 08: High Sheen"]
-tags =        ["papapastry"]
-
+themes =      ["Week 08: High Sheen"]
+artists =     ["papapastry"]
+description = "by papapastry for week 8: High Sheen. Created using: Audio/Ableton Live 11 Suite."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/papapastry-week-8-0c0e"
+              alt = "One Drug Please"
+              stretch = "cover"
 +++
 
 
@@ -30,8 +35,8 @@ Will be updated later with a YouTube video.
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -40,7 +45,7 @@ Will be updated later with a YouTube video.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 8
 **Title:** One Drug Please
 **Medium:** Audio/Ableton Live 11 Suite

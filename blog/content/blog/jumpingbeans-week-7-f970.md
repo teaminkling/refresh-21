@@ -2,13 +2,18 @@
 title =       "Ghost City (ft bad cropping)"
 author =      "jumpingbeans"
 date =        "2021-02-17"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["jumpingbeans"]
-
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 7: Disturbed Desert. Created using: Krita."
+[[images]]
+              src = "/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG"
+              href = "/blog/jumpingbeans-week-7-f970"
+              alt = "Ghost City (ft bad cropping)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" >}}
+{{< fancybox path="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" file="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Krita**.
@@ -19,8 +24,8 @@ The huge creature was a character that I had written about, inspired by League o
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -29,7 +34,7 @@ The huge creature was a character that I had written about, inspired by League o
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title:  Ghost City (ft bad cropping)
 Medium: Krita

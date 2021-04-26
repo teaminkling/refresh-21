@@ -2,16 +2,18 @@
 title =       "Crazy Bird"
 author =      "DynoLoafer"
 date =        "2021-03-26"
-categories =  ["Week 12: Visual Words"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 12: Visual Words. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png"
-                      alt = "/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png"
+              href = "/blog/dynoloafer-week-12-6b6a"
+              alt = "Crazy Bird"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" file="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ I made it after all, sweet! Anyways, I decided to use a sharp type of typography
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 12
 Medium: Paint Tool SAI
 Title: __Crazy Bird__

@@ -2,16 +2,18 @@
 title =       "Ascend"
 author =      "Scimister"
 date =        "2021-01-15"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Scimister"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Scimister"]
+description = "by Scimister for week 2: Deep Ocean. Created using: PaintToolSAI."
 [[images]]
-                      src = "/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png"
-                      alt = "/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png"
-                      stretch = "cover"
+              src = "/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png"
+              href = "/blog/scimister-week-2-17d4"
+              alt = "Ascend"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" >}}
+{{< fancybox path="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **PaintToolSAI**.
@@ -22,7 +24,7 @@ Ascending towards the light and away from theL, whatever that may be <:cindryAAA
 
 ## Social Media
 
-- **Twitch**: [scimister]()
+- **Twitch**: <a href='https://twitch.tv/scimister' target='_blank'>scimister</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ Ascending towards the light and away from theL, whatever that may be <:cindryAAA
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week 2**
 Title: Ascend
 Medium: PaintToolSAI

@@ -2,16 +2,18 @@
 title =       "Façade"
 author =      "vectorong"
 date =        "2021-01-28"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["vectorong"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["vectorong"]
+description = "by vectorong for week 4: Murky Silhouettes. Created using: ink + paper collage."
 [[images]]
-                      src = "/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png"
-                      alt = "/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png"
+              href = "/blog/vectorong-week-4-b82c"
+              alt = "Façade"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" >}}
+{{< fancybox path="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" file="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ink + paper collage**.
@@ -22,8 +24,8 @@ Delving a bit personal with this piece. Often there's a disconnect between the p
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Delving a bit personal with this piece. Often there's a disconnect between the p
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: Façade
 Medium: ink + paper collage

@@ -2,16 +2,18 @@
 title =       "Laputa"
 author =      "WellCookedEgg"
 date =        "2021-03-14"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["WellCookedEgg"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["WellCookedEgg"]
+description = "by WellCookedEgg for week 11: Atmosphere Spectrum. Created using: Clip studio paint."
 [[images]]
-                      src = "/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg"
-                      alt = "/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg"
-                      stretch = "cover"
+              src = "/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg"
+              href = "/blog/wellcookedegg-week-11-a1f0"
+              alt = "Laputa"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" file="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio paint**.
@@ -24,7 +26,7 @@ Pressed enter before I put stuff by accident lol
 
 ## Social Media
 
-- **Twitter**: [well_egg]()
+- **Twitter**: <a href='https://twitter.com/well_egg' target='_blank'>well_egg</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ Pressed enter before I put stuff by accident lol
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 
 Pressed enter before I put stuff by accident lol
 Week: 11

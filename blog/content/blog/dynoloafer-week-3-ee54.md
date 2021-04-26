@@ -2,16 +2,18 @@
 title =       "Blood Moon"
 author =      "DynoLoafer"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 3: Red Circle. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"
-                      alt = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"
+              href = "/blog/dynoloafer-week-3-ee54"
+              alt = "Blood Moon"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" file="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Paint Tool SAI**.
@@ -33,7 +35,7 @@ Don't you worry, it's very gay
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Medium: Paint Tool SAI
 __Title: Blood Moon__

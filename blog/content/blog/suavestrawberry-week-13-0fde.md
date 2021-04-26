@@ -2,9 +2,14 @@
 title =       "Fragments of Remembrance"
 author =      "SuaveStrawberry"
 date =        "2021-04-03"
-categories =  ["Week 13: Look At Me"]
-tags =        ["SuaveStrawberry"]
-
+themes =      ["Week 13: Look At Me"]
+artists =     ["SuaveStrawberry"]
+description = "by SuaveStrawberry for week 13: Look At Me. Created using: procreate."
+[[images]]
+              src = "img/other-placeholder.png"
+              href = "/blog/suavestrawberry-week-13-0fde"
+              alt = "Fragments of Remembrance"
+              stretch = "cover"
 +++
 
 
@@ -28,7 +33,7 @@ https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=48
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Title: Fragments of Remembrance 
 Medium: procreate 
 

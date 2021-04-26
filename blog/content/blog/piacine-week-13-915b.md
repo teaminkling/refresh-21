@@ -2,16 +2,18 @@
 title =       "Life of Avocados"
 author =      "Piacine"
 date =        "2021-03-30"
-categories =  ["Week 13: Look At Me"]
-tags =        ["Piacine"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["Piacine"]
+description = "by Piacine for week 13: Look At Me. Created using: Procreate."
 [[images]]
-                      src = "/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif"
-                      alt = "/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif"
-                      stretch = "cover"
+              src = "/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif"
+              href = "/blog/piacine-week-13-915b"
+              alt = "Life of Avocados"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif" >}}
+{{< fancybox path="/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif" file="/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif" >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Procreate**.
@@ -32,7 +34,7 @@ The daily life of avocados. Here I will present to you today, to make you all aw
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 13
 Title: Life of Avocados
 Medium: Procreate

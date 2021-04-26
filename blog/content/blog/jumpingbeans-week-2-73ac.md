@@ -2,9 +2,14 @@
 title =       "the movement of water in two cups multiplicative of volumetric estimated measurement of water"
 author =      "jumpingbeans"
 date =        "2021-01-10"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["jumpingbeans"]
-
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 2: Deep Ocean. Created using: pErForMaNcE aRT in video form / video."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/jumpingbeans-week-2-73ac"
+              alt = "the movement of water in two cups multiplicative of volumetric estimated measurement of water"
+              stretch = "cover"
 +++
 
 
@@ -25,8 +30,8 @@ https://youtu.be/3imOd-rOjr8
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -35,7 +40,7 @@ https://youtu.be/3imOd-rOjr8
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 
 Title: the movement of water in two cups multiplicative of volumetric estimated measurement of water

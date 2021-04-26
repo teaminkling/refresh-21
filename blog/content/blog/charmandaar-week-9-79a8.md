@@ -2,9 +2,14 @@
 title =       "POV you find another VHS tape, and your sleep deprived self slots it in the player…"
 author =      "Charmandaar"
 date =        "2021-03-05"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["Charmandaar"]
-
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["Charmandaar"]
+description = "by Charmandaar for week 9: Bold Strokes. Created using: video/photoshop."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/charmandaar-week-9-79a8"
+              alt = "POV you find another VHS tape, and your sleep deprived self slots it in the player…"
+              stretch = "cover"
 +++
 
 
@@ -23,9 +28,9 @@ Submission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaa
 
 ## Social Media
 
-- **Twitch**: [charmandaar]()
-- **Instagram**: [charmandaar_]()
-- **Twitter**: [charmandaar_]()
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 
 
 ## Other
@@ -34,7 +39,7 @@ Submission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaa
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title: **POV you find another VHS tape, and your sleep deprived self slots it in the player… **
 Medium: video/photoshop

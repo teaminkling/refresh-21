@@ -2,16 +2,18 @@
 title =       "Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890>"
 author =      "TITAN011"
 date =        "2021-03-16"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["TITAN011"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["TITAN011"]
+description = "by TITAN011 for week 11: Atmosphere Spectrum. Created using: Clip studio."
 [[images]]
-                      src = "/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg"
-                      alt = "/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg"
-                      stretch = "cover"
+              src = "/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg"
+              href = "/blog/titan011-week-11-aba0"
+              alt = "Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890>"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" >}}
+{{< fancybox path="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio**.
@@ -30,7 +32,7 @@ Decided to utilize everything I’ve learned in these past few months (perspecti
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11 
 Title: Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890> 
 Medium: Clip studio

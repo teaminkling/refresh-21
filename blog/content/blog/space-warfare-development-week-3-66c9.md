@@ -2,16 +2,18 @@
 title =       "Harbinger"
 author =      "Space Warfare Development"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["Space Warfare Development"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["Space Warfare Development"]
+description = "by Space Warfare Development for week 3: Red Circle. Created using: Traditional, Copic markers & pens."
 [[images]]
-                      src = "/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg"
-                      alt = "/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg"
-                      stretch = "cover"
+              src = "/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg"
+              href = "/blog/space-warfare-development-week-3-66c9"
+              alt = "Harbinger"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" >}}
+{{< fancybox path="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" file="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Traditional, Copic markers & pens**.
@@ -34,7 +36,7 @@ Kill everything they see."
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week:           3
 Title:              "Harbinger"
 Medium:       Traditional, Copic markers & pens

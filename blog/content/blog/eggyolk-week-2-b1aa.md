@@ -2,16 +2,18 @@
 title =       "Jormungandr"
 author =      "eggyolk"
 date =        "2021-01-16"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["eggyolk"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["eggyolk"]
+description = "by eggyolk for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-                      src = "/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/eggyolk-week-2-b1aa"
+              alt = "Jormungandr"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png" file="/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
@@ -32,7 +34,7 @@ urmom2.0
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: Jormungandr
 Medium: Procreate

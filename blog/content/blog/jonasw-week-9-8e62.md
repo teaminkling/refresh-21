@@ -2,16 +2,18 @@
 title =       "Important Dream"
 author =      "jonasw"
 date =        "2021-03-03"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["jonasw"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["jonasw"]
+description = "by jonasw for week 9: Bold Strokes. Created using: Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)."
 [[images]]
-                      src = "/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg"
-                      alt = "/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg"
-                      stretch = "cover"
+              src = "/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg"
+              href = "/blog/jonasw-week-9-8e62"
+              alt = "Important Dream"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" file="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)**.
@@ -30,7 +32,7 @@ Katamari Damacy (Song) Fanart, wanted something big and bright and cheerful. Als
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title: Important Dream
 Medium: Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)

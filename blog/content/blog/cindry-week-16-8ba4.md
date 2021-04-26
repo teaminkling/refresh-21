@@ -2,16 +2,18 @@
 title =       "ooh shit"
 author =      "cindry"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["cindry"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["cindry"]
+description = "by cindry for week 16: Scaling Giants. Created using: digital painting on photograph, CSP."
 [[images]]
-                      src = "/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg"
-                      alt = "/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg"
-                      stretch = "cover"
+              src = "/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg"
+              href = "/blog/cindry-week-16-8ba4"
+              alt = "ooh shit"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" >}}
+{{< fancybox path="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" file="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph, CSP**.
@@ -22,10 +24,10 @@ hey you should read kaiju no.8 its really good and big things are really cool!!!
 
 ## Social Media
 
-- **Twitter**: [fiveclawd]()
-- **Instagram**: [fiveclawd]()
-- **Twitch**: [cindrytuna]()
-- **Twitter**: [cindrytuna]()
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ hey you should read kaiju no.8 its really good and big things are really cool!!!
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 **Title:  ooh shit**
 Medium: digital painting on photograph, CSP

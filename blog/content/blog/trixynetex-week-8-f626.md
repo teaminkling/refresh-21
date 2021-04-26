@@ -2,16 +2,18 @@
 title =       "The Herald"
 author =      "TrixyNetex"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 8: High Sheen. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png"
-                      alt = "/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png"
+              href = "/blog/trixynetex-week-8-f626"
+              alt = "The Herald"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" >}}
+{{< fancybox path="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" file="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Sketchbook Pro**.
@@ -38,7 +40,7 @@ Also, the texture from the original picture was used in the hat/disc, the stream
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 **Title:  The Herald**
 Medium: Sketchbook Pro

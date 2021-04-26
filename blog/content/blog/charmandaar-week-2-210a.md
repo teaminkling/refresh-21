@@ -2,16 +2,18 @@
 title =       "felix, the jellyfish"
 author =      "Charmandaar"
 date =        "2021-01-15"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Charmandaar"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Charmandaar"]
+description = "by Charmandaar for week 2: Deep Ocean. Created using: traditional, embroidery on tulle."
 [[images]]
-                      src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png"
-                      alt = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png"
-                      stretch = "cover"
+              src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png"
+              href = "/blog/charmandaar-week-2-210a"
+              alt = "felix, the jellyfish"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" >}}
+{{< fancybox path="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **traditional, embroidery on tulle**.
@@ -22,9 +24,9 @@ embroidered this cutie across two streams! freehanded off.. a questionable draft
 
 ## Social Media
 
-- **Twitch**: [charmandaar]()
-- **Instagram**: [charmandaar_]()
-- **Twitter**: [charmandaar_]()
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ embroidered this cutie across two streams! freehanded off.. a questionable draft
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 **Title: felix, the jellyfish**
 Medium: traditional, embroidery on tulle

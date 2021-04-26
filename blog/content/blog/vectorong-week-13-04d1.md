@@ -2,18 +2,20 @@
 title =       "Then She Fell”"
 author =      "vectorong"
 date =        "2021-04-02"
-categories =  ["Week 13: Look At Me"]
-tags =        ["vectorong"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["vectorong"]
+description = "by vectorong for week 13: Look At Me. Created using: Mixed media (plaster strips, paper clay, paint), Photoshop."
 [[images]]
-                      src = "/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg"
-                      alt = "/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg"
-                      stretch = "cover"
+              src = "img/video-placeholder.png"
+              href = "/blog/vectorong-week-13-04d1"
+              alt = "Then She Fell”"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" >}}
 
-{{< fancybox path="/" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" >}}
 
 {{< youtube lkYeBXXHgY4 >}}
 
@@ -34,8 +36,8 @@ lol and here's the front of the mask since it's hard to see in the lighting of t
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -44,7 +46,7 @@ lol and here's the front of the mask since it's hard to see in the lighting of t
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 13
 Title: "Then She Fell”
 Medium: Mixed media (plaster strips, paper clay, paint), Photoshop

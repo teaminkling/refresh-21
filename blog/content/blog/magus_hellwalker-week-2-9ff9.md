@@ -2,13 +2,18 @@
 title =       "Temple discovery"
 author =      "Magus_Hellwalker"
 date =        "2021-01-18"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Magus_Hellwalker"]
-
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Magus_Hellwalker"]
+description = "by Magus_Hellwalker for week 2: Deep Ocean. Created using: 3D Digital."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/magus_hellwalker-week-2-9ff9"
+              alt = "Temple discovery"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/magus_hellwalker/2021-01-17+77078e4e8d705cc66174d3e6e4fcf6e7.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/magus_hellwalker/2021-01-17+77078e4e8d705cc66174d3e6e4fcf6e7.mp4" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **3D Digital**.
@@ -19,7 +24,7 @@ Using Blender 3D I created the Greek temple about 6 years ago and always had a v
 
 ## Social Media
 
-- **Twitch**: [magus_hellwalker]()
+- **Twitch**: <a href='https://twitch.tv/magus_hellwalker' target='_blank'>magus_hellwalker</a>
 
 
 ## Other
@@ -28,7 +33,7 @@ Using Blender 3D I created the Greek temple about 6 years ago and always had a v
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2 ( I know I'm behind, arting is not my thing)
 Title:  Temple discovery
 Medium: 3D Digital 

@@ -2,16 +2,18 @@
 title =       "Here we go again"
 author =      "jumpingbeans"
 date =        "2021-01-30"
-categories =  ["Week 05: Royal Green"]
-tags =        ["jumpingbeans"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 5: Royal Green. Created using: Installation."
 [[images]]
-                      src = "/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg"
-                      alt = "/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg"
-                      stretch = "cover"
+              src = "/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg"
+              href = "/blog/jumpingbeans-week-5-328d"
+              alt = "Here we go again"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Installation**.
@@ -26,8 +28,8 @@ Media:
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ Media:
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week:  5
 Title:  Here we go again
 Medium: "Installation"

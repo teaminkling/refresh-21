@@ -2,16 +2,18 @@
 title =       "unspoken words of affirmation"
 author =      "Charmandaar"
 date =        "2021-03-25"
-categories =  ["Week 12: Visual Words"]
-tags =        ["Charmandaar"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["Charmandaar"]
+description = "by Charmandaar for week 12: Visual Words. Created using: procreate."
 [[images]]
-                      src = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png"
-                      alt = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png"
-                      stretch = "cover"
+              src = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png"
+              href = "/blog/charmandaar-week-12-9763"
+              alt = "unspoken words of affirmation"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" >}}
+{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" file="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **procreate**.
@@ -26,9 +28,9 @@ not sure if this counts as typography hahaha oOPs but uhh i really like writing 
 
 ## Social Media
 
-- **Twitch**: [charmandaar]()
-- **Instagram**: [charmandaar_]()
-- **Twitter**: [charmandaar_]()
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ not sure if this counts as typography hahaha oOPs but uhh i really like writing 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 12
 Title: **unspoken words of affirmation**
 Medium: procreate

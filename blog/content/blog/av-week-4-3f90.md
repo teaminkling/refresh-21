@@ -2,16 +2,18 @@
 title =       "Snap Shot 1"
 author =      "av"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["av"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["av"]
+description = "by av for week 4: Murky Silhouettes. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg"
-                      alt = "/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg"
-                      stretch = "cover"
+              src = "/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg"
+              href = "/blog/av-week-4-3f90"
+              alt = "Snap Shot 1"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" >}}
+{{< fancybox path="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.
@@ -30,7 +32,7 @@ OKAY so this is a snapshot of life. There is a little darkness and a little ligh
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: Week 4
 Title: Snap Shot 1 
 Medium: Clip Studio Paint

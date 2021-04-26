@@ -2,16 +2,18 @@
 title =       "Slice of Life"
 author =      "DynoLoafer"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 6: Simple Love. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png"
-                      alt = "/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png"
+              href = "/blog/dynoloafer-week-6-f33c"
+              alt = "Slice of Life"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" file="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ Cutting close again, wowie! Oh well, I like how this came out even if it's just 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Medium: Paint Tool SAI
 Title: __Slice of Life__

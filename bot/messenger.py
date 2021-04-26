@@ -104,9 +104,12 @@ def do_dump_all_messages():
             for attachment in message.attachments:
                 author_directory: str = os.path.join(
                     "../blog/static/img",
-                    message.author.name.encode("ascii", "ignore").decode().lower().replace(
-                        " ", "_"
-                    ),
+                    message.author.name.encode("ascii", "ignore")
+                    .decode()
+                    .lower()
+                    .replace(" ", "_")
+                    .replace("(", "")
+                    .replace(")", ""),
                 )
 
                 # Dynamic directory generation.
@@ -123,7 +126,9 @@ def do_dump_all_messages():
 
                 extension: str = attachment.filename.split(".")[-1]
 
-                local_path: str = os.path.join(author_directory, f"{filename}.{extension}")
+                local_path: str = os.path.join(
+                    author_directory, f"{filename}.{extension}"
+                )
 
                 if not os.path.exists(local_path):
                     with open(local_path, "wb") as attachment_file:

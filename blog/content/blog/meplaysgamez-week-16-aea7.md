@@ -2,16 +2,18 @@
 title =       "Dynames"
 author =      "meplaysgamez"
 date =        "2021-04-25"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["meplaysgamez"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["meplaysgamez"]
+description = "by meplaysgamez for week 16: Scaling Giants. Created using: Photography + free photo edit thing again lmao."
 [[images]]
-                      src = "/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/meplaysgamez-week-16-aea7"
+              alt = "Dynames"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photography + free photo edit thing again lmao**.
@@ -30,7 +32,7 @@ Gundam Dynames with Lockon Stratos as pilot. idk lol
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: Dynames
 Medium: Photography + free photo edit thing again lmao

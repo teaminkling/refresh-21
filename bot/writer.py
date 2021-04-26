@@ -9,9 +9,7 @@ GITHUB_REPO_URL: str = "https://github.com/teaminkling/web-refresh"
 
 GITHUB_EDIT_URL: str = f"{GITHUB_REPO_URL}/edit/main/blog/content/blog/"
 
-GITHUB_BUG_URL: str = (
-    f"{GITHUB_REPO_URL}/issues/new?assignees=&labels=bug&template=problem-report.md&title="
-)
+GITHUB_BUG_URL: str = f"{GITHUB_REPO_URL}/issues/new?assignees=&labels=bug&template=problem-report.md&title="
 
 VISUAL_MEDIA_TEMPLATE: str = """
 <a href="<!IMAGE_SRC>"
@@ -32,8 +30,9 @@ FRONTMATTER: str = f"""
 title =       "<!TITLE>"
 author =      "<!AUTHOR>"
 date =        "<!SUBMITTED_DATE>"
-categories =  ["<!THEME>"]
-tags =        ["<!AUTHOR>"]
+themes =      ["<!THEME>"]
+artists =     ["<!AUTHOR>"]
+description = "<!SHORT_DESCRIPTION>"
 <!PREVIEW>
 +++
 
@@ -55,10 +54,12 @@ Week <!WEEK>: **<!THEME_ONLY>**. This art was lovingly created using: **<!MEDIUM
 - Create [a bug ticket]({GITHUB_BUG_URL}) for the developer.
 - Parsed source from Discord is as follows:
 
-{{{{< highlight markdown >}}}}
+{{{{< highlight txt >}}}}
 <!RAW_DESCRIPTION>
 {{{{< /highlight >}}}}
 """.strip()
+
+VALID_INSTANT_THUMBNAILS = ("png", "jpg", "svg", "jpeg", "bmp", "gif")
 
 
 WEEK_TO_THEME_MAP: Dict[int, str] = {
@@ -94,97 +95,176 @@ def create_all_posts():
             # Extract some shorthand information.
 
             week_number: int = submission["week"]
-            theme_name: str = WEEK_TO_THEME_MAP[submission['week']]
+            theme_name: str = WEEK_TO_THEME_MAP[submission["week"]]
             short_author: str = submission["author"][:-5]
             description: str = submission["description"]
             medium: str = submission["medium"] or "unknown medium"
 
             # Handle invalid values.
 
-            title = submission["title"].replace("_", "").replace("*", "").replace('"', "")
+            title = (
+                submission["title"].replace("_", "").replace("*", "").replace('"', "")
+            )
+
             medium = medium.replace('"', "")
 
-            # Determine a short description.
+            # Determine a short description. This is only used in the search interface.
 
             short_description: str = (
-                f"\\\"{title}\\\" is a work by {short_author} for week {week_number}: "
-                f"{theme_name}. This art was lovingly-created using medium: {medium}."
+                f"by {short_author} for week {week_number}: {theme_name}. Created using: {medium}."
             )
 
             # Determine the media to show.
 
-            # TODO: all of these require a thumbnail image of some sort.
-            #       images and gifs are easy, but videos we need to "get" a thumbnail for as well
-            #       as youtube, vimeo, and others. Is it even possible?
-
             attachment_text: str = ""
             thumbnail: str = ""
             for attachment in submission["attachments"]:
-                if "blog/static" in attachment:
-                    # TODO: PDF handling.
+                # First, make the path relative to the blog and not the bot.
 
-                    attachment = attachment.replace("../blog/static", "")
+                attachment = attachment.replace("../blog/static", "")
 
-                    attachment_text += (
-                        "\n{{< fancybox path=\"/\" file=\"" + attachment + "\" >}}\n"
+                # The first found media is the thumbnail.
+
+                if not thumbnail:
+                    thumbnail = attachment
+
+                if "img/" in attachment:
+                    # This is a local file so we can display it with a fancybox. However,
+                    # the thumbnail might not appear before we click it so we need to set
+                    # placeholders if they are not render-able.
+
+                    # Allow explosion if there's no "." in the filename.
+
+                    extension: str = attachment.split(".")[-1].lower()
+                    old_extension: str = (
+                        thumbnail.split(".")[-1].lower() if "." in thumbnail else ""
                     )
 
-                    thumbnail = attachment
+                    # Overwrite thumbnail with image if the current attachment is one and there
+                    # isn't an image attachment thumbnail already.
+
+                    if extension in VALID_INSTANT_THUMBNAILS:
+                        if old_extension not in VALID_INSTANT_THUMBNAILS:
+                            thumbnail = attachment
+
+                        attachment_text += (
+                            '\n{{< fancybox path="'
+                            + attachment
+                            + '" file="'
+                            + attachment
+                            + '" >}}\n'
+                        )
+                    elif extension in ("mp4", "mov", "swf"):
+                        if old_extension not in VALID_INSTANT_THUMBNAILS:
+                            thumbnail = "img/video-placeholder.png"
+
+                        attachment_text += (
+                            '\n{{< fancybox path="img/video-placeholder.png" file="'
+                            + attachment
+                            + '" >}}\n'
+                        )
+                    elif extension in ("mp3", "wav", "ogg"):
+                        if old_extension not in VALID_INSTANT_THUMBNAILS:
+                            thumbnail = "img/audio-placeholder.png"
+
+                        attachment_text += (
+                            '\n{{< fancybox path="img/audio-placeholder.png" file="'
+                            + attachment
+                            + '" >}}\n'
+                        )
+                    else:
+                        if old_extension not in VALID_INSTANT_THUMBNAILS:
+                            thumbnail = "img/other-placeholder.png"
+
+                        attachment_text += (
+                            '\n{{< fancybox path="img/other-placeholder.png" file="'
+                            + attachment
+                            + '" >}}\n'
+                        )
                 elif "youtu.be" in attachment:
                     code: str = attachment.split("/")[-1]
                     code = code.split("?")[0]
 
                     attachment_text += "\n{{< youtube " + code + " >}}\n"
+                    thumbnail = "img/video-placeholder.png"
                 elif "youtube.com" in attachment:
                     code: str = attachment.split("=")[-1]
                     code = code.split("?")[0]
 
                     attachment_text += "\n{{< youtube " + code + " >}}\n"
+                    thumbnail = "img/video-placeholder.png"
                 elif "vimeo" in attachment:
                     code: str = attachment.split("/")[-1]
                     code = code.split("?")[0]
 
                     attachment_text += "\n{{< vimeo " + code + " >}}\n"
+                    thumbnail = "img/video-placeholder.png"
                 elif "soundcloud" in attachment:
                     attachment_text += f"\n[View on SoundCloud.]({attachment})\n"
+                    thumbnail = "img/audio-placeholder.png"
                 elif "itch.io" in attachment:
                     attachment_text += f"\n[View on Itch.]({attachment})\n"
+                    thumbnail = "img/other-placeholder.png"
                 elif "imgur" in attachment:
                     attachment_text += f"\n[View on Imgur.]({attachment})\n"
+                    thumbnail = "img/other-placeholder.png"
                 elif "docs.google.com" in attachment:
                     attachment_text += f"\n[View on Google Docs.]({attachment})\n"
+                    thumbnail = "img/other-placeholder.png"
                 elif "webtoons.com" in attachment:
                     attachment_text += f"\n[View on Webtoons.]({attachment})\n"
+                    thumbnail = "img/other-placeholder.png"
                 else:
                     attachment_text += f"\n[View on External Website.]({attachment})\n"
+                    thumbnail = "img/other-placeholder.png"
 
-            # Handle thumbnail types and edit the title if required.
+            if not submission["attachments"]:
+                thumbnail = "img/other-placeholder.png"
 
-            thumbnail_text: str = ""
-            if thumbnail and "." in thumbnail:
-                extension: str = thumbnail.split(".")[-1]
+                attachment_text += "## Poetry/Prose\n\n"
+                attachment_text += "{{< highlight txt >}}\n"
+                attachment_text += description.strip()
+                attachment_text += "\n{{< /highlight >}}"
 
-                if extension in ("png", "jpg", "svg", "jpeg", "bmp", "gif"):
-                    thumbnail_text = f"""
-                    [[images]]
-                      src = "{thumbnail}"
-                      alt = "{thumbnail}"
-                      stretch = "cover"
-                    """.strip()
-                else:
-                    pass  # TODO
+            thumbnail_text = f"""
+            [[images]]
+              src = "{thumbnail}"
+              href = "/blog/{submission['id']}"
+              alt = "{title}"
+              stretch = "cover"
+            """.strip()
 
             # Handle socials.
 
-            user_socials: List[dict] = parsed_json["users"].get(submission["author"], [])
+            user_socials: List[dict] = parsed_json["users"].get(
+                submission["author"], []
+            )
 
             socials_text: str = ""
             for social in user_socials:
                 provider: str = social["provider"]
                 username: str = social["username"]
 
-                socials_text += f"- **{provider}**: [{username}]()\n"
+                # Handle parsed but invalid socials:
 
+                if provider.lower() == "everywhere":
+                    continue
+
+                # Handle other social providers:
+
+                # tumblr, instagram, twitch, twitter
+
+                link: str = "#"
+                if provider.lower() == "tumblr":
+                    link = f"https://{username}.tumblr.com"
+                elif provider.lower() == "instagram":
+                    link = f"https://instagram.com/{username}"
+                elif provider.lower() == "twitter":
+                    link = f"https://twitter.com/{username}"
+                elif provider.lower() == "twitch":
+                    link = f"https://twitch.tv/{username}"
+
+                socials_text += f"- **{provider}**: <a href='{link}' target='_blank'>{username}</a>\n"
             if not socials_text:
                 socials_text = "- N/A."
 
@@ -197,7 +277,7 @@ def create_all_posts():
                 .replace("<!SUBMITTED_DATE>", submission["created_at"])
                 .replace(
                     "<!THEME>",
-                    f"Week {submission['week']:02d}: {WEEK_TO_THEME_MAP[submission['week']]}"
+                    f"Week {submission['week']:02d}: {WEEK_TO_THEME_MAP[submission['week']]}",
                 )
                 .replace("<!WEEK>", str(week_number))
                 .replace("<!MEDIUM>", medium)
@@ -205,7 +285,7 @@ def create_all_posts():
                 .replace("<!SOCIALS>", socials_text)
                 .replace("<!DESCRIPTION>", description)
                 .replace("<!RAW_DESCRIPTION>", submission["raw_content"])
-                .replace("<!THEME_ONLY>", WEEK_TO_THEME_MAP[submission['week']])
+                .replace("<!THEME_ONLY>", WEEK_TO_THEME_MAP[submission["week"]])
                 .replace("<!MEDIA>", attachment_text)
                 .replace("<!IMG_SRC>", thumbnail)
                 .replace("<!PREVIEW>", thumbnail_text)

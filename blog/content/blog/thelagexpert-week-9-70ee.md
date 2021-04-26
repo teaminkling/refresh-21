@@ -2,16 +2,18 @@
 title =       "Welcome to the brave new world of me"
 author =      "TheLagExpert"
 date =        "2021-03-06"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["TheLagExpert"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["TheLagExpert"]
+description = "by TheLagExpert for week 9: Bold Strokes. Created using: Affinity photo."
 [[images]]
-                      src = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg"
-                      alt = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg"
-                      stretch = "cover"
+              src = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg"
+              href = "/blog/thelagexpert-week-9-70ee"
+              alt = "Welcome to the brave new world of me"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" >}}
+{{< fancybox path="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" file="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Affinity photo**.
@@ -22,7 +24,7 @@ My new year resolution in 2021 was to start a new chapter after the long and exh
 
 ## Social Media
 
-- **Instagram**: [billelhambli]()
+- **Instagram**: <a href='https://instagram.com/billelhambli' target='_blank'>billelhambli</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ My new year resolution in 2021 was to start a new chapter after the long and exh
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title: Welcome to the brave new world of me
 Medium: Affinity photo 

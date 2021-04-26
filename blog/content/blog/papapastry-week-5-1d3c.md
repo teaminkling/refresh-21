@@ -2,9 +2,14 @@
 title =       "Big Green Dragon Kingdom"
 author =      "papapastry"
 date =        "2021-02-05"
-categories =  ["Week 05: Royal Green"]
-tags =        ["papapastry"]
-
+themes =      ["Week 05: Royal Green"]
+artists =     ["papapastry"]
+description = "by papapastry for week 5: Royal Green. Created using: Music/Ableton Live 10 Suite."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/papapastry-week-5-1d3c"
+              alt = "Big Green Dragon Kingdom"
+              stretch = "cover"
 +++
 
 
@@ -23,8 +28,8 @@ Link: https://www.youtube.com/watch?v=DTR0npqq0c4
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -33,7 +38,7 @@ Link: https://www.youtube.com/watch?v=DTR0npqq0c4
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 5
 **Title:** Big Green Dragon Kingdom
 **Description:**

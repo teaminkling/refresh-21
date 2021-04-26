@@ -2,16 +2,18 @@
 title =       "Prince Backey"
 author =      "Bell-Bones"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 10: Folds and Folds. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png"
-                      alt = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png"
+              href = "/blog/bell-bones-week-10-a407"
+              alt = "Prince Backey"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" >}}
+{{< fancybox path="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ Ok, so,, I didn't feel like shading, but partially colored lines are cool, right
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Ok, so,, I didn't feel like shading, but partially colored lines are cool, right
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 Title: Prince Backey
 Medium: FireAlpaca

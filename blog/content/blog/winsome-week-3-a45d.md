@@ -2,16 +2,18 @@
 title =       "Out of Your Depth"
 author =      "winsome"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["winsome"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["winsome"]
+description = "by winsome for week 3: Red Circle. Created using: Digital (Photopea)."
 [[images]]
-                      src = "/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png"
-                      alt = "/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png"
-                      stretch = "cover"
+              src = "/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png"
+              href = "/blog/winsome-week-3-a45d"
+              alt = "Out of Your Depth"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png" >}}
+{{< fancybox path="/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png" file="/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital (Photopea)**.
@@ -22,8 +24,8 @@ missed the week 2 prompt but wanted to work on the idea. Been thinking about run
 
 ## Social Media
 
-- **Twitch**: [winsomeorc]()
-- **Twitter**: [winsomeorc]()
+- **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
+- **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ missed the week 2 prompt but wanted to work on the idea. Been thinking about run
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title: Out of Your Depth
 Medium: Digital (Photopea)

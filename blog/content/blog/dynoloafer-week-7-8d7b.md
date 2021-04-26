@@ -2,16 +2,18 @@
 title =       "The Sandstorm"
 author =      "DynoLoafer"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 7: Disturbed Desert. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png"
-                      alt = "/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png"
+              href = "/blog/dynoloafer-week-7-8d7b"
+              alt = "The Sandstorm"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" file="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Paint Tool SAI**.
@@ -32,7 +34,7 @@ This sandstorm is fogging up my judgement. I can't even see you. I can't even se
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Medium: Paint Tool SAI
 Title: __The Sandstorm__

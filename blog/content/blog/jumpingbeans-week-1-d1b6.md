@@ -2,13 +2,18 @@
 title =       "Bowl"
 author =      "jumpingbeans"
 date =        "2021-01-02"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["jumpingbeans"]
-
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 1: Yellow Lines. Created using: MS Paint."
+[[images]]
+              src = "/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG"
+              href = "/blog/jumpingbeans-week-1-d1b6"
+              alt = "Bowl"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" file="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **MS Paint**.
@@ -19,8 +24,8 @@ simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -29,7 +34,7 @@ simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Title: Bowl**
 Medium: MS Paint
 Description: simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS Paint, the yellow used to demonstrate the 3 dimensionality of bowl... aaaa theres a cat in it .... oh welp if it fits, it sits ¯\_(ツ)_/¯

@@ -2,9 +2,14 @@
 title =       "Tamago Tama"
 author =      "papapastry"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["papapastry"]
-
+themes =      ["Week 03: Red Circle"]
+artists =     ["papapastry"]
+description = "by papapastry for week 3: Red Circle. Created using: Audio (Ableton Live 10)."
+[[images]]
+              src = "img/audio-placeholder.png"
+              href = "/blog/papapastry-week-3-31f0"
+              alt = "Tamago Tama"
+              stretch = "cover"
 +++
 
 
@@ -29,8 +34,8 @@ https://soundcloud.com/papapastry/tamago-tama-2021designrefresh
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -39,7 +44,7 @@ https://soundcloud.com/papapastry/tamago-tama-2021designrefresh
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 3
 **Title:** Tamago Tama
 **Medium:** Audio (Ableton Live 10)

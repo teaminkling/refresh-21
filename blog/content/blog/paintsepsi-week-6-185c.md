@@ -2,18 +2,20 @@
 title =       "It's Not Living (If It's Not With You)"
 author =      "paintsepsi"
 date =        "2021-02-06"
-categories =  ["Week 06: Simple Love"]
-tags =        ["paintsepsi"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["paintsepsi"]
+description = "by paintsepsi for week 6: Simple Love. Created using: Photoshop."
 [[images]]
-                      src = "/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png"
-                      alt = "/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png"
-                      stretch = "cover"
+              src = "/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png"
+              href = "/blog/paintsepsi-week-6-185c"
+              alt = "It's Not Living (If It's Not With You)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" file="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" >}}
 
-{{< fancybox path="/" file="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" file="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.
@@ -24,10 +26,9 @@ I wanted to do a non paint style for this one and was hugely hugely inspired by 
 
 ## Social Media
 
-- **Instagram**: [paintsepsi]()
-- **Twitter**: [paintsepsi]()
-- **Twitch**: [paintsepsi]()
-- **Everywhere**: [paintsepsi]()
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
 
 
 ## Other
@@ -36,7 +37,7 @@ I wanted to do a non paint style for this one and was hugely hugely inspired by 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: It's Not Living (If It's Not With You)
 Medium: Photoshop

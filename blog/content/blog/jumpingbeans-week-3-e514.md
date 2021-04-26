@@ -2,16 +2,18 @@
 title =       "Untitled (society)"
 author =      "jumpingbeans"
 date =        "2021-01-17"
-categories =  ["Week 03: Red Circle"]
-tags =        ["jumpingbeans"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 3: Red Circle. Created using: autodesk sketchbook (mobile)."
 [[images]]
-                      src = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png"
-                      alt = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png"
-                      stretch = "cover"
+              src = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png"
+              href = "/blog/jumpingbeans-week-3-e514"
+              alt = "Untitled (society)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png" >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png" file="/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **autodesk sketchbook (mobile)**.
@@ -26,8 +28,8 @@ bonus points for whoever could guess my inspiration :p
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ bonus points for whoever could guess my inspiration :p
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title:  Untitled (society) 
 Medium: autodesk sketchbook (mobile) 

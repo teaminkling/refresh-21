@@ -2,9 +2,14 @@
 title =       "The Island"
 author =      "papapastry"
 date =        "2021-03-19"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["papapastry"]
-
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["papapastry"]
+description = "by papapastry for week 11: Atmosphere Spectrum. Created using: Music."
+[[images]]
+              src = "img/audio-placeholder.png"
+              href = "/blog/papapastry-week-11-eb4c"
+              alt = "The Island"
+              stretch = "cover"
 +++
 
 
@@ -27,8 +32,8 @@ Spotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76Kt
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -37,7 +42,7 @@ Spotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76Kt
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 11
 **Title:** The Island
 **Medium:** Music

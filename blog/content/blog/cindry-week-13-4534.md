@@ -2,18 +2,20 @@
 title =       "im dying btw"
 author =      "cindry"
 date =        "2021-04-03"
-categories =  ["Week 13: Look At Me"]
-tags =        ["cindry"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["cindry"]
+description = "by cindry for week 13: Look At Me. Created using: digital, CSP and SAI."
 [[images]]
-                      src = "/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png"
-                      alt = "/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png"
-                      stretch = "cover"
+              src = "/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png"
+              href = "/blog/cindry-week-13-4534"
+              alt = "im dying btw"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" >}}
+{{< fancybox path="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" file="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" >}}
 
-{{< fancybox path="/" file="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" >}}
+{{< fancybox path="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" file="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **digital, CSP and SAI**.
@@ -26,10 +28,10 @@ i think this has inspired me to do more 4komas tho in the future!!! i really lik
 
 ## Social Media
 
-- **Twitter**: [fiveclawd]()
-- **Instagram**: [fiveclawd]()
-- **Twitch**: [cindrytuna]()
-- **Twitter**: [cindrytuna]()
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 
 ## Other
@@ -38,7 +40,7 @@ i think this has inspired me to do more 4komas tho in the future!!! i really lik
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 
 
 

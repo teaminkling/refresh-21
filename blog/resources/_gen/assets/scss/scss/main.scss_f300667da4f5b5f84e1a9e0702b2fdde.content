@@ -973,9 +973,7 @@ figcaption {
   display: flex;
   flex-direction: column;
   margin-top: 0.5em;
-  padding: 1em;
-  padding-left: 3em;
-  padding-right: 3em;
+  padding: 3em;
   text-align: center; }
   #site-intro a {
     border: 0; }

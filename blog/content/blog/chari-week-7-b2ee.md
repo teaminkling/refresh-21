@@ -2,16 +2,18 @@
 title =       "Academy, Disrepair"
 author =      "chari"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["chari"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["chari"]
+description = "by chari for week 7: Disturbed Desert. Created using: Digital, Clip Studio Paint."
 [[images]]
-                      src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg"
-                      alt = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg"
-                      stretch = "cover"
+              src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg"
+              href = "/blog/chari-week-7-b2ee"
+              alt = "Academy, Disrepair"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" >}}
+{{< fancybox path="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" file="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital, Clip Studio Paint**.
@@ -22,7 +24,7 @@ Sort of a composition exercise since I don't normally draw backgrounds. Couldn't
 
 ## Social Media
 
-- **Twitter**: [hogfriendz]()
+- **Twitter**: <a href='https://twitter.com/hogfriendz' target='_blank'>hogfriendz</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ Sort of a composition exercise since I don't normally draw backgrounds. Couldn't
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title: Academy, Disrepair
 Medium: Digital, Clip Studio Paint

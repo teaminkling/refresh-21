@@ -2,16 +2,18 @@
 title =       "green eyed girl"
 author =      "fonz"
 date =        "2021-02-06"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["fonz"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["fonz"]
+description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 [[images]]
-                      src = "/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png"
-                      alt = "/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png"
-                      stretch = "cover"
+              src = "/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png"
+              href = "/blog/fonz-week-4-ad79"
+              alt = "green eyed girl"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" >}}
+{{< fancybox path="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" file="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
@@ -22,7 +24,7 @@ another last minute entry  <:wow:649902323191119882>  really just wanted to expl
 
 ## Social Media
 
-- **Twitch**: [fonzaku]()
+- **Twitch**: <a href='https://twitch.tv/fonzaku' target='_blank'>fonzaku</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ another last minute entry  <:wow:649902323191119882>  really just wanted to expl
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: green eyed girl
 Medium: csp

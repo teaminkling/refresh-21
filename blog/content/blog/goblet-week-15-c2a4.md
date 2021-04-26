@@ -2,16 +2,18 @@
 title =       "Tightrope banana."
 author =      "Goblet"
 date =        "2021-04-16"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["Goblet"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["Goblet"]
+description = "by Goblet for week 15: Back to Basics. Created using: Paper, permanent marker.."
 [[images]]
-                      src = "/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg"
-                      alt = "/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg"
-                      stretch = "cover"
+              src = "/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg"
+              href = "/blog/goblet-week-15-c2a4"
+              alt = "Tightrope banana."
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" >}}
+{{< fancybox path="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" file="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paper, permanent marker.**.
@@ -22,8 +24,8 @@ Sorry, life happened and I forgot. Here take this shitpost instead. Balance!
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Sorry, life happened and I forgot. Here take this shitpost instead. Balance!
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title: Tightrope banana. 
 Medium: Paper, permanent marker. 

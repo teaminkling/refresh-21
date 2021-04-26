@@ -2,18 +2,20 @@
 title =       "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
 author =      "vectorong"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["vectorong"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["vectorong"]
+description = "by vectorong for week 10: Folds and Folds. Created using: Fabric / fashion (upcycled fabric, screenprinting, and sewing)."
 [[images]]
-                      src = "/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg"
-                      alt = "/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg"
+              href = "/blog/vectorong-week-10-c07e"
+              alt = "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" file="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" >}}
 
-{{< fancybox path="/" file="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" file="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Fabric / fashion (upcycled fabric, screenprinting, and sewing)**.
@@ -27,8 +29,8 @@ I also included a comparison image for fun and how you can use non-functionality
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ I also included a comparison image for fun and how you can use non-functionality
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 Title: "Boroboro Bobbin" pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)
 Medium: Fabric / fashion (upcycled fabric, screenprinting, and sewing)

@@ -2,16 +2,18 @@
 title =       "Dancing Cloud"
 author =      "Lithium"
 date =        "2021-01-28"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Lithium"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Lithium"]
+description = "by Lithium for week 4: Murky Silhouettes. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg"
-                      alt = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg"
+              href = "/blog/lithium-week-4-c9e7"
+              alt = "Dancing Cloud"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" >}}
+{{< fancybox path="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" file="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -24,9 +26,9 @@ IG/Tumblr lithiumreflections, Twitter jaimeskelton
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ IG/Tumblr lithiumreflections, Twitter jaimeskelton
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 **Title:  ** Dancing Cloud
 Medium: Digital (Clip Studio Paint)

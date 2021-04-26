@@ -1,0 +1,17 @@
+{{- if or .Params.images .Params.featured -}}
+  {{- $src := "" -}}
+  {{- $href := "" -}}
+  {{- if .Params.images -}}
+    {{- range first 1 .Params.images -}}
+      {{- $src = .src | absURL -}}
+      {{- $href = .href | absURL -}}
+    {{- end -}}
+  {{- end -}}
+
+  <figure style="padding: 0 !important; margin: 0 auto;">
+    <a href="{{ $href }}">
+      <img src="{{ $src }}" />
+    </a>
+  </figure>
+
+{{- end -}}

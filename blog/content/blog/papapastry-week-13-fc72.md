@@ -2,9 +2,14 @@
 title =       "Coming Up Spades"
 author =      "papapastry"
 date =        "2021-04-09"
-categories =  ["Week 13: Look At Me"]
-tags =        ["papapastry"]
-
+themes =      ["Week 13: Look At Me"]
+artists =     ["papapastry"]
+description = "by papapastry for week 13: Look At Me. Created using: Music/Ableton Live 11 Suite."
+[[images]]
+              src = "img/audio-placeholder.png"
+              href = "/blog/papapastry-week-13-fc72"
+              alt = "Coming Up Spades"
+              stretch = "cover"
 +++
 
 
@@ -29,8 +34,8 @@ Spotify/Apple Music/YouTube Music: "papapastry"
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -39,7 +44,7 @@ Spotify/Apple Music/YouTube Music: "papapastry"
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 14
 **Title:** Cindy Should Pay Me to Moderate
 **Medium:** Music/Ableton Live 11 Suite

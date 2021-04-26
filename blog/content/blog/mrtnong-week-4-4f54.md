@@ -2,16 +2,18 @@
 title =       "cat<a:B8vibe:776693937498095637>  (cant think of a title xd)"
 author =      "mrtnong"
 date =        "2021-01-26"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["mrtnong"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["mrtnong"]
+description = "by mrtnong for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-                      src = "/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg"
-                      alt = "/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg"
-                      stretch = "cover"
+              src = "/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg"
+              href = "/blog/mrtnong-week-4-4f54"
+              alt = "cat<a:B8vibe:776693937498095637>  (cant think of a title xd)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" >}}
+{{< fancybox path="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" file="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
@@ -24,8 +26,8 @@ It's my first time creating something graphic art-y I usually paint my stuff in 
 
 ## Social Media
 
-- **Instagram**: [mrtnong]()
-- **Twitch**: [mrtnong]()
+- **Twitch**: <a href='https://twitch.tv/mrtnong' target='_blank'>mrtnong</a>
+- **Instagram**: <a href='https://instagram.com/mrtnong' target='_blank'>mrtnong</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ It's my first time creating something graphic art-y I usually paint my stuff in 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: cat<a:B8_vibe:776693937498095637>  (cant think of a title xd)
 Medium: Procreate

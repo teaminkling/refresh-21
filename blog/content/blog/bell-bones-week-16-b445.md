@@ -2,16 +2,18 @@
 title =       "oof"
 author =      "Bell-Bones"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 16: Scaling Giants. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png"
-                      alt = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png"
+              href = "/blog/bell-bones-week-16-b445"
+              alt = "oof"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" file="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ This isn't up to the usual quality of what I make, but I wanted to do something 
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ This isn't up to the usual quality of what I make, but I wanted to do something 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: oof
 Medium: FireAlpaca

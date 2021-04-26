@@ -2,16 +2,18 @@
 title =       "Just a Peep"
 author =      "Boyf"
 date =        "2021-01-05"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["Boyf"]
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["Boyf"]
+description = "by Boyf for week 1: Yellow Lines. Created using: FireAlpaca64."
 [[images]]
-                      src = "/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png"
-                      alt = "/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png"
-                      stretch = "cover"
+              src = "/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png"
+              href = "/blog/boyf-week-1-b79d"
+              alt = "Just a Peep"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" >}}
+{{< fancybox path="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca64**.
@@ -22,7 +24,7 @@ I thought for a second, I didn't know what to do though I knew I wanted to use m
 
 ## Social Media
 
-- **Instagram**: [_daniluvsyou]()
+- **Instagram**: <a href='https://instagram.com/_daniluvsyou' target='_blank'>_daniluvsyou</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ I thought for a second, I didn't know what to do though I knew I wanted to use m
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week : 1
 Title: Just a Peep
 Medium: FireAlpaca64

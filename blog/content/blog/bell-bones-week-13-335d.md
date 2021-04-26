@@ -2,18 +2,20 @@
 title =       "OMORI AU"
 author =      "Bell-Bones"
 date =        "2021-04-02"
-categories =  ["Week 13: Look At Me"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 13: Look At Me. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png"
-                      alt = "/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png"
+              href = "/blog/bell-bones-week-13-335d"
+              alt = "OMORI AU"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" file="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" >}}
 
-{{< fancybox path="/" file="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" file="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **FireAlpaca**.
@@ -28,8 +30,8 @@ Also here's the template I used for this: https://www.reddit.com/r/OMORI/comment
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -38,7 +40,7 @@ Also here's the template I used for this: https://www.reddit.com/r/OMORI/comment
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 13
 Title: OMORI AU
 Medium: FireAlpaca

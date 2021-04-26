@@ -2,9 +2,14 @@
 title =       "Color factory"
 author =      "Goblet"
 date =        "2021-03-05"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["Goblet"]
-
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["Goblet"]
+description = "by Goblet for week 9: Bold Strokes. Created using: survival Minecraft."
+[[images]]
+              src = "img/other-placeholder.png"
+              href = "/blog/goblet-week-9-6e62"
+              alt = "Color factory"
+              stretch = "cover"
 +++
 
 
@@ -24,8 +29,8 @@ it's a statement because I was inspired by the Citarum river in Indonesia, most 
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -34,7 +39,7 @@ it's a statement because I was inspired by the Citarum river in Indonesia, most 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 https://docs.google.com/presentation/d/1CrUiHBniouCtC2vncknVcsFT4cf-kVRzb--YlfKXxWA/edit?usp=sharing
 
 Week: 9

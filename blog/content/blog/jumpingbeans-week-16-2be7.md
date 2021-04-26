@@ -2,16 +2,18 @@
 title =       "what is bigger, a giant bidoof or an individual's life?"
 author =      "jumpingbeans"
 date =        "2021-04-19"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["jumpingbeans"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 16: Scaling Giants. Created using: krita."
 [[images]]
-                      src = "/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png"
-                      alt = "/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png"
-                      stretch = "cover"
+              src = "/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png"
+              href = "/blog/jumpingbeans-week-16-2be7"
+              alt = "what is bigger, a giant bidoof or an individual's life?"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" file="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **krita**.
@@ -30,8 +32,8 @@ tl;dr beans (who cant draw) having existential dread
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -40,7 +42,7 @@ tl;dr beans (who cant draw) having existential dread
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: what is bigger, a giant bidoof or an individual's life? 
 Medium: krita

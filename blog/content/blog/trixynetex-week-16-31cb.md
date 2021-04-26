@@ -2,9 +2,14 @@
 title =       "Ozymandias"
 author =      "TrixyNetex"
 date =        "2021-04-22"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["TrixyNetex"]
-
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 16: Scaling Giants. Created using: Clip studio paint."
+[[images]]
+              src = "img/other-placeholder.png"
+              href = "/blog/trixynetex-week-16-31cb"
+              alt = "Ozymandias"
+              stretch = "cover"
 +++
 
 
@@ -32,7 +37,7 @@ https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titlen
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 **Title:  Ozymandias**
 Medium: Clip studio paint 

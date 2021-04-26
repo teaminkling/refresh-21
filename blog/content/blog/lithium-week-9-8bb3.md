@@ -2,16 +2,18 @@
 title =       "Berry Dragon"
 author =      "Lithium"
 date =        "2021-03-03"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["Lithium"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["Lithium"]
+description = "by Lithium for week 9: Bold Strokes. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg"
-                      alt = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg"
+              href = "/blog/lithium-week-9-8bb3"
+              alt = "Berry Dragon"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" >}}
+{{< fancybox path="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" file="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -24,9 +26,9 @@ twitter lireflections, IG/tumblr lithiumreflections
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ twitter lireflections, IG/tumblr lithiumreflections
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 **Title:  ** Berry Dragon
 Medium: Digital (Clip Studio Paint)

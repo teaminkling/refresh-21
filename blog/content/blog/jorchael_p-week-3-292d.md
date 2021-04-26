@@ -2,16 +2,18 @@
 title =       "'0"
 author =      "jorchael_p"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["jorchael_p"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["jorchael_p"]
+description = "by jorchael_p for week 3: Red Circle. Created using: Photoshop."
 [[images]]
-                      src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"
-                      alt = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"
-                      stretch = "cover"
+              src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"
+              href = "/blog/jorchael_p-week-3-292d"
+              alt = "'0"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photoshop**.
@@ -24,8 +26,8 @@ Didn't know what to draw so I drew something horny, sorry. She sure has a lot of
 
 ## Social Media
 
-- **Twitter**: [jorchaelp]()
-- **Instagram**: [jrchlp.png]()
+- **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
+- **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ Didn't know what to draw so I drew something horny, sorry. She sure has a lot of
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title: :'0
 Medium: Photoshop

@@ -2,16 +2,18 @@
 title =       "Fixation"
 author =      "vectorong"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["vectorong"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["vectorong"]
+description = "by vectorong for week 8: High Sheen. Created using: Photoshop."
 [[images]]
-                      src = "/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg"
-                      alt = "/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg"
+              href = "/blog/vectorong-week-8-0f99"
+              alt = "Fixation"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" file="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
@@ -22,8 +24,8 @@ A visual ode to my need for repetitious tasks and the nonsensical thoughts that 
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ A visual ode to my need for repetitious tasks and the nonsensical thoughts that 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: Fixation
 Medium: Photoshop

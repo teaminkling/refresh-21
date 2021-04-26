@@ -1,17 +1,19 @@
 +++
 title =       "Cloudy Night"
-author =      "Dylan®"
+author =      "Dylan"
 date =        "2021-03-16"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["Dylan®"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["Dylan"]
+description = "by Dylan for week 11: Atmosphere Spectrum. Created using: Photoshop."
 [[images]]
-                      src = "/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/dylan-week-11-d4a7"
+              alt = "Cloudy Night"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.
@@ -30,7 +32,7 @@ I usually draw night scenes all the time so this time I tried adding some more c
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 
 Week: 11
 Title:  Cloudy Night

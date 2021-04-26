@@ -2,16 +2,18 @@
 title =       "Seconds in Sand"
 author =      "vectorong"
 date =        "2021-02-18"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["vectorong"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["vectorong"]
+description = "by vectorong for week 7: Disturbed Desert. Created using: Photography (shot w/ a Canon 40D)."
 [[images]]
-                      src = "/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg"
-                      alt = "/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg"
+              href = "/blog/vectorong-week-7-7f38"
+              alt = "Seconds in Sand"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" file="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography (shot w/ a Canon 40D)**.
@@ -24,8 +26,8 @@ There's often times when I feel like I'm in an internal 'desert', where ideas do
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ There's often times when I feel like I'm in an internal 'desert', where ideas do
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title: Seconds in Sand
 Medium: Photography (shot w/ a Canon 40D)

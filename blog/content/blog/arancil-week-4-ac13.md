@@ -2,15 +2,20 @@
 title =       "1:21 AM"
 author =      "arancil"
 date =        "2021-01-28"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["arancil"]
-
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["arancil"]
+description = "by arancil for week 4: Murky Silhouettes. Created using: Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)."
+[[images]]
+              src = "/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG"
+              href = "/blog/arancil-week-4-ac13"
+              alt = "1:21 AM"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" >}}
+{{< fancybox path="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" file="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" >}}
 
-{{< fancybox path="/" file="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" >}}
+{{< fancybox path="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" file="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)**.
@@ -21,9 +26,9 @@ Tried to capture desperation, intensity and passion. Didn't manage to make the i
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -32,7 +37,7 @@ Tried to capture desperation, intensity and passion. Didn't manage to make the i
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: 1:21 AM
 Medium: Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)

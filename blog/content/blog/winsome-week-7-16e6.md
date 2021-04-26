@@ -2,18 +2,20 @@
 title =       "Three Celebrations (Change)"
 author =      "winsome"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["winsome"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["winsome"]
+description = "by winsome for week 7: Disturbed Desert. Created using: Photography, Clay Figure & Cake."
 [[images]]
-                      src = "/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg"
-                      alt = "/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg"
-                      stretch = "cover"
+              src = "/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg"
+              href = "/blog/winsome-week-7-16e6"
+              alt = "Three Celebrations (Change)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" >}}
+{{< fancybox path="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" file="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" >}}
 
-{{< fancybox path="/" file="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" >}}
+{{< fancybox path="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" file="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography, Clay Figure & Cake**.
@@ -32,8 +34,8 @@ A little BTS of the photoshoot
 
 ## Social Media
 
-- **Twitch**: [winsomeorc]()
-- **Twitter**: [winsomeorc]()
+- **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
+- **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
 
 
 ## Other
@@ -42,7 +44,7 @@ A little BTS of the photoshoot
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title: Three Celebrations (Change)
 Medium: Photography, Clay Figure & Cake

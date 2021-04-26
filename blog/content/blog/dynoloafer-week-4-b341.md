@@ -2,16 +2,18 @@
 title =       "You Ain't No Bounty Hunter"
 author =      "DynoLoafer"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 4: Murky Silhouettes. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png"
-                      alt = "/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png"
+              href = "/blog/dynoloafer-week-4-b341"
+              alt = "You Ain't No Bounty Hunter"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" file="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ Desc: Whew, this one was close! Sucks that I had to kinda rush at the end becaus
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Medium: Paint Tool SAI
 Title: __You Ain't No Bounty Hunter__

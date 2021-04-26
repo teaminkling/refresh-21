@@ -2,16 +2,18 @@
 title =       "Hello there!"
 author =      "Bell-Bones"
 date =        "2021-01-15"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 2: Deep Ocean. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png"
-                      alt = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png"
+              href = "/blog/bell-bones-week-2-16df"
+              alt = "Hello there!"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" >}}
+{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" file="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ Ok, ok, I see your tiny human and large creature entries, but I raise you this,,
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Ok, ok, I see your tiny human and large creature entries, but I raise you this,,
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: "Hello there!"
 Medium: FireAlpaca

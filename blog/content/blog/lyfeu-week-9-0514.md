@@ -2,16 +2,18 @@
 title =       "Flame Soul spirit"
 author =      "Lyfeu"
 date =        "2021-03-05"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["Lyfeu"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["Lyfeu"]
+description = "by Lyfeu for week 9: Bold Strokes. Created using: Photoshop."
 [[images]]
-                      src = "/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg"
-                      alt = "/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg"
-                      stretch = "cover"
+              src = "/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg"
+              href = "/blog/lyfeu-week-9-0514"
+              alt = "Flame Soul spirit"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" >}}
+{{< fancybox path="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" file="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.
@@ -24,7 +26,7 @@ twitch/tv/Lyfeu
 
 ## Social Media
 
-- **Twitch**: [lyfeu]()
+- **Twitch**: <a href='https://twitch.tv/lyfeu' target='_blank'>lyfeu</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ twitch/tv/Lyfeu
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 
 Week: 9
 Title:  Flame Soul spirit 

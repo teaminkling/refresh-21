@@ -2,16 +2,18 @@
 title =       "Jade Temple"
 author =      "mrtnong"
 date =        "2021-02-04"
-categories =  ["Week 05: Royal Green"]
-tags =        ["mrtnong"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["mrtnong"]
+description = "by mrtnong for week 5: Royal Green. Created using: Digital (Procreate)."
 [[images]]
-                      src = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/mrtnong-week-5-0702"
+              alt = "Jade Temple"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" file="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (Procreate)**.
@@ -22,8 +24,8 @@ I started this piece by chaotically<a:ultrafastparrot:800558785907261441>  flick
 
 ## Social Media
 
-- **Instagram**: [mrtnong]()
-- **Twitch**: [mrtnong]()
+- **Twitch**: <a href='https://twitch.tv/mrtnong' target='_blank'>mrtnong</a>
+- **Instagram**: <a href='https://instagram.com/mrtnong' target='_blank'>mrtnong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I started this piece by chaotically<a:ultrafastparrot:800558785907261441>  flick
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Jade Temple 
 Medium: Digital (Procreate)

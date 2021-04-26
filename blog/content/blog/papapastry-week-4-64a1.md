@@ -2,9 +2,14 @@
 title =       "MURKE SHADOES"
 author =      "papapastry"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["papapastry"]
-
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["papapastry"]
+description = "by papapastry for week 4: Murky Silhouettes. Created using: Ableton Live 10."
+[[images]]
+              src = "img/audio-placeholder.png"
+              href = "/blog/papapastry-week-4-64a1"
+              alt = "MURKE SHADOES"
+              stretch = "cover"
 +++
 
 
@@ -25,8 +30,8 @@ https://soundcloud.com/papapastry/murke-shadoes-instrumental-week-4-2021designre
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -35,7 +40,7 @@ https://soundcloud.com/papapastry/murke-shadoes-instrumental-week-4-2021designre
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 4
 **Title**: MURKE SHADOES
 **Medium**: Ableton Live 10

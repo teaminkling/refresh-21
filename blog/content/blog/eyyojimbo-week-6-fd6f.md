@@ -2,16 +2,18 @@
 title =       "Tenacity (Year of the Ox)"
 author =      "EyYoJimbo"
 date =        "2021-02-14"
-categories =  ["Week 06: Simple Love"]
-tags =        ["EyYoJimbo"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["EyYoJimbo"]
+description = "by EyYoJimbo for week 6: Simple Love. Created using: Procreate."
 [[images]]
-                      src = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/eyyojimbo-week-6-fd6f"
+              alt = "Tenacity (Year of the Ox)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.
@@ -30,7 +32,7 @@ I thought I’d do a piece that describes the appreciation I have for the resili
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 6
 Title: Tenacity (Year of the Ox)
 Medium: Procreate

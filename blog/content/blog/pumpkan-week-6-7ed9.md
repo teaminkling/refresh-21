@@ -2,16 +2,18 @@
 title =       "Magical girl"
 author =      "Pumpkan"
 date =        "2021-02-08"
-categories =  ["Week 06: Simple Love"]
-tags =        ["Pumpkan"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 6: Simple Love. Created using: Procreate."
 [[images]]
-                      src = "/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/pumpkan-week-6-7ed9"
+              alt = "Magical girl"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png" file="/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ I love doing character design, and with simple love the first thing I thought of
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I love doing character design, and with simple love the first thing I thought of
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title:  Magical girl 
 Medium: Procreate

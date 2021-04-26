@@ -2,16 +2,18 @@
 title =       "Sleepless Night"
 author =      "TITAN011"
 date =        "2021-01-26"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["TITAN011"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["TITAN011"]
+description = "by TITAN011 for week 4: Murky Silhouettes. Created using: ClipStudio."
 [[images]]
-                      src = "/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg"
-                      alt = "/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg"
-                      stretch = "cover"
+              src = "/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg"
+              href = "/blog/titan011-week-4-e6d0"
+              alt = "Sleepless Night"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" >}}
+{{< fancybox path="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" file="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ClipStudio**.
@@ -30,7 +32,7 @@ Didn’t use one color but I tried to stick with cold colors? Worked on value an
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 4
 Title: Sleepless Night
 Medium: ClipStudio

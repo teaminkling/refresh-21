@@ -2,16 +2,18 @@
 title =       "The Vessel"
 author =      "Kami"
 date =        "2021-02-04"
-categories =  ["Week 05: Royal Green"]
-tags =        ["Kami"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["Kami"]
+description = "by Kami for week 5: Royal Green. Created using: Photoshop."
 [[images]]
-                      src = "/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg"
-                      alt = "/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg"
-                      stretch = "cover"
+              src = "/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg"
+              href = "/blog/kami-week-5-2ea5"
+              alt = "The Vessel"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" >}}
+{{< fancybox path="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" file="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Photoshop**.
@@ -22,7 +24,7 @@ This is my first time using photoshop for art, i tried making the short sword th
 
 ## Social Media
 
-- **Twitch**: [kamiofthesouth]()
+- **Twitch**: <a href='https://twitch.tv/kamiofthesouth' target='_blank'>kamiofthesouth</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ This is my first time using photoshop for art, i tried making the short sword th
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 
 Week 5
 Title: The Vessel

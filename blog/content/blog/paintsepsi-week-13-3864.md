@@ -2,16 +2,18 @@
 title =       "Selfie"
 author =      "paintsepsi"
 date =        "2021-04-02"
-categories =  ["Week 13: Look At Me"]
-tags =        ["paintsepsi"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["paintsepsi"]
+description = "by paintsepsi for week 13: Look At Me. Created using: Procreate."
 [[images]]
-                      src = "/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/paintsepsi-week-13-3864"
+              alt = "Selfie"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Procreate**.
@@ -22,10 +24,9 @@ my gf likes to take pics with my mirror lmao.
 
 ## Social Media
 
-- **Instagram**: [paintsepsi]()
-- **Twitter**: [paintsepsi]()
-- **Twitch**: [paintsepsi]()
-- **Everywhere**: [paintsepsi]()
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
 
 
 ## Other
@@ -34,7 +35,7 @@ my gf likes to take pics with my mirror lmao.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 13
 Title: Selfie
 Medium: Procreate

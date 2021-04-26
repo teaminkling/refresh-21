@@ -2,16 +2,18 @@
 title =       "Folds"
 author =      "Lyfeu"
 date =        "2021-03-10"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["Lyfeu"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["Lyfeu"]
+description = "by Lyfeu for week 10: Folds and Folds. Created using: Photoshop."
 [[images]]
-                      src = "/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg"
-                      alt = "/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg"
-                      stretch = "cover"
+              src = "/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg"
+              href = "/blog/lyfeu-week-10-66bc"
+              alt = "Folds"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" >}}
+{{< fancybox path="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" file="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
@@ -22,7 +24,7 @@ Edgy Basket Baller
 
 ## Social Media
 
-- **Twitch**: [lyfeu]()
+- **Twitch**: <a href='https://twitch.tv/lyfeu' target='_blank'>lyfeu</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ Edgy Basket Baller
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10 
 Title: Folds
 Medium: Photoshop 

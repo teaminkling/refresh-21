@@ -2,16 +2,18 @@
 title =       "Flow"
 author =      "Psyko"
 date =        "2021-02-05"
-categories =  ["Week 05: Royal Green"]
-tags =        ["Psyko"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["Psyko"]
+description = "by Psyko for week 5: Royal Green. Created using: Acrylics."
 [[images]]
-                      src = "/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg"
-                      alt = "/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg"
-                      stretch = "cover"
+              src = "/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg"
+              href = "/blog/psyko-week-5-f1a7"
+              alt = "Flow"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" >}}
+{{< fancybox path="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Acrylics**.
@@ -22,8 +24,8 @@ I took a lot of influence from the messy textures created by Jade. I made the lo
 
 ## Social Media
 
-- **Instagram**: [austeezus]()
-- **Twitter**: [psykoframe]()
+- **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
+- **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I took a lot of influence from the messy textures created by Jade. I made the lo
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5 
 Title: Flow
 Medium: Acrylics

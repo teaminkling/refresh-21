@@ -2,16 +2,18 @@
 title =       "Resistance 4 - Sometimes, The Heart Yearns For Mangoes"
 author =      "a1ewanrichards"
 date =        "2021-04-15"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 15: Back to Basics. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg"
-                      alt = "/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg"
+              href = "/blog/a1ewanrichards-week-15-4b55"
+              alt = "Resistance 4 - Sometimes, The Heart Yearns For Mangoes"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" file="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.
@@ -26,12 +28,12 @@ The mango is the national fruit of the Philippines, and are usually in season ar
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -40,7 +42,7 @@ The mango is the national fruit of the Philippines, and are usually in season ar
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title: Resistance 4 - Sometimes, The Heart Yearns For Mangoes
 Medium: Clip Studio Paint

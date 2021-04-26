@@ -2,16 +2,18 @@
 title =       "Jade Jian"
 author =      "Goblet"
 date =        "2021-02-02"
-categories =  ["Week 05: Royal Green"]
-tags =        ["Goblet"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["Goblet"]
+description = "by Goblet for week 5: Royal Green. Created using: ibispaint x."
 [[images]]
-                      src = "/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png"
-                      alt = "/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png"
-                      stretch = "cover"
+              src = "/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png"
+              href = "/blog/goblet-week-5-d857"
+              alt = "Jade Jian"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" >}}
+{{< fancybox path="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" file="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **ibispaint x**.
@@ -26,8 +28,8 @@ I painted the outline for the sword, tried painting the jade texture, but was di
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ I painted the outline for the sword, tried painting the jade texture, but was di
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 ``Week: 5
 Title:  Jade Jian
 Medium:  ibispaint x 

@@ -2,16 +2,18 @@
 title =       "bright sea"
 author =      "arren"
 date =        "2021-01-12"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["arren"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["arren"]
+description = "by arren for week 2: Deep Ocean. Created using: photoshop."
 [[images]]
-                      src = "/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg"
-                      alt = "/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg"
-                      stretch = "cover"
+              src = "/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg"
+              href = "/blog/arren-week-2-d908"
+              alt = "bright sea"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg" >}}
+{{< fancybox path="/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg" file="/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **photoshop**.
@@ -30,7 +32,7 @@ I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:77999072421229
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: bright sea
 Medium: photoshop

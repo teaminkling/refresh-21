@@ -287,7 +287,17 @@ def parse_retrieved() -> None:
 
     message: Dict[str, Any]
     for message in parse_cumulative_messages(retrieved_data):
-        author: str = message["author"]
+        author: str = (
+            message["author"]
+            .encode("ascii", "ignore")
+            .decode()
+            .replace("(", "")
+            .replace(
+                ")",
+                "",
+            )
+        )
+
         content: str = message["message"]
         created_at: str = message["created_at"]
         attachments: List[str] = message["attachments"]

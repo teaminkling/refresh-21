@@ -2,16 +2,18 @@
 title =       "Maw of the Deep"
 author =      "CapoKey"
 date =        "2021-01-11"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["CapoKey"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["CapoKey"]
+description = "by CapoKey for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-                      src = "/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/capokey-week-2-7802"
+              alt = "Maw of the Deep"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png" file="/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
@@ -26,8 +28,8 @@ The majority of the deep sea is still unexplored, who knows what kind of creatur
 
 ## Social Media
 
-- **Instagram**: [caposketch]()
-- **Twitter**: [capokeyt]()
+- **Twitter**: <a href='https://twitter.com/capokeyt' target='_blank'>capokeyt</a>
+- **Instagram**: <a href='https://instagram.com/caposketch' target='_blank'>caposketch</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ The majority of the deep sea is still unexplored, who knows what kind of creatur
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 ``Week: 2
 **Title:  Maw of the Deep**
 Medium: Procreate

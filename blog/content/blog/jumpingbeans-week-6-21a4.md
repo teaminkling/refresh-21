@@ -2,9 +2,14 @@
 title =       "The introspection of self, the different facades of life and embrace of the multifaceted appearences"
 author =      "jumpingbeans"
 date =        "2021-02-06"
-categories =  ["Week 06: Simple Love"]
-tags =        ["jumpingbeans"]
-
+themes =      ["Week 06: Simple Love"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 6: Simple Love. Created using: Video of beansz wearing clothing (aka i ran out of mediums, time to recycle)."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/jumpingbeans-week-6-21a4"
+              alt = "The introspection of self, the different facades of life and embrace of the multifaceted appearences"
+              stretch = "cover"
 +++
 
 
@@ -21,8 +26,8 @@ https://youtu.be/MDxUzRfvYf4
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -31,7 +36,7 @@ https://youtu.be/MDxUzRfvYf4
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 
 Title: The introspection of self, the different facades of life and embrace of the multifaceted appearences

@@ -2,16 +2,18 @@
 title =       "Ah, Bright Light"
 author =      "jorchael_p"
 date =        "2021-01-16"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["jorchael_p"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["jorchael_p"]
+description = "by jorchael_p for week 2: Deep Ocean. Created using: Photoshop."
 [[images]]
-                      src = "/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png"
-                      alt = "/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png"
-                      stretch = "cover"
+              src = "/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png"
+              href = "/blog/jorchael_p-week-2-3cec"
+              alt = "Ah, Bright Light"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" file="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Photoshop**.
@@ -27,8 +29,8 @@ https://mobile.
 
 ## Social Media
 
-- **Twitter**: [jorchaelp]()
-- **Instagram**: [jrchlp.png]()
+- **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
+- **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ https://mobile.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: Ah, Bright Light
 Medium: Photoshop

@@ -2,16 +2,18 @@
 title =       "Jupiter Falling"
 author =      "Lithium"
 date =        "2021-02-25"
-categories =  ["Week 08: High Sheen"]
-tags =        ["Lithium"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["Lithium"]
+description = "by Lithium for week 8: High Sheen. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg"
-                      alt = "/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg"
+              href = "/blog/lithium-week-8-bf02"
+              alt = "Jupiter Falling"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg" >}}
+{{< fancybox path="/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg" file="/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -24,9 +26,9 @@ IG/Tumblr lithiumreflections
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ IG/Tumblr lithiumreflections
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 **Title:  ** Jupiter Falling
 Medium: Digital (Clip Studio Paint)

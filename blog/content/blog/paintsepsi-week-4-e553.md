@@ -2,16 +2,18 @@
 title =       "Joker"
 author =      "paintsepsi"
 date =        "2021-01-24"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["paintsepsi"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["paintsepsi"]
+description = "by paintsepsi for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-                      src = "/img/paintsepsi/2021-01-24+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/paintsepsi/2021-01-24+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/paintsepsi/2021-01-24+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/paintsepsi-week-4-e553"
+              alt = "Joker"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/paintsepsi/2021-01-24+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-01-24+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-01-24+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
@@ -22,10 +24,9 @@ SO, I started a concept on stream, I wasn’t happy with it, and then continued 
 
 ## Social Media
 
-- **Instagram**: [paintsepsi]()
-- **Twitter**: [paintsepsi]()
-- **Twitch**: [paintsepsi]()
-- **Everywhere**: [paintsepsi]()
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
 
 
 ## Other
@@ -34,7 +35,7 @@ SO, I started a concept on stream, I wasn’t happy with it, and then continued 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: Joker
 Medium: Procreate

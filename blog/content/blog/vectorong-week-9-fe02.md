@@ -2,16 +2,18 @@
 title =       "Repetition, Reminisce, Reflection"
 author =      "vectorong"
 date =        "2021-03-04"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["vectorong"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["vectorong"]
+description = "by vectorong for week 9: Bold Strokes. Created using: Suminagashi (Japanese ink marbling technique) on handmade paper."
 [[images]]
-                      src = "/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg"
-                      alt = "/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg"
-                      stretch = "cover"
+              src = "img/video-placeholder.png"
+              href = "/blog/vectorong-week-9-fe02"
+              alt = "Repetition, Reminisce, Reflection"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" file="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" >}}
 
 {{< youtube wdwzLaljOzw >}}
 
@@ -27,8 +29,8 @@ While working alongside printmaking friends on a group zoom call, I was suddenly
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ While working alongside printmaking friends on a group zoom call, I was suddenly
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title: Repetition, Reminisce, Reflection
 Medium: Suminagashi (Japanese ink marbling technique) on handmade paper

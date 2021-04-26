@@ -2,16 +2,18 @@
 title =       "Gui"
 author =      "a1ewanrichards"
 date =        "2021-01-23"
-categories =  ["Week 03: Red Circle"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 3: Red Circle. Created using: Felt and ink on paper."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg"
-                      alt = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg"
+              href = "/blog/a1ewanrichards-week-3-4532"
+              alt = "Gui"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" file="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Felt and ink on paper**.
@@ -22,12 +24,12 @@ I looked up the flag of Okinawa and it was perfect with what I had in mind. The 
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ I looked up the flag of Okinawa and it was perfect with what I had in mind. The 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 
 Week 3:
 Title: Gui

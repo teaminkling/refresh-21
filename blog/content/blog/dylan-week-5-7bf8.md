@@ -1,17 +1,19 @@
 +++
 title =       "Behind The Doors"
-author =      "Dylan®"
+author =      "Dylan"
 date =        "2021-02-01"
-categories =  ["Week 05: Royal Green"]
-tags =        ["Dylan®"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["Dylan"]
+description = "by Dylan for week 5: Royal Green. Created using: Digital (PhotoShop)."
 [[images]]
-                      src = "/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/dylan-week-5-7bf8"
+              alt = "Behind The Doors"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (PhotoShop)**.
@@ -30,7 +32,7 @@ I wanted to make something that has a backstory so basically i had a friend that
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Behind The Doors
 Medium: Digital (PhotoShop)

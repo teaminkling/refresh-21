@@ -2,16 +2,18 @@
 title =       "Jadeite"
 author =      "poru"
 date =        "2021-02-04"
-categories =  ["Week 05: Royal Green"]
-tags =        ["poru"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["poru"]
+description = "by poru for week 5: Royal Green. Created using: Digital - Clip Studio Paint."
 [[images]]
-                      src = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png"
-                      alt = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png"
-                      stretch = "cover"
+              src = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png"
+              href = "/blog/poru-week-5-5cd3"
+              alt = "Jadeite"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" >}}
+{{< fancybox path="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" file="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital - Clip Studio Paint**.
@@ -22,9 +24,9 @@ When I about the prompt being Jade related. I thought of the anime Houseki no Ku
 
 ## Social Media
 
-- **Instagram**: [poruchan_920]()
-- **Twitch**: [poru_chan]()
-- **Twitter**: [poruchan09]()
+- **Instagram**: <a href='https://instagram.com/poruchan_920' target='_blank'>poruchan_920</a>
+- **Twitch**: <a href='https://twitch.tv/poru_chan' target='_blank'>poru_chan</a>
+- **Twitter**: <a href='https://twitter.com/poruchan09' target='_blank'>poruchan09</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ When I about the prompt being Jade related. I thought of the anime Houseki no Ku
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Jadeite
 Medium: Digital - Clip Studio Paint

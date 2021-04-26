@@ -2,16 +2,18 @@
 title =       "simple angler pog"
 author =      "Goblet"
 date =        "2021-01-11"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Goblet"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Goblet"]
+description = "by Goblet for week 2: Deep Ocean. Created using: ibispaint x."
 [[images]]
-                      src = "/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png"
-                      alt = "/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png"
-                      stretch = "cover"
+              src = "/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png"
+              href = "/blog/goblet-week-2-d6f4"
+              alt = "simple angler pog"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" >}}
+{{< fancybox path="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" file="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **ibispaint x**.
@@ -27,8 +29,8 @@ just wanted to make something really simple
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ just wanted to make something really simple
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Submission Template
 ``Week: 2
 Title:  simple angler pog

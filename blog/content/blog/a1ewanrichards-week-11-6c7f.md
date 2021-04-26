@@ -2,16 +2,18 @@
 title =       "Undercooled 1: Please Return The Moon To Us"
 author =      "a1ewanrichards"
 date =        "2021-03-18"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 11: Atmosphere Spectrum. Created using: Felt marker and oil pastel on paper."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg"
-                      alt = "/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg"
+              href = "/blog/a1ewanrichards-week-11-6c7f"
+              alt = "Undercooled 1: Please Return The Moon To Us"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" file="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Felt marker and oil pastel on paper**.
@@ -28,12 +30,12 @@ As I kept on drawing, it became apparent that, in line with the song's theme, th
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -42,7 +44,7 @@ As I kept on drawing, it became apparent that, in line with the song's theme, th
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 11
 Title: Undercooled 1: Please Return The Moon To Us
 Medium: Felt marker and oil pastel on paper

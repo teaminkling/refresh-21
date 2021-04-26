@@ -2,16 +2,18 @@
 title =       "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>"
 author =      "eggyolk"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["eggyolk"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["eggyolk"]
+description = "by eggyolk for week 6: Simple Love. Created using: Procreate."
 [[images]]
-                      src = "/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png"
-                      alt = "/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png"
-                      stretch = "cover"
+              src = "/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png"
+              href = "/blog/eggyolk-week-6-ca60"
+              alt = "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" >}}
+{{< fancybox path="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" file="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.
@@ -35,7 +37,7 @@ urmom6.0
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 6
 Title: Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081> 
 Medium: Procreate

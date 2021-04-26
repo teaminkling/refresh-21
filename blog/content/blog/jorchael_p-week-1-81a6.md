@@ -2,16 +2,18 @@
 title =       "sunny day, pouring rain"
 author =      "jorchael_p"
 date =        "2021-01-08"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["jorchael_p"]
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["jorchael_p"]
+description = "by jorchael_p for week 1: Yellow Lines. Created using: Digital, Photoshop."
 [[images]]
-                      src = "/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png"
-                      alt = "/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png"
-                      stretch = "cover"
+              src = "/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png"
+              href = "/blog/jorchael_p-week-1-81a6"
+              alt = "sunny day, pouring rain"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" file="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Photoshop**.
@@ -22,8 +24,8 @@ I wanted to try play with the rain patterns but rushed them a little. References
 
 ## Social Media
 
-- **Twitter**: [jorchaelp]()
-- **Instagram**: [jrchlp.png]()
+- **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
+- **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I wanted to try play with the rain patterns but rushed them a little. References
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 1
 Title: sunny day, pouring rain
 Medium: Digital, Photoshop

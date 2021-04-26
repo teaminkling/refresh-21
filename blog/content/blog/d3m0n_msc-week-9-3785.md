@@ -2,16 +2,18 @@
 title =       "Judgement"
 author =      "D3m0n_Msc"
 date =        "2021-03-02"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["D3m0n_Msc"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["D3m0n_Msc"]
+description = "by D3m0n_Msc for week 9: Bold Strokes. Created using: phone."
 [[images]]
-                      src = "/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png"
-                      alt = "/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png"
-                      stretch = "cover"
+              src = "/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png"
+              href = "/blog/d3m0n_msc-week-9-3785"
+              alt = "Judgement"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" file="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **phone**.
@@ -32,7 +34,7 @@ She is being dropped from heaven without wings to signify she is living and or h
 
 ## Social Media
 
-- **Instagram**: [leolayne]()
+- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
 
 
 ## Other
@@ -41,7 +43,7 @@ She is being dropped from heaven without wings to signify she is living and or h
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 9
 Medium: phone
 Title: Judgement

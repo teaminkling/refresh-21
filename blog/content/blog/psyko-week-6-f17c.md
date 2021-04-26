@@ -2,16 +2,18 @@
 title =       "Dreams in TechieLand"
 author =      "Psyko"
 date =        "2021-02-11"
-categories =  ["Week 06: Simple Love"]
-tags =        ["Psyko"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["Psyko"]
+description = "by Psyko for week 6: Simple Love. Created using: Krita."
 [[images]]
-                      src = "/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg"
-                      alt = "/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg"
-                      stretch = "cover"
+              src = "/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg"
+              href = "/blog/psyko-week-6-f17c"
+              alt = "Dreams in TechieLand"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" >}}
+{{< fancybox path="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" file="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Krita**.
@@ -22,8 +24,8 @@ San Francisco, sunsets, stargazing, and day dreaming are what inspired this piec
 
 ## Social Media
 
-- **Instagram**: [austeezus]()
-- **Twitter**: [psykoframe]()
+- **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
+- **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ San Francisco, sunsets, stargazing, and day dreaming are what inspired this piec
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: Dreams in TechieLand
 Medium: Krita 

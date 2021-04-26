@@ -2,16 +2,18 @@
 title =       "Eye to the stars"
 author =      "Zat"
 date =        "2021-01-21"
-categories =  ["Week 03: Red Circle"]
-tags =        ["Zat"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["Zat"]
+description = "by Zat for week 3: Red Circle. Created using: Photographs/Krita."
 [[images]]
-                      src = "/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png"
-                      alt = "/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png"
-                      stretch = "cover"
+              src = "/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png"
+              href = "/blog/zat-week-3-6f68"
+              alt = "Eye to the stars"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" >}}
+{{< fancybox path="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" file="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photographs/Krita**.
@@ -30,7 +32,7 @@ Photo of a section of Markarian's Chain, a part of the Virgo cluster set as the 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Medium: Photographs/Krita
 Title: Eye to the stars

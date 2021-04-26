@@ -2,16 +2,18 @@
 title =       "Untitled"
 author =      "arancil"
 date =        "2021-04-09"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["arancil"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["arancil"]
+description = "by arancil for week 14: Absolute Fire. Created using: Watercolor."
 [[images]]
-                      src = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg"
-                      alt = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg"
+              href = "/blog/arancil-week-14-911a"
+              alt = "Untitled"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" >}}
+{{< fancybox path="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" file="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Watercolor**.
@@ -26,9 +28,9 @@ Forest w/ blue flame wisps, foxes & birbs rorodoAAA congregating around a big ow
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ Forest w/ blue flame wisps, foxes & birbs rorodoAAA congregating around a big ow
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 14
 Title: 
 Medium: Watercolor

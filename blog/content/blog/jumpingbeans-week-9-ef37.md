@@ -2,9 +2,14 @@
 title =       "This is the literal worst shit i have created, i think my parent think im weird."
 author =      "jumpingbeans"
 date =        "2021-03-02"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["jumpingbeans"]
-
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 9: Bold Strokes. Created using: video."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/jumpingbeans-week-9-ef37"
+              alt = "This is the literal worst shit i have created, i think my parent think im weird."
+              stretch = "cover"
 +++
 
 
@@ -23,8 +28,8 @@ https://vimeo.com/518609738
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -33,7 +38,7 @@ https://vimeo.com/518609738
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title: This is the literal worst shit i have created, i think my parent think im weird.
 Medium: video

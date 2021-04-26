@@ -2,16 +2,18 @@
 title =       "Fuck"
 author =      "papapastry"
 date =        "2021-04-03"
-categories =  ["Week 13: Look At Me"]
-tags =        ["papapastry"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["papapastry"]
+description = "by papapastry for week 13: Look At Me. Created using: Procreate, Audio/Ableton Live 10 Suite, Adoble Premiere Pro CC."
 [[images]]
-                      src = "/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "img/video-placeholder.png"
+              href = "/blog/papapastry-week-13-fd44"
+              alt = "Fuck"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" file="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 {{< youtube s2bUtKo88HQ >}}
 
@@ -38,8 +40,8 @@ just Spotify search "papapastry"
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -48,7 +50,7 @@ just Spotify search "papapastry"
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 13
 **Title:** Fuck
 **Medium:** Procreate, Audio/Ableton Live 10 Suite, Adoble Premiere Pro CC

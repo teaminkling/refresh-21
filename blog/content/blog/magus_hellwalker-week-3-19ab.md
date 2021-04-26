@@ -2,16 +2,18 @@
 title =       "A circle in abstractness"
 author =      "Magus_Hellwalker"
 date =        "2021-01-19"
-categories =  ["Week 03: Red Circle"]
-tags =        ["Magus_Hellwalker"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["Magus_Hellwalker"]
+description = "by Magus_Hellwalker for week 3: Red Circle. Created using: 3D Digital."
 [[images]]
-                      src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"
-                      alt = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"
-                      stretch = "cover"
+              src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"
+              href = "/blog/magus_hellwalker-week-3-19ab"
+              alt = "A circle in abstractness"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" >}}
+{{< fancybox path="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" file="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **3D Digital**.
@@ -22,7 +24,7 @@ I was playing around with some atmospheric lighting in Blender and started playi
 
 ## Social Media
 
-- **Twitch**: [magus_hellwalker]()
+- **Twitch**: <a href='https://twitch.tv/magus_hellwalker' target='_blank'>magus_hellwalker</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ I was playing around with some atmospheric lighting in Blender and started playi
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title:  A circle in abstractness
 Medium: 3D Digital

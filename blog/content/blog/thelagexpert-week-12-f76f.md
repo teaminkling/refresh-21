@@ -2,16 +2,18 @@
 title =       "Glass House"
 author =      "TheLagExpert"
 date =        "2021-03-26"
-categories =  ["Week 12: Visual Words"]
-tags =        ["TheLagExpert"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["TheLagExpert"]
+description = "by TheLagExpert for week 12: Visual Words. Created using: Affinity Photo."
 [[images]]
-                      src = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg"
-                      alt = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg"
-                      stretch = "cover"
+              src = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg"
+              href = "/blog/thelagexpert-week-12-f76f"
+              alt = "Glass House"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" >}}
+{{< fancybox path="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" file="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Affinity Photo**.
@@ -22,7 +24,7 @@ A bit too late cz I am busy with the exams. These are Lyrics from my favourite S
 
 ## Social Media
 
-- **Instagram**: [billelhambli]()
+- **Instagram**: <a href='https://instagram.com/billelhambli' target='_blank'>billelhambli</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ A bit too late cz I am busy with the exams. These are Lyrics from my favourite S
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 12
 Title: Glass House
 Medium: Affinity Photo

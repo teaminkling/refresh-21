@@ -2,16 +2,18 @@
 title =       "Swim for the Ball"
 author =      "jonasw"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["jonasw"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["jonasw"]
+description = "by jonasw for week 8: High Sheen. Created using: Pencil on Paper."
 [[images]]
-                      src = "/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg"
-                      alt = "/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg"
-                      stretch = "cover"
+              src = "/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg"
+              href = "/blog/jonasw-week-8-f7d9"
+              alt = "Swim for the Ball"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" file="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Pencil on Paper**.
@@ -30,7 +32,7 @@ Don't have a printer so had to trace off my computer screen
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: Swim for the Ball
 Medium: Pencil on Paper

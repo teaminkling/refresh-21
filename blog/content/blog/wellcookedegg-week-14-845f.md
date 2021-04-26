@@ -2,18 +2,20 @@
 title =       "Fusion Flare"
 author =      "WellCookedEgg"
 date =        "2021-04-10"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["WellCookedEgg"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["WellCookedEgg"]
+description = "by WellCookedEgg for week 14: Absolute Fire. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg"
-                      alt = "/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg"
-                      stretch = "cover"
+              src = "/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg"
+              href = "/blog/wellcookedegg-week-14-845f"
+              alt = "Fusion Flare"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" file="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" >}}
 
-{{< fancybox path="/" file="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" file="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Clip Studio Paint**.
@@ -24,7 +26,7 @@ Reshiram is my favorite fire type pokemon, so I figured I'd try drawing them for
 
 ## Social Media
 
-- **Twitter**: [well_egg]()
+- **Twitter**: <a href='https://twitter.com/well_egg' target='_blank'>well_egg</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ Reshiram is my favorite fire type pokemon, so I figured I'd try drawing them for
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 13
 Title: 😳 
 Medium: Clip Studio Paint

@@ -2,18 +2,20 @@
 title =       "The Five Virtues"
 author =      "vectorong"
 date =        "2021-04-09"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["vectorong"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["vectorong"]
+description = "by vectorong for week 14: Absolute Fire. Created using: Pyrography (woodburning)."
 [[images]]
-                      src = "/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg"
-                      alt = "/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg"
+              href = "/blog/vectorong-week-14-de8e"
+              alt = "The Five Virtues"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" file="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" >}}
 
-{{< fancybox path="/" file="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" file="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Pyrography (woodburning)**.
@@ -29,8 +31,8 @@ detail shot since i have shaky hands
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -39,7 +41,7 @@ detail shot since i have shaky hands
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 14
 Title: The Five Virtues
 Medium: Pyrography (woodburning)

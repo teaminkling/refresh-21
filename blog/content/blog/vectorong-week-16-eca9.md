@@ -2,16 +2,18 @@
 title =       "Rat Race"
 author =      "vectorong"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["vectorong"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["vectorong"]
+description = "by vectorong for week 16: Scaling Giants. Created using: Graphite."
 [[images]]
-                      src = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg"
-                      alt = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg"
+              href = "/blog/vectorong-week-16-eca9"
+              alt = "Rat Race"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Graphite**.
@@ -22,8 +24,8 @@ The idiom is defined as "an endless, self-defeating, or pointless pursuit...The 
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ The idiom is defined as "an endless, self-defeating, or pointless pursuit...The 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: Rat Race
 Medium: Graphite

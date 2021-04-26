@@ -2,16 +2,18 @@
 title =       "Folds"
 author =      "TITAN011"
 date =        "2021-03-08"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["TITAN011"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["TITAN011"]
+description = "by TITAN011 for week 10: Folds and Folds. Created using: Clip Studio."
 [[images]]
-                      src = "/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg"
-                      alt = "/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg"
-                      stretch = "cover"
+              src = "/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg"
+              href = "/blog/titan011-week-10-66bc"
+              alt = "Folds"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" >}}
+{{< fancybox path="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" file="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio**.
@@ -30,7 +32,7 @@ Baggy fashion kimono wear 🇯🇵
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10 
 Title: Folds
 Medium: Clip Studio

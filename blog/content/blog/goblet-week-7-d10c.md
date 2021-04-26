@@ -2,16 +2,18 @@
 title =       "Welcome to Sandy Point! Population: me"
 author =      "Goblet"
 date =        "2021-02-18"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["Goblet"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["Goblet"]
+description = "by Goblet for week 7: Disturbed Desert. Created using: ibispaint x."
 [[images]]
-                      src = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png"
-                      alt = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png"
-                      stretch = "cover"
+              src = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png"
+              href = "/blog/goblet-week-7-d10c"
+              alt = "Welcome to Sandy Point! Population: me"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" >}}
+{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ibispaint x**.
@@ -22,8 +24,8 @@ dropped randomly in death valley on google maps and used that as my reference. D
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ dropped randomly in death valley on google maps and used that as my reference. D
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title:  Welcome to Sandy Point! Population: me
 Medium: ibispaint x 

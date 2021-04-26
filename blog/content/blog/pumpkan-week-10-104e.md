@@ -2,16 +2,18 @@
 title =       "The dread beach bum La Verne"
 author =      "Pumpkan"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["Pumpkan"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 10: Folds and Folds. Created using: Procreate."
 [[images]]
-                      src = "/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png"
-                      alt = "/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png"
+              href = "/blog/pumpkan-week-10-104e"
+              alt = "The dread beach bum La Verne"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" >}}
+{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.
@@ -23,8 +25,8 @@ Anyway here is my dnd character Joselynn La Verne being no more dramatic than us
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ Anyway here is my dnd character Joselynn La Verne being no more dramatic than us
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 Title:  The dread beach bum La Verne 
 Medium: Procreate

@@ -2,16 +2,18 @@
 title =       "Midnight Magic Musings"
 author =      "TrixyNetex"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 6: Simple Love. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png"
-                      alt = "/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png"
+              href = "/blog/trixynetex-week-6-af98"
+              alt = "Midnight Magic Musings"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png" >}}
+{{< fancybox path="/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png" file="/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Sketchbook Pro**.
@@ -32,7 +34,7 @@ On the art side of things; I really enjoy drawing characters and their interacti
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 **Title:  Midnight Magic Musings ** 
 Medium: Sketchbook Pro

@@ -2,16 +2,18 @@
 title =       "cold inside"
 author =      "Goblet"
 date =        "2021-01-17"
-categories =  ["Week 03: Red Circle"]
-tags =        ["Goblet"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["Goblet"]
+description = "by Goblet for week 3: Red Circle. Created using: ibispaint and phone photos."
 [[images]]
-                      src = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg"
-                      alt = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg"
-                      stretch = "cover"
+              src = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg"
+              href = "/blog/goblet-week-3-9ea7"
+              alt = "cold inside"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" >}}
+{{< fancybox path="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" file="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **ibispaint and phone photos**.
@@ -27,8 +29,8 @@ a view from my house at opposite ends of the year. Could have been a bigger cont
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ a view from my house at opposite ends of the year. Could have been a bigger cont
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Submission Template
 ``Week: 
 Title:  cold inside

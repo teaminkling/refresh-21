@@ -2,16 +2,18 @@
 title =       "Red Delicious with a Red Delicious"
 author =      "DynoLoafer"
 date =        "2021-04-18"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 15: Back to Basics. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png"
-                      alt = "/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png"
+              href = "/blog/dynoloafer-week-15-4f6d"
+              alt = "Red Delicious with a Red Delicious"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" file="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ Whoopsies, I'm late again! Oh well, school finals are happening right now and, p
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Medium: Paint Tool SAI
 Title: __Red Delicious with a Red Delicious__

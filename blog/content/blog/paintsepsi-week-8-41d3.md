@@ -2,16 +2,18 @@
 title =       "High Sheen from Jimmy Neutron"
 author =      "paintsepsi"
 date =        "2021-02-23"
-categories =  ["Week 08: High Sheen"]
-tags =        ["paintsepsi"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["paintsepsi"]
+description = "by paintsepsi for week 8: High Sheen. Created using: Procreate."
 [[images]]
-                      src = "/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/paintsepsi-week-8-41d3"
+              alt = "High Sheen from Jimmy Neutron"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Procreate**.
@@ -22,10 +24,9 @@ Woman in armour... high sheen from Jimmy Neutron
 
 ## Social Media
 
-- **Instagram**: [paintsepsi]()
-- **Twitter**: [paintsepsi]()
-- **Twitch**: [paintsepsi]()
-- **Everywhere**: [paintsepsi]()
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
 
 
 ## Other
@@ -34,7 +35,7 @@ Woman in armour... high sheen from Jimmy Neutron
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: High Sheen from Jimmy Neutron
 Medium: Procreate

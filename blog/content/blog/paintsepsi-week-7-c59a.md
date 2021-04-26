@@ -2,16 +2,18 @@
 title =       "Skull"
 author =      "paintsepsi"
 date =        "2021-02-18"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["paintsepsi"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["paintsepsi"]
+description = "by paintsepsi for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-                      src = "/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/paintsepsi-week-7-c59a"
+              alt = "Skull"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
@@ -22,10 +24,9 @@ big skull... in desert... giant? Who kno....?
 
 ## Social Media
 
-- **Instagram**: [paintsepsi]()
-- **Twitter**: [paintsepsi]()
-- **Twitch**: [paintsepsi]()
-- **Everywhere**: [paintsepsi]()
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
 
 
 ## Other
@@ -34,7 +35,7 @@ big skull... in desert... giant? Who kno....?
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title: Skull
 Medium: Procreate

@@ -2,16 +2,18 @@
 title =       "Engulf"
 author =      "TrixyNetex"
 date =        "2021-01-11"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 2: Deep Ocean. Created using: SketchBook."
 [[images]]
-                      src = "/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png"
-                      alt = "/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png"
+              href = "/blog/trixynetex-week-2-f7ac"
+              alt = "Engulf"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png" >}}
+{{< fancybox path="/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png" file="/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **SketchBook**.
@@ -32,7 +34,7 @@ Media:
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: Engulf
 Medium: SketchBook 

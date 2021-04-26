@@ -2,16 +2,18 @@
 title =       "Brain Echo"
 author =      "TITAN011"
 date =        "2021-01-19"
-categories =  ["Week 03: Red Circle"]
-tags =        ["TITAN011"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["TITAN011"]
+description = "by TITAN011 for week 3: Red Circle. Created using: Clipstudio."
 [[images]]
-                      src = "/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg"
-                      alt = "/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg"
-                      stretch = "cover"
+              src = "/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg"
+              href = "/blog/titan011-week-3-e808"
+              alt = "Brain Echo"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" >}}
+{{< fancybox path="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" file="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Clipstudio**.
@@ -30,7 +32,7 @@ Bit out of my comfort zone but tried to do something artsy
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title:  Brain Echo
 Medium: Clipstudio

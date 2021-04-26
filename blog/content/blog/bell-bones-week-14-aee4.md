@@ -2,16 +2,18 @@
 title =       "That's gotta hurt"
 author =      "Bell-Bones"
 date =        "2021-04-08"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 14: Absolute Fire. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png"
-                      alt = "/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png"
+              href = "/blog/bell-bones-week-14-aee4"
+              alt = "That's gotta hurt"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" file="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.
@@ -26,8 +28,8 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 14
 Title: That's gotta hurt
 Medium: FireAlpaca

@@ -2,16 +2,18 @@
 title =       "illiteracy"
 author =      "jumpingbeans"
 date =        "2021-04-11"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["jumpingbeans"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 15: Back to Basics. Created using: chinese calligraphy."
 [[images]]
-                      src = "/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg"
-                      alt = "/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg"
-                      stretch = "cover"
+              src = "/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg"
+              href = "/blog/jumpingbeans-week-15-f94f"
+              alt = "illiteracy"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" file="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **chinese calligraphy**.
@@ -26,8 +28,8 @@ But, doing this work reminds me, i suck at calligraphy.
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ But, doing this work reminds me, i suck at calligraphy.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title:  illiteracy
 Medium:  chinese calligraphy 

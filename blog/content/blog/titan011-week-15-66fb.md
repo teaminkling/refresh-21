@@ -2,16 +2,18 @@
 title =       "Durian at sea"
 author =      "TITAN011"
 date =        "2021-04-12"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["TITAN011"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["TITAN011"]
+description = "by TITAN011 for week 15: Back to Basics. Created using: Clip Studio."
 [[images]]
-                      src = "/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif"
-                      alt = "/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif"
-                      stretch = "cover"
+              src = "/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif"
+              href = "/blog/titan011-week-15-66fb"
+              alt = "Durian at sea"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" >}}
+{{< fancybox path="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" file="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio**.
@@ -30,7 +32,7 @@ Decide to try something new this week so i tried animation for the first time...
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Medium: Clip Studio
 Title: Durian at sea

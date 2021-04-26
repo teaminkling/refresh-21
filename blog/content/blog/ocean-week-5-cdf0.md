@@ -2,18 +2,20 @@
 title =       "Seal soapstone carving"
 author =      "ocean"
 date =        "2021-02-05"
-categories =  ["Week 05: Royal Green"]
-tags =        ["ocean"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["ocean"]
+description = "by ocean for week 5: Royal Green. Created using: soapstone carving."
 [[images]]
-                      src = "/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg"
-                      alt = "/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg"
-                      stretch = "cover"
+              src = "/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/ocean-week-5-cdf0"
+              alt = "Seal soapstone carving"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
-{{< fancybox path="/" file="/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg" >}}
+{{< fancybox path="/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **soapstone carving**.
@@ -33,7 +35,7 @@ I have lightly inked the carving to contrast the details. I have left the seal f
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Seal soapstone carving
 Medium: soapstone carving

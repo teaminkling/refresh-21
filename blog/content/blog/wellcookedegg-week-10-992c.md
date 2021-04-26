@@ -2,16 +2,18 @@
 title =       "The Bat Man"
 author =      "WellCookedEgg"
 date =        "2021-03-09"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["WellCookedEgg"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["WellCookedEgg"]
+description = "by WellCookedEgg for week 10: Folds and Folds. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg"
-                      alt = "/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg"
-                      stretch = "cover"
+              src = "/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg"
+              href = "/blog/wellcookedegg-week-10-992c"
+              alt = "The Bat Man"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.
@@ -22,7 +24,7 @@ I went for some baggier street wear cause street wear is sick
 
 ## Social Media
 
-- **Twitter**: [well_egg]()
+- **Twitter**: <a href='https://twitter.com/well_egg' target='_blank'>well_egg</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ I went for some baggier street wear cause street wear is sick
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 Title: The Bat Man
 Medium: Clip Studio Paint

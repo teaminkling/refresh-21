@@ -2,16 +2,18 @@
 title =       "Week 3 Submission <:eyeleft:800396950012035081> 👄 <:eyeright:800396965551538186>"
 author =      "eggyolk"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["eggyolk"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["eggyolk"]
+description = "by eggyolk for week 3: Red Circle. Created using: Procreate."
 [[images]]
-                      src = "/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/eggyolk-week-3-7fa8"
+              alt = "Week 3 Submission <:eyeleft:800396950012035081> 👄 <:eyeright:800396965551538186>"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png" file="/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
@@ -40,7 +42,7 @@ Contrast. 🙏
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3 
 Title: Week 3 Submission <:eyeleft:800396950012035081> 👄 <:eyeright:800396965551538186> 
 Medium: Procreate

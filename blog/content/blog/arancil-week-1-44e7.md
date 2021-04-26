@@ -2,16 +2,18 @@
 title =       "Plaid & Lace sans Lace"
 author =      "arancil"
 date =        "2021-01-07"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["arancil"]
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["arancil"]
+description = "by arancil for week 1: Yellow Lines. Created using: Ink, watercolour."
 [[images]]
-                      src = "/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg"
-                      alt = "/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg"
+              href = "/blog/arancil-week-1-44e7"
+              alt = "Plaid & Lace sans Lace"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" >}}
+{{< fancybox path="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" file="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Ink, watercolour**.
@@ -22,9 +24,9 @@ Was originally going for "Plaid & Lace" as my keywords, but ... no way I'm putti
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ Was originally going for "Plaid & Lace" as my keywords, but ... no way I'm putti
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 01
 Title: Plaid & Lace sans Lace
 Medium: Ink, watercolour

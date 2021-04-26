@@ -2,16 +2,18 @@
 title =       "ANIME AM I RIGHT"
 author =      "cindry"
 date =        "2021-03-05"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["cindry"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["cindry"]
+description = "by cindry for week 9: Bold Strokes. Created using: digital painting."
 [[images]]
-                      src = "/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png"
-                      alt = "/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png"
-                      stretch = "cover"
+              src = "/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png"
+              href = "/blog/cindry-week-9-c756"
+              alt = "ANIME AM I RIGHT"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png" >}}
+{{< fancybox path="/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png" file="/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **digital painting**.
@@ -22,10 +24,10 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **digital paintin
 
 ## Social Media
 
-- **Twitter**: [fiveclawd]()
-- **Instagram**: [fiveclawd]()
-- **Twitch**: [cindrytuna]()
-- **Twitter**: [cindrytuna]()
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **digital paintin
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 **Title:  ANIME AM I RIGHT**
 Medium:  digital painting

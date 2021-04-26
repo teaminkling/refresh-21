@@ -2,16 +2,18 @@
 title =       "Pulling Back From The Edge"
 author =      "Lithium"
 date =        "2021-03-10"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["Lithium"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["Lithium"]
+description = "by Lithium for week 10: Folds and Folds. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg"
-                      alt = "/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg"
-                      stretch = "cover"
+              src = "img/video-placeholder.png"
+              href = "/blog/lithium-week-10-1944"
+              alt = "Pulling Back From The Edge"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" >}}
+{{< fancybox path="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" file="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" >}}
 
 {{< youtube XFUyeYrCcN0 >}}
 
@@ -26,9 +28,9 @@ lithiumreflections (IG, tumblr, twitter)
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ lithiumreflections (IG, tumblr, twitter)
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 **Title:  ** Pulling Back From The Edge
 Medium: Clip Studio Paint

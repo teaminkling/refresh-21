@@ -2,16 +2,18 @@
 title =       "Six Pix Mix"
 author =      "jonasw"
 date =        "2021-03-24"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["jonasw"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["jonasw"]
+description = "by jonasw for week 11: Atmosphere Spectrum. Created using: Watercolor."
 [[images]]
-                      src = "/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg"
-                      alt = "/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg"
-                      stretch = "cover"
+              src = "/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg"
+              href = "/blog/jonasw-week-11-6ec2"
+              alt = "Six Pix Mix"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" file="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
@@ -30,7 +32,7 @@ Some different sky colors
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11
 Title: Six Pix Mix
 Medium: Watercolor

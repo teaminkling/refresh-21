@@ -1,0 +1,17 @@
+<footer id="site-footer">
+  {{ if or (.Site.Params.footer.rssFooter) (.Site.Params.footer.socialFooter) }}
+      <ul class="socnet-icons">
+        {{ if .Site.Params.footer.rssFooter }}{{ partial "rss-icon" . }}{{ end }}
+        {{ if .Site.Params.footer.socialFooter }}{{ partial "socnet-icon" . }}{{ end }}
+      </ul>
+  {{ end }}
+  <p class="copyright">
+    &copy; Design Refresh by FiveClawD, 2021 - present.<br /><br />
+
+    Content and media on this website is owned by their original copyright holders, hosted here via the 2021 Design
+    Refresh with assets pulled from our official Discord community.<br /><br />
+
+    Redirections, take-downs, and edits to pages will be made on request of original copyright holders.
+  </p>
+</footer>
+<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>

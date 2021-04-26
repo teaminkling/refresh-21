@@ -2,16 +2,18 @@
 title =       "Untitled"
 author =      "soleilboo"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["soleilboo"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["soleilboo"]
+description = "by soleilboo for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-                      src = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/soleilboo-week-7-911a"
+              alt = "Untitled"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
@@ -29,8 +31,8 @@ And yes flowers can grow in the desert.
 
 ## Social Media
 
-- **Instagram**: [soleil.boo]()
-- **Twitch**: [soleilboo]()
+- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
+- **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
 
 
 ## Other
@@ -39,7 +41,7 @@ And yes flowers can grow in the desert.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 7: disturbed desert 
 Description: Everyone have their own desert to carry. And flower can grow in the desert you know 🙂 
 

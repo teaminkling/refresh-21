@@ -2,24 +2,26 @@
 title =       "Hi! I like shorts! They're comfy and easy to wear!"
 author =      "winsome"
 date =        "2021-03-05"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["winsome"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["winsome"]
+description = "by winsome for week 9: Bold Strokes. Created using: Photography (Photo set)."
 [[images]]
-                      src = "/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg"
-                      alt = "/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg"
-                      stretch = "cover"
+              src = "/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg"
+              href = "/blog/winsome-week-9-ca4a"
+              alt = "Hi! I like shorts! They're comfy and easy to wear!"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg" >}}
+{{< fancybox path="/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg" file="/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg" >}}
 
-{{< fancybox path="/" file="/img/winsome/2021-03-05+bd3f8368b4e6120a4eaf6a08e7aeea14.jpeg" >}}
+{{< fancybox path="/img/winsome/2021-03-05+bd3f8368b4e6120a4eaf6a08e7aeea14.jpeg" file="/img/winsome/2021-03-05+bd3f8368b4e6120a4eaf6a08e7aeea14.jpeg" >}}
 
-{{< fancybox path="/" file="/img/winsome/2021-03-05+3c76cb38f9a1aa193ec28e8ad6afe1de.jpeg" >}}
+{{< fancybox path="/img/winsome/2021-03-05+3c76cb38f9a1aa193ec28e8ad6afe1de.jpeg" file="/img/winsome/2021-03-05+3c76cb38f9a1aa193ec28e8ad6afe1de.jpeg" >}}
 
-{{< fancybox path="/" file="/img/winsome/2021-03-05+7b8722a0591a4ec0ec3702c7507d46e6.jpeg" >}}
+{{< fancybox path="/img/winsome/2021-03-05+7b8722a0591a4ec0ec3702c7507d46e6.jpeg" file="/img/winsome/2021-03-05+7b8722a0591a4ec0ec3702c7507d46e6.jpeg" >}}
 
-{{< fancybox path="/" file="/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg" >}}
+{{< fancybox path="/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg" file="/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photography (Photo set)**.
@@ -30,8 +32,8 @@ Celebrating the 25th Anniversary of Pokemon and myself, with a Pokemon that I li
 
 ## Social Media
 
-- **Twitch**: [winsomeorc]()
-- **Twitter**: [winsomeorc]()
+- **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
+- **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
 
 
 ## Other
@@ -40,7 +42,7 @@ Celebrating the 25th Anniversary of Pokemon and myself, with a Pokemon that I li
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title:  "Hi! I like shorts! They're comfy and easy to wear!"
 Medium:  Photography (Photo set)

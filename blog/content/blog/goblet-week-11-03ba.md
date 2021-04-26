@@ -2,16 +2,18 @@
 title =       "Passive smoking"
 author =      "Goblet"
 date =        "2021-03-13"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["Goblet"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["Goblet"]
+description = "by Goblet for week 11: Atmosphere Spectrum. Created using: ibispaint x and phone photo."
 [[images]]
-                      src = "/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg"
-                      alt = "/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg"
-                      stretch = "cover"
+              src = "/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg"
+              href = "/blog/goblet-week-11-03ba"
+              alt = "Passive smoking"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" >}}
+{{< fancybox path="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" file="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **ibispaint x and phone photo**.
@@ -22,8 +24,8 @@ Went skiing, had fun, saw happy little clouds. Was pretty, smelled chimney smoke
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Went skiing, had fun, saw happy little clouds. Was pretty, smelled chimney smoke
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11
 Title: Passive smoking 
 Medium: ibispaint x and phone photo

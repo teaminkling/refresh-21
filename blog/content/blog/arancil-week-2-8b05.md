@@ -2,16 +2,18 @@
 title =       "This is why I drink"
 author =      "arancil"
 date =        "2021-01-15"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["arancil"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["arancil"]
+description = "by arancil for week 2: Deep Ocean. Created using: Watercolor (Arches A5 rough)."
 [[images]]
-                      src = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg"
-                      alt = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg"
+              href = "/blog/arancil-week-2-8b05"
+              alt = "This is why I drink"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" >}}
+{{< fancybox path="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" file="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Watercolor (Arches A5 rough)**.
@@ -26,9 +28,9 @@ Had to redo the whole thing after being unhappy with the first go at it - and I 
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ Had to redo the whole thing after being unhappy with the first go at it - and I 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: "This is why I drink"
 Medium: Watercolor (Arches A5 rough)

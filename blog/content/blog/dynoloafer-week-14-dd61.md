@@ -2,16 +2,18 @@
 title =       "My Protective Assistant"
 author =      "DynoLoafer"
 date =        "2021-04-11"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 14: Absolute Fire. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png"
-                      alt = "/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png"
+              href = "/blog/dynoloafer-week-14-dd61"
+              alt = "My Protective Assistant"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" file="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've a
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 14
 Medium: Paint Tool SAI
 Title: __My Protective Assistant__

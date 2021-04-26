@@ -2,16 +2,18 @@
 title =       "cirque of monkeys except it's me. i am the monkey"
 author =      "Charmandaar"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["Charmandaar"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["Charmandaar"]
+description = "by Charmandaar for week 3: Red Circle. Created using: photography/photoshop."
 [[images]]
-                      src = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg"
-                      alt = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg"
-                      stretch = "cover"
+              src = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg"
+              href = "/blog/charmandaar-week-3-6e93"
+              alt = "cirque of monkeys except it's me. i am the monkey"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" >}}
+{{< fancybox path="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" file="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **photography/photoshop**.
@@ -22,9 +24,9 @@ this is just me being a monkey in aerial silks. except many of me. in many silks
 
 ## Social Media
 
-- **Twitch**: [charmandaar]()
-- **Instagram**: [charmandaar_]()
-- **Twitter**: [charmandaar_]()
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ this is just me being a monkey in aerial silks. except many of me. in many silks
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 **Title: cirque of monkeys except it's me. i am the monkey**
 Medium: photography/photoshop

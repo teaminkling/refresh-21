@@ -2,16 +2,18 @@
 title =       "Sunset at Calico Desert"
 author =      "Pumpkan"
 date =        "2021-02-18"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["Pumpkan"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-                      src = "/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png"
-                      alt = "/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png"
+              href = "/blog/pumpkan-week-7-cd92"
+              alt = "Sunset at Calico Desert"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" file="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ When I heard the prompt was about deserts and what lived in them I immediately t
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ When I heard the prompt was about deserts and what lived in them I immediately t
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title:  Sunset at Calico Desert
 Medium: Procreate 

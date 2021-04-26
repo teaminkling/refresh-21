@@ -2,16 +2,18 @@
 title =       "Origin Point"
 author =      "vectorong"
 date =        "2021-01-05"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["vectorong"]
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["vectorong"]
+description = "by vectorong for week 1: Yellow Lines. Created using: Processing (program) + Java."
 [[images]]
-                      src = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg"
-                      alt = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg"
+              href = "/blog/vectorong-week-1-fa7e"
+              alt = "Origin Point"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" file="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Processing (program) + Java**.
@@ -22,8 +24,8 @@ Circle created with Java code that randomizes the spiral variance and the stroke
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Circle created with Java code that randomizes the spiral variance and the stroke
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 1
 **Title:** Origin Point
 **Medium:** Processing (program) + Java

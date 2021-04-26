@@ -2,16 +2,18 @@
 title =       "sometimes art is not worth having a mental breakdown over"
 author =      "Bell-Bones"
 date =        "2021-04-20"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 15: Back to Basics. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png"
-                      alt = "/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png"
+              href = "/blog/bell-bones-week-15-6259"
+              alt = "sometimes art is not worth having a mental breakdown over"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" file="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ So... I was late for once. Annnd this wasn't even what I was working on, this is
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ So... I was late for once. Annnd this wasn't even what I was working on, this is
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title: sometimes art is not worth having a mental breakdown over
 Medium: FireAlpaca

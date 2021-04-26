@@ -2,16 +2,18 @@
 title =       "egg galaxy"
 author =      "jc"
 date =        "2021-01-07"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["jc"]
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["jc"]
+description = "by jc for week 1: Yellow Lines. Created using: csp."
 [[images]]
-                      src = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png"
-                      alt = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png"
-                      stretch = "cover"
+              src = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png"
+              href = "/blog/jc-week-1-c31f"
+              alt = "egg galaxy"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" >}}
+{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **csp**.
@@ -24,9 +26,9 @@ rybaris
 
 ## Social Media
 
-- **Twitter**: [rybaris]()
-- **Instagram**: [rybaris]()
-- **Tumblr**: [rybaris]()
+- **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
+- **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
+- **Instagram**: <a href='https://instagram.com/rybaris' target='_blank'>rybaris</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ rybaris
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 1
 Title: egg galaxy
 Medium: csp

@@ -2,16 +2,18 @@
 title =       "Queen of the Skies"
 author =      "winsome"
 date =        "2021-02-05"
-categories =  ["Week 05: Royal Green"]
-tags =        ["winsome"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["winsome"]
+description = "by winsome for week 5: Royal Green. Created using: unknown medium."
 [[images]]
-                      src = "/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png"
-                      alt = "/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png"
-                      stretch = "cover"
+              src = "/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png"
+              href = "/blog/winsome-week-5-4c35"
+              alt = "Queen of the Skies"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" >}}
+{{< fancybox path="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" file="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **unknown medium**.
@@ -22,8 +24,8 @@ The prompt immediately made me think of the Rathian from Monster Hunter, the fem
 
 ## Social Media
 
-- **Twitch**: [winsomeorc]()
-- **Twitter**: [winsomeorc]()
+- **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
+- **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ The prompt immediately made me think of the Rathian from Monster Hunter, the fem
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Queen of the Skies
 Description:

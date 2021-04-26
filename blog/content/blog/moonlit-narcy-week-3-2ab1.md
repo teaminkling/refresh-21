@@ -2,16 +2,18 @@
 title =       "compassionate eye"
 author =      "Moonlit Narcy"
 date =        "2021-01-20"
-categories =  ["Week 03: Red Circle"]
-tags =        ["Moonlit Narcy"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["Moonlit Narcy"]
+description = "by Moonlit Narcy for week 3: Red Circle. Created using: Procreate."
 [[images]]
-                      src = "/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/moonlit-narcy-week-3-2ab1"
+              alt = "compassionate eye"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
@@ -24,8 +26,8 @@ IG&Twitter| Moonlit_narcy. Twitch| MoonlitNarcy
 
 ## Social Media
 
-- **Twitter**: [moonlit_narcy]()
-- **Instagram**: [moonlit_narcy]()
+- **Instagram**: <a href='https://instagram.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
+- **Twitter**: <a href='https://twitter.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ IG&Twitter| Moonlit_narcy. Twitch| MoonlitNarcy
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 **Title:  compassionate eye **
 Medium: Procreate

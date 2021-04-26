@@ -2,16 +2,18 @@
 title =       "The Red Circle"
 author =      "zja2damax"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["zja2damax"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["zja2damax"]
+description = "by zja2damax for week 3: Red Circle. Created using: Charcoal, Acrylic, and Watercolor on paper."
 [[images]]
-                      src = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/zja2damax-week-3-f85c"
+              alt = "The Red Circle"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Charcoal, Acrylic, and Watercolor on paper**.
@@ -30,7 +32,7 @@ Desc: A photoshopped composition focused around the red circle. The circle is em
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 3:
 Medium: Charcoal, Acrylic, and Watercolor on paper
 Title: *The Red Circle*

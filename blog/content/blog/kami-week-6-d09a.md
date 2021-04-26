@@ -2,16 +2,18 @@
 title =       "Everlasting Hope"
 author =      "Kami"
 date =        "2021-02-07"
-categories =  ["Week 06: Simple Love"]
-tags =        ["Kami"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["Kami"]
+description = "by Kami for week 6: Simple Love. Created using: Photoshop."
 [[images]]
-                      src = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg"
-                      alt = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg"
-                      stretch = "cover"
+              src = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg"
+              href = "/blog/kami-week-6-d09a"
+              alt = "Everlasting Hope"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" >}}
+{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.
@@ -22,7 +24,7 @@ I like the oceans and i like the city skyline in the night. Why is it called Eve
 
 ## Social Media
 
-- **Twitch**: [kamiofthesouth]()
+- **Twitch**: <a href='https://twitch.tv/kamiofthesouth' target='_blank'>kamiofthesouth</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ I like the oceans and i like the city skyline in the night. Why is it called Eve
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 6
 Title: Everlasting Hope                                                                                                                           
 Medium: Photoshop

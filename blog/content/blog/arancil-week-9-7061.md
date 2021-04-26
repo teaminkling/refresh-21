@@ -2,16 +2,18 @@
 title =       "I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on CHOKE ME LIKE YOU HATE ME obviously sorry"
 author =      "arancil"
 date =        "2021-03-05"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["arancil"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["arancil"]
+description = "by arancil for week 9: Bold Strokes. Created using: Pencil, watercolor, acrylics, promarkers, various fineliners, ink, hands, anger, frustration, stress, acceptance, coffee."
 [[images]]
-                      src = "/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg"
-                      alt = "/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg"
+              href = "/blog/arancil-week-9-7061"
+              alt = "I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on CHOKE ME LIKE YOU HATE ME obviously sorry"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" >}}
+{{< fancybox path="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" file="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Pencil, watercolor, acrylics, promarkers, various fineliners, ink, hands, anger, frustration, stress, acceptance, coffee**.
@@ -26,9 +28,9 @@ Also @jonasw was my spirit animal
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ Also @jonasw was my spirit animal
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Title: I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on "CHOKE ME LIKE YOU HATE ME" obviously sorry
 Medium: Pencil, watercolor, acrylics, promarkers, various fineliners, ink, hands, anger, frustration, stress, acceptance, coffee

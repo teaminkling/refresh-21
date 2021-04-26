@@ -2,16 +2,18 @@
 title =       "Yellow Ice Bar"
 author =      "Heidelburger"
 date =        "2021-01-05"
-categories =  ["Week 01: Yellow Lines"]
-tags =        ["Heidelburger"]
+themes =      ["Week 01: Yellow Lines"]
+artists =     ["Heidelburger"]
+description = "by Heidelburger for week 1: Yellow Lines. Created using: Switch Harv's Island."
 [[images]]
-                      src = "/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/heidelburger-week-1-7b09"
+              alt = "Yellow Ice Bar"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Switch Harv's Island**.
@@ -30,7 +32,7 @@ I cannot art so here are yellow ACNH vibes, maybe (big maybe) I'll actually draw
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 1
 Title: Yellow Ice Bar
 Medium: Switch Harv's Island

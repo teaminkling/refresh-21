@@ -2,16 +2,18 @@
 title =       "Nian Gao, old and new"
 author =      "jorchael_p"
 date =        "2021-02-17"
-categories =  ["Week 06: Simple Love"]
-tags =        ["jorchael_p"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["jorchael_p"]
+description = "by jorchael_p for week 6: Simple Love. Created using: photoshop."
 [[images]]
-                      src = "/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png"
-                      alt = "/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png"
-                      stretch = "cover"
+              src = "/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png"
+              href = "/blog/jorchael_p-week-6-92bc"
+              alt = "Nian Gao, old and new"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **photoshop**.
@@ -25,8 +27,8 @@ https://mobile.
 
 ## Social Media
 
-- **Twitter**: [jorchaelp]()
-- **Instagram**: [jrchlp.png]()
+- **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
+- **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ https://mobile.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: Nian Gao, old and new
 Medium: photoshop

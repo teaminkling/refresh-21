@@ -2,16 +2,18 @@
 title =       "Cancri"
 author =      "vectorong"
 date =        "2021-03-19"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["vectorong"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["vectorong"]
+description = "by vectorong for week 11: Atmosphere Spectrum. Created using: Relief printing."
 [[images]]
-                      src = "/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg"
-                      alt = "/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg"
+              href = "/blog/vectorong-week-11-3c65"
+              alt = "Cancri"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" file="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Relief printing**.
@@ -22,8 +24,8 @@ Based on my initial wonder (and subsequent terror) of the galaxy, where I would 
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Based on my initial wonder (and subsequent terror) of the galaxy, where I would 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11
 Title: Cancri
 Medium: Relief printing

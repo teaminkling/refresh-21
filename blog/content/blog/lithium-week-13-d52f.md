@@ -2,16 +2,18 @@
 title =       "Some Pig"
 author =      "Lithium"
 date =        "2021-04-02"
-categories =  ["Week 13: Look At Me"]
-tags =        ["Lithium"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["Lithium"]
+description = "by Lithium for week 13: Look At Me. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg"
-                      alt = "/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg"
+              href = "/blog/lithium-week-13-d52f"
+              alt = "Some Pig"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" >}}
+{{< fancybox path="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" file="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -24,9 +26,9 @@ IG/tumblr lithiumreflections / twitter lireflections
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ IG/tumblr lithiumreflections / twitter lireflections
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 13
 **Title:  ** Some Pig
 Medium: Digital (Clip Studio Paint)

@@ -2,16 +2,18 @@
 title =       "Foish"
 author =      "cindry"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["cindry"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["cindry"]
+description = "by cindry for week 8: High Sheen. Created using: graphic, Illustrator."
 [[images]]
-                      src = "/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png"
-                      alt = "/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png"
-                      stretch = "cover"
+              src = "/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png"
+              href = "/blog/cindry-week-8-71ed"
+              alt = "Foish"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" >}}
+{{< fancybox path="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" file="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **graphic, Illustrator**.
@@ -22,10 +24,10 @@ Something about a brassy steam punk-y fish, it looks a tad japanese now? i love 
 
 ## Social Media
 
-- **Twitter**: [fiveclawd]()
-- **Instagram**: [fiveclawd]()
-- **Twitch**: [cindrytuna]()
-- **Twitter**: [cindrytuna]()
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ Something about a brassy steam punk-y fish, it looks a tad japanese now? i love 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 **Title:  Foish**
 Medium: graphic, Illustrator

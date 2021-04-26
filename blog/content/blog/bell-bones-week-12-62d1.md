@@ -2,16 +2,18 @@
 title =       "Exhaustion"
 author =      "Bell-Bones"
 date =        "2021-03-26"
-categories =  ["Week 12: Visual Words"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png"
-                      alt = "/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png"
+              href = "/blog/bell-bones-week-12-62d1"
+              alt = "Exhaustion"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" >}}
+{{< fancybox path="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ Was going to do something cuter this week and make a lovecore aesthetic piece, b
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Was going to do something cuter this week and make a lovecore aesthetic piece, b
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 12
 Title: Exhaustion
 Medium: FireAlpaca

@@ -2,16 +2,18 @@
 title =       "koi 🙂"
 author =      "hamishmr"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["hamishmr"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["hamishmr"]
+description = "by hamishmr for week 3: Red Circle. Created using: Ps."
 [[images]]
-                      src = "/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg"
-                      alt = "/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg"
-                      stretch = "cover"
+              src = "/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg"
+              href = "/blog/hamishmr-week-3-e121"
+              alt = "koi 🙂"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" >}}
+{{< fancybox path="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" file="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ps**.
@@ -30,7 +32,7 @@ fish 🙂
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title: koi 🙂
 Medium: Ps

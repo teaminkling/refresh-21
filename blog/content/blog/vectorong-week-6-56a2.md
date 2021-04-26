@@ -2,18 +2,20 @@
 title =       "Paper Pond"
 author =      "vectorong"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["vectorong"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["vectorong"]
+description = "by vectorong for week 6: Simple Love. Created using: Origami + ink."
 [[images]]
-                      src = "/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg"
-                      alt = "/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg"
+              href = "/blog/vectorong-week-6-56a2"
+              alt = "Paper Pond"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" >}}
 
-{{< fancybox path="/" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Origami + ink**.
@@ -27,8 +29,8 @@ detail shot so you can see the paper better LOL
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ detail shot so you can see the paper better LOL
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: Paper Pond
 Medium: Origami + ink

@@ -2,16 +2,18 @@
 title =       "A Flash of Peace"
 author =      "Lithium"
 date =        "2021-02-18"
-categories =  ["Week 06: Simple Love"]
-tags =        ["Lithium"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["Lithium"]
+description = "by Lithium for week 6: Simple Love. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg"
-                      alt = "/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg"
+              href = "/blog/lithium-week-6-68da"
+              alt = "A Flash of Peace"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" >}}
+{{< fancybox path="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" file="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -22,9 +24,9 @@ A blanket, the sound of rain, a chill breeze, and distant thunder... these were 
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ A blanket, the sound of rain, a chill breeze, and distant thunder... these were 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 **Title:  ** A Flash of Peace
 Medium: Digital (Clip Studio Paint)

@@ -2,16 +2,18 @@
 title =       "Amalgamation: At A Time Like This, Will Someone Be There For You?"
 author =      "a1ewanrichards"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Digital - Clip Studio Paint."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg"
-                      alt = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg"
+              href = "/blog/a1ewanrichards-week-16-dcab"
+              alt = "Amalgamation: At A Time Like This, Will Someone Be There For You?"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" file="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Digital - Clip Studio Paint**.
@@ -28,12 +30,12 @@ The title is derived from the text displayed on the original Japanese theatrical
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -42,7 +44,7 @@ The title is derived from the text displayed on the original Japanese theatrical
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: "Amalgamation: At A Time Like This, Will Someone Be There For You?"
 Medium: Digital - Clip Studio Paint

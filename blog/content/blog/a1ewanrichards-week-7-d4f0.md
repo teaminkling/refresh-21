@@ -2,16 +2,18 @@
 title =       "Resistance 3: When The Lands Become Graveyards"
 author =      "a1ewanrichards"
 date =        "2021-02-18"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 7: Disturbed Desert. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg"
-                      alt = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg"
+              href = "/blog/a1ewanrichards-week-7-d4f0"
+              alt = "Resistance 3: When The Lands Become Graveyards"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg" file="/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -26,12 +28,12 @@ It's not a desert in the typical sense. It's an amalgam of sugar cane farms and 
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -40,7 +42,7 @@ It's not a desert in the typical sense. It's an amalgam of sugar cane farms and 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 7: Disturbed Desert
 Title: "Resistance 3: When The Lands Become Graveyards"
 Medium: Digital (Clip Studio Paint)

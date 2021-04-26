@@ -2,16 +2,18 @@
 title =       "textile grook"
 author =      "Goblet"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["Goblet"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["Goblet"]
+description = "by Goblet for week 10: Folds and Folds. Created using: ibispaint x."
 [[images]]
-                      src = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png"
-                      alt = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png"
-                      stretch = "cover"
+              src = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png"
+              href = "/blog/goblet-week-10-5a04"
+              alt = "textile grook"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" >}}
+{{< fancybox path="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" file="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ibispaint x**.
@@ -22,8 +24,8 @@ Sorry, used 5 min
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Sorry, used 5 min
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 Title: textile grook
 Medium: ibispaint x 

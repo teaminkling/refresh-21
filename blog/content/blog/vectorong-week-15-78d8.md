@@ -2,16 +2,18 @@
 title =       "Bread, Butter, Boysenberry"
 author =      "vectorong"
 date =        "2021-04-16"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["vectorong"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["vectorong"]
+description = "by vectorong for week 15: Back to Basics. Created using: Food."
 [[images]]
-                      src = "/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg"
-                      alt = "/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg"
+              href = "/blog/vectorong-week-15-78d8"
+              alt = "Bread, Butter, Boysenberry"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Food**.
@@ -22,8 +24,8 @@ My grandfather loved boysenberry jam, so I made a simple tribute to him and my f
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ My grandfather loved boysenberry jam, so I made a simple tribute to him and my f
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title: Bread, Butter, Boysenberry
 Medium: Food

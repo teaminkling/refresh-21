@@ -2,16 +2,18 @@
 title =       "Not My Forte"
 author =      "DynoLoafer"
 date =        "2021-02-05"
-categories =  ["Week 05: Royal Green"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 5: Royal Green. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png"
-                      alt = "/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png"
+              href = "/blog/dynoloafer-week-5-e0bc"
+              alt = "Not My Forte"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" file="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Paint Tool SAI**.
@@ -34,7 +36,7 @@ Backey: "Uhm.. your Highness, word gets around eheh..." (sweating)
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Medium: Paint Tool SAI
 Title: __Not My Forte__

@@ -2,16 +2,18 @@
 title =       "Whats Left : Left handed Leftovers, vol. 1"
 author =      "Pumpkan"
 date =        "2021-04-16"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["Pumpkan"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 15: Back to Basics. Created using: markers + paper in gif."
 [[images]]
-                      src = "/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif"
-                      alt = "/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif"
+              href = "/blog/pumpkan-week-15-2fdb"
+              alt = "Whats Left : Left handed Leftovers, vol. 1"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" >}}
+{{< fancybox path="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" file="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **markers + paper in gif**.
@@ -24,8 +26,8 @@ edit: fixed the file
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ edit: fixed the file
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title: Whats Left : Left handed Leftovers, vol. 1
 Medium: markers + paper in gif 

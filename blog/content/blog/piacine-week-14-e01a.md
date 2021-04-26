@@ -2,16 +2,18 @@
 title =       "comfy spot"
 author =      "Piacine"
 date =        "2021-04-08"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["Piacine"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["Piacine"]
+description = "by Piacine for week 14: Absolute Fire. Created using: Procreate."
 [[images]]
-                      src = "/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif"
-                      alt = "/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif"
-                      stretch = "cover"
+              src = "/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif"
+              href = "/blog/piacine-week-14-e01a"
+              alt = "comfy spot"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" >}}
+{{< fancybox path="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" file="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.
@@ -30,7 +32,7 @@ The fire is warm, comforting, bright. Just warms your cold toes and the tip of t
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 14
 Title: comfy spot
 Medium: Procreate

@@ -2,16 +2,18 @@
 title =       "Big Skeleton"
 author =      "jonasw"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["jonasw"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["jonasw"]
+description = "by jonasw for week 16: Scaling Giants. Created using: Pencils."
 [[images]]
-                      src = "/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png"
-                      alt = "/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png"
-                      stretch = "cover"
+              src = "/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png"
+              href = "/blog/jonasw-week-16-64e9"
+              alt = "Big Skeleton"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" >}}
+{{< fancybox path="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" file="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Pencils**.
@@ -30,7 +32,7 @@ Almost forgot to submit :I
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: Big Skeleton
 Medium: Pencils

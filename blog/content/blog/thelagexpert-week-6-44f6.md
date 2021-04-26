@@ -2,16 +2,18 @@
 title =       "Cyber Love"
 author =      "TheLagExpert"
 date =        "2021-02-10"
-categories =  ["Week 06: Simple Love"]
-tags =        ["TheLagExpert"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["TheLagExpert"]
+description = "by TheLagExpert for week 6: Simple Love. Created using: Affinity Photo."
 [[images]]
-                      src = "/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png"
-                      alt = "/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png"
-                      stretch = "cover"
+              src = "/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png"
+              href = "/blog/thelagexpert-week-6-44f6"
+              alt = "Cyber Love"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" >}}
+{{< fancybox path="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" file="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Affinity Photo**.
@@ -24,7 +26,7 @@ Twitter: @TheLagExpert
 
 ## Social Media
 
-- **Instagram**: [billelhambli]()
+- **Instagram**: <a href='https://instagram.com/billelhambli' target='_blank'>billelhambli</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ Twitter: @TheLagExpert
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: Cyber Love
 Medium: Affinity Photo 

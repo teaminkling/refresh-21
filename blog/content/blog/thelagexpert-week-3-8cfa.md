@@ -2,16 +2,18 @@
 title =       "Lonely in the Quartz desert"
 author =      "TheLagExpert"
 date =        "2021-01-23"
-categories =  ["Week 03: Red Circle"]
-tags =        ["TheLagExpert"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["TheLagExpert"]
+description = "by TheLagExpert for week 3: Red Circle. Created using: Affinity Photo."
 [[images]]
-                      src = "/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg"
-                      alt = "/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg"
-                      stretch = "cover"
+              src = "/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg"
+              href = "/blog/thelagexpert-week-3-8cfa"
+              alt = "Lonely in the Quartz desert"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" >}}
+{{< fancybox path="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" file="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Affinity Photo**.
@@ -22,7 +24,7 @@ lost in the desert, not really what I imagined (was afraid to post it), but will
 
 ## Social Media
 
-- **Instagram**: [billelhambli]()
+- **Instagram**: <a href='https://instagram.com/billelhambli' target='_blank'>billelhambli</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ lost in the desert, not really what I imagined (was afraid to post it), but will
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 3
 Title: Lonely in the Quartz desert
 Medium: Affinity Photo

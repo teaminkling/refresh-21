@@ -2,18 +2,20 @@
 title =       "Strange Sands"
 author =      "cindry"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["cindry"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["cindry"]
+description = "by cindry for week 7: Disturbed Desert. Created using: ink on paper,  a comic!."
 [[images]]
-                      src = "/img/cindry/2021-02-19+a94f76d7ab958d0f890b66f82df2b34b.png"
-                      alt = "/img/cindry/2021-02-19+a94f76d7ab958d0f890b66f82df2b34b.png"
-                      stretch = "cover"
+              src = "/img/cindry/2021-02-19+6db735e657caf6f76ef182c111b3af96.png"
+              href = "/blog/cindry-week-7-78e8"
+              alt = "Strange Sands"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/cindry/2021-02-19+6db735e657caf6f76ef182c111b3af96.png" >}}
+{{< fancybox path="/img/cindry/2021-02-19+6db735e657caf6f76ef182c111b3af96.png" file="/img/cindry/2021-02-19+6db735e657caf6f76ef182c111b3af96.png" >}}
 
-{{< fancybox path="/" file="/img/cindry/2021-02-19+a94f76d7ab958d0f890b66f82df2b34b.png" >}}
+{{< fancybox path="/img/cindry/2021-02-19+a94f76d7ab958d0f890b66f82df2b34b.png" file="/img/cindry/2021-02-19+a94f76d7ab958d0f890b66f82df2b34b.png" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ink on paper,  a comic!**.
@@ -25,10 +27,10 @@ hey isn't is kinda mysterious? I got this idea from when crabs would dig holes a
 
 ## Social Media
 
-- **Twitter**: [fiveclawd]()
-- **Instagram**: [fiveclawd]()
-- **Twitch**: [cindrytuna]()
-- **Twitter**: [cindrytuna]()
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ hey isn't is kinda mysterious? I got this idea from when crabs would dig holes a
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 **Title:  Strange Sands**
 Medium: ink on paper,  a comic!

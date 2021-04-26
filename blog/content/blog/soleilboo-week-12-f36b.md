@@ -2,16 +2,18 @@
 title =       "Disappear"
 author =      "soleilboo"
 date =        "2021-03-26"
-categories =  ["Week 12: Visual Words"]
-tags =        ["soleilboo"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["soleilboo"]
+description = "by soleilboo for week 12: Visual Words. Created using: Procreate."
 [[images]]
-                      src = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif"
-                      alt = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif"
-                      stretch = "cover"
+              src = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif"
+              href = "/blog/soleilboo-week-12-f36b"
+              alt = "Disappear"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" >}}
+{{< fancybox path="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" file="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Procreate**.
@@ -25,8 +27,8 @@ twitch.tv/soleilboo
 
 ## Social Media
 
-- **Instagram**: [soleil.boo]()
-- **Twitch**: [soleilboo]()
+- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
+- **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ twitch.tv/soleilboo
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 12- 3D-visual words
 Title: Disappear
 Medium: Procreate 

@@ -2,16 +2,18 @@
 title =       "Green mOon"
 author =      "askpatt"
 date =        "2021-01-30"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["askpatt"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["askpatt"]
+description = "by askpatt for week 4: Murky Silhouettes. Created using: PS."
 [[images]]
-                      src = "/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png"
-                      alt = "/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png"
-                      stretch = "cover"
+              src = "/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png"
+              href = "/blog/askpatt-week-4-54e5"
+              alt = "Green mOon"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" >}}
+{{< fancybox path="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" file="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PS**.
@@ -31,7 +33,7 @@ Note: save your work...i lost the first draft and finished this 1 hr before dead
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: Green mOon
 Medium: PS

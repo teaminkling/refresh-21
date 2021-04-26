@@ -2,16 +2,18 @@
 title =       "Need a Hand?"
 author =      "Bell-Bones"
 date =        "2021-02-03"
-categories =  ["Week 05: Royal Green"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 5: Royal Green. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png"
-                      alt = "/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png"
+              href = "/blog/bell-bones-week-5-1fa0"
+              alt = "Need a Hand?"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" >}}
+{{< fancybox path="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" file="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ Finally, something not last minute! I decided to be experimental, doing a linele
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Finally, something not last minute! I decided to be experimental, doing a linele
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Need a Hand?
 Medium: FireAlpaca

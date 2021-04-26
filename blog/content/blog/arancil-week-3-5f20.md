@@ -2,16 +2,18 @@
 title =       "Behold my stand - [BRIGHT EYES!!]"
 author =      "arancil"
 date =        "2021-01-22"
-categories =  ["Week 03: Red Circle"]
-tags =        ["arancil"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["arancil"]
+description = "by arancil for week 3: Red Circle. Created using: Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)."
 [[images]]
-                      src = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg"
-                      alt = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg"
+              href = "/blog/arancil-week-3-5f20"
+              alt = "Behold my stand - [BRIGHT EYES!!]"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" >}}
+{{< fancybox path="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" file="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)**.
@@ -24,9 +26,9 @@ A JoJo-esque pre-fight peacocking scene. Imagine this being followed by the vill
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ A JoJo-esque pre-fight peacocking scene. Imagine this being followed by the vill
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 Title: "Behold my stand - [BRIGHT EYES!!]"
 Medium: Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)

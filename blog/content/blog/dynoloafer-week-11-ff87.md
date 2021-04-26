@@ -2,16 +2,18 @@
 title =       "They Come Out at Night"
 author =      "DynoLoafer"
 date =        "2021-03-18"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 11: Atmosphere Spectrum. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png"
-                      alt = "/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png"
+              href = "/blog/dynoloafer-week-11-ff87"
+              alt = "They Come Out at Night"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" file="/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ Getting into dragons again more than I usually do, so I decided to draw some dra
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11
 Medium: Paint Tool SAI
 Title: __They Come Out at Night__

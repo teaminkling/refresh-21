@@ -2,16 +2,18 @@
 title =       "hEhE LEmon bUTt but also strawberry and coffee is kinda vibes"
 author =      "eggyolk"
 date =        "2021-04-16"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["eggyolk"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["eggyolk"]
+description = "by eggyolk for week 15: Back to Basics. Created using: Procreate."
 [[images]]
-                      src = "/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png"
-                      alt = "/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png"
-                      stretch = "cover"
+              src = "/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png"
+              href = "/blog/eggyolk-week-15-69ac"
+              alt = "hEhE LEmon bUTt but also strawberry and coffee is kinda vibes"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png" >}}
+{{< fancybox path="/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png" file="/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Procreate**.
@@ -32,7 +34,7 @@ urmom 15.0 hurhur
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 Title: hEhE LEmon bUTt but also strawberry and coffee is kinda vibes 
 Medium: Procreate

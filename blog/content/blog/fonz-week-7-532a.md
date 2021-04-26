@@ -2,16 +2,18 @@
 title =       "desert strands"
 author =      "fonz"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["fonz"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["fonz"]
+description = "by fonz for week 7: Disturbed Desert. Created using: csp."
 [[images]]
-                      src = "/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png"
-                      alt = "/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png"
-                      stretch = "cover"
+              src = "/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png"
+              href = "/blog/fonz-week-7-532a"
+              alt = "desert strands"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" >}}
+{{< fancybox path="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" file="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
@@ -22,7 +24,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 
 ## Social Media
 
-- **Twitch**: [fonzaku]()
+- **Twitch**: <a href='https://twitch.tv/fonzaku' target='_blank'>fonzaku</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title: desert strands
 Medium: csp

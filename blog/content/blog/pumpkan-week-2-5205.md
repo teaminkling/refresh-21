@@ -2,16 +2,18 @@
 title =       "You have new text message! High five!"
 author =      "Pumpkan"
 date =        "2021-01-14"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Pumpkan"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-                      src = "/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png"
-                      alt = "/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png"
+              href = "/blog/pumpkan-week-2-5205"
+              alt = "You have new text message! High five!"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" >}}
+{{< fancybox path="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" file="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ Wanted to draw a mermaid. I really wanted to show this massive lady with somethi
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Wanted to draw a mermaid. I really wanted to show this massive lady with somethi
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 Title: "You have new text message! High five!"
 Medium: Procreate

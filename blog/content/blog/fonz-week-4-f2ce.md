@@ -2,16 +2,18 @@
 title =       "mask"
 author =      "fonz"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["fonz"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["fonz"]
+description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 [[images]]
-                      src = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png"
-                      alt = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png"
-                      stretch = "cover"
+              src = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png"
+              href = "/blog/fonz-week-4-f2ce"
+              alt = "mask"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" >}}
+{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" file="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
@@ -22,7 +24,7 @@ i really just wanted to create something ambiguous with this piece, no clear exp
 
 ## Social Media
 
-- **Twitch**: [fonzaku]()
+- **Twitch**: <a href='https://twitch.tv/fonzaku' target='_blank'>fonzaku</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ i really just wanted to create something ambiguous with this piece, no clear exp
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: mask
 Medium: csp

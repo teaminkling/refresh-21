@@ -2,16 +2,18 @@
 title =       "Just Smile & Smell the Flowers"
 author =      "Moonlit Narcy"
 date =        "2021-01-31"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Moonlit Narcy"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Moonlit Narcy"]
+description = "by Moonlit Narcy for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-                      src = "/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png"
-                      alt = "/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png"
-                      stretch = "cover"
+              src = "/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/moonlit-narcy-week-4-3b95"
+              alt = "Just Smile & Smell the Flowers"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ sometimes all it takes is the wonderful smell of flowers to put a smile on your 
 
 ## Social Media
 
-- **Twitter**: [moonlit_narcy]()
-- **Instagram**: [moonlit_narcy]()
+- **Instagram**: <a href='https://instagram.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
+- **Twitter**: <a href='https://twitter.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ sometimes all it takes is the wonderful smell of flowers to put a smile on your 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: Just Smile & Smell the Flowers
 Medium: Procreate

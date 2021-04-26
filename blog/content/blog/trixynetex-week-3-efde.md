@@ -2,16 +2,18 @@
 title =       "Summon"
 author =      "TrixyNetex"
 date =        "2021-01-18"
-categories =  ["Week 03: Red Circle"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 3: Red Circle. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png"
-                      alt = "/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png"
+              href = "/blog/trixynetex-week-3-efde"
+              alt = "Summon"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" >}}
+{{< fancybox path="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" file="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Sketchbook Pro**.
@@ -32,7 +34,7 @@ Media:
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 **Title:  Summon **
 Medium: Sketchbook Pro

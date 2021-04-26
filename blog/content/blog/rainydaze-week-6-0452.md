@@ -2,16 +2,18 @@
 title =       "inanimate objects that give me comfort"
 author =      "rainydaze"
 date =        "2021-02-10"
-categories =  ["Week 06: Simple Love"]
-tags =        ["rainydaze"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["rainydaze"]
+description = "by rainydaze for week 6: Simple Love. Created using: Procreate, with the Narinder Pencil."
 [[images]]
-                      src = "/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png"
-                      alt = "/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png"
-                      stretch = "cover"
+              src = "/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png"
+              href = "/blog/rainydaze-week-6-0452"
+              alt = "inanimate objects that give me comfort"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" >}}
+{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate, with the Narinder Pencil**.
@@ -22,7 +24,7 @@ I don't have many people to rely on for emotional support, so it's really nice t
 
 ## Social Media
 
-- **Twitch**: [rainydazedoeslife]()
+- **Twitch**: <a href='https://twitch.tv/rainydazedoeslife' target='_blank'>rainydazedoeslife</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ I don't have many people to rely on for emotional support, so it's really nice t
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: inanimate objects that give me comfort 
 Medium: Procreate, with the Narinder Pencil

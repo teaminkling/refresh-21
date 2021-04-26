@@ -2,16 +2,18 @@
 title =       "felled tree"
 author =      "Goblet"
 date =        "2021-02-23"
-categories =  ["Week 08: High Sheen"]
-tags =        ["Goblet"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["Goblet"]
+description = "by Goblet for week 8: High Sheen. Created using: ibispaint x."
 [[images]]
-                      src = "/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png"
-                      alt = "/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png"
-                      stretch = "cover"
+              src = "/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png"
+              href = "/blog/goblet-week-8-24cb"
+              alt = "felled tree"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" >}}
+{{< fancybox path="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" file="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **ibispaint x**.
@@ -22,8 +24,8 @@ only used the picture and the colors of the picture. Plus the little tree dawing
 
 ## Social Media
 
-- **Twitter**: [cuporice]()
-- **Twitch**: [cuporice]()
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ only used the picture and the colors of the picture. Plus the little tree dawing
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title:  felled tree
 Medium: ibispaint x 

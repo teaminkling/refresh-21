@@ -2,11 +2,11 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
@@ -20,12 +20,12 @@
     ],
     "Bell-Bones#0091": [
       {
-        "provider": "Tumblr",
-        "username": "bellbones1207"
-      },
-      {
         "provider": "Twitter",
         "username": "bbart1207"
+      },
+      {
+        "provider": "Tumblr",
+        "username": "bellbones1207"
       }
     ],
     "Lithium#7468": [
@@ -60,26 +60,26 @@
     ],
     "DoughYeast#7521": [
       {
-        "provider": "Twitch",
-        "username": "doughyeast"
-      },
-      {
         "provider": "Instagram",
         "username": "dough.yeast"
+      },
+      {
+        "provider": "Twitch",
+        "username": "doughyeast"
       }
     ],
     "Charmandaar#3357": [
       {
-        "provider": "Twitch",
-        "username": "charmandaar"
+        "provider": "Twitter",
+        "username": "charmandaar_"
       },
       {
         "provider": "Instagram",
         "username": "charmandaar_"
       },
       {
-        "provider": "Twitter",
-        "username": "charmandaar_"
+        "provider": "Twitch",
+        "username": "charmandaar"
       }
     ],
     "arancil#8622": [
@@ -88,52 +88,52 @@
         "username": "arancil"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "arancil"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "arancil"
       }
     ],
     "jorchael_p#2534": [
       {
-        "provider": "Twitter",
-        "username": "jorchaelp"
-      },
-      {
         "provider": "Instagram",
         "username": "jrchlp.png"
+      },
+      {
+        "provider": "Twitter",
+        "username": "jorchaelp"
       }
     ],
     "Pumpkan#2447": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "pumpkanart"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "pumpkanart"
       }
     ],
     "Moonlit Narcy#0961": [
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "moonlit_narcy"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "moonlit_narcy"
       }
     ],
     "CapoKey#0003": [
       {
-        "provider": "Instagram",
-        "username": "caposketch"
-      },
-      {
         "provider": "Twitter",
         "username": "capokeyt"
+      },
+      {
+        "provider": "Instagram",
+        "username": "caposketch"
       }
     ],
     "jc#3609": [
@@ -142,11 +142,11 @@
         "username": "rybaris"
       },
       {
-        "provider": "Instagram",
+        "provider": "Tumblr",
         "username": "rybaris"
       },
       {
-        "provider": "Tumblr",
+        "provider": "Instagram",
         "username": "rybaris"
       }
     ],
@@ -178,16 +178,16 @@
         "username": "fiveclawd"
       },
       {
-        "provider": "Instagram",
-        "username": "fiveclawd"
+        "provider": "Twitter",
+        "username": "cindrytuna"
       },
       {
         "provider": "Twitch",
         "username": "cindrytuna"
       },
       {
-        "provider": "Twitter",
-        "username": "cindrytuna"
+        "provider": "Instagram",
+        "username": "fiveclawd"
       }
     ],
     "rainydaze#5604": [
@@ -198,8 +198,8 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Twitter",
-        "username": "rjmmendoza444"
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
       },
       {
         "provider": "Instagram",
@@ -207,19 +207,19 @@
       },
       {
         "provider": "Twitter",
-        "username": "rjmendoza444"
-      },
-      {
-        "provider": "Instagram",
         "username": "rjmmendoza444"
       },
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
+        "provider": "Twitter",
+        "username": "rjmendoza444"
       },
       {
         "provider": "Twitch",
         "username": "a1ewanrichards#0881"
+      },
+      {
+        "provider": "Instagram",
+        "username": "rjmmendoza444"
       }
     ],
     "soggyissoggy#7277": [
@@ -230,21 +230,21 @@
     ],
     "Goblet#7026": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "cuporice"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "cuporice"
       }
     ],
     "mrtnong#3026": [
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       }
     ],
@@ -308,21 +308,21 @@
     ],
     "soleilboo#1662": [
       {
-        "provider": "Instagram",
-        "username": "soleil.boo"
-      },
-      {
         "provider": "Twitch",
         "username": "soleilboo"
+      },
+      {
+        "provider": "Instagram",
+        "username": "soleil.boo"
       }
     ],
     "jumpingbeans#6967": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "jumpingbeansz"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "jumpingbeansz"
       }
     ],
@@ -390,12 +390,12 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Twitch",
-        "username": "mimichair"
-      },
-      {
         "provider": "Instagram",
         "username": "mimichair.art"
+      },
+      {
+        "provider": "Twitch",
+        "username": "mimichair"
       },
       {
         "provider": "Twitter",
@@ -1439,15 +1439,15 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "ichika%28%29-week-3-911a",
-      "author": "\ud83c\udf3aIchika\ud83c\udf3a(\u30df\u30b1\u30e9)#3160",
+      "id": "ichika-week-3-911a",
+      "author": "Ichika#3160",
       "created_at": "2021-01-21",
       "week": 3,
       "title": "Untitled",
       "medium": "",
       "description": "wolf idk what to say im new to this\ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f\u2728",
       "attachments": [
-        "../blog/static/img/ichika()/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg"
+        "../blog/static/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg"
       ],
       "socials": [],
       "raw_content": "Week 3?\nDescription: wolf idk what to say im new to this\ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f\u2728",
@@ -2454,7 +2454,7 @@
     },
     {
       "id": "dylan-week-5-7bf8",
-      "author": "Dylan\u00ae#0666",
+      "author": "Dylan#0666",
       "created_at": "2021-02-01",
       "week": 5,
       "title": "Behind The Doors",
@@ -3401,7 +3401,7 @@
     },
     {
       "id": "dylan-week-7-384d",
-      "author": "Dylan\u00ae#0666",
+      "author": "Dylan#0666",
       "created_at": "2021-02-14",
       "week": 7,
       "title": "Desert heat",
@@ -5181,7 +5181,7 @@
     },
     {
       "id": "dylan-week-11-d4a7",
-      "author": "Dylan\u00ae#0666",
+      "author": "Dylan#0666",
       "created_at": "2021-03-16",
       "week": 11,
       "title": "Cloudy Night",

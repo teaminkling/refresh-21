@@ -2,16 +2,18 @@
 title =       "beach 🙂"
 author =      "hamishmr"
 date =        "2021-01-23"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["hamishmr"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["hamishmr"]
+description = "by hamishmr for week 4: Murky Silhouettes. Created using: Photo and Adobe Suite."
 [[images]]
-                      src = "/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg"
-                      alt = "/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg"
-                      stretch = "cover"
+              src = "/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg"
+              href = "/blog/hamishmr-week-4-1ce3"
+              alt = "beach 🙂"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" >}}
+{{< fancybox path="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" file="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Photo and Adobe Suite**.
@@ -33,7 +35,7 @@ nah 🙂
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 4:
 Title: beach 🙂
 Medium: Photo and Adobe Suite

@@ -2,16 +2,18 @@
 title =       "Morning Breeze"
 author =      "cindry"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["cindry"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["cindry"]
+description = "by cindry for week 4: Murky Silhouettes. Created using: Animation, CSP."
 [[images]]
-                      src = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif"
-                      alt = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif"
-                      stretch = "cover"
+              src = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif"
+              href = "/blog/cindry-week-4-2681"
+              alt = "Morning Breeze"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" >}}
+{{< fancybox path="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" file="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Animation, CSP**.
@@ -22,10 +24,10 @@ Made a character based off the feeling of morning grogginess and brain fog. Low 
 
 ## Social Media
 
-- **Twitter**: [fiveclawd]()
-- **Instagram**: [fiveclawd]()
-- **Twitch**: [cindrytuna]()
-- **Twitter**: [cindrytuna]()
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ Made a character based off the feeling of morning grogginess and brain fog. Low 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 **Title:  Morning Breeze**
 Medium: Animation, CSP

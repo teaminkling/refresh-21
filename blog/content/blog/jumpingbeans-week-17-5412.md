@@ -2,13 +2,18 @@
 title =       "ThankEgg"
 author =      "jumpingbeans"
 date =        "2021-04-25"
-categories =  ["Week 17: The 4 R's: Finale"]
-tags =        ["jumpingbeans"]
-
+themes =      ["Week 17: The 4 R's: Finale"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 17: The 4 R's: Finale. Created using: video."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/jumpingbeans-week-17-5412"
+              alt = "ThankEgg"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **video**.
@@ -21,8 +26,8 @@ ive ran out of ideas and time
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -31,7 +36,7 @@ ive ran out of ideas and time
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 17
 Title: ThankEgg
 Medium: video

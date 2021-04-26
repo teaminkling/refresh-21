@@ -2,16 +2,18 @@
 title =       "Pretty, Ain't It?"
 author =      "DynoLoafer"
 date =        "2021-02-24"
-categories =  ["Week 08: High Sheen"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 8: High Sheen. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png"
-                      alt = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png"
+              href = "/blog/dynoloafer-week-8-03c2"
+              alt = "Pretty, Ain't It?"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" file="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Paint Tool SAI**.
@@ -31,7 +33,7 @@ This was a very interesting challenge! Decided to go for a painting-like piece w
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Medium: Paint Tool SAI
 Title: __Pretty, Ain't It?__

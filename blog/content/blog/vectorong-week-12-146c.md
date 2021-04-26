@@ -2,16 +2,18 @@
 title =       "The Comfy Chair"
 author =      "vectorong"
 date =        "2021-03-24"
-categories =  ["Week 12: Visual Words"]
-tags =        ["vectorong"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["vectorong"]
+description = "by vectorong for week 12: Visual Words. Created using: Ink + Marker, Photoshop."
 [[images]]
-                      src = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg"
-                      alt = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg"
-                      stretch = "cover"
+              src = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg"
+              href = "/blog/vectorong-week-12-146c"
+              alt = "The Comfy Chair"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg" file="/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Ink + Marker, Photoshop**.
@@ -22,8 +24,8 @@ Inspired by the range of Italian designer Massimo Vignelli's work, and that "If 
 
 ## Social Media
 
-- **Instagram**: [karen_tsugawa]()
-- **Twitch**: [vectorong]()
+- **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
+- **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Inspired by the range of Italian designer Massimo Vignelli's work, and that "If 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 12
 Title: The "Comfy" Chair
 Medium: Ink + Marker, Photoshop

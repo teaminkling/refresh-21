@@ -2,16 +2,18 @@
 title =       "The Galaxy Beneath"
 author =      "Lithium"
 date =        "2021-01-15"
-categories =  ["Week 02: Deep Ocean"]
-tags =        ["Lithium"]
+themes =      ["Week 02: Deep Ocean"]
+artists =     ["Lithium"]
+description = "by Lithium for week 2: Deep Ocean. Created using: Digital (Clip Studio Paint)."
 [[images]]
-                      src = "/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg"
-                      alt = "/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg"
+              href = "/blog/lithium-week-2-22bc"
+              alt = "The Galaxy Beneath"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" >}}
+{{< fancybox path="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -24,9 +26,9 @@ IG/Tumblr lithiumreflections
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ IG/Tumblr lithiumreflections
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 2
 **Title:  ** The Galaxy Beneath
 Medium: Digital (Clip Studio Paint)

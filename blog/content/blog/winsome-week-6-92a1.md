@@ -2,16 +2,18 @@
 title =       "Sweet Nothings"
 author =      "winsome"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["winsome"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["winsome"]
+description = "by winsome for week 6: Simple Love. Created using: Modelling Clay (Sculpey)."
 [[images]]
-                      src = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg"
-                      alt = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg"
-                      stretch = "cover"
+              src = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg"
+              href = "/blog/winsome-week-6-92a1"
+              alt = "Sweet Nothings"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" >}}
+{{< fancybox path="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" file="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Modelling Clay (Sculpey)**.
@@ -22,8 +24,8 @@ A lot of people give chocolates for Valentines and other romantic holidays. I'm 
 
 ## Social Media
 
-- **Twitch**: [winsomeorc]()
-- **Twitter**: [winsomeorc]()
+- **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
+- **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ A lot of people give chocolates for Valentines and other romantic holidays. I'm 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: Sweet Nothings
 Medium: Modelling Clay (Sculpey)

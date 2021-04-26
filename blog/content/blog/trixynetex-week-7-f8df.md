@@ -2,16 +2,18 @@
 title =       "SOL 0"
 author =      "TrixyNetex"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 7: Disturbed Desert. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png"
-                      alt = "/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png"
+              href = "/blog/trixynetex-week-7-f8df"
+              alt = "SOL 0"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" >}}
+{{< fancybox path="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" file="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Sketchbook Pro**.
@@ -34,7 +36,7 @@ Also, drew this while listen to The Martian soundtrack, cause vibes
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 **Title:  SOL 0**
 Medium: Sketchbook Pro

@@ -2,16 +2,18 @@
 title =       "Bloody Fields"
 author =      "a1ewanrichards"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 4: Murky Silhouettes. Created using: Felt pen on paper."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg"
-                      alt = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg"
+              href = "/blog/a1ewanrichards-week-4-759c"
+              alt = "Bloody Fields"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg" file="/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Felt pen on paper**.
@@ -26,12 +28,12 @@ I'm running out of ink!
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -40,7 +42,7 @@ I'm running out of ink!
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 4
 Title: Bloody Fields
 Medium: Felt pen on paper

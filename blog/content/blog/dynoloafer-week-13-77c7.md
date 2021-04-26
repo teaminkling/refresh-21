@@ -2,16 +2,18 @@
 title =       "P̷̑̚Ä̴́̅I̴͒̚N̷̈͠F̵̳̂Ű̷͓L̵̛͝ ̶̓̏B̷̈́̔L̴̅̂Ī̶̈́S̵̓̾S̷̐̐"
 author =      "DynoLoafer"
 date =        "2021-04-02"
-categories =  ["Week 13: Look At Me"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 13: Look At Me"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 13: Look At Me. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png"
-                      alt = "/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png"
+              href = "/blog/dynoloafer-week-13-77c7"
+              alt = "P̷̑̚Ä̴́̅I̴͒̚N̷̈͠F̵̳̂Ű̷͓L̵̛͝ ̶̓̏B̷̈́̔L̴̅̂Ī̶̈́S̵̓̾S̷̐̐"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" file="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Paint Tool SAI**.
@@ -32,7 +34,7 @@ bright colors, just as a warning
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 13
 Medium: Paint Tool SAI
 Title: __P̷̑̚Ä̴́̅I̴͒̚N̷̈͠F̵̳̂Ű̷͓L̵̛͝ ̶̓̏B̷̈́̔L̴̅̂Ī̶̈́S̵̓̾S̷̐̐__

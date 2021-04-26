@@ -2,9 +2,14 @@
 title =       "Footprints"
 author =      "papapastry"
 date =        "2021-02-19"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["papapastry"]
-
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["papapastry"]
+description = "by papapastry for week 7: Disturbed Desert. Created using: Ableton Live 10 Suite."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/papapastry-week-7-9d88"
+              alt = "Footprints"
+              stretch = "cover"
 +++
 
 
@@ -28,8 +33,8 @@ Link: https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -38,7 +43,7 @@ Link: https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 7
 **Title:** Footprints
 **Medium:** Ableton Live 10 Suite

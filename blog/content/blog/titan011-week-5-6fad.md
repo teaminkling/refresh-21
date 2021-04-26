@@ -2,16 +2,18 @@
 title =       "Green Emerald"
 author =      "TITAN011"
 date =        "2021-02-01"
-categories =  ["Week 05: Royal Green"]
-tags =        ["TITAN011"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["TITAN011"]
+description = "by TITAN011 for week 5: Royal Green. Created using: ClipStudio."
 [[images]]
-                      src = "/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg"
-                      alt = "/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg"
-                      stretch = "cover"
+              src = "/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg"
+              href = "/blog/titan011-week-5-6fad"
+              alt = "Green Emerald"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" >}}
+{{< fancybox path="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" file="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **ClipStudio**.
@@ -30,7 +32,7 @@ Music cover
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 5
 Title: Green Emerald 
 Medium: ClipStudio

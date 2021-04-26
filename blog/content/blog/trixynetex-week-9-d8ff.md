@@ -2,16 +2,18 @@
 title =       "Chromatic Dragon"
 author =      "TrixyNetex"
 date =        "2021-03-04"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 9: Bold Strokes. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png"
-                      alt = "/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png"
+              href = "/blog/trixynetex-week-9-d8ff"
+              alt = "Chromatic Dragon"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" >}}
+{{< fancybox path="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" file="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Sketchbook Pro**.
@@ -33,7 +35,7 @@ Technically based of the Black Dragons from D&D cause I'm a nerd. Enjoy!
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 **Title:  Chromatic Dragon**
 Medium: Sketchbook Pro

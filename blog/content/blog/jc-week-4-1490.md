@@ -2,16 +2,18 @@
 title =       "costume change"
 author =      "jc"
 date =        "2021-01-28"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["jc"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["jc"]
+description = "by jc for week 4: Murky Silhouettes. Created using: csp!."
 [[images]]
-                      src = "/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png"
-                      alt = "/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png"
-                      stretch = "cover"
+              src = "/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png"
+              href = "/blog/jc-week-4-1490"
+              alt = "costume change"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" >}}
+{{< fancybox path="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" file="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp!**.
@@ -22,9 +24,9 @@ i saw 'state of change' and 'movement' and that was it for me! i forgot it was m
 
 ## Social Media
 
-- **Twitter**: [rybaris]()
-- **Instagram**: [rybaris]()
-- **Tumblr**: [rybaris]()
+- **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
+- **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
+- **Instagram**: <a href='https://instagram.com/rybaris' target='_blank'>rybaris</a>
 
 
 ## Other
@@ -33,7 +35,7 @@ i saw 'state of change' and 'movement' and that was it for me! i forgot it was m
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: costume change
 Medium: csp!

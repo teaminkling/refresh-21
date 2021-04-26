@@ -2,18 +2,20 @@
 title =       "Dobby and me"
 author =      "soleilboo"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["soleilboo"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["soleilboo"]
+description = "by soleilboo for week 16: Scaling Giants. Created using: digital painting on photograph."
 [[images]]
-                      src = "/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg"
-                      alt = "/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg"
-                      stretch = "cover"
+              src = "/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png"
+              href = "/blog/soleilboo-week-16-39f7"
+              alt = "Dobby and me"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
-{{< fancybox path="/" file="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph**.
@@ -24,8 +26,8 @@ This is how I feel everytime I hug my cat. He is a giant things to my heart! Yea
 
 ## Social Media
 
-- **Instagram**: [soleil.boo]()
-- **Twitch**: [soleilboo]()
+- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
+- **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ This is how I feel everytime I hug my cat. He is a giant things to my heart! Yea
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 16
 Title: Dobby and me
 Medium: digital painting on photograph

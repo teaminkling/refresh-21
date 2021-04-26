@@ -2,16 +2,18 @@
 title =       "Prosperity"
 author =      "Pumpkan"
 date =        "2021-02-05"
-categories =  ["Week 05: Royal Green"]
-tags =        ["Pumpkan"]
+themes =      ["Week 05: Royal Green"]
+artists =     ["Pumpkan"]
+description = "by Pumpkan for week 5: Royal Green. Created using: Procreate."
 [[images]]
-                      src = "/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png"
-                      alt = "/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png"
-                      stretch = "cover"
+              src = "/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png"
+              href = "/blog/pumpkan-week-5-ba91"
+              alt = "Prosperity"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" file="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ Pretty busy this week, so something simple. The image of the expensive jade neck
 
 ## Social Media
 
-- **Twitter**: [pumpkanart]()
-- **Twitch**: [pumpkanart]()
+- **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
+- **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Pretty busy this week, so something simple. The image of the expensive jade neck
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 5
 Title: Prosperity
 Medium: Procreate

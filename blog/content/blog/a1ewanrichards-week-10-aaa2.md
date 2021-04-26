@@ -2,16 +2,18 @@
 title =       "Portrait 6: Get Together"
 author =      "a1ewanrichards"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["a1ewanrichards"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["a1ewanrichards"]
+description = "by a1ewanrichards for week 10: Folds and Folds. Created using: Felt marker on paper, 9x12in."
 [[images]]
-                      src = "/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg"
-                      alt = "/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg"
-                      stretch = "cover"
+              src = "/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg"
+              href = "/blog/a1ewanrichards-week-10-aaa2"
+              alt = "Portrait 6: Get Together"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Felt marker on paper, 9x12in**.
@@ -26,12 +28,12 @@ The dance is called "tinikling," where a couple dances between two bamboo poles 
 
 ## Social Media
 
-- **Twitter**: [rjmmendoza444]()
-- **Instagram**: [and]()
-- **Twitter**: [rjmendoza444]()
-- **Instagram**: [rjmmendoza444]()
-- **Twitch**: [a1ewanrichards]()
-- **Twitch**: [a1ewanrichards#0881]()
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
+- **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 
 ## Other
@@ -40,7 +42,7 @@ The dance is called "tinikling," where a couple dances between two bamboo poles 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 10
 Title: Portrait 6: Get Together
 Medium: Felt marker on paper, 9x12in

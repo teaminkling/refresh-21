@@ -4,13 +4,20 @@
 
     <section id="categories">
         <header>
-            <h1><a href="{{ "categories" | relLangURL }}">Weeks</a></h1>
+            <h1><a href="{{ "themes" | relLangURL }}">Themes</a></h1>
         </header>
         <ul>
-            {{ $.Scratch.Set "categories" (cond .Site.Params.sidebar.categoriesByCount .Site.Taxonomies.categories.ByCount .Site.Taxonomies.categories.Alphabetical) }}
-            {{ range $key, $value := $.Scratch.Get "categories" }}
+            {{ $.Scratch.Set "themes" (cond .Site.Params.sidebar.categoriesByCount .Site.Taxonomies.themes.ByCount
+            .Site.Taxonomies.themes.Alphabetical) }}
+            {{ range $key, $value := $.Scratch.Get "themes" }}
             <li>
-                <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ replace $value.Name "-" " " }}<span class="count">{{ $value.Count }}</span></a>
+                {{ $.Scratch.Set "category_name" (replace (title $value.Name) "-" " ") }}
+                {{ $.Scratch.Set "week_part" (slicestr ($.Scratch.Get "category_name") 0 7) }}
+                {{ $.Scratch.Set "theme_part" (slicestr ($.Scratch.Get "category_name") 7) }}
+                <a href="{{ printf "%s/%s" "themes" $value.Name | urlize | relLangURL }}/">
+                    {{ $.Scratch.Get "week_part" }}: {{ $.Scratch.Get "theme_part" }}
+                    <span class="count">{{ $value.Count }}</span>
+                </a>
                 {{ end }}
             </li>
         </ul>

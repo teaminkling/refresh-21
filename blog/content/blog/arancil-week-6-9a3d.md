@@ -2,16 +2,18 @@
 title =       "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of."
 author =      "arancil"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["arancil"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["arancil"]
+description = "by arancil for week 6: Simple Love. Created using: Trad art, watercolor."
 [[images]]
-                      src = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg"
-                      alt = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg"
+              href = "/blog/arancil-week-6-9a3d"
+              alt = "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of."
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" >}}
+{{< fancybox path="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Trad art, watercolor**.
@@ -26,9 +28,9 @@ Angled shots in discussion to show off sheen on the gold paint.
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -37,7 +39,7 @@ Angled shots in discussion to show off sheen on the gold paint.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of. 
 Medium: Trad art, watercolor

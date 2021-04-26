@@ -2,16 +2,18 @@
 title =       "Roleplay! (and a puppet show I suppose)"
 author =      "Bell-Bones"
 date =        "2021-02-12"
-categories =  ["Week 06: Simple Love"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 06: Simple Love"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 6: Simple Love. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png"
-                      alt = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png"
+              href = "/blog/bell-bones-week-6-46a6"
+              alt = "Roleplay! (and a puppet show I suppose)"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" >}}
+{{< fancybox path="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" file="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ After a lot of thinking about the prompt, I'd say that I love to roleplay! Dyno 
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ After a lot of thinking about the prompt, I'd say that I love to roleplay! Dyno 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 6
 Title: Roleplay! (and a puppet show I suppose)
 Medium: FireAlpaca

@@ -2,13 +2,18 @@
 title =       "POV you dust off an old VHS tape and slot it in the player…"
 author =      "Charmandaar"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Charmandaar"]
-
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Charmandaar"]
+description = "by Charmandaar for week 4: Murky Silhouettes. Created using: video/photoshop."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/charmandaar-week-4-36cd"
+              alt = "POV you dust off an old VHS tape and slot it in the player…"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **video/photoshop**.
@@ -21,9 +26,9 @@ ps: pls turn up the audio it's a bit soft lol
 
 ## Social Media
 
-- **Twitch**: [charmandaar]()
-- **Instagram**: [charmandaar_]()
-- **Twitter**: [charmandaar_]()
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 
 
 ## Other
@@ -32,7 +37,7 @@ ps: pls turn up the audio it's a bit soft lol
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: **POV you dust off an old VHS tape and slot it in the player…**
 Medium: video/photoshop

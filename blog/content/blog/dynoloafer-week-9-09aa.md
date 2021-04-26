@@ -2,16 +2,18 @@
 title =       "Dragon Collage"
 author =      "DynoLoafer"
 date =        "2021-03-02"
-categories =  ["Week 09: Bold Strokes"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 09: Bold Strokes"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 9: Bold Strokes. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png"
-                      alt = "/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png"
+              href = "/blog/dynoloafer-week-9-09aa"
+              alt = "Dragon Collage"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" file="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ Desc: Wow I'm the first one submitting this week? That's weird. Anyways, I decid
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 9
 Medium: Paint Tool SAI
 Title: __Dragon Collage__

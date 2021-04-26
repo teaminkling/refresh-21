@@ -2,9 +2,14 @@
 title =       "Good Clothes"
 author =      "papapastry"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["papapastry"]
-
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["papapastry"]
+description = "by papapastry for week 10: Folds and Folds. Created using: Audio/Ableton Live 11 Suite."
+[[images]]
+              src = "img/video-placeholder.png"
+              href = "/blog/papapastry-week-10-9303"
+              alt = "Good Clothes"
+              stretch = "cover"
 +++
 
 
@@ -26,8 +31,8 @@ Link: https://youtu.be/KwACnHlAEmY
 
 ## Social Media
 
-- **Twitter**: [papapastry_]()
-- **Twitch**: [papapastry]()
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
+- **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
 
 
 ## Other
@@ -36,7 +41,7 @@ Link: https://youtu.be/KwACnHlAEmY
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 **Week:** 10
 **Title:** Good Clothes
 **Medium:** Audio/Ableton Live 11 Suite

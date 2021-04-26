@@ -2,16 +2,18 @@
 title =       "This is where I live now"
 author =      "arancil"
 date =        "2021-03-19"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["arancil"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["arancil"]
+description = "by arancil for week 11: Atmosphere Spectrum. Created using: Watercolor."
 [[images]]
-                      src = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg"
-                      alt = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg"
+              href = "/blog/arancil-week-11-fb4d"
+              alt = "This is where I live now"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" >}}
+{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
@@ -25,9 +27,9 @@ Have a good day day/night/morning/evening, everyone, you're all lovely.
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -36,7 +38,7 @@ Have a good day day/night/morning/evening, everyone, you're all lovely.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11
 Title: This is where I live now
 Medium: Watercolor

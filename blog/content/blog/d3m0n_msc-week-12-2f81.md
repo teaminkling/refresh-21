@@ -2,16 +2,18 @@
 title =       "Trust"
 author =      "D3m0n_Msc"
 date =        "2021-03-27"
-categories =  ["Week 12: Visual Words"]
-tags =        ["D3m0n_Msc"]
+themes =      ["Week 12: Visual Words"]
+artists =     ["D3m0n_Msc"]
+description = "by D3m0n_Msc for week 12: Visual Words. Created using: phone."
 [[images]]
-                      src = "/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png"
-                      alt = "/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png"
-                      stretch = "cover"
+              src = "/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png"
+              href = "/blog/d3m0n_msc-week-12-2f81"
+              alt = "Trust"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" file="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **phone**.
@@ -22,7 +24,7 @@ really rushed submission school is hectic. Saw this quote somewhere and really l
 
 ## Social Media
 
-- **Instagram**: [leolayne]()
+- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ really rushed submission school is hectic. Saw this quote somewhere and really l
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 12
 Title: Trust
 Medium: phone

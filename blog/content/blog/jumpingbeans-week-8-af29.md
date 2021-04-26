@@ -2,16 +2,18 @@
 title =       "Trashbin"
 author =      "jumpingbeans"
 date =        "2021-02-23"
-categories =  ["Week 08: High Sheen"]
-tags =        ["jumpingbeans"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["jumpingbeans"]
+description = "by jumpingbeans for week 8: High Sheen. Created using: Autodesk sketch."
 [[images]]
-                      src = "/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg"
-                      alt = "/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg"
-                      stretch = "cover"
+              src = "/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg"
+              href = "/blog/jumpingbeans-week-8-af29"
+              alt = "Trashbin"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" file="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Autodesk sketch**.
@@ -24,8 +26,8 @@ Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: 
 
 ## Social Media
 
-- **Twitch**: [jumpingbeansz]()
-- **Instagram**: [jumpingbeansz]()
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 
 ## Other
@@ -34,7 +36,7 @@ Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title:  Trashbin
 Medium: Autodesk sketch 

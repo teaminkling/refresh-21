@@ -2,16 +2,18 @@
 title =       "Still Life Succulents"
 author =      "Lithium"
 date =        "2021-04-15"
-categories =  ["Week 15: Back to Basics"]
-tags =        ["Lithium"]
+themes =      ["Week 15: Back to Basics"]
+artists =     ["Lithium"]
+description = "by Lithium for week 15: Back to Basics. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg"
-                      alt = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg"
-                      stretch = "cover"
+              src = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg"
+              href = "/blog/lithium-week-15-438c"
+              alt = "Still Life Succulents"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" >}}
+{{< fancybox path="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" file="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.
@@ -24,9 +26,9 @@ IG/tumblr lithiumreflections, twitter lireflections
 
 ## Social Media
 
-- **Twitter**: [jaimeskelton]()
-- **Tumblr**: [lithiumreflections]()
-- **Instagram**: [lithiumreflections]()
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
+- **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ IG/tumblr lithiumreflections, twitter lireflections
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 15
 **Title:  ** Still Life Succulents
 Medium: Clip Studio Paint

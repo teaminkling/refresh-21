@@ -2,16 +2,18 @@
 title =       "Out of Touch Tuesday"
 author =      "jorchael_p"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["jorchael_p"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["jorchael_p"]
+description = "by jorchael_p for week 8: High Sheen. Created using: Photoshop."
 [[images]]
-                      src = "/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png"
-                      alt = "/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png"
-                      stretch = "cover"
+              src = "/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png"
+              href = "/blog/jorchael_p-week-8-5f75"
+              alt = "Out of Touch Tuesday"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" file="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
@@ -25,8 +27,8 @@ https://mobile.
 
 ## Social Media
 
-- **Twitter**: [jorchaelp]()
-- **Instagram**: [jrchlp.png]()
+- **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
+- **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
 
 
 ## Other
@@ -35,7 +37,7 @@ https://mobile.
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: Out of Touch Tuesday
 Medium: Photoshop

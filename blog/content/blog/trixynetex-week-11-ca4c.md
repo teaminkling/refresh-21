@@ -2,16 +2,18 @@
 title =       "Liminal Sky"
 author =      "TrixyNetex"
 date =        "2021-03-18"
-categories =  ["Week 11: Atmosphere Spectrum"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 11: Atmosphere Spectrum"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 11: Atmosphere Spectrum. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png"
-                      alt = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png"
+              href = "/blog/trixynetex-week-11-ca4c"
+              alt = "Liminal Sky"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" >}}
+{{< fancybox path="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" file="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Sketchbook Pro**.
@@ -32,7 +34,7 @@ Trying to get better at digital painting. Think I got the vibe at least 😊
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 11
 **Title:  Liminal Sky**
 Medium: Sketchbook Pro

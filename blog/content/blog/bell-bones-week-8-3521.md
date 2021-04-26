@@ -2,16 +2,18 @@
 title =       "Brooke Rivers"
 author =      "Bell-Bones"
 date =        "2021-02-26"
-categories =  ["Week 08: High Sheen"]
-tags =        ["Bell-Bones"]
+themes =      ["Week 08: High Sheen"]
+artists =     ["Bell-Bones"]
+description = "by Bell-Bones for week 8: High Sheen. Created using: FireAlpaca."
 [[images]]
-                      src = "/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png"
-                      alt = "/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png"
-                      stretch = "cover"
+              src = "/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png"
+              href = "/blog/bell-bones-week-8-3521"
+              alt = "Brooke Rivers"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" >}}
+{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **FireAlpaca**.
@@ -22,8 +24,8 @@ Wow! This was stressful! The time limit and outside stressors made this a partic
 
 ## Social Media
 
-- **Tumblr**: [bellbones1207]()
-- **Twitter**: [bbart1207]()
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
+- **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ Wow! This was stressful! The time limit and outside stressors made this a partic
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 8
 Title: Brooke Rivers
 Medium: FireAlpaca

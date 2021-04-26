@@ -2,16 +2,18 @@
 title =       "Current"
 author =      "Jzann"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Jzann"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Jzann"]
+description = "by Jzann for week 4: Murky Silhouettes. Created using: Clip Studio Paint."
 [[images]]
-                      src = "/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png"
-                      alt = "/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png"
-                      stretch = "cover"
+              src = "/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png"
+              href = "/blog/jzann-week-4-222a"
+              alt = "Current"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" >}}
+{{< fancybox path="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" file="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.
@@ -30,7 +32,7 @@ just an otter floating by, moving with the water
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 4
 Title: Current
 Medium: Clip Studio Paint

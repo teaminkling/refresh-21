@@ -2,16 +2,18 @@
 title =       "hey girl bites lip"
 author =      "Frog Glasses"
 date =        "2021-04-09"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["Frog Glasses"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["Frog Glasses"]
+description = "by Frog Glasses for week 14: Absolute Fire. Created using: procrate."
 [[images]]
-                      src = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/frog-glasses-week-14-d441"
+              alt = "hey girl bites lip"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **procrate**.
@@ -31,7 +33,7 @@ Socaisl:  https://frogglasses.carrd.co/
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 14
 Title: hey girl *bites lip* 
 Medium: procrate 

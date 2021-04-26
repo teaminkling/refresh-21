@@ -2,18 +2,20 @@
 title =       "Untitled"
 author =      "arancil"
 date =        "2021-04-23"
-categories =  ["Week 16: Scaling Giants"]
-tags =        ["arancil"]
+themes =      ["Week 16: Scaling Giants"]
+artists =     ["arancil"]
+description = "by arancil for week 16: Scaling Giants. Created using: Fineliner 0.05 mm yay."
 [[images]]
-                      src = "/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg"
-                      alt = "/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg"
-                      stretch = "cover"
+              src = "/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg"
+              href = "/blog/arancil-week-16-911a"
+              alt = "Untitled"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg" >}}
+{{< fancybox path="/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg" file="/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg" >}}
 
-{{< fancybox path="/" file="/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg" >}}
+{{< fancybox path="/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg" file="/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg" >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Fineliner 0.05 mm yay**.
@@ -28,9 +30,9 @@ Guys, guys, just sitting down putting in lines here and there where you feel lik
 
 ## Social Media
 
-- **Twitter**: [arancil]()
-- **Twitch**: [arancil]()
-- **Instagram**: [arancil]()
+- **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 
 
 ## Other
@@ -39,7 +41,7 @@ Guys, guys, just sitting down putting in lines here and there where you feel lik
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 16
 Title: 
 Medium: Fineliner 0.05 mm yay

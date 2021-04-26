@@ -2,16 +2,18 @@
 title =       "Blue"
 author =      "Linalifox"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Linalifox"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Linalifox"]
+description = "by Linalifox for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-                      src = "/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/linalifox-week-4-9594"
+              alt = "Blue"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ I began this piece with a cyan background and started painting in a dark blue. I
 
 ## Social Media
 
-- **Instagram**: [linalifox]()
-- **Twitch**: [linalifox]()
+- **Instagram**: <a href='https://instagram.com/linalifox' target='_blank'>linalifox</a>
+- **Twitch**: <a href='https://twitch.tv/linalifox' target='_blank'>linalifox</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I began this piece with a cyan background and started painting in a dark blue. I
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: Blue
 Medium: Procreate

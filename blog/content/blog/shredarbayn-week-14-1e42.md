@@ -2,16 +2,18 @@
 title =       "Fiery heart"
 author =      "Shredarbayn"
 date =        "2021-04-09"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["Shredarbayn"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["Shredarbayn"]
+description = "by Shredarbayn for week 14: Absolute Fire. Created using: Charcoal & Watercolour on 110gsm Dollar-store Paper."
 [[images]]
-                      src = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg"
-                      alt = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg"
-                      stretch = "cover"
+              src = "img/video-placeholder.png"
+              href = "/blog/shredarbayn-week-14-1e42"
+              alt = "Fiery heart"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" >}}
+{{< fancybox path="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" file="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" >}}
 
 {{< youtube l-7cvM7f3Ps >}}
 
@@ -41,7 +43,7 @@ Howl, the boy who ate a star. Spicy fire spirit 🔥
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week 14
 Title: Fiery heart
 Medium: Charcoal & Watercolour on 110gsm Dollar-store Paper

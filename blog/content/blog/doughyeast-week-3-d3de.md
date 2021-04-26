@@ -2,16 +2,18 @@
 title =       "Cindy’s Imaginary Friend"
 author =      "DoughYeast"
 date =        "2021-01-21"
-categories =  ["Week 03: Red Circle"]
-tags =        ["DoughYeast"]
+themes =      ["Week 03: Red Circle"]
+artists =     ["DoughYeast"]
+description = "by DoughYeast for week 3: Red Circle. Created using: Procreate."
 [[images]]
-                      src = "/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      alt = "/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg"
-                      stretch = "cover"
+              src = "/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              href = "/blog/doughyeast-week-3-d3de"
+              alt = "Cindy’s Imaginary Friend"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
@@ -22,8 +24,8 @@ no flash photography!! <:OOOdrake:779973582298021890>
 
 ## Social Media
 
-- **Twitch**: [doughyeast]()
-- **Instagram**: [dough.yeast]()
+- **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>
+- **Twitch**: <a href='https://twitch.tv/doughyeast' target='_blank'>doughyeast</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ no flash photography!! <:OOOdrake:779973582298021890>
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 3
 **Title: Cindy’s Imaginary Friend**
 Medium: Procreate

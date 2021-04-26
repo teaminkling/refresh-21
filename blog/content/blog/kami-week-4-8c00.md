@@ -2,16 +2,18 @@
 title =       "Practice"
 author =      "Kami"
 date =        "2021-01-27"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["Kami"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["Kami"]
+description = "by Kami for week 4: Murky Silhouettes. Created using: Pencil , sketch pens."
 [[images]]
-                      src = "/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg"
-                      alt = "/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg"
-                      stretch = "cover"
+              src = "/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg"
+              href = "/blog/kami-week-4-8c00"
+              alt = "Practice"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" >}}
+{{< fancybox path="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" file="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Pencil , sketch pens**.
@@ -22,7 +24,7 @@ This is a martial arts style from India called Kalari, it's really aggressive an
 
 ## Social Media
 
-- **Twitch**: [kamiofthesouth]()
+- **Twitch**: <a href='https://twitch.tv/kamiofthesouth' target='_blank'>kamiofthesouth</a>
 
 
 ## Other
@@ -31,7 +33,7 @@ This is a martial arts style from India called Kalari, it's really aggressive an
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Socials: https://www.twitch.tv/kamiofthesouth
 Week 4:
 Title: Practice

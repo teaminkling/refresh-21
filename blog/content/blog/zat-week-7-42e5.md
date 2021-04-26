@@ -2,16 +2,18 @@
 title =       "Rain Over the Desert"
 author =      "Zat"
 date =        "2021-02-18"
-categories =  ["Week 07: Disturbed Desert"]
-tags =        ["Zat"]
+themes =      ["Week 07: Disturbed Desert"]
+artists =     ["Zat"]
+description = "by Zat for week 7: Disturbed Desert. Created using: Photography."
 [[images]]
-                      src = "/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg"
-                      alt = "/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg"
-                      stretch = "cover"
+              src = "/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg"
+              href = "/blog/zat-week-7-42e5"
+              alt = "Rain Over the Desert"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" >}}
+{{< fancybox path="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography**.
@@ -32,7 +34,7 @@ https://500px.com/p/antiiobs08
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 7
 Title: Rain Over the Desert
 Medium: Photography 

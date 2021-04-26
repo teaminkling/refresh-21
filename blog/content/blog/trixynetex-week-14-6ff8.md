@@ -2,16 +2,18 @@
 title =       "Flames of Phlegethos"
 author =      "TrixyNetex"
 date =        "2021-04-09"
-categories =  ["Week 14: Absolute Fire"]
-tags =        ["TrixyNetex"]
+themes =      ["Week 14: Absolute Fire"]
+artists =     ["TrixyNetex"]
+description = "by TrixyNetex for week 14: Absolute Fire. Created using: Sketchbook Pro."
 [[images]]
-                      src = "/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png"
-                      alt = "/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png"
-                      stretch = "cover"
+              src = "/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png"
+              href = "/blog/trixynetex-week-14-6ff8"
+              alt = "Flames of Phlegethos"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" >}}
+{{< fancybox path="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" file="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Sketchbook Pro**.
@@ -33,7 +35,7 @@ Very pleased with how it turned out 😊
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 14
 **Title:  Flames of Phlegethos**
 Medium: Sketchbook Pro 

@@ -2,16 +2,18 @@
 title =       "Dead Squats"
 author =      "winsome"
 date =        "2021-01-29"
-categories =  ["Week 04: Murky Silhouettes"]
-tags =        ["winsome"]
+themes =      ["Week 04: Murky Silhouettes"]
+artists =     ["winsome"]
+description = "by winsome for week 4: Murky Silhouettes. Created using: Digital (Photopea)."
 [[images]]
-                      src = "/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png"
-                      alt = "/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png"
-                      stretch = "cover"
+              src = "/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png"
+              href = "/blog/winsome-week-4-fa6e"
+              alt = "Dead Squats"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" >}}
+{{< fancybox path="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" file="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Photopea)**.
@@ -22,8 +24,8 @@ I wanted to focus on figure drawing so used the classic slav squat as a ref, the
 
 ## Social Media
 
-- **Twitch**: [winsomeorc]()
-- **Twitter**: [winsomeorc]()
+- **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
+- **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
 
 
 ## Other
@@ -32,7 +34,7 @@ I wanted to focus on figure drawing so used the classic slav squat as a ref, the
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 4
 Title: Dead Squats
 Medium: Digital (Photopea)

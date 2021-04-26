@@ -2,16 +2,18 @@
 title =       "Pico's Target"
 author =      "DynoLoafer"
 date =        "2021-03-12"
-categories =  ["Week 10: Folds and Folds"]
-tags =        ["DynoLoafer"]
+themes =      ["Week 10: Folds and Folds"]
+artists =     ["DynoLoafer"]
+description = "by DynoLoafer for week 10: Folds and Folds. Created using: Paint Tool SAI."
 [[images]]
-                      src = "/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png"
-                      alt = "/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png"
-                      stretch = "cover"
+              src = "/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png"
+              href = "/blog/dynoloafer-week-10-1d26"
+              alt = "Pico's Target"
+              stretch = "cover"
 +++
 
 
-{{< fancybox path="/" file="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" file="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +32,7 @@ Not too much behind this lol, just wanted to draw some fanart for good ol' Pico 
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
-{{< highlight markdown >}}
+{{< highlight txt >}}
 Week: 10
 Medium: Paint Tool SAI
 Title: __Pico's Target__
