@@ -7,7 +7,7 @@ from typing import Dict, List
 
 GITHUB_REPO_URL: str = "https://github.com/teaminkling/web-refresh"
 
-GITHUB_EDIT_URL: str = f"{GITHUB_REPO_URL}/edit/main/blog/content/blog/"
+GITHUB_EDIT_URL: str = f"{GITHUB_REPO_URL}/edit/main/content/blog/"
 
 GITHUB_BUG_URL: str = f"{GITHUB_REPO_URL}/issues/new?assignees=&labels=bug&template=problem-report.md&title="
 
@@ -91,7 +91,7 @@ def create_all_posts():
     for submission in parsed_json["submissions"]:
         filename: str = f"{submission['id']}.md"
 
-        with open(f"../blog/content/blog/{filename}", "w") as output_post_file:
+        with open(f"../content/blog/{filename}", "w") as output_post_file:
             # Extract some shorthand information.
 
             week_number: int = submission["week"]
@@ -119,9 +119,9 @@ def create_all_posts():
             attachment_text: str = ""
             thumbnail: str = ""
             for attachment in submission["attachments"]:
-                # First, make the path relative to the blog and not the bot.
+                # First, make the path relative to the root and not the bot.
 
-                attachment = attachment.replace("../blog/static", "")
+                attachment = attachment.replace("../static", "")
 
                 # The first found media is the thumbnail.
 

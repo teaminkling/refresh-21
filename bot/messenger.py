@@ -103,7 +103,7 @@ def do_dump_all_messages():
             attachments: List[Dict[str, str]] = []
             for attachment in message.attachments:
                 author_directory: str = os.path.join(
-                    "../blog/static/img",
+                    "../static/img",
                     message.author.name.encode("ascii", "ignore")
                     .decode()
                     .lower()
