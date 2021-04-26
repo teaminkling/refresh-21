@@ -1,4 +1,4 @@
-baseurl                 = "https://refresh.fiveclawd.com/"
+baseurl                 = "https://teaminkling.github.io/web-refresh/"
 DefaultContentLanguage  = "en"
 title                   = "2021 Design Refresh"
 theme                   = "hugo-future-imperfect-slim"
