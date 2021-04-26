@@ -437,12 +437,13 @@ figcaption {
   place-items: center;
   margin: 0 -1em 1em -1em;
   overflow: hidden;
-  padding-bottom: 100%;
+  padding-bottom: 33%;
   -webkit-transform: perspective(1000px);
   -ms-transform: perspective(1000px);
   transform: perspective(1000px); }
   .image img {
     position: absolute;
+    max-height: 100%;
     transition: transform 0.35s ease-in-out; }
     .image img.stretchV {
       height: 100%; }
@@ -973,7 +974,7 @@ figcaption {
   display: flex;
   flex-direction: column;
   margin-top: 0.5em;
-  padding: 3em;
+  padding: 1em;
   text-align: center; }
   #site-intro a {
     border: 0; }
@@ -990,9 +991,7 @@ figcaption {
     text-transform: uppercase; }
 
 #site-sidebar {
-  grid-area: sidebar;
-  padding-left: 1em;
-  padding-right: 1em; }
+  grid-area: sidebar; }
   #site-sidebar header h1 {
     font-size: 1em; }
   #site-sidebar > * {
@@ -1003,10 +1002,11 @@ figcaption {
     #site-sidebar > *:first-child {
       margin-top: 0; } }
   #site-sidebar ul {
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-    font-size: 0.75em;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-size: 0.9em;
     letter-spacing: 0.25em;
     line-height: 1.65;
+    text-transform: uppercase;
     list-style: none;
     padding: 0; }
   #site-sidebar footer {
@@ -1032,8 +1032,7 @@ figcaption {
   padding: 0; }
 
 #site-main {
-  grid-area: main;
-  margin-left: 2em; }
+  grid-area: main; }
 
 #site-footer {
   grid-area: footer;
@@ -1082,13 +1081,13 @@ figcaption {
   grid-template-areas: "intro" "main" "sidebar" "footer";
   grid-template-rows: auto 1fr auto auto;
   margin: 0 auto;
-  max-width: 82em;
+  max-width: 90em;
   min-height: 100vh;
   transition: opacity 0.35s ease-in-out; }
   @media (min-width: 1024px) {
     #wrapper {
       grid-template-areas: "intro main" "sidebar main" "footer main" "blank main";
-      grid-template-columns: 25em 1fr;
+      grid-template-columns: 22em 1fr;
       grid-template-rows: auto auto auto 1fr;
       padding: 0 2.5em; } }
   #wrapper.overlay {
