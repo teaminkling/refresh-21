@@ -7,7 +7,7 @@
 # Environment
 
 dist/
-public/
+# public/
 coverage/
 /target/
 
