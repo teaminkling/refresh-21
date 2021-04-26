@@ -27,7 +27,9 @@ detail shot so you can see the paper better LOL
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

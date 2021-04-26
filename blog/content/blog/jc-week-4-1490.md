@@ -22,7 +22,10 @@ i saw 'state of change' and 'movement' and that was it for me! i forgot it was m
 
 ## Social Media
 
-[{'Twitter': 'rybaris'}, {'Instagram': 'rybaris'}] TO BE EDITED
+- **Twitter**: [rybaris]()
+- **Instagram**: [rybaris]()
+- **Tumblr**: [rybaris]()
+
 
 ## Other
 

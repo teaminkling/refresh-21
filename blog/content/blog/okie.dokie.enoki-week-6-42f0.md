@@ -23,7 +23,9 @@ pov: you’re god but also a third wheel</3
 
 ## Social Media
 
-[{'Instagram': 'okie.dokie.enoki'}, {'Twitch': 'okiedokieenoki'}] TO BE EDITED
+- **Instagram**: [okie.dokie.enoki]()
+- **Twitch**: [okiedokieenoki]()
+
 
 ## Other
 

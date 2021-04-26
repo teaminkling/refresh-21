@@ -22,7 +22,9 @@ Don't be deceived, the Blue Amazon is a killing machine. Although these robots a
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

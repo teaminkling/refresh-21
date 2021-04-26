@@ -22,7 +22,8 @@ The cubes are symbolic of the fragments of love and how each fragment, although 
 
 ## Social Media
 
-[{'Twitch': 'Scimister'}] TO BE EDITED
+- **Twitch**: [scimister]()
+
 
 ## Other
 

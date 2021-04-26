@@ -22,7 +22,10 @@ oarfish swim vertically and that's been living in my mind rent free for years
 
 ## Social Media
 
-[{'Twitter': 'rybaris'}, {'Instagram': 'rybaris'}] TO BE EDITED
+- **Twitter**: [rybaris]()
+- **Instagram**: [rybaris]()
+- **Tumblr**: [rybaris]()
+
 
 ## Other
 

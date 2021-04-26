@@ -19,7 +19,9 @@ Chef dressed in black and yellow hand-pulling noodles in a chaotic, yet harmonio
 
 ## Social Media
 
-[{'Instagram': 'dough.yeast'}] TO BE EDITED
+- **Twitch**: [doughyeast]()
+- **Instagram**: [dough.yeast]()
+
 
 ## Other
 

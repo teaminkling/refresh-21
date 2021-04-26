@@ -22,7 +22,9 @@ Sooo, week 3, huh? Due to school and my personal life, this came out rather rush
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

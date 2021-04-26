@@ -22,7 +22,9 @@ Based on my initial wonder (and subsequent terror) of the galaxy, where I would 
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}, {'Twitch': 'vectorong'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

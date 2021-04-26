@@ -22,7 +22,9 @@ Rather than a finalized illustration, I wanted to use this week as a way to push
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

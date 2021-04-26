@@ -22,7 +22,9 @@ The prompt image immediately made me think of a vinyl record so I was thinking o
 
 ## Social Media
 
-[{'Twitch': 'winsomeorc'}] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

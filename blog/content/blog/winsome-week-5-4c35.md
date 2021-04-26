@@ -22,7 +22,9 @@ The prompt immediately made me think of the Rathian from Monster Hunter, the fem
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

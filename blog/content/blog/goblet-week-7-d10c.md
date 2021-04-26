@@ -22,7 +22,9 @@ dropped randomly in death valley on google maps and used that as my reference. D
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

@@ -22,7 +22,9 @@ There are 9,096 stars in the sky and I know one of them is you.  I love you to t
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

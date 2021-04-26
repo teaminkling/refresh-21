@@ -24,7 +24,9 @@ I had a dream a while back of seeing a group of shrimp, much larger than possibl
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

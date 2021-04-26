@@ -19,7 +19,9 @@ My sister took my computer, so i used a potato to do this work.
 
 ## Social Media
 
-[{'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

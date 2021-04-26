@@ -22,7 +22,9 @@ Ok, so,, I didn't feel like shading, but partially colored lines are cool, right
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

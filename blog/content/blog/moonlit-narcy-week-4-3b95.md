@@ -22,7 +22,9 @@ sometimes all it takes is the wonderful smell of flowers to put a smile on your 
 
 ## Social Media
 
-[{'Instagram': 'moonlit_narcy'}, {'Twitter': 'moonlit_narcy'}] TO BE EDITED
+- **Twitter**: [moonlit_narcy]()
+- **Instagram**: [moonlit_narcy]()
+
 
 ## Other
 

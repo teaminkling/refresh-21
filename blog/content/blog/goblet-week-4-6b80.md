@@ -22,7 +22,9 @@ Chose orange, quickly doodled a jumping person, decided to make some kind of par
 
 ## Social Media
 
-[{'Twitter': 'CupoRice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

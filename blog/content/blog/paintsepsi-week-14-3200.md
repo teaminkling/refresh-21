@@ -22,7 +22,11 @@ I missed the last few weeks so here’s a combination of them as comic!!
 
 ## Social Media
 
-[{'Everywhere': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

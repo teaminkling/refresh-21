@@ -3,7 +3,7 @@
 # TODO: Social links must be removed from the final blog post.
 
 import json
-from typing import Dict
+from typing import Dict, List
 
 GITHUB_REPO_URL: str = "https://github.com/teaminkling/web-refresh"
 
@@ -47,7 +47,7 @@ Week <!WEEK>: **<!THEME_ONLY>**. This art was lovingly created using: **<!MEDIUM
 
 ## Social Media
 
-<!SOCIALS> TO BE EDITED
+<!SOCIALS>
 
 ## Other
 
@@ -113,6 +113,10 @@ def create_all_posts():
 
             # Determine the media to show.
 
+            # TODO: all of these require a thumbnail image of some sort.
+            #       images and gifs are easy, but videos we need to "get" a thumbnail for as well
+            #       as youtube, vimeo, and others. Is it even possible?
+
             attachment_text: str = ""
             thumbnail: str = ""
             for attachment in submission["attachments"]:
@@ -168,7 +172,21 @@ def create_all_posts():
                       stretch = "cover"
                     """.strip()
                 else:
-                    pass
+                    pass  # TODO
+
+            # Handle socials.
+
+            user_socials: List[dict] = parsed_json["users"].get(submission["author"], [])
+
+            socials_text: str = ""
+            for social in user_socials:
+                provider: str = social["provider"]
+                username: str = social["username"]
+
+                socials_text += f"- **{provider}**: [{username}]()\n"
+
+            if not socials_text:
+                socials_text = "- N/A."
 
             # Write each post to a file using tag substitutions.
 
@@ -184,7 +202,7 @@ def create_all_posts():
                 .replace("<!WEEK>", str(week_number))
                 .replace("<!MEDIUM>", medium)
                 .replace("<!ID>", submission["id"])
-                .replace("<!SOCIALS>", str(submission["socials"]))
+                .replace("<!SOCIALS>", socials_text)
                 .replace("<!DESCRIPTION>", description)
                 .replace("<!RAW_DESCRIPTION>", submission["raw_content"])
                 .replace("<!THEME_ONLY>", WEEK_TO_THEME_MAP[submission['week']])

@@ -22,7 +22,7 @@ Katamari Damacy (Song) Fanart, wanted something big and bright and cheerful. Als
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

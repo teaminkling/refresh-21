@@ -22,7 +22,8 @@ I'm trying to move away from using super bright palettes so I tried to think of 
 
 ## Social Media
 
-[{'Twitter': 'hogfriendz'}] TO BE EDITED
+- **Twitter**: [hogfriendz]()
+
 
 ## Other
 

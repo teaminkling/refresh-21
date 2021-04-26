@@ -22,7 +22,9 @@ I began this piece with a cyan background and started painting in a dark blue. I
 
 ## Social Media
 
-[{'Instagram': 'linalifox'}, {'Twitch': 'linalifox'}] TO BE EDITED
+- **Instagram**: [linalifox]()
+- **Twitch**: [linalifox]()
+
 
 ## Other
 

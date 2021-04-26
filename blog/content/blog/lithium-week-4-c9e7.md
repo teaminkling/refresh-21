@@ -24,7 +24,10 @@ IG/Tumblr lithiumreflections, Twitter jaimeskelton
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [jaimeskelton]()
+- **Tumblr**: [lithiumreflections]()
+- **Instagram**: [lithiumreflections]()
+
 
 ## Other
 

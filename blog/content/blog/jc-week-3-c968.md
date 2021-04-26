@@ -22,7 +22,10 @@ i have a really involved animatic in my head set to rebel just for kicks. i will
 
 ## Social Media
 
-[{'Twitter': 'rybaris'}, {'Instagram': 'rybaris'}, {'Tumblr': 'rybaris'}] TO BE EDITED
+- **Twitter**: [rybaris]()
+- **Instagram**: [rybaris]()
+- **Tumblr**: [rybaris]()
+
 
 ## Other
 

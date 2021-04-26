@@ -22,7 +22,9 @@ I love doing collage my dudes. From brainstorm to submission with was about 75 m
 
 ## Social Media
 
-[{'Twitter': 'pumpkanart'}, {'Twitch': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

@@ -34,7 +34,9 @@ lol and here's the front of the mask since it's hard to see in the lighting of t
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}, {'Twitch': 'vectorong'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

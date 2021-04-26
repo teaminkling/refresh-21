@@ -26,7 +26,9 @@ The majority of the deep sea is still unexplored, who knows what kind of creatur
 
 ## Social Media
 
-[{'Twitter': 'CapoKeyT'}, {'Instagram': 'caposketch'}] TO BE EDITED
+- **Instagram**: [caposketch]()
+- **Twitter**: [capokeyt]()
+
 
 ## Other
 

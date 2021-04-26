@@ -19,7 +19,9 @@ Saw this artist's (ig: mofu_sand) work, saw cute cat, inspired. also, i like wee
 
 ## Social Media
 
-[{'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

@@ -22,7 +22,7 @@ Started Digital art few month ago, First art post ever so feel free to give all 
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

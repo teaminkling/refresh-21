@@ -25,7 +25,7 @@ Don't you worry, it's very gay
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

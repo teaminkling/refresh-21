@@ -2,19 +2,19 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Twitter",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
-        "provider": "Everywhere",
+        "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
         "provider": "Twitch",
+        "username": "paintsepsi"
+      },
+      {
+        "provider": "Everywhere",
         "username": "paintsepsi"
       }
     ],
@@ -61,32 +61,24 @@
     "DoughYeast#7521": [
       {
         "provider": "Twitch",
-        "username": "DoughYeast"
-      },
-      {
-        "provider": "Instagram",
-        "username": "dough.yeast"
-      },
-      {
-        "provider": "Twitch",
         "username": "doughyeast"
       },
       {
         "provider": "Instagram",
-        "username": "Dough.Yeast"
+        "username": "dough.yeast"
       }
     ],
     "Charmandaar#3357": [
-      {
-        "provider": "Twitter",
-        "username": "charmandaar_"
-      },
       {
         "provider": "Twitch",
         "username": "charmandaar"
       },
       {
         "provider": "Instagram",
+        "username": "charmandaar_"
+      },
+      {
+        "provider": "Twitter",
         "username": "charmandaar_"
       }
     ],
@@ -106,67 +98,51 @@
     ],
     "jorchael_p#2534": [
       {
-        "provider": "Instagram",
-        "username": "jrchlp.png"
-      },
-      {
         "provider": "Twitter",
         "username": "jorchaelp"
+      },
+      {
+        "provider": "Instagram",
+        "username": "jrchlp.png"
       }
     ],
     "Pumpkan#2447": [
       {
-        "provider": "Twitch",
-        "username": "PumpkanArt"
-      },
-      {
-        "provider": "Twitch",
-        "username": "Pumpkanart"
-      },
-      {
         "provider": "Twitter",
-        "username": "PumpkanArt"
-      },
-      {
-        "provider": "Twitch",
         "username": "pumpkanart"
       },
       {
-        "provider": "Twitter",
-        "username": "Pumpkanart"
-      },
-      {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "pumpkanart"
       }
     ],
     "Moonlit Narcy#0961": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "moonlit_narcy"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "moonlit_narcy"
       }
     ],
     "CapoKey#0003": [
       {
-        "provider": "Twitter",
-        "username": "CapoKeyT"
-      },
-      {
         "provider": "Instagram",
         "username": "caposketch"
+      },
+      {
+        "provider": "Twitter",
+        "username": "capokeyt"
       }
     ],
     "jc#3609": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "rybaris"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "rybaris"
       },
       {
@@ -175,10 +151,6 @@
       }
     ],
     "Scimister#6508": [
-      {
-        "provider": "Twitch",
-        "username": "Scimister"
-      },
       {
         "provider": "Twitch",
         "username": "scimister"
@@ -203,19 +175,19 @@
     "cindry#4068": [
       {
         "provider": "Twitter",
-        "username": "cindrytuna"
-      },
-      {
-        "provider": "Twitch",
-        "username": "cindrytuna"
+        "username": "fiveclawd"
       },
       {
         "provider": "Instagram",
         "username": "fiveclawd"
       },
       {
+        "provider": "Twitch",
+        "username": "cindrytuna"
+      },
+      {
         "provider": "Twitter",
-        "username": "fiveclawd"
+        "username": "cindrytuna"
       }
     ],
     "rainydaze#5604": [
@@ -230,8 +202,8 @@
         "username": "rjmmendoza444"
       },
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards#0881"
+        "provider": "Instagram",
+        "username": "and"
       },
       {
         "provider": "Twitter",
@@ -246,8 +218,8 @@
         "username": "a1ewanrichards"
       },
       {
-        "provider": "Instagram",
-        "username": "and"
+        "provider": "Twitch",
+        "username": "a1ewanrichards#0881"
       }
     ],
     "soggyissoggy#7277": [
@@ -258,21 +230,21 @@
     ],
     "Goblet#7026": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "cuporice"
       },
       {
-        "provider": "Twitter",
-        "username": "CupoRice"
+        "provider": "Twitch",
+        "username": "cuporice"
       }
     ],
     "mrtnong#3026": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       }
     ],
@@ -284,11 +256,11 @@
     ],
     "Linalifox#4145": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "linalifox"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "linalifox"
       }
     ],
@@ -300,16 +272,16 @@
     ],
     "poru#3659": [
       {
-        "provider": "Twitter",
-        "username": "poruchan09"
-      },
-      {
         "provider": "Instagram",
         "username": "poruchan_920"
       },
       {
         "provider": "Twitch",
         "username": "poru_chan"
+      },
+      {
+        "provider": "Twitter",
+        "username": "poruchan09"
       }
     ],
     "D3m0n_Msc#9927": [
@@ -320,12 +292,12 @@
     ],
     "Psyko#9587": [
       {
-        "provider": "Twitter",
-        "username": "psykoframe"
-      },
-      {
         "provider": "Instagram",
         "username": "austeezus"
+      },
+      {
+        "provider": "Twitter",
+        "username": "psykoframe"
       }
     ],
     "Magus_Hellwalker#9661": [
@@ -336,12 +308,12 @@
     ],
     "soleilboo#1662": [
       {
-        "provider": "Twitch",
-        "username": "soleilboo"
-      },
-      {
         "provider": "Instagram",
         "username": "soleil.boo"
+      },
+      {
+        "provider": "Twitch",
+        "username": "soleilboo"
       }
     ],
     "jumpingbeans#6967": [
@@ -362,21 +334,21 @@
     ],
     "okie.dokie.enoki#0233": [
       {
-        "provider": "Twitch",
-        "username": "okiedokieenoki"
-      },
-      {
         "provider": "Instagram",
         "username": "okie.dokie.enoki"
+      },
+      {
+        "provider": "Twitch",
+        "username": "okiedokieenoki"
       }
     ],
     "winsome#5621": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       }
     ],
@@ -422,12 +394,12 @@
         "username": "mimichair"
       },
       {
-        "provider": "Twitter",
-        "username": "mimikuchan"
-      },
-      {
         "provider": "Instagram",
         "username": "mimichair.art"
+      },
+      {
+        "provider": "Twitter",
+        "username": "mimikuchan"
       }
     ]
   },
@@ -775,10 +747,10 @@
       ],
       "socials": [
         {
-          "Twitter": "Pumpkanart"
+          "Twitter": "pumpkanart"
         },
         {
-          "Twitch": "Pumpkanart"
+          "Twitch": "pumpkanart"
         }
       ],
       "raw_content": "Week: 1\nTitle: Four of Pumpkins\nMedium: procreate\nDescription: I wanted to do something elegant with pattern. However, when I streamed this like an hour ago, I was aggressively persuaded (bullied) into adding more pumpkins, and now it\u2019s a tarot card of the suit of pumpkins. \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f \n\nSocials: @Pumpkanart on Twitter + twitch",
@@ -887,7 +859,7 @@
       ],
       "socials": [
         {
-          "Twitter": "CapoKeyT"
+          "Twitter": "capokeyt"
         },
         {
           "Instagram": "caposketch"
@@ -942,10 +914,10 @@
       ],
       "socials": [
         {
-          "Twitch": "PumpkanArt"
+          "Twitch": "pumpkanart"
         },
         {
-          "Twitter": "PumpkanArt"
+          "Twitter": "pumpkanart"
         }
       ],
       "raw_content": "Week: 2\nTitle: \"You have new text message! High five!\"\nMedium: Procreate\nDescription: Wanted to draw a mermaid. I really wanted to show this massive lady with something strange and unexpected. And those nokia phones are probably the only thing that could survive the crushing depths of the deep sea \nSocial media: PumpkanArt on twitch + twitter",
@@ -1051,7 +1023,7 @@
       ],
       "socials": [
         {
-          "Twitch": "Scimister"
+          "Twitch": "scimister"
         }
       ],
       "raw_content": "**Week 2**\nTitle: Ascend\nMedium: PaintToolSAI\nDescription: Ascending towards the light and away from theL, whatever that may be <:cindryAAA:775498319074033674> \n\n**Social Media:** @Scimister on twitch",
@@ -1393,10 +1365,10 @@
       ],
       "socials": [
         {
-          "Twitch": "Pumpkanart"
+          "Twitch": "pumpkanart"
         },
         {
-          "Twitter": "Pumpkanart"
+          "Twitter": "pumpkanart"
         }
       ],
       "raw_content": "Week: 3\nTitle: The Forest King \nMedium: Rubber stamp block + ink, procreate \nDescription: Bc this prompt focusses on contrast I wanted to explore black and white stamp printing! This is the 3rd stamp I've done and by far the biggest. I dont have red ink so I had to add that digitally. Kinda bummed that the scan was so unkind to it, but it was a nice change from the stuff I usually do \n\nSocial Media: @Pumpkanart on twitch + twitter",
@@ -1416,10 +1388,10 @@
       ],
       "socials": [
         {
-          "Instagram": "Dough.Yeast"
+          "Instagram": "dough.yeast"
         },
         {
-          "Twitch": "DoughYeast"
+          "Twitch": "doughyeast"
         }
       ],
       "raw_content": "Week: 3\n**Title: Cindy\u2019s Imaginary Friend**\nMedium: Procreate\nDescription: no flash photography!! <:OOOdrake:779973582298021890> \n\nSocial Media: https://instagram.com/Dough.Yeast || https://twitch.tv/DoughYeast",
@@ -1941,7 +1913,7 @@
       ],
       "socials": [
         {
-          "Twitter": "CupoRice"
+          "Twitter": "cuporice"
         }
       ],
       "raw_content": "Week: 4\n**Title: Orange jump  **\nMedium: Krita with mouse\nDescription: Chose orange, quickly doodled a jumping person, decided to make some kind of parkour picture. \n\nSocial Media: https://twitter.com/Cup_o_Rice",
@@ -2213,7 +2185,7 @@
       ],
       "socials": [
         {
-          "Twitch": "Scimister"
+          "Twitch": "scimister"
         }
       ],
       "raw_content": "Week 4\n**Title: Giraffe**\nMedium: PaintToolSAI\nDescription: A simplified digital wood carving of a giraffe \ud83d\udc18 \nSocials: @Scimister on twitch \ud83e\udd92",
@@ -3404,7 +3376,7 @@
       ],
       "socials": [
         {
-          "Twitch": "Scimister"
+          "Twitch": "scimister"
         }
       ],
       "raw_content": "**Title: Perspectives of Love**\nMedium: Paint Tool SAI\nDescription: The cubes are symbolic of the fragments of love and how each fragment, although individually 'rough-edged' can together create a smooth whole \ud83d\ude42 \nSocials: @Scimister on twitch",
@@ -6854,10 +6826,10 @@
       ],
       "socials": [
         {
-          "Twitter": "Pumpkanart"
+          "Twitter": "pumpkanart"
         },
         {
-          "Twitch": "Pumpkanart"
+          "Twitch": "pumpkanart"
         }
       ],
       "raw_content": "Week: 15\nTitle: Whats Left : Left handed Leftovers, vol. 1\nMedium: markers + paper in gif \nDescription: I'm still dealing with wrist pain so I'm making the most of it. What do I have left? A whole other side of my body to learn to draw with! Shout out to LeftHandedToons, a comic site that I spent a lot of time on as a kid. This one's for you \nSocials: @Pumpkanart on twitter and twitch\nedit: fixed the file",
@@ -7350,7 +7322,7 @@
       ],
       "socials": [
         {
-          "Twitch": "Scimister"
+          "Twitch": "scimister"
         }
       ],
       "raw_content": "**Week 16**\n**Title:** Guardian\n**Medium:** Paint Tool SAI\n**Description:** A giant golem accompanies and provides shade to desert travellers\n**Socials:** Scimister on twitch!",

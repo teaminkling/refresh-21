@@ -22,7 +22,11 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **digital paintin
 
 ## Social Media
 
-[{'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

@@ -32,7 +32,9 @@ A little BTS of the photoshoot
 
 ## Social Media
 
-[{'Twitch': 'winsomeorc'}] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

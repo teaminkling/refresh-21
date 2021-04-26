@@ -25,7 +25,9 @@ https://soundcloud.com/papapastry/murke-shadoes-instrumental-week-4-2021designre
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

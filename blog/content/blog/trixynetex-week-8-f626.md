@@ -30,7 +30,7 @@ Also, the texture from the original picture was used in the hat/disc, the stream
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

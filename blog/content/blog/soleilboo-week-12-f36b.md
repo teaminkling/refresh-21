@@ -25,7 +25,9 @@ twitch.tv/soleilboo
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

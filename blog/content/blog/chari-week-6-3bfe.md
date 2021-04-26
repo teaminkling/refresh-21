@@ -22,7 +22,8 @@ Was meant to be a Week 5 submission but it fits Week 6 for me too. I love my OCs
 
 ## Social Media
 
-[{'Twitter': 'hogfriendz'}] TO BE EDITED
+- **Twitter**: [hogfriendz]()
+
 
 ## Other
 

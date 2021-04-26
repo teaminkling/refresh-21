@@ -28,7 +28,11 @@ CHECK DISCUSSIONS ON HOW TO PRINT
 
 ## Social Media
 
-[{'Twitter': 'fiveclawd'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

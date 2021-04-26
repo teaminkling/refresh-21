@@ -24,7 +24,8 @@ I drew my OC because I like her :)
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [well_egg]()
+
 
 ## Other
 

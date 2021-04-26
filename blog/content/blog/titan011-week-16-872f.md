@@ -22,7 +22,7 @@ To improve as an artist its important to try new things so i decided to draw wit
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

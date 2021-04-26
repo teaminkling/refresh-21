@@ -28,7 +28,9 @@ Also here's the template I used for this: https://www.reddit.com/r/OMORI/comment
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

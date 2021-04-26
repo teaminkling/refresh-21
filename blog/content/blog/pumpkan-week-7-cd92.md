@@ -22,7 +22,9 @@ When I heard the prompt was about deserts and what lived in them I immediately t
 
 ## Social Media
 
-[{'Twitter': 'pumpkanart'}, {'Twitch': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

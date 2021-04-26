@@ -28,7 +28,10 @@ Guys, guys, just sitting down putting in lines here and there where you feel lik
 
 ## Social Media
 
-[{'Instagram': 'arancil'}, {'Twitch': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

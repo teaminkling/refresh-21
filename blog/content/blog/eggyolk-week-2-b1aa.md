@@ -24,7 +24,7 @@ urmom2.0
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

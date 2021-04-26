@@ -22,7 +22,8 @@ An archer wanders the wilderness under under the blood moon.
 
 ## Social Media
 
-[{'Twitch': 'scimister'}] TO BE EDITED
+- **Twitch**: [scimister]()
+
 
 ## Other
 

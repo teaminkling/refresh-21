@@ -25,7 +25,7 @@ Technically based of the Black Dragons from D&D cause I'm a nerd. Enjoy!
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

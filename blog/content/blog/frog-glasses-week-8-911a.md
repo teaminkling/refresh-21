@@ -24,7 +24,7 @@ it’s  a life study for the blueberries im eating rn while watching u. I want t
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

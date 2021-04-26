@@ -22,7 +22,9 @@ I don't have
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

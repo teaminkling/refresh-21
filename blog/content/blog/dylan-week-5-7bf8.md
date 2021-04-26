@@ -22,7 +22,7 @@ I wanted to make something that has a backstory so basically i had a friend that
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

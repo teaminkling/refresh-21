@@ -22,7 +22,8 @@ I don't have many people to rely on for emotional support, so it's really nice t
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [rainydazedoeslife]()
+
 
 ## Other
 

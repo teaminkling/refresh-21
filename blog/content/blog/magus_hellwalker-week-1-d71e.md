@@ -19,7 +19,8 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **3D Digital**.
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [magus_hellwalker]()
+
 
 ## Other
 

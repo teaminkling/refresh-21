@@ -23,7 +23,9 @@ Maybe this is less 3D than I could have experimented with, but it felt comfortin
 
 ## Social Media
 
-[{'Twitter': 'pumpkanart'}, {'Twitch': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

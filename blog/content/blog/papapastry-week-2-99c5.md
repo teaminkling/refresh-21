@@ -31,7 +31,9 @@ EDIT: I also have an early/meme version (I'll send it after you've seen the "rea
 
 ## Social Media
 
-[{'Twitch': 'papapastry'}] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

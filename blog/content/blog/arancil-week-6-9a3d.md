@@ -26,7 +26,10 @@ Angled shots in discussion to show off sheen on the gold paint.
 
 ## Social Media
 
-[{'Instagram': 'arancil'}, {'Twitter': 'arancil'}, {'Twitch': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

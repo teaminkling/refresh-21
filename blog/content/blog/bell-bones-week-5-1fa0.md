@@ -22,7 +22,9 @@ Finally, something not last minute! I decided to be experimental, doing a linele
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

@@ -22,7 +22,9 @@ After a lot of thinking about the prompt, I'd say that I love to roleplay! Dyno 
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

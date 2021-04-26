@@ -22,7 +22,8 @@ another last minute entry  <:wow:649902323191119882>  really just wanted to expl
 
 ## Social Media
 
-[{'Twitch': 'fonzaku'}] TO BE EDITED
+- **Twitch**: [fonzaku]()
+
 
 ## Other
 

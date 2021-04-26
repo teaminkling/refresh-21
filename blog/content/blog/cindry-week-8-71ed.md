@@ -22,7 +22,11 @@ Something about a brassy steam punk-y fish, it looks a tad japanese now? i love 
 
 ## Social Media
 
-[{'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

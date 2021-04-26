@@ -22,7 +22,7 @@ I thought I’d do a piece that describes the appreciation I have for the resili
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

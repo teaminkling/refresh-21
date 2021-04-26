@@ -22,7 +22,9 @@ Godzilla v Kong cut content. Actually though, heavily inspired by an old PS2 gam
 
 ## Social Media
 
-[{'Twitter': 'winsomeorc'}] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

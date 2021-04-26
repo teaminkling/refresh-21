@@ -24,7 +24,9 @@ edit: fixed the file
 
 ## Social Media
 
-[{'Twitter': 'Pumpkanart'}, {'Twitch': 'Pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

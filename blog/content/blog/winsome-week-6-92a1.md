@@ -22,7 +22,9 @@ A lot of people give chocolates for Valentines and other romantic holidays. I'm 
 
 ## Social Media
 
-[{'Twitch': 'winsomeorc'}] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

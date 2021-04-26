@@ -22,7 +22,7 @@ Don't have a printer so had to trace off my computer screen
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

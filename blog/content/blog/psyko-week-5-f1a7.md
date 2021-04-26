@@ -22,7 +22,9 @@ I took a lot of influence from the messy textures created by Jade. I made the lo
 
 ## Social Media
 
-[{'Twitter': 'psykoframe'}, {'Instagram': 'austeezus'}] TO BE EDITED
+- **Instagram**: [austeezus]()
+- **Twitter**: [psykoframe]()
+
 
 ## Other
 

@@ -765,7 +765,7 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
             found_platform: Optional[str] = PLATFORM_MAP.get(platform)
 
             if found_platform:
-                found_socials.append({found_platform: username})
+                found_socials.append({found_platform: username.lower()})
             else:
                 LOGGER.warning("Unknown platform: [%s].", platform)
 
@@ -785,7 +785,7 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
                     regex,
                 )
 
-                found_socials.append({name: social[1]})
+                found_socials.append({name: social[1].lower()})
 
                 # Replace the exact match in the regex such that it does not appear in the
                 # description when it is added back.

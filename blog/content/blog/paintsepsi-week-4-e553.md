@@ -22,7 +22,11 @@ SO, I started a concept on stream, I wasn’t happy with it, and then continued 
 
 ## Social Media
 
-[{'Instagram': 'paintsepsi'}, {'Twitter': 'paintsepsi'}, {'Twitch': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

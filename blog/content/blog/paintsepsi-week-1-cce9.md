@@ -24,7 +24,11 @@ Basically a portrait of a model but using the Pantone colour of the year as the 
 
 ## Social Media
 
-[{'Instagram': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

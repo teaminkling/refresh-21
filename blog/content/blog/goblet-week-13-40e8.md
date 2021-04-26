@@ -24,7 +24,9 @@ remade my emote. made the expression better. (first one is the new one)
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

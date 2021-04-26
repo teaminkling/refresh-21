@@ -22,7 +22,13 @@ I've wanted to express in one way or another this powerlessness I've been feelin
 
 ## Social Media
 
-[{'Instagram': 'rjmmendoza444'}, {'Twitter': 'rjmmendoza444'}, {'Twitch': 'a1ewanrichards'}] TO BE EDITED
+- **Twitter**: [rjmmendoza444]()
+- **Instagram**: [and]()
+- **Twitter**: [rjmendoza444]()
+- **Instagram**: [rjmmendoza444]()
+- **Twitch**: [a1ewanrichards]()
+- **Twitch**: [a1ewanrichards#0881]()
+
 
 ## Other
 

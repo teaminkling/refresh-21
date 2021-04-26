@@ -22,7 +22,9 @@ Played around with a photo of my cat.
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

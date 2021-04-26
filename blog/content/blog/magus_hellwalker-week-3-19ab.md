@@ -22,7 +22,8 @@ I was playing around with some atmospheric lighting in Blender and started playi
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [magus_hellwalker]()
+
 
 ## Other
 

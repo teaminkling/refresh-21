@@ -22,7 +22,7 @@ The fire is warm, comforting, bright. Just warms your cold toes and the tip of t
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

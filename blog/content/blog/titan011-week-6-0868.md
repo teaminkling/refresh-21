@@ -22,7 +22,7 @@ Don’t think I’ll have time to do week 8 art cause of midterms but I manage t
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

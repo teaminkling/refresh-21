@@ -22,7 +22,7 @@ Some different sky colors
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

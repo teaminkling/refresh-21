@@ -19,7 +19,9 @@ The huge creature was a character that I had written about, inspired by League o
 
 ## Social Media
 
-[{'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

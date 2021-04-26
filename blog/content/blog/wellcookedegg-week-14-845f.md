@@ -24,7 +24,8 @@ Reshiram is my favorite fire type pokemon, so I figured I'd try drawing them for
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [well_egg]()
+
 
 ## Other
 

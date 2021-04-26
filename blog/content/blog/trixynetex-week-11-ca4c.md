@@ -24,7 +24,7 @@ Trying to get better at digital painting. Think I got the vibe at least 😊
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

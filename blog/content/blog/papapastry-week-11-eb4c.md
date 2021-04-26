@@ -27,7 +27,9 @@ Spotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76Kt
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

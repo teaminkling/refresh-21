@@ -22,7 +22,8 @@ My new year resolution in 2021 was to start a new chapter after the long and exh
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [billelhambli]()
+
 
 ## Other
 

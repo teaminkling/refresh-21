@@ -24,7 +24,7 @@ This one took me a hot minute, but I think I'm starting to get the hang of digit
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

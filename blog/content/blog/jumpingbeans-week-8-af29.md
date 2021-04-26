@@ -24,7 +24,9 @@ Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: 
 
 ## Social Media
 
-[{'Instagram': 'jumpingbeansz'}, {'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

@@ -22,7 +22,8 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 
 ## Social Media
 
-[{'Twitch': 'fonzaku'}] TO BE EDITED
+- **Twitch**: [fonzaku]()
+
 
 ## Other
 

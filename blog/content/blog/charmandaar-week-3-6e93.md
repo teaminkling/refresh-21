@@ -22,7 +22,10 @@ this is just me being a monkey in aerial silks. except many of me. in many silks
 
 ## Social Media
 
-[{'Twitch': 'charmandaar'}] TO BE EDITED
+- **Twitch**: [charmandaar]()
+- **Instagram**: [charmandaar_]()
+- **Twitter**: [charmandaar_]()
+
 
 ## Other
 

@@ -26,7 +26,9 @@ bonus points for whoever could guess my inspiration :p
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

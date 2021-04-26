@@ -22,7 +22,8 @@ Sort of a composition exercise since I don't normally draw backgrounds. Couldn't
 
 ## Social Media
 
-[{'Twitter': 'hogfriendz'}] TO BE EDITED
+- **Twitter**: [hogfriendz]()
+
 
 ## Other
 

@@ -23,7 +23,10 @@ Submission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaa
 
 ## Social Media
 
-[{'Twitter': 'charmandaar_'}, {'Twitch': 'charmandaar'}] TO BE EDITED
+- **Twitch**: [charmandaar]()
+- **Instagram**: [charmandaar_]()
+- **Twitter**: [charmandaar_]()
+
 
 ## Other
 

@@ -22,7 +22,7 @@ Whoopsies, I'm late again! Oh well, school finals are happening right now and, p
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

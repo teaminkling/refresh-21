@@ -22,7 +22,7 @@ Decided to utilize everything I’ve learned in these past few months (perspecti
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

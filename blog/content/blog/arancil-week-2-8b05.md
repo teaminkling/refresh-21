@@ -26,7 +26,10 @@ Had to redo the whole thing after being unhappy with the first go at it - and I 
 
 ## Social Media
 
-[{'Instagram': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

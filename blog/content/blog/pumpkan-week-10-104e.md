@@ -23,7 +23,9 @@ Anyway here is my dnd character Joselynn La Verne being no more dramatic than us
 
 ## Social Media
 
-[{'Twitter': 'pumpkanart'}, {'Twitch': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

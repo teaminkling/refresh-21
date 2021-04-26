@@ -22,7 +22,7 @@ here's a sparkly mandrake gif that I made, file was too big so I had to resize i
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

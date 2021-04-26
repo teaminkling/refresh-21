@@ -22,7 +22,7 @@ Desc: Wow I'm the first one submitting this week? That's weird. Anyways, I decid
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -23,7 +23,7 @@ Socaisl:  https://frogglasses.carrd.co/
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

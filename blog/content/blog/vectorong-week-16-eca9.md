@@ -22,7 +22,9 @@ The idiom is defined as "an endless, self-defeating, or pointless pursuit...The 
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}, {'Twitch': 'vectorong'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

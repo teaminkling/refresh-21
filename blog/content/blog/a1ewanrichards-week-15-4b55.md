@@ -26,7 +26,13 @@ The mango is the national fruit of the Philippines, and are usually in season ar
 
 ## Social Media
 
-[{'Twitter': 'rjmendoza444'}, {'Instagram': 'rjmmendoza444'}, {'Twitch': 'a1ewanrichards'}] TO BE EDITED
+- **Twitter**: [rjmmendoza444]()
+- **Instagram**: [and]()
+- **Twitter**: [rjmendoza444]()
+- **Instagram**: [rjmmendoza444]()
+- **Twitch**: [a1ewanrichards]()
+- **Twitch**: [a1ewanrichards#0881]()
+
 
 ## Other
 

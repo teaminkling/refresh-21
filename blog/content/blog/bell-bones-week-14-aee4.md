@@ -26,7 +26,9 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

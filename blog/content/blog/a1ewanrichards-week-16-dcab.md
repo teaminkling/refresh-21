@@ -28,7 +28,13 @@ The title is derived from the text displayed on the original Japanese theatrical
 
 ## Social Media
 
-[{'Instagram': 'rjmmendoza444'}, {'Twitch': 'a1ewanrichards'}] TO BE EDITED
+- **Twitter**: [rjmmendoza444]()
+- **Instagram**: [and]()
+- **Twitter**: [rjmendoza444]()
+- **Instagram**: [rjmmendoza444]()
+- **Twitch**: [a1ewanrichards]()
+- **Twitch**: [a1ewanrichards#0881]()
+
 
 ## Other
 

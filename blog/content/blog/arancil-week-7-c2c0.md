@@ -32,7 +32,10 @@ This one was a bit rushed, final hours before submission <:cindryBAM:77549832094
 
 ## Social Media
 
-[{'Instagram': 'arancil'}, {'Twitch': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

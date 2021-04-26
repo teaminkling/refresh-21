@@ -22,7 +22,7 @@ Desc: A photoshopped composition focused around the red circle. The circle is em
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

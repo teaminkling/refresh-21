@@ -22,7 +22,8 @@ I wanted to draw big egg. Smol soldier. In combination, they make a pretty strik
 
 ## Social Media
 
-[{'Twitch': 'rainydazedoeslife'}] TO BE EDITED
+- **Twitch**: [rainydazedoeslife]()
+
 
 ## Other
 

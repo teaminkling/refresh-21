@@ -24,7 +24,7 @@ Just dropping this idea down during stream. Currently practicing colour blocking
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

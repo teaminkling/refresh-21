@@ -28,7 +28,9 @@ I need to stop making non-human things human <:ThankEgg:797490219716050954>
 
 ## Social Media
 
-[{'Twitch': 'doughyeast'}] TO BE EDITED
+- **Twitch**: [doughyeast]()
+- **Instagram**: [dough.yeast]()
+
 
 ## Other
 

@@ -26,7 +26,13 @@ I based this on a scene from Takeshi Kitano's 2008 movie "Achilles and the Torto
 
 ## Social Media
 
-[{'Twitter': 'rjmendoza444'}, {'Instagram': 'rjmmendoza444'}, {'Twitch': 'a1ewanrichards'}] TO BE EDITED
+- **Twitter**: [rjmmendoza444]()
+- **Instagram**: [and]()
+- **Twitter**: [rjmendoza444]()
+- **Instagram**: [rjmmendoza444]()
+- **Twitch**: [a1ewanrichards]()
+- **Twitch**: [a1ewanrichards#0881]()
+
 
 ## Other
 

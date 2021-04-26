@@ -22,7 +22,10 @@ Was originally going for "Plaid & Lace" as my keywords, but ... no way I'm putti
 
 ## Social Media
 
-[{'Instagram': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

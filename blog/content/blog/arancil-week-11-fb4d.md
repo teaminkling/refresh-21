@@ -25,7 +25,10 @@ Have a good day day/night/morning/evening, everyone, you're all lovely.
 
 ## Social Media
 
-[{'Instagram': 'arancil'}, {'Twitch': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

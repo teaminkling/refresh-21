@@ -22,7 +22,7 @@ Decide to try something new this week so i tried animation for the first time...
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

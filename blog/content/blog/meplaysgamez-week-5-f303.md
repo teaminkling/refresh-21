@@ -26,7 +26,7 @@ a better angle
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -22,7 +22,8 @@ I thought for a second, I didn't know what to do though I knew I wanted to use m
 
 ## Social Media
 
-[{'Instagram': '_daniluvsyou'}] TO BE EDITED
+- **Instagram**: [_daniluvsyou]()
+
 
 ## Other
 

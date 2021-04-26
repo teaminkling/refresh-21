@@ -22,7 +22,8 @@ This is a martial arts style from India called Kalari, it's really aggressive an
 
 ## Social Media
 
-[{'Twitch': 'kamiofthesouth'}] TO BE EDITED
+- **Twitch**: [kamiofthesouth]()
+
 
 ## Other
 

@@ -26,7 +26,10 @@ Also @jonasw was my spirit animal
 
 ## Social Media
 
-[{'Instagram': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

@@ -25,7 +25,9 @@ https://youtu.be/3imOd-rOjr8
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

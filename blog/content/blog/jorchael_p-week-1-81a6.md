@@ -22,7 +22,9 @@ I wanted to try play with the rain patterns but rushed them a little. References
 
 ## Social Media
 
-[{'Twitter': 'jorchaelp'}, {'Instagram': 'jrchlp.png'}] TO BE EDITED
+- **Twitter**: [jorchaelp]()
+- **Instagram**: [jrchlp.png]()
+
 
 ## Other
 

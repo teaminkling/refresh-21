@@ -22,7 +22,7 @@ feeling a bit burnt out
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

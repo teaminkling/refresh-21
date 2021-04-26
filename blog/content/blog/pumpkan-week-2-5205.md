@@ -22,7 +22,9 @@ Wanted to draw a mermaid. I really wanted to show this massive lady with somethi
 
 ## Social Media
 
-[{'Twitch': 'PumpkanArt'}, {'Twitter': 'PumpkanArt'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

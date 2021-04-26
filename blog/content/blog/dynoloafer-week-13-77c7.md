@@ -24,7 +24,7 @@ bright colors, just as a warning
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

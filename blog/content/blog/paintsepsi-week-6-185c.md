@@ -24,7 +24,11 @@ I wanted to do a non paint style for this one and was hugely hugely inspired by 
 
 ## Social Media
 
-[{'Everywhere': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

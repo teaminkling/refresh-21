@@ -27,7 +27,9 @@ yet she is unable to see the silhouette beneath the water...
 
 ## Social Media
 
-[{'Instagram': 'dough.yeast'}, {'Twitch': 'doughyeast'}] TO BE EDITED
+- **Twitch**: [doughyeast]()
+- **Instagram**: [dough.yeast]()
+
 
 ## Other
 

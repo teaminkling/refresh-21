@@ -24,7 +24,9 @@ IG&Twitter| Moonlit_narcy. Twitch| MoonlitNarcy
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [moonlit_narcy]()
+- **Instagram**: [moonlit_narcy]()
+
 
 ## Other
 

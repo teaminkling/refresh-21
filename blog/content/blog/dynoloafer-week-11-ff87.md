@@ -22,7 +22,7 @@ Getting into dragons again more than I usually do, so I decided to draw some dra
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

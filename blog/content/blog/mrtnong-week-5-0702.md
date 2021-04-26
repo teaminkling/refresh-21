@@ -22,7 +22,9 @@ I started this piece by chaotically<a:ultrafastparrot:800558785907261441>  flick
 
 ## Social Media
 
-[{'Instagram': 'mrtnong'}] TO BE EDITED
+- **Instagram**: [mrtnong]()
+- **Twitch**: [mrtnong]()
+
 
 ## Other
 

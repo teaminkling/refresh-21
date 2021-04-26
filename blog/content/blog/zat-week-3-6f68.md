@@ -22,7 +22,7 @@ Photo of a section of Markarian's Chain, a part of the Virgo cluster set as the 
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

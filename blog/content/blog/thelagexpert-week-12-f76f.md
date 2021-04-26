@@ -22,7 +22,8 @@ A bit too late cz I am busy with the exams. These are Lyrics from my favourite S
 
 ## Social Media
 
-[{'Instagram': 'billelhambli'}] TO BE EDITED
+- **Instagram**: [billelhambli]()
+
 
 ## Other
 

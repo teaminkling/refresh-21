@@ -27,7 +27,9 @@ While working alongside printmaking friends on a group zoom call, I was suddenly
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

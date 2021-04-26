@@ -24,7 +24,11 @@ paintsepsi
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

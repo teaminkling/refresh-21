@@ -25,7 +25,9 @@ https://mobile.
 
 ## Social Media
 
-[{'Instagram': 'jrchlp.png'}, {'Twitter': 'jorchaelp'}] TO BE EDITED
+- **Twitter**: [jorchaelp]()
+- **Instagram**: [jrchlp.png]()
+
 
 ## Other
 

@@ -22,7 +22,9 @@ hurt my wrist so this is all I've got.  suffering in real time
 
 ## Social Media
 
-[{'Twitter': 'pumpkanart'}, {'Twitch': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

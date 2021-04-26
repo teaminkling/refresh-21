@@ -22,7 +22,9 @@ I wanted to do something elegant with pattern. However, when I streamed this lik
 
 ## Social Media
 
-[{'Twitter': 'Pumpkanart'}, {'Twitch': 'Pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

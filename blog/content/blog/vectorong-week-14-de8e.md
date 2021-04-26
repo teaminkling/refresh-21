@@ -29,7 +29,9 @@ detail shot since i have shaky hands
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}, {'Twitch': 'vectorong'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

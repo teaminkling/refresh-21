@@ -25,7 +25,11 @@ hey isn't is kinda mysterious? I got this idea from when crabs would dig holes a
 
 ## Social Media
 
-[{'Twitter': 'fiveclawd'}, {'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

@@ -26,7 +26,10 @@ Forest w/ blue flame wisps, foxes & birbs rorodoAAA congregating around a big ow
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

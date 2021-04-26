@@ -24,7 +24,8 @@ Twitter: @TheLagExpert
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [billelhambli]()
+
 
 ## Other
 

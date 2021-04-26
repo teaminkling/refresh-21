@@ -24,7 +24,10 @@ rybaris
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [rybaris]()
+- **Instagram**: [rybaris]()
+- **Tumblr**: [rybaris]()
+
 
 ## Other
 

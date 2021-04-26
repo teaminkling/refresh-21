@@ -22,7 +22,7 @@ Didn’t use one color but I tried to stick with cold colors? Worked on value an
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

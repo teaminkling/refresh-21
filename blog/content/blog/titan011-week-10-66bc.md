@@ -22,7 +22,7 @@ Baggy fashion kimono wear 🇯🇵
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

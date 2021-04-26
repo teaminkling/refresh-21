@@ -22,7 +22,11 @@ This is about burnout and how hard it is sometimes to recognise it while in hast
 
 ## Social Media
 
-[{'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

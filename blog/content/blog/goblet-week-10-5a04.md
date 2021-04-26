@@ -22,7 +22,9 @@ Sorry, used 5 min
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

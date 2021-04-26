@@ -22,7 +22,9 @@ missed the week 2 prompt but wanted to work on the idea. Been thinking about run
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

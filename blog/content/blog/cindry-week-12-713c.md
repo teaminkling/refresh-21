@@ -27,7 +27,11 @@ This is a response piece to the experience of being a female online. The quotes 
 
 ## Social Media
 
-[{'Instagram': 'fiveclawd'}, {'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

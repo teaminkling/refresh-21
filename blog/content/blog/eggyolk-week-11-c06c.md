@@ -24,7 +24,7 @@ urmom 11.0 <:doughy4Idle:787151835311636540> <:cindry4Idle:814123098928185394>
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

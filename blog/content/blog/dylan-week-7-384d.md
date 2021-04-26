@@ -22,7 +22,7 @@ i wanted to try a new something new so instead of photoshop i used blender this 
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

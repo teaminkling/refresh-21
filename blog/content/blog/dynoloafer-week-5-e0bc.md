@@ -26,7 +26,7 @@ Backey: "Uhm.. your Highness, word gets around eheh..." (sweating)
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

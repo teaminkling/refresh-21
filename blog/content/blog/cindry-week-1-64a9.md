@@ -25,7 +25,11 @@ I went a bit crazy on SAI which is a huge guilty pleasure. In the end it's a bit
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

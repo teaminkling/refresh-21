@@ -26,7 +26,9 @@ But, doing this work reminds me, i suck at calligraphy.
 
 ## Social Media
 
-[{'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

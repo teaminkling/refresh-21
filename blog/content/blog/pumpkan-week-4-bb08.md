@@ -22,7 +22,9 @@ i read a cool tumble post about a botanist burying a lamb bone under a tree and 
 
 ## Social Media
 
-[{'Twitch': 'pumpkanart'}, {'Twitter': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

@@ -22,7 +22,9 @@ I wanted to draw my oc in a dress, so I drew him in a dress! He likes wearing dr
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

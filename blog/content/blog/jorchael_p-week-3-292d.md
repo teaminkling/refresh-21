@@ -24,7 +24,9 @@ Didn't know what to draw so I drew something horny, sorry. She sure has a lot of
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [jorchaelp]()
+- **Instagram**: [jrchlp.png]()
+
 
 ## Other
 

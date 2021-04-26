@@ -26,7 +26,7 @@ Also, drew this while listen to The Martian soundtrack, cause vibes
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

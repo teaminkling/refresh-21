@@ -22,7 +22,7 @@ Gundam Dynames with Lockon Stratos as pilot. idk lol
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

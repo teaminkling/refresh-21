@@ -22,7 +22,9 @@ have yourself a little girlled marshmallow in this cold winter night... ( ok you
 
 ## Social Media
 
-[{'Instagram': 'soleil.boo'}, {'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

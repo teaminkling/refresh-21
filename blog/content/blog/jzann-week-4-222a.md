@@ -22,7 +22,7 @@ just an otter floating by, moving with the water
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

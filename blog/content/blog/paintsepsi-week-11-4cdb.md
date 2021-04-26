@@ -24,7 +24,11 @@ No time to draw something this week so instead I decided on a quick little desig
 
 ## Social Media
 
-[{'Everywhere': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

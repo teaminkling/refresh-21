@@ -22,7 +22,9 @@ My grandfather loved boysenberry jam, so I made a simple tribute to him and my f
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}, {'Twitch': 'vectorong'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

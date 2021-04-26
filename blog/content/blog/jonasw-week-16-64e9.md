@@ -22,7 +22,7 @@ Almost forgot to submit :I
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

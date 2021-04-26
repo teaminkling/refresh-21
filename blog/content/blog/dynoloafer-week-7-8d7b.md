@@ -24,7 +24,7 @@ This sandstorm is fogging up my judgement. I can't even see you. I can't even se
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

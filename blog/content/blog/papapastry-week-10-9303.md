@@ -26,7 +26,9 @@ Link: https://youtu.be/KwACnHlAEmY
 
 ## Social Media
 
-[{'Twitter': 'papapastry_'}] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

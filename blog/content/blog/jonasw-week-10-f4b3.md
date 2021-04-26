@@ -24,7 +24,7 @@ Week 10: **Folds & Folds**. This art was lovingly created using: **Colored Penci
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

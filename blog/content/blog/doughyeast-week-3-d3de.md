@@ -22,7 +22,9 @@ no flash photography!! <:OOOdrake:779973582298021890>
 
 ## Social Media
 
-[{'Instagram': 'Dough.Yeast'}, {'Twitch': 'DoughYeast'}] TO BE EDITED
+- **Twitch**: [doughyeast]()
+- **Instagram**: [dough.yeast]()
+
 
 ## Other
 

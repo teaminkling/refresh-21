@@ -22,7 +22,10 @@ I fucking love NieR:Automata.
 
 ## Social Media
 
-[{'Twitter': 'poruchan09'}, {'Twitch': 'poru_chan'}] TO BE EDITED
+- **Instagram**: [poruchan_920]()
+- **Twitch**: [poru_chan]()
+- **Twitter**: [poruchan09]()
+
 
 ## Other
 

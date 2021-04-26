@@ -22,7 +22,7 @@ Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:7
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

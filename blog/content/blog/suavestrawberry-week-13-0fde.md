@@ -20,7 +20,7 @@ https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=48
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

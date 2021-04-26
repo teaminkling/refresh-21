@@ -22,7 +22,8 @@ Edgy Basket Baller
 
 ## Social Media
 
-[{'Twitch': 'lyfeu'}] TO BE EDITED
+- **Twitch**: [lyfeu]()
+
 
 ## Other
 

@@ -26,7 +26,9 @@ Twitch:MoonlitNarcy
 
 ## Social Media
 
-[{'Instagram': 'moonlit_narcy'}, {'Twitter': 'moonlit_narcy'}] TO BE EDITED
+- **Twitter**: [moonlit_narcy]()
+- **Instagram**: [moonlit_narcy]()
+
 
 ## Other
 

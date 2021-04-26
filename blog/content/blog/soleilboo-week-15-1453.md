@@ -24,7 +24,9 @@ Collection of my ongoing still life fruit project. All photos for reference take
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

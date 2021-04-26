@@ -22,7 +22,7 @@ done in ~6 hours.
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

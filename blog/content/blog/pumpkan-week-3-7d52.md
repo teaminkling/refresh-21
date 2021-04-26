@@ -22,7 +22,9 @@ Bc this prompt focusses on contrast I wanted to explore black and white stamp pr
 
 ## Social Media
 
-[{'Twitch': 'Pumpkanart'}, {'Twitter': 'Pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

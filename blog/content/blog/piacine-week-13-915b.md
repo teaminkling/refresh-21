@@ -24,7 +24,7 @@ The daily life of avocados. Here I will present to you today, to make you all aw
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

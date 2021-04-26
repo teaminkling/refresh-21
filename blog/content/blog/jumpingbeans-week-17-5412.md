@@ -21,7 +21,9 @@ ive ran out of ideas and time
 
 ## Social Media
 
-[{'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

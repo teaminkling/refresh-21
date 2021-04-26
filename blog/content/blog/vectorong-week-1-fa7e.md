@@ -22,7 +22,9 @@ Circle created with Java code that randomizes the spiral variance and the stroke
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

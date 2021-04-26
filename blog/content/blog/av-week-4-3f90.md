@@ -22,7 +22,7 @@ OKAY so this is a snapshot of life. There is a little darkness and a little ligh
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

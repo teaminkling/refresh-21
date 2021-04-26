@@ -24,7 +24,9 @@ This is how I feel everytime I hug my cat. He is a giant things to my heart! Yea
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

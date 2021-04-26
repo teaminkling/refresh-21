@@ -26,7 +26,9 @@ https://vm.tiktok.com/ZSJdWxeBV/
 
 ## Social Media
 
-[{'Instagram': 'soleil.boo'}, {'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

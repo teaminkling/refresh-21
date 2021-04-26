@@ -22,7 +22,7 @@ Not too much behind this lol, just wanted to draw some fanart for good ol' Pico 
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

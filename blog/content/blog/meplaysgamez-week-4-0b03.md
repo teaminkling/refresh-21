@@ -22,7 +22,7 @@ i saw rhythm and tones in the outines of the prompt.
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

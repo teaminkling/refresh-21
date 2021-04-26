@@ -22,7 +22,8 @@ I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:77999072421229
 
 ## Social Media
 
-[{'Twitch': 'hadespsd'}] TO BE EDITED
+- **Twitch**: [hadespsd]()
+
 
 ## Other
 

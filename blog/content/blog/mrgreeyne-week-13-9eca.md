@@ -35,7 +35,8 @@ Giving them value? Now thats absurd.
 
 ## Social Media
 
-[{'Twitch': 'mrgreeyne'}] TO BE EDITED
+- **Twitch**: [mrgreeyne]()
+
 
 ## Other
 

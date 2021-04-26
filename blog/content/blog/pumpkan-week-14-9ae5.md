@@ -24,7 +24,9 @@ wrist still hurts, I want to D word
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

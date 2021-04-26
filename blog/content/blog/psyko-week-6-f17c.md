@@ -22,7 +22,9 @@ San Francisco, sunsets, stargazing, and day dreaming are what inspired this piec
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [austeezus]()
+- **Twitter**: [psykoframe]()
+
 
 ## Other
 

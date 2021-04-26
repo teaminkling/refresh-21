@@ -24,7 +24,10 @@ lithiumreflections (IG/tumblr), lireflections (twitter)
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [jaimeskelton]()
+- **Tumblr**: [lithiumreflections]()
+- **Instagram**: [lithiumreflections]()
+
 
 ## Other
 

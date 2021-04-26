@@ -22,7 +22,9 @@ Based off of the jade burial suits of the Han dynasty, which were ceremonial sui
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

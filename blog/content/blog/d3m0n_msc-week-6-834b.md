@@ -30,7 +30,8 @@ Sorry the is a mess
 
 ## Social Media
 
-[{'Instagram': 'leolayne'}] TO BE EDITED
+- **Instagram**: [leolayne]()
+
 
 ## Other
 

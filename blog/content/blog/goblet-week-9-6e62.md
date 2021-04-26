@@ -24,7 +24,9 @@ it's a statement because I was inspired by the Citarum river in Indonesia, most 
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

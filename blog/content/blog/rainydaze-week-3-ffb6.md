@@ -22,7 +22,8 @@ Assassin in training with like two knives cuz stab stab v cool
 
 ## Social Media
 
-[{'Twitch': 'rainydazedoeslife'}] TO BE EDITED
+- **Twitch**: [rainydazedoeslife]()
+
 
 ## Other
 

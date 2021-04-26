@@ -22,7 +22,8 @@ i really just wanted to create something ambiguous with this piece, no clear exp
 
 ## Social Media
 
-[{'Twitch': 'fonzaku'}] TO BE EDITED
+- **Twitch**: [fonzaku]()
+
 
 ## Other
 

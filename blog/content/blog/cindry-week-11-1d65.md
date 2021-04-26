@@ -22,7 +22,11 @@ Hey I love the stars and I love katamari. Star  gazing is something i really lov
 
 ## Social Media
 
-[{'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

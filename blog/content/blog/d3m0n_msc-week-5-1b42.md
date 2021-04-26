@@ -22,7 +22,8 @@ Week 5: **Royal Green**. This art was lovingly created using: **Digital - Ibis P
 
 ## Social Media
 
-[{'Instagram': 'leolayne'}] TO BE EDITED
+- **Instagram**: [leolayne]()
+
 
 ## Other
 

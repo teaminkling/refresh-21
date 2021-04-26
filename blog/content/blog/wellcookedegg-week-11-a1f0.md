@@ -24,7 +24,8 @@ Pressed enter before I put stuff by accident lol
 
 ## Social Media
 
-[{'Twitter': 'well_egg'}] TO BE EDITED
+- **Twitter**: [well_egg]()
+
 
 ## Other
 

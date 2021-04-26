@@ -28,7 +28,13 @@ As I kept on drawing, it became apparent that, in line with the song's theme, th
 
 ## Social Media
 
-[{'Instagram': 'rjmmendoza444'}, {'Twitter': 'rjmmendoza444'}, {'Twitch': 'a1ewanrichards'}] TO BE EDITED
+- **Twitter**: [rjmmendoza444]()
+- **Instagram**: [and]()
+- **Twitter**: [rjmendoza444]()
+- **Instagram**: [rjmmendoza444]()
+- **Twitch**: [a1ewanrichards]()
+- **Twitch**: [a1ewanrichards#0881]()
+
 
 ## Other
 

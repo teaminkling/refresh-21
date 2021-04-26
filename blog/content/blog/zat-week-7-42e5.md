@@ -24,7 +24,7 @@ https://500px.com/p/antiiobs08
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

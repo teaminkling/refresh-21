@@ -22,7 +22,8 @@ Ascending towards the light and away from theL, whatever that may be <:cindryAAA
 
 ## Social Media
 
-[{'Twitch': 'Scimister'}] TO BE EDITED
+- **Twitch**: [scimister]()
+
 
 ## Other
 

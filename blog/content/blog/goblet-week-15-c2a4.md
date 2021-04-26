@@ -22,7 +22,9 @@ Sorry, life happened and I forgot. Here take this shitpost instead. Balance!
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

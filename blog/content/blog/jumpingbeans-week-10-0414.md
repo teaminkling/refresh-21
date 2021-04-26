@@ -22,7 +22,9 @@ This apple has weird fashion.
 
 ## Social Media
 
-[{'Instagram': 'jumpingbeansz'}, {'Twitch': 'jumpingbeansz'}] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

@@ -26,7 +26,9 @@ I painted the outline for the sword, tried painting the jade texture, but was di
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

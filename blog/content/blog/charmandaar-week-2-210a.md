@@ -22,7 +22,10 @@ embroidered this cutie across two streams! freehanded off.. a questionable draft
 
 ## Social Media
 
-[{'Twitch': 'charmandaar'}] TO BE EDITED
+- **Twitch**: [charmandaar]()
+- **Instagram**: [charmandaar_]()
+- **Twitter**: [charmandaar_]()
+
 
 ## Other
 

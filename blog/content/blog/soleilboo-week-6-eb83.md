@@ -22,7 +22,9 @@ Learning to love myself is not easy and It's still a long way to go. so here it 
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

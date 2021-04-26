@@ -30,7 +30,7 @@ socialShare           = ["twitter", "facebook", "reddit", "pinterest"]
 hideEmptyStats        = false
 
 [params.meta]
-description         = "A placeholder description that Cindy needs to help me write."
+description         = "A weekly design/art/creative challenge hoste on Twitch.TV by @CindryTuna AKA FiveClawD."
 author              = "FiveClawD"
 favicon             = false
 svg                 = true
@@ -51,12 +51,12 @@ paragraph             = "A weekly design/art/creative challenge hoste on Twitch.
 rssIntro              = false
 socialIntro           = true
 hideWhenSingleColumn  = false
-alwaysOnHomepage      = false
+alwaysOnHomepage      = true
 
 [params.intro.pic]
-src                 = "img/main/logo.jpg"
-shape               = "circle"
-width               = ""
+src                 = "img/logo.png"
+shape               = "square"
+width               = "100%"
 alt                 = "REPLACE_LOGO."
 
 [params.sidebar]
@@ -67,27 +67,7 @@ categoriesByCount   = false
 
 [params.footer]
 rssFooter           = false
-socialFooter        = true
-
-[params.utterances]
-enabled             = false
-repo                = ""
-issueTerm           = "pathname"
-issueNumber         = ""
-label               = ""
-theme               = "github-light"
-
-[params.staticman]
-enabled             = false
-api                 = ""  # No Trailing Slash
-gitProvider         = ""
-username            = ""
-repo                = ""
-branch              = ""
-
-[params.staticman.recaptcha]
-siteKey           = ""
-encryptedKey      = ""
+socialFooter        = false
 
 [menu]
 
@@ -129,7 +109,7 @@ weight              = 1
 
 [social]
 # Coding Communities
-github                = "teaminkling/web-refresh"
+github                = ""
 jsfiddle              = ""
 codepen               = ""
 # Visual Art Communities
@@ -156,6 +136,7 @@ whatsapp              = "" # WhatsApp Number
 instagram             = "fiveclawd"
 tumblr                = ""
 twitter               = "fiveclawd"
+twitch                = "cindrytuna"
 strava                = ""
 snapchat              = ""
 pinterest             = ""

@@ -22,7 +22,8 @@ Cindy said I was allowed. But also, I really admire the character designs in Bre
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [hadespsd]()
+
 
 ## Other
 

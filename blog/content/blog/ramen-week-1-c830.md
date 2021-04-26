@@ -22,7 +22,7 @@ i made this at 2 am. there is something special about this drawing. i really lik
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

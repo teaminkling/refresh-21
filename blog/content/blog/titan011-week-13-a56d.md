@@ -22,7 +22,7 @@ The Beginning of a ego fueled Spicy food challenge #What's ur spice tolerance? ð
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

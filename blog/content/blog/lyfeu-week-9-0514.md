@@ -24,7 +24,8 @@ twitch/tv/Lyfeu
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [lyfeu]()
+
 
 ## Other
 

@@ -26,7 +26,9 @@ Media:
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

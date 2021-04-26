@@ -24,7 +24,7 @@ urmomr1.4505
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

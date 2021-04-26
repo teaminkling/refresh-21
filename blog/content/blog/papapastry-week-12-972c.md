@@ -25,7 +25,9 @@ YouTube: ???, Spotify/Apple Music: "papapastry"
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

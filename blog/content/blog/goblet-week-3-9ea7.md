@@ -27,7 +27,9 @@ a view from my house at opposite ends of the year. Could have been a bigger cont
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

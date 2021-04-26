@@ -22,7 +22,8 @@ really rushed submission school is hectic. Saw this quote somewhere and really l
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [leolayne]()
+
 
 ## Other
 

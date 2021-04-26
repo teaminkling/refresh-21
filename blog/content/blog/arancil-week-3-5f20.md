@@ -24,7 +24,10 @@ A JoJo-esque pre-fight peacocking scene. Imagine this being followed by the vill
 
 ## Social Media
 
-[{'Instagram': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

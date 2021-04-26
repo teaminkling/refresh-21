@@ -27,7 +27,7 @@ GOLD
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

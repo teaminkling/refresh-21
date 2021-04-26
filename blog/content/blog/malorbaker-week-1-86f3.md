@@ -22,7 +22,7 @@ sideways yellow waterfall there is harmony in all the whoosh's and they are also
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

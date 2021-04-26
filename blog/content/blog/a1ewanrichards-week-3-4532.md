@@ -22,7 +22,13 @@ I looked up the flag of Okinawa and it was perfect with what I had in mind. The 
 
 ## Social Media
 
-[{'Instagram': 'rjmmendoza444'}, {'Twitter': 'rjmmendoza444'}] TO BE EDITED
+- **Twitter**: [rjmmendoza444]()
+- **Instagram**: [and]()
+- **Twitter**: [rjmendoza444]()
+- **Instagram**: [rjmmendoza444]()
+- **Twitch**: [a1ewanrichards]()
+- **Twitch**: [a1ewanrichards#0881]()
+
 
 ## Other
 

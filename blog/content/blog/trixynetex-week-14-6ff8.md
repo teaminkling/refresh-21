@@ -25,7 +25,7 @@ Very pleased with how it turned out 😊
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -25,7 +25,7 @@ I applied the photo texture to the maccha cup, the rice bowl, and the ground tun
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

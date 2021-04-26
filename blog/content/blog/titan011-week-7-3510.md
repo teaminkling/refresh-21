@@ -22,7 +22,7 @@ has anyone ever tried it? <:blobhyperthink:800558786515435560>
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

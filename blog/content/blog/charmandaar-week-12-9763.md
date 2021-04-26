@@ -26,7 +26,10 @@ not sure if this counts as typography hahaha oOPs but uhh i really like writing 
 
 ## Social Media
 
-[{'Instagram': 'charmandaar_'}, {'Twitter': 'charmandaar_'}, {'Twitch': 'charmandaar'}] TO BE EDITED
+- **Twitch**: [charmandaar]()
+- **Instagram**: [charmandaar_]()
+- **Twitter**: [charmandaar_]()
+
 
 ## Other
 

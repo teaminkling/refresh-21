@@ -22,7 +22,10 @@ Printed out the prompt's image - turns out I didn't have any black ink, just col
 
 ## Social Media
 
-[{'Instagram': 'arancil'}, {'Twitch': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

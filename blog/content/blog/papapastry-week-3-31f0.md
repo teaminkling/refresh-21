@@ -29,7 +29,9 @@ https://soundcloud.com/papapastry/tamago-tama-2021designrefresh
 
 ## Social Media
 
-[{'Twitch': 'papapastry'}] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

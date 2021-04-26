@@ -22,7 +22,11 @@ Wow this hurts my eyes. This was meant to be like a 10 min sketch and it looks l
 
 ## Social Media
 
-[{'Everywhere': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

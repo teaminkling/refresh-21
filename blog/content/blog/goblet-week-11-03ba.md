@@ -22,7 +22,9 @@ Went skiing, had fun, saw happy little clouds. Was pretty, smelled chimney smoke
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

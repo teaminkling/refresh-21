@@ -21,7 +21,10 @@ ps: pls turn up the audio it's a bit soft lol
 
 ## Social Media
 
-[{'Twitch': 'charmandaar'}] TO BE EDITED
+- **Twitch**: [charmandaar]()
+- **Instagram**: [charmandaar_]()
+- **Twitter**: [charmandaar_]()
+
 
 ## Other
 

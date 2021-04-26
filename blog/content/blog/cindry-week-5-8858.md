@@ -24,7 +24,11 @@ There's honestly a lot more to this but the concept was "jade teeth grills" and 
 
 ## Social Media
 
-[{'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

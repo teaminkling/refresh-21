@@ -27,7 +27,7 @@ here's a video with more information on Lugia's Story
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

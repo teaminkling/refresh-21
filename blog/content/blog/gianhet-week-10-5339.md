@@ -23,7 +23,8 @@ rushed this one a bit lmao
 
 ## Social Media
 
-[{'Instagram': 'gianhet'}] TO BE EDITED
+- **Instagram**: [gianhet]()
+
 
 ## Other
 

@@ -24,7 +24,7 @@ On the art side of things; I really enjoy drawing characters and their interacti
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

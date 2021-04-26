@@ -22,7 +22,11 @@ It’s a quick piece I drew based on Irene from Red Velvet! I tried to make her 
 
 ## Social Media
 
-[{'Instagram': 'paintsepsi'}, {'Twitter': 'paintsepsi'}, {'Twitch': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

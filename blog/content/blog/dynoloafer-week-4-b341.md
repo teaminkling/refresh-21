@@ -22,7 +22,7 @@ Desc: Whew, this one was close! Sucks that I had to kinda rush at the end becaus
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

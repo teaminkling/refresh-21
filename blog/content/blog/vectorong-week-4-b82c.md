@@ -22,7 +22,9 @@ Delving a bit personal with this piece. Often there's a disconnect between the p
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

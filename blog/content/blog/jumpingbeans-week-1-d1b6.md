@@ -19,7 +19,9 @@ simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [jumpingbeansz]()
+- **Instagram**: [jumpingbeansz]()
+
 
 ## Other
 

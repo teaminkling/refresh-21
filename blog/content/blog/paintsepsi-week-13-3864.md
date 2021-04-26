@@ -22,7 +22,11 @@ my gf likes to take pics with my mirror lmao.
 
 ## Social Media
 
-[{'Everywhere': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

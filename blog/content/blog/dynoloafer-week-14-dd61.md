@@ -22,7 +22,7 @@ I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've a
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

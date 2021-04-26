@@ -22,7 +22,8 @@ sky with slightly glitched-out clouds plus reflection in water, i like pretty st
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [rainydazedoeslife]()
+
 
 ## Other
 

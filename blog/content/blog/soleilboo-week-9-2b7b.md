@@ -22,7 +22,9 @@ Tomorrow I will compete in my Jiu Jisu tournament so I try to keep my mind calm 
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

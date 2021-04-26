@@ -26,7 +26,8 @@ a reimagination of the classical story. I try to make use of circular compositio
 
 ## Social Media
 
-[{'Twitch': 'soggyricecracker'}] TO BE EDITED
+- **Twitch**: [soggyricecracker]()
+
 
 ## Other
 

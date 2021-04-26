@@ -25,7 +25,7 @@ I have lightly inked the carving to contrast the details. I have left the seal f
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

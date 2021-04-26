@@ -22,7 +22,9 @@ only used the picture and the colors of the picture. Plus the little tree dawing
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

@@ -24,7 +24,9 @@ the title said it all I guess 🥺🥺🥺
 
 ## Social Media
 
-[{'Instagram': 'soleil.boo'}, {'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

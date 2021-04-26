@@ -24,7 +24,7 @@ https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titlen
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -22,7 +22,8 @@ The Shogun of Death is a character ive been working on for a while ( i say worki
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [kamiofthesouth]()
+
 
 ## Other
 

@@ -28,7 +28,9 @@ Link: https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

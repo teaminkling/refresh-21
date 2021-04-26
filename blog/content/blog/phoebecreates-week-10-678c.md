@@ -22,7 +22,8 @@ This is the beginning of my 100 outfits challenge. Yes I'm planning to do 100 of
 
 ## Social Media
 
-[{'Twitch': 'phoebecreates'}] TO BE EDITED
+- **Twitch**: [phoebecreates]()
+
 
 ## Other
 

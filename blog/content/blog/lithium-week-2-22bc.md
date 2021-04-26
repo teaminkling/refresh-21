@@ -24,7 +24,10 @@ IG/Tumblr lithiumreflections
 
 ## Social Media
 
-[{'Twitter': 'jaimeskelton'}] TO BE EDITED
+- **Twitter**: [jaimeskelton]()
+- **Tumblr**: [lithiumreflections]()
+- **Instagram**: [lithiumreflections]()
+
 
 ## Other
 

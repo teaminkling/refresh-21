@@ -30,7 +30,11 @@ Really just inspired by series like Made in Abyss and Jigokuraku!
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

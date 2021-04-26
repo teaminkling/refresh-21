@@ -22,7 +22,8 @@ I am not a huge fan of typography so this is my first crack at it. It was ok, ma
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [well_egg]()
+
 
 ## Other
 

@@ -24,7 +24,9 @@ It's my first time creating something graphic art-y I usually paint my stuff in 
 
 ## Social Media
 
-[{'Instagram': 'mrtnong'}, {'Twitch': 'mrtnong'}] TO BE EDITED
+- **Instagram**: [mrtnong]()
+- **Twitch**: [mrtnong]()
+
 
 ## Other
 

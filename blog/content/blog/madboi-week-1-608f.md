@@ -22,7 +22,7 @@ Distancing concept from the WiFi Symbol applied to current situation
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

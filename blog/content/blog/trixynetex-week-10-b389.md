@@ -25,7 +25,7 @@ Bit of a quick one today cause running out of time. Yes, I did use a photo of my
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

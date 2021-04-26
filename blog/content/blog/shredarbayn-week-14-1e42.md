@@ -33,7 +33,7 @@ Howl, the boy who ate a star. Spicy fire spirit 🔥
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

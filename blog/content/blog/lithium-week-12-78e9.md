@@ -24,7 +24,10 @@ Handmade font used above - free for your use because you're awesome!
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [jaimeskelton]()
+- **Tumblr**: [lithiumreflections]()
+- **Instagram**: [lithiumreflections]()
+
 
 ## Other
 

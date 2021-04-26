@@ -24,7 +24,10 @@ More notes here: https://imgur.com/a/4UO7n4s
 
 ## Social Media
 
-[{'Instagram': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

@@ -22,7 +22,7 @@ Bit out of my comfort zone but tried to do something artsy
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

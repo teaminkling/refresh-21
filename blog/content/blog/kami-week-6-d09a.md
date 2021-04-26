@@ -22,7 +22,8 @@ I like the oceans and i like the city skyline in the night. Why is it called Eve
 
 ## Social Media
 
-[{'Twitch': 'kamiofthesouth'}] TO BE EDITED
+- **Twitch**: [kamiofthesouth]()
+
 
 ## Other
 

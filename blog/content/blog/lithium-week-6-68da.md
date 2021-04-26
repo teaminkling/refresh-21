@@ -22,7 +22,10 @@ A blanket, the sound of rain, a chill breeze, and distant thunder... these were 
 
 ## Social Media
 
-[{'Instagram': 'lithiumreflections'}, {'Tumblr': 'lithiumreflections'}] TO BE EDITED
+- **Twitter**: [jaimeskelton]()
+- **Tumblr**: [lithiumreflections]()
+- **Instagram**: [lithiumreflections]()
+
 
 ## Other
 

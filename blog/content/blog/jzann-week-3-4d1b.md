@@ -22,7 +22,7 @@ put a circle on top of another and used the eraser tool to create the image and 
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

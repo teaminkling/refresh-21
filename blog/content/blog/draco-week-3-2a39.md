@@ -22,7 +22,7 @@ In a decrepit dojo lies a gi. The gi is ragged, likely from years of training. H
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

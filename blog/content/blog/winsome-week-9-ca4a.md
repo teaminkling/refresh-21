@@ -30,7 +30,9 @@ Celebrating the 25th Anniversary of Pokemon and myself, with a Pokemon that I li
 
 ## Social Media
 
-[{'Twitch': 'winsomeorc'}] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

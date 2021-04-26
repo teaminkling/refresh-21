@@ -22,7 +22,7 @@ wolf idk what to say im new to this👁️👄👁️✨
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

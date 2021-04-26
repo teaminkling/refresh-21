@@ -24,7 +24,9 @@ Also check <#794059396165926913> for a sketch done by DynoLoafer that's basicall
 
 ## Social Media
 
-[{'Twitter': 'bbart1207'}, {'Tumblr': 'bellbones1207'}] TO BE EDITED
+- **Tumblr**: [bellbones1207]()
+- **Twitter**: [bbart1207]()
+
 
 ## Other
 

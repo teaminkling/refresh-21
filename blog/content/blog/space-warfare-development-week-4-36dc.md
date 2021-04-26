@@ -22,7 +22,7 @@ Gray background, black silhouette of palm tree and grass.
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

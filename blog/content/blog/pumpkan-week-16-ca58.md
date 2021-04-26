@@ -22,7 +22,9 @@ I've been feeling nostalgic for blue skies and pub crawls in the city. Here's a 
 
 ## Social Media
 
-[{'Twitter': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

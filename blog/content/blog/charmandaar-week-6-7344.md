@@ -27,7 +27,10 @@ papapastry on yt (https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg/video
 
 ## Social Media
 
-[{'Twitch': 'charmandaar'}] TO BE EDITED
+- **Twitch**: [charmandaar]()
+- **Instagram**: [charmandaar_]()
+- **Twitter**: [charmandaar_]()
+
 
 ## Other
 

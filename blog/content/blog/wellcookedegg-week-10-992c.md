@@ -22,7 +22,8 @@ I went for some baggier street wear cause street wear is sick
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [well_egg]()
+
 
 ## Other
 

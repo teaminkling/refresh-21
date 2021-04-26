@@ -19,7 +19,8 @@ a piece of an animatic I'm currently working on about an anarchist pig and his c
 
 ## Social Media
 
-[{'Twitch': 'rainydazedoeslife'}] TO BE EDITED
+- **Twitch**: [rainydazedoeslife]()
+
 
 ## Other
 

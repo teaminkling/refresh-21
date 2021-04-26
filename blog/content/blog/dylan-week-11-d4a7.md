@@ -22,7 +22,7 @@ I usually draw night scenes all the time so this time I tried adding some more c
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

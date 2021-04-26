@@ -22,7 +22,11 @@ Simple profile draw based on Akihiko Yoshida’s art. Was trying to do a new ren
 
 ## Social Media
 
-[{'Twitch': 'paintsepsi'}] TO BE EDITED
+- **Instagram**: [paintsepsi]()
+- **Twitter**: [paintsepsi]()
+- **Twitch**: [paintsepsi]()
+- **Everywhere**: [paintsepsi]()
+
 
 ## Other
 

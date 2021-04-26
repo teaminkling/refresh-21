@@ -24,7 +24,7 @@ urmom 15.0 hurhur
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

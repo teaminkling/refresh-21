@@ -22,7 +22,9 @@ I wanted to focus on figure drawing so used the classic slav squat as a ref, the
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitch**: [winsomeorc]()
+- **Twitter**: [winsomeorc]()
+
 
 ## Other
 

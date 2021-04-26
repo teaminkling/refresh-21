@@ -22,7 +22,7 @@ I cannot art so here are yellow ACNH vibes, maybe (big maybe) I'll actually draw
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

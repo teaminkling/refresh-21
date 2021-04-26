@@ -24,7 +24,7 @@ urmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -24,7 +24,9 @@ There's often times when I feel like I'm in an internal 'desert', where ideas do
 
 ## Social Media
 
-[{'Instagram': 'karen_tsugawa'}] TO BE EDITED
+- **Instagram**: [karen_tsugawa]()
+- **Twitch**: [vectorong]()
+
 
 ## Other
 

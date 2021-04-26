@@ -26,7 +26,11 @@ i think this has inspired me to do more 4komas tho in the future!!! i really lik
 
 ## Social Media
 
-[{'Twitter': 'cindrytuna'}, {'Twitch': 'cindrytuna'}] TO BE EDITED
+- **Twitter**: [fiveclawd]()
+- **Instagram**: [fiveclawd]()
+- **Twitch**: [cindrytuna]()
+- **Twitter**: [cindrytuna]()
+
 
 ## Other
 

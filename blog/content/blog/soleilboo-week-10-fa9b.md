@@ -22,7 +22,9 @@ Week 10: **Folds & Folds**. This art was lovingly created using: **Photoshop**.
 
 ## Social Media
 
-[{'Twitch': 'soleilboo'}] TO BE EDITED
+- **Instagram**: [soleil.boo]()
+- **Twitch**: [soleilboo]()
+
 
 ## Other
 

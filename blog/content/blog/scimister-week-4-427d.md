@@ -22,7 +22,8 @@ A simplified digital wood carving of a giraffe 🐘
 
 ## Social Media
 
-[{'Twitch': 'Scimister'}] TO BE EDITED
+- **Twitch**: [scimister]()
+
 
 ## Other
 

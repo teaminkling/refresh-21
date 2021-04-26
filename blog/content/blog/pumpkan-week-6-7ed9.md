@@ -22,7 +22,9 @@ I love doing character design, and with simple love the first thing I thought of
 
 ## Social Media
 
-[{'Twitch': 'pumpkanart'}, {'Twitter': 'pumpkanart'}] TO BE EDITED
+- **Twitter**: [pumpkanart]()
+- **Twitch**: [pumpkanart]()
+
 
 ## Other
 

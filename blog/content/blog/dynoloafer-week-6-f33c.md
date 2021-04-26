@@ -22,7 +22,7 @@ Cutting close again, wowie! Oh well, I like how this came out even if it's just 
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

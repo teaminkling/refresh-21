@@ -22,7 +22,7 @@ I made it after all, sweet! Anyways, I decided to use a sharp type of typography
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -23,7 +23,8 @@ My drawing skills arnt the best compared to others in this discord but this stil
 
 ## Social Media
 
-[] TO BE EDITED
+- **Instagram**: [leolayne]()
+
 
 ## Other
 

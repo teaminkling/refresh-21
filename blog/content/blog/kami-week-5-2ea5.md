@@ -22,7 +22,8 @@ This is my first time using photoshop for art, i tried making the short sword th
 
 ## Social Media
 
-[{'Twitch': 'kamiofthesouth'}] TO BE EDITED
+- **Twitch**: [kamiofthesouth]()
+
 
 ## Other
 

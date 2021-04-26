@@ -33,7 +33,8 @@ Twinkling far away
 
 ## Social Media
 
-[{'Twitch': 'mrgreeyne'}] TO BE EDITED
+- **Twitch**: [mrgreeyne]()
+
 
 ## Other
 

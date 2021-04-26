@@ -30,7 +30,9 @@ Will be updated later with a YouTube video.
 
 ## Social Media
 
-[{'Twitter': 'papapastry_'}] TO BE EDITED
+- **Twitter**: [papapastry_]()
+- **Twitch**: [papapastry]()
+
 
 ## Other
 

@@ -23,7 +23,7 @@ Note: save your work...i lost the first draft and finished this 1 hr before dead
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

@@ -26,7 +26,9 @@ Manga-inspired illustration where a warrior meets their maker in the Deep Realm 
 
 ## Social Media
 
-[{'Twitch': 'doughyeast'}] TO BE EDITED
+- **Twitch**: [doughyeast]()
+- **Instagram**: [dough.yeast]()
+
 
 ## Other
 

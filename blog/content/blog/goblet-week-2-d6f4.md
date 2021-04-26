@@ -27,7 +27,9 @@ just wanted to make something really simple
 
 ## Social Media
 
-[] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

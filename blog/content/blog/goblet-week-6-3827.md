@@ -22,7 +22,9 @@ I like ducks. A mama duck loves her ducklings. I love the water texture stamp.
 
 ## Social Media
 
-[{'Twitch': 'cuporice'}] TO BE EDITED
+- **Twitter**: [cuporice]()
+- **Twitch**: [cuporice]()
+
 
 ## Other
 

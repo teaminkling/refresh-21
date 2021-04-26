@@ -22,7 +22,10 @@ When I about the prompt being Jade related. I thought of the anime Houseki no Ku
 
 ## Social Media
 
-[{'Instagram': 'poruchan_920'}, {'Twitter': 'poruchan09'}, {'Twitch': 'poru_chan'}] TO BE EDITED
+- **Instagram**: [poruchan_920]()
+- **Twitch**: [poru_chan]()
+- **Twitter**: [poruchan09]()
+
 
 ## Other
 

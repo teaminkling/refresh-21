@@ -21,7 +21,10 @@ Tried to capture desperation, intensity and passion. Didn't manage to make the i
 
 ## Social Media
 
-[{'Instagram': 'arancil'}] TO BE EDITED
+- **Twitter**: [arancil]()
+- **Twitch**: [arancil]()
+- **Instagram**: [arancil]()
+
 
 ## Other
 

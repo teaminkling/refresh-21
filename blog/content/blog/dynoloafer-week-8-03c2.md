@@ -23,7 +23,7 @@ This was a very interesting challenge! Decided to go for a painting-like piece w
 
 ## Social Media
 
-[] TO BE EDITED
+- N/A.
 
 ## Other
 

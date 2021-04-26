@@ -22,7 +22,8 @@ A giant golem accompanies and provides shade to desert travellers
 
 ## Social Media
 
-[{'Twitch': 'Scimister'}] TO BE EDITED
+- **Twitch**: [scimister]()
+
 
 ## Other
 

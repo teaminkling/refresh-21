@@ -26,7 +26,8 @@ Screen shot of my setup
 
 ## Social Media
 
-[{'Twitch': 'magus_hellwalker'}] TO BE EDITED
+- **Twitch**: [magus_hellwalker]()
+
 
 ## Other
 
