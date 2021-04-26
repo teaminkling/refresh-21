@@ -1,11 +1,38 @@
 +++
-title = "Fragments of Remembrance"
-description = "this is a comic I made with my friends a couple months ago currently we are working on episode 2 after a hiatus and I hope you enjoy the first episode. I put a lot of heart into it and I hope to become a WEBTOON original one day https://www.webtoons.com/e..."
-author = "SuaveStrawberry#5623"
-date = "2021-04-03"
-categories = ["Week 13: TODO"]
-tags = []
+title =       "Fragments of Remembrance"
+author =      "SuaveStrawberry"
+date =        "2021-04-03"
+categories =  ["W13: Look At Me"]
+tags =        ["SuaveStrawberry"]
+
 +++
+
+
+[View on Webtoons.](https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599)
+
+
+Week 13: **Look At Me**. This art was lovingly created using: **procreate**.
+
+## Artist's Notes
 
 this is a comic I made with my friends a couple months ago currently we are working on episode 2 after a hiatus and I hope you enjoy the first episode. I put a lot of heart into it and I hope to become a WEBTOON original one day
 https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599
+
+## Social Media
+
+[] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/suavestrawberry-week-13-0fde.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Title: Fragments of Remembrance 
+Medium: procreate 
+
+Description: this is a comic I made with my friends a couple months ago currently we are working on episode 2 after a hiatus and I hope you enjoy the first episode. I put a lot of heart into it and I hope to become a WEBTOON original one day
+https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599
+
+{{< /highlight >}}

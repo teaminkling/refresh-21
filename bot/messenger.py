@@ -7,6 +7,7 @@ Do not run this script on a pipeline.
 import json
 import logging
 import os
+from hashlib import md5
 from logging import Logger
 from typing import Any, Dict, List, Optional
 
@@ -103,7 +104,9 @@ def do_dump_all_messages():
             for attachment in message.attachments:
                 author_directory: str = os.path.join(
                     "../blog/static/img",
-                    author_with_discriminator.lower(),
+                    message.author.name.encode("ascii", "ignore").decode().lower().replace(
+                        " ", "_"
+                    ),
                 )
 
                 # Dynamic directory generation.
@@ -113,8 +116,14 @@ def do_dump_all_messages():
 
                 # Save the file locally. If it already exists, skip.
 
-                filename: str = f"{created_timestamp}+{attachment.filename}"
-                local_path: str = os.path.join(author_directory, filename)
+                filename: str = (
+                    f"{message.created_at.date().isoformat()}+"
+                    f"{md5(attachment.filename.encode()).hexdigest()}"
+                )
+
+                extension: str = attachment.filename.split(".")[-1]
+
+                local_path: str = os.path.join(author_directory, f"{filename}.{extension}")
 
                 if not os.path.exists(local_path):
                     with open(local_path, "wb") as attachment_file:

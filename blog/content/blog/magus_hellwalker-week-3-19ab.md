@@ -1,10 +1,38 @@
 +++
-title = "A circle in abstractness"
-description = "I was playing around with some atmospheric lighting in Blender and started playing with some circles and then this happened. Kind of weird but I like it the result."
-author = "Magus_Hellwalker#9661"
-date = "2021-01-19"
-categories = ["Week 03: TODO"]
-tags = []
+title =       "A circle in abstractness"
+author =      "Magus_Hellwalker"
+date =        "2021-01-19"
+categories =  ["W03: Red Circle"]
+tags =        ["Magus_Hellwalker"]
+[[images]]
+                      src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"
+                      alt = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"
+                      stretch = "cover"
 +++
 
+
+{{< fancybox path="/" file="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" >}}
+
+
+Week 3: **Red Circle**. This art was lovingly created using: **3D Digital**.
+
+## Artist's Notes
+
 I was playing around with some atmospheric lighting in Blender and started playing with some circles and then this happened. Kind of weird but I like it the result.
+
+## Social Media
+
+[] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/magus_hellwalker-week-3-19ab.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 3
+Title:  A circle in abstractness
+Medium: 3D Digital
+Description: I was playing around with some atmospheric lighting in Blender and started playing with some circles and then this happened. Kind of weird but I like it the result.
+{{< /highlight >}}

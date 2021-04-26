@@ -1,11 +1,19 @@
 +++
-title = "One Drug Please"
-description = "Alternative title: playing around with Live 11's new cool features.  \"High Sheen\" reminds me of a few things. Getting high (on life) in a club, shiny lights from the sun and from stage lights, bright, natural naive feelings. \"Sheen\" of youth, so to speak,..."
-author = "papapastry#8888"
-date = "2021-02-25"
-categories = ["Week 08: TODO"]
-tags = []
+title =       "One Drug Please"
+author =      "papapastry"
+date =        "2021-02-25"
+categories =  ["W08: High Sheen"]
+tags =        ["papapastry"]
+
 +++
+
+
+{{< youtube KXirUI5JGVU >}}
+
+
+Week 8: **High Sheen**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.
+
+## Artist's Notes
 
 Alternative title: playing around with Live 11's new cool features.
 
@@ -19,3 +27,33 @@ Twitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>
 Links: https://youtu.be/KXirUI5JGVU [Closed Captions Available]
 
 Will be updated later with a YouTube video.
+
+## Social Media
+
+[{'Twitter': 'papapastry_'}] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/papapastry-week-8-0c0e.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+**Week:** 8
+**Title:** One Drug Please
+**Medium:** Audio/Ableton Live 11 Suite
+**Description:**
+
+Alternative title: playing around with Live 11's new cool features.
+
+"High Sheen" reminds me of a few things. Getting high (on life) in a club, shiny lights from the sun and from stage lights, bright, natural naive feelings. "Sheen" of youth, so to speak, and stuff I have nearly no experience with at all. Clubs aren't really clean, kids.
+
+This was a speedrun. I composed, mixed, wrote lyrics, recorded, and mastered everything in 58 minutes. Composition could not haven taken any longer than 10 minutes.
+
+The melody was written using nerd magic and code based on the image file Cindy posted.
+
+**Socials:** Twitter: <https://twitter.com/papapastry_>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>
+**Links:** https://youtu.be/KXirUI5JGVU [Closed Captions Available]
+
+Will be updated later with a YouTube video.
+{{< /highlight >}}

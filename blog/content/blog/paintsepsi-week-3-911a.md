@@ -1,10 +1,39 @@
 +++
-title = "Untitled"
-description = "Simple profile draw based on Akihiko Yoshida’s art. Was trying to do a new rendering style with the hair and am not quite happy with it yet, but it’s getting there!"
-author = "paintsepsi#6673"
-date = "2021-01-21"
-categories = ["Week 03: TODO"]
-tags = []
+title =       "Untitled"
+author =      "paintsepsi"
+date =        "2021-01-21"
+categories =  ["W03: Red Circle"]
+tags =        ["paintsepsi"]
+[[images]]
+                      src = "/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png"
+                      alt = "/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png"
+                      stretch = "cover"
 +++
 
+
+{{< fancybox path="/" file="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" >}}
+
+
+Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
+
+## Artist's Notes
+
 Simple profile draw based on Akihiko Yoshida’s art. Was trying to do a new rendering style with the hair and am not quite happy with it yet, but it’s getting there!
+
+## Social Media
+
+[{'Twitch': 'paintsepsi'}] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-3-911a.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 3
+Title: 
+Medium: Procreate
+Description: Simple profile draw based on Akihiko Yoshida’s art. Was trying to do a new rendering style with the hair and am not quite happy with it yet, but it’s getting there!
+Social media: twitch.com/paintsepsi
+{{< /highlight >}}

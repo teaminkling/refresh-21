@@ -117,7 +117,8 @@ CONTENT_LINK_REGEX: Pattern = re.compile(
     (
         r"(?:youtu\.be/\S)|"
         r"(?:youtube\.com/watch\?v="
-        r"(?!xGP1pUeVJYA))|"
+        r"(?!xGP1pUeVJYA)"
+        r"(?!dQw4w9WgXcQ))|"
         r"(?:soundcloud\.com/\S+/\S)|"
         r"(?:itch\.io/\S)|"
         r"(?:docs\.google\.com)|"

@@ -1,10 +1,41 @@
 +++
-title = "1:21 AM"
-description = "Tried to capture desperation, intensity and passion. Didn't manage to make the indentations left by the fingers the way I wanted - the idea of the situation is someone digging her nails into the back of her lover. Not intended to look like an injury, thou..."
-author = "arancil#8622"
-date = "2021-01-28"
-categories = ["Week 04: TODO"]
-tags = []
+title =       "1:21 AM"
+author =      "arancil"
+date =        "2021-01-28"
+categories =  ["W04: Murky Silhouettes"]
+tags =        ["arancil"]
+
 +++
 
+
+{{< fancybox path="/" file="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" >}}
+
+{{< fancybox path="/" file="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" >}}
+
+
+Week 4: **Murky Silhouettes**. This art was lovingly created using: **Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)**.
+
+## Artist's Notes
+
 Tried to capture desperation, intensity and passion. Didn't manage to make the indentations left by the fingers the way I wanted - the idea of the situation is someone digging her nails into the back of her lover. Not intended to look like an injury, though... but still happy with it. Posting a second shot with some more reflection to showcase the three-dimensional aspect.
+
+## Social Media
+
+[{'Instagram': 'arancil'}] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-4-ac13.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 4
+Title: 1:21 AM
+Medium: Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)
+Description: 
+Tried to capture desperation, intensity and passion. Didn't manage to make the indentations left by the fingers the way I wanted - the idea of the situation is someone digging her nails into the back of her lover. Not intended to look like an injury, though... but still happy with it. Posting a second shot with some more reflection to showcase the three-dimensional aspect. 
+Social Media: https://www.instagram.com/arancil/
+
+
+{{< /highlight >}}

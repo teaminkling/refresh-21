@@ -2,7 +2,7 @@ baseurl                 = "https://refresh.fiveclawd.com/"
 DefaultContentLanguage  = "en"
 title                   = "2021 Design Refresh"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
+paginate                = 8
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
@@ -17,15 +17,15 @@ home                  = ["html", "json", "rss"]
 
 [params]
 enableCDN             = false
-cssFiles              = ["default"]
-jsFiles               = ["default"]
+cssFiles              = ["default", "static/css/spoiler.css"]
+jsFiles               = ["default", "static/js/spoiler.js"]
 highlightjs           = true
 highlightjsTheme      = ""
 highlightjsLang       = []
 viewMorePostsLink     = "/"
 readingTime           = false
 imageStretch          = ""
-removeBlur            = false
+removeBlur            = true
 socialShare           = ["twitter", "facebook", "reddit", "pinterest"]
 hideEmptyStats        = false
 
@@ -42,7 +42,7 @@ iOSColor            = "#ffffff"
 navbarTitle         = "Home"
 dynamicTitles       = true
 searchMenu          = false
-shareMenu           = true
+shareMenu           = false
 languageMenu        = false
 
 [params.intro]
@@ -106,8 +106,8 @@ pre               = "<i class='far fa-id-card'></i>"
 weight            = 2
 
 [[menu.main]]
-name              = "Categories"
-identifier        = "categories"
+name              = "Themes"
+identifier        = "themes"
 url               = "/categories/"
 pre               = "<i class='fas fa-sitemap'></i>"
 weight            = 3
@@ -115,15 +115,8 @@ weight            = 3
 [[menu.main]]
 name              = "Artists"
 identifier        = "artists"
-url               = "/artists/"
-pre               = "<i class='fas fa-paint-brush'></i>"
-weight            = 4
-
-[[menu.main]]
-name              = "Tags"
-identifier        = "tags"
 url               = "/tags/"
-pre               = "<i class='fas fa-tags'></i>"
+pre               = "<i class='fas fa-paint-brush'></i>"
 weight            = 5
 
 

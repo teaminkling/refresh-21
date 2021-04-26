@@ -1,10 +1,36 @@
 +++
-title = "Anarchy Loves Fire"
-description = "a piece of an animatic I'm currently working on about an anarchist pig and his contemporaries and their relationship with violence. (edit: it's a little heavy so pls don't be wearing headphones if you're not used to heavy music)"
-author = "rainydaze#5604"
-date = "2021-04-09"
-categories = ["Week 14: TODO"]
-tags = []
+title =       "Anarchy Loves Fire"
+author =      "rainydaze"
+date =        "2021-04-09"
+categories =  ["W14: Absolute Fire"]
+tags =        ["rainydaze"]
+
 +++
 
+
+{{< fancybox path="/" file="/img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" >}}
+
+
+Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate (and DaVinci Resolve)**.
+
+## Artist's Notes
+
 a piece of an animatic I'm currently working on about an anarchist pig and his contemporaries and their relationship with violence. (edit: it's a little heavy so pls don't be wearing headphones if you're not used to heavy music)
+
+## Social Media
+
+[{'Twitch': 'rainydazedoeslife'}] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/rainydaze-week-14-c8c8.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week 14
+Title: Anarchy Loves Fire
+Medium: Procreate (and DaVinci Resolve)
+Description: a piece of an animatic I'm currently working on about an anarchist pig and his contemporaries and their relationship with violence. (edit: it's a little heavy so pls don't be wearing headphones if you're not used to heavy music)
+Social Media: https://www.twitch.tv/rainydazedoeslife
+{{< /highlight >}}

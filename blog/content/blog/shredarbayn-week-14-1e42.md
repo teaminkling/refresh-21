@@ -1,11 +1,24 @@
 +++
-title = "Fiery heart"
-description = "With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)  Timelapse https://www.youtube.com/watch?v=l-7cvM7f3Ps  This was my first endeavor with watercolour and wanted to give it a red hot go (haha) I use..."
-author = "Shredarbayn#8127"
-date = "2021-04-09"
-categories = ["Week 14: TODO"]
-tags = []
+title =       "Fiery heart"
+author =      "Shredarbayn"
+date =        "2021-04-09"
+categories =  ["W14: Absolute Fire"]
+tags =        ["Shredarbayn"]
+[[images]]
+                      src = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg"
+                      alt = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg"
+                      stretch = "cover"
 +++
+
+
+{{< fancybox path="/" file="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" >}}
+
+{{< youtube l-7cvM7f3Ps >}}
+
+
+Week 14: **Absolute Fire**. This art was lovingly created using: **Charcoal & Watercolour on 110gsm Dollar-store Paper**.
+
+## Artist's Notes
 
 With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)
 
@@ -17,3 +30,31 @@ This was my first endeavor with watercolour and wanted to give it a red hot go (
 I like to imagine what shootings off around Howl is the fire from the star, casting amazing light and shadows. I found this quite fun to bring to life! 
 
 Howl, the boy who ate a star. Spicy fire spirit 🔥
+
+## Social Media
+
+[] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/shredarbayn-week-14-1e42.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week 14
+Title: Fiery heart
+Medium: Charcoal & Watercolour on 110gsm Dollar-store Paper
+Description: 
+
+With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)
+
+Timelapse
+https://www.youtube.com/watch?v=l-7cvM7f3Ps
+
+This was my first endeavor with watercolour and wanted to give it a red hot go (haha) I used a charcoal pencil to free hand the foundation which took me approximately 1 hour to accomplish. I followed with the watercolours spending mixed amounts of my time trying to mix what I wanted and painting in sections at a time, taking a further 4 hours to accomplish.
+
+I like to imagine what shootings off around Howl is the fire from the star, casting amazing light and shadows. I found this quite fun to bring to life! 
+
+Howl, the boy who ate a star. Spicy fire spirit 🔥
+{{< /highlight >}}

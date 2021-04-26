@@ -1,11 +1,40 @@
 +++
-title = "_Pretty, Ain't It?_"
-description = "\"Someone had a mighty fine belt-buckle, so I.. borrowed it.\" This was a very interesting challenge! Decided to go for a painting-like piece with the belt-buckle being the main focus! If it's hard to see, the texture from the resource is on the belt buckle..."
-author = "DynoLoafer#7070"
-date = "2021-02-24"
-categories = ["Week 08: TODO"]
-tags = []
+title =       "Pretty, Ain't It?"
+author =      "DynoLoafer"
+date =        "2021-02-24"
+categories =  ["W08: High Sheen"]
+tags =        ["DynoLoafer"]
+[[images]]
+                      src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png"
+                      alt = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png"
+                      stretch = "cover"
 +++
+
+
+{{< fancybox path="/" file="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" >}}
+
+
+Week 8: **High Sheen**. This art was lovingly created using: **Paint Tool SAI**.
+
+## Artist's Notes
 
 "Someone had a mighty fine belt-buckle, so I.. borrowed it."
 This was a very interesting challenge! Decided to go for a painting-like piece with the belt-buckle being the main focus! If it's hard to see, the texture from the resource is on the belt buckle! I timed myself and I had 7 minutes before the two hour mark!
+
+## Social Media
+
+[] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-8-03c2.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 8
+Medium: Paint Tool SAI
+Title: __Pretty, Ain't It?__
+Description: "Someone had a mighty fine belt-buckle, so I.. borrowed it."
+This was a very interesting challenge! Decided to go for a painting-like piece with the belt-buckle being the main focus! If it's hard to see, the texture from the resource is on the belt buckle! I timed myself and I had 7 minutes before the two hour mark!
+{{< /highlight >}}

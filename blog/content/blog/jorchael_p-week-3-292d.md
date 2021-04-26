@@ -1,12 +1,41 @@
 +++
-title = "'0"
-description = "Didn't know what to draw so I drew something horny, sorry. She sure has a lot of red circles tho.  @/jorchaelp on twitter and @/jrchlp.png on insta"
-author = "jorchael_p#2534"
-date = "2021-01-22"
-categories = ["Week 03: TODO"]
-tags = []
+title =       "'0"
+author =      "jorchael_p"
+date =        "2021-01-22"
+categories =  ["W03: Red Circle"]
+tags =        ["jorchael_p"]
+[[images]]
+                      src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"
+                      alt = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"
+                      stretch = "cover"
 +++
+
+
+{{< fancybox path="/" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" >}}
+
+
+Week 3: **Red Circle**. This art was lovingly created using: **Photoshop**.
+
+## Artist's Notes
 
 Didn't know what to draw so I drew something horny, sorry. She sure has a lot of red circles tho.
 
 @/jorchaelp on twitter and @/jrchlp.png on insta
+
+## Social Media
+
+[] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jorchael_p-week-3-292d.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 3
+Title: :'0
+Medium: Photoshop
+Description: Didn't know what to draw so I drew something horny, sorry. She sure has a lot of red circles tho.
+Social Media: @/jorchaelp on twitter and @/jrchlp.png on insta
+{{< /highlight >}}

@@ -1,13 +1,42 @@
 +++
-title = "Blood Moon_"
-description = "_  Desc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put int..."
-author = "DynoLoafer#7070"
-date = "2021-01-22"
-categories = ["Week 03: TODO"]
-tags = []
+title =       "Blood Moon"
+author =      "DynoLoafer"
+date =        "2021-01-22"
+categories =  ["W03: Red Circle"]
+tags =        ["DynoLoafer"]
+[[images]]
+                      src = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"
+                      alt = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"
+                      stretch = "cover"
 +++
+
+
+{{< fancybox path="/" file="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" >}}
+
+
+Week 3: **Red Circle**. This art was lovingly created using: **Paint Tool SAI**.
+
+## Artist's Notes
 
 _
 
 Desc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put into them, and I know a lot more about the Wild West than the average person might suspect. Basically the one on the left was an outlaw and the other was a bounty hunter who got him off of the hanging offenses and basically stuffed him into his house.
 Don't you worry, it's very gay
+
+## Social Media
+
+[] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-3-ee54.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 3
+Medium: Paint Tool SAI
+__Title: Blood Moon__
+Desc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put into them, and I know a lot more about the Wild West than the average person might suspect. Basically the one on the left was an outlaw and the other was a bounty hunter who got him off of the hanging offenses and basically stuffed him into his house.
+Don't you worry, it's very gay
+{{< /highlight >}}

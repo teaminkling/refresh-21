@@ -1,11 +1,41 @@
 +++
-title = "Are You Listening?"
-description = "Throwback to that time I did a graphic design degree. The hardest thing I find when designing is deciding what stupid pointless words to put on the page. I feel like, especially at uni, a lot of words are there to look pretty and have no message. I wonder..."
-author = "Pumpkan#2447"
-date = "2021-03-25"
-categories = ["Week 12: TODO"]
-tags = []
+title =       "Are You Listening?"
+author =      "Pumpkan"
+date =        "2021-03-25"
+categories =  ["W12: Visual Words"]
+tags =        ["Pumpkan"]
+[[images]]
+                      src = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png"
+                      alt = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png"
+                      stretch = "cover"
 +++
+
+
+{{< fancybox path="/" file="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" >}}
+
+
+Week 12: **Visual Words**. This art was lovingly created using: **Indesign (if you prefer illustrator you can fight me)**.
+
+## Artist's Notes
 
 Throwback to that time I did a graphic design degree. The hardest thing I find when designing is deciding what stupid pointless words to put on the page. I feel like, especially at uni, a lot of words are there to look pretty and have no message. I wonder if that just means I have nothing to say? (How can I be so opinionated and have nothing to say?) 
 Maybe this is less 3D than I could have experimented with, but it felt comforting to just open indesign and mess around
+
+## Social Media
+
+[{'Twitter': 'pumpkanart'}, {'Twitch': 'pumpkanart'}] TO BE EDITED
+
+## Other
+
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-12-2b80.md).
+- Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
+- Parsed source from Discord is as follows:
+
+{{< highlight markdown >}}
+Week: 12
+Title: Are You Listening?
+Medium: Indesign (if you prefer illustrator you can fight me)
+Description: Throwback to that time I did a graphic design degree. The hardest thing I find when designing is deciding what stupid pointless words to put on the page. I feel like, especially at uni, a lot of words are there to look pretty and have no message. I wonder if that just means I have nothing to say? (How can I be so opinionated and have nothing to say?) 
+Maybe this is less 3D than I could have experimented with, but it felt comforting to just open indesign and mess around
+Social Media: @/pumpkanart on twitter and twitch
+{{< /highlight >}}
