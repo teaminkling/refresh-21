@@ -2,7 +2,7 @@
 title =       "Shine No Shogun"
 author =      "Kami"
 date =        "2021-01-23"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Kami"]
 [[images]]
                       src = "/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg"

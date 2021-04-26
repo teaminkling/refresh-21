@@ -2,7 +2,7 @@
 title =       "Current"
 author =      "Jzann"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Jzann"]
 [[images]]
                       src = "/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png"

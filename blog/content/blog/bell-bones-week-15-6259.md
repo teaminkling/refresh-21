@@ -2,7 +2,7 @@
 title =       "sometimes art is not worth having a mental breakdown over"
 author =      "Bell-Bones"
 date =        "2021-04-20"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png"

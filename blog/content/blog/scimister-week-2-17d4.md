@@ -2,7 +2,7 @@
 title =       "Ascend"
 author =      "Scimister"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Scimister"]
 [[images]]
                       src = "/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png"

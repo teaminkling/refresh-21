@@ -2,7 +2,7 @@
 title =       "Tesseract"
 author =      "vectorong"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d.jpg"

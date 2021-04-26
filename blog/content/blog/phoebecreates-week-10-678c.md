@@ -2,7 +2,7 @@
 title =       "cute outfits"
 author =      "PhoebeCreates"
 date =        "2021-03-11"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["PhoebeCreates"]
 [[images]]
                       src = "/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg"
@@ -14,7 +14,7 @@ tags =        ["PhoebeCreates"]
 {{< fancybox path="/" file="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **ink and watercolour**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **ink and watercolour**.
 
 ## Artist's Notes
 

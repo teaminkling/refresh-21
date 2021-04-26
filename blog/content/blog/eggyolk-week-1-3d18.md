@@ -2,7 +2,7 @@
 title =       "Week 1 submission 👁️ 👄 👁️"
 author =      "eggyolk"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-01-07+9e3450b11d8b1247ccf09972b1d964bf.jpg"

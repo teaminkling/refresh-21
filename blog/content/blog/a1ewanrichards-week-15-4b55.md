@@ -2,7 +2,7 @@
 title =       "Resistance 4 - Sometimes, The Heart Yearns For Mangoes"
 author =      "a1ewanrichards"
 date =        "2021-04-15"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg"

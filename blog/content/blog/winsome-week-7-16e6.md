@@ -2,7 +2,7 @@
 title =       "Three Celebrations (Change)"
 author =      "winsome"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg"

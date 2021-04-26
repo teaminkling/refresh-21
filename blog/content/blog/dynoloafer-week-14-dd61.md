@@ -2,7 +2,7 @@
 title =       "My Protective Assistant"
 author =      "DynoLoafer"
 date =        "2021-04-11"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png"

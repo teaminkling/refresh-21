@@ -2,7 +2,7 @@
 title =       "POV you find another VHS tape, and your sleep deprived self slots it in the player…"
 author =      "Charmandaar"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["Charmandaar"]
 
 +++

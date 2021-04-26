@@ -2,7 +2,7 @@
 title =       "placeholder edit later"
 author =      "arancil"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["arancil"]
 
 +++

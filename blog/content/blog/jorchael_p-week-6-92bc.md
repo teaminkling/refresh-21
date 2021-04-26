@@ -2,7 +2,7 @@
 title =       "Nian Gao, old and new"
 author =      "jorchael_p"
 date =        "2021-02-17"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["jorchael_p"]
 [[images]]
                       src = "/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png"

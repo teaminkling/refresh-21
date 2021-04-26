@@ -2,7 +2,7 @@
 title =       "Pulling Back From The Edge"
 author =      "Lithium"
 date =        "2021-03-10"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg"
@@ -16,7 +16,7 @@ tags =        ["Lithium"]
 {{< youtube XFUyeYrCcN0 >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Clip Studio Paint**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.
 
 ## Artist's Notes
 

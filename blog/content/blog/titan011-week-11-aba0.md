@@ -2,7 +2,7 @@
 title =       "Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890>"
 author =      "TITAN011"
 date =        "2021-03-16"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg"
@@ -14,7 +14,7 @@ tags =        ["TITAN011"]
 {{< fancybox path="/" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Clip studio**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio**.
 
 ## Artist's Notes
 

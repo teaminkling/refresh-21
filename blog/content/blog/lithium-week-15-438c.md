@@ -2,7 +2,7 @@
 title =       "Still Life Succulents"
 author =      "Lithium"
 date =        "2021-04-15"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg"

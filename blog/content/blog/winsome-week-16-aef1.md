@@ -2,7 +2,7 @@
 title =       "Broccaiju"
 author =      "winsome"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-04-23+53ef0c44d40053101c4ef3cfc9f82f2a.png"

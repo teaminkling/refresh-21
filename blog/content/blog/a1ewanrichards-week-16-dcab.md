@@ -2,7 +2,7 @@
 title =       "Amalgamation: At A Time Like This, Will Someone Be There For You?"
 author =      "a1ewanrichards"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg"

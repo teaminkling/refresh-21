@@ -2,7 +2,7 @@
 title =       "Bowl"
 author =      "jumpingbeans"
 date =        "2021-01-02"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["jumpingbeans"]
 
 +++

@@ -2,7 +2,7 @@
 title =       "Yellow Ice Bar"
 author =      "Heidelburger"
 date =        "2021-01-05"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Heidelburger"]
 [[images]]
                       src = "/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg"

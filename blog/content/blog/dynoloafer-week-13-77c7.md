@@ -2,7 +2,7 @@
 title =       "P̷̑̚Ä̴́̅I̴͒̚N̷̈͠F̵̳̂Ű̷͓L̵̛͝ ̶̓̏B̷̈́̔L̴̅̂Ī̶̈́S̵̓̾S̷̐̐"
 author =      "DynoLoafer"
 date =        "2021-04-02"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png"

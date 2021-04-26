@@ -2,7 +2,7 @@
 title =       "Façade"
 author =      "vectorong"
 date =        "2021-01-28"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png"

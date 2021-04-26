@@ -2,7 +2,7 @@
 title =       "silk"
 author =      "gianhet"
 date =        "2021-03-13"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["gianhet"]
 [[images]]
                       src = "/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png"
@@ -14,7 +14,7 @@ tags =        ["gianhet"]
 {{< fancybox path="/" file="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **: CSP**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **: CSP**.
 
 ## Artist's Notes
 

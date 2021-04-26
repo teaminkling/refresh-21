@@ -2,7 +2,7 @@
 title =       "Fiery heart"
 author =      "Shredarbayn"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Shredarbayn"]
 [[images]]
                       src = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg"

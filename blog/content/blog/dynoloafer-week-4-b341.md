@@ -2,7 +2,7 @@
 title =       "You Ain't No Bounty Hunter"
 author =      "DynoLoafer"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png"

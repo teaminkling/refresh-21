@@ -2,7 +2,7 @@
 title =       "Cancri"
 author =      "vectorong"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg"
@@ -14,7 +14,7 @@ tags =        ["vectorong"]
 {{< fancybox path="/" file="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Relief printing**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Relief printing**.
 
 ## Artist's Notes
 

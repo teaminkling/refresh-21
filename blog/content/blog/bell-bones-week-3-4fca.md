@@ -2,7 +2,7 @@
 title =       "A Shining Star"
 author =      "Bell-Bones"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png"

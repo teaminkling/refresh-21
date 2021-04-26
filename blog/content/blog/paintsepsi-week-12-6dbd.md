@@ -2,7 +2,7 @@
 title =       "Lorem Ipsum"
 author =      "paintsepsi"
 date =        "2021-04-02"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["paintsepsi"]
 
 +++

@@ -2,7 +2,7 @@
 title =       "OH SHIT DID I MAKE IT ON TIME? (actual title: extinguished)"
 author =      "eggyolk"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4.png"

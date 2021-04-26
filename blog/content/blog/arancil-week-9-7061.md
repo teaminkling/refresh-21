@@ -2,7 +2,7 @@
 title =       "I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on CHOKE ME LIKE YOU HATE ME obviously sorry"
 author =      "arancil"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg"

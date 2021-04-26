@@ -2,7 +2,7 @@
 title =       "Orange jump"
 author =      "Goblet"
 date =        "2021-01-24"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg"

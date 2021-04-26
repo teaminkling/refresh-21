@@ -2,7 +2,7 @@
 title =       "hey girl bites lip"
 author =      "Frog Glasses"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Frog Glasses"]
 [[images]]
                       src = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg"

@@ -2,7 +2,7 @@
 title =       "Implied emotion??"
 author =      "cindry"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png"
@@ -14,7 +14,7 @@ tags =        ["cindry"]
 {{< fancybox path="/" file="/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Digital, Illustrator and CSP**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Digital, Illustrator and CSP**.
 
 ## Artist's Notes
 

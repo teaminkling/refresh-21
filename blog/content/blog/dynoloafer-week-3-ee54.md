@@ -2,7 +2,7 @@
 title =       "Blood Moon"
 author =      "DynoLoafer"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"

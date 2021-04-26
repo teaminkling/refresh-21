@@ -2,7 +2,7 @@
 title =       "upon sunflowers"
 author =      "Charmandaar"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Charmandaar"]
 [[images]]
                       src = "/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png"

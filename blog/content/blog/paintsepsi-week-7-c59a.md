@@ -2,7 +2,7 @@
 title =       "Skull"
 author =      "paintsepsi"
 date =        "2021-02-18"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg"

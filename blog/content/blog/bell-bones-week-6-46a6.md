@@ -2,7 +2,7 @@
 title =       "Roleplay! (and a puppet show I suppose)"
 author =      "Bell-Bones"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png"

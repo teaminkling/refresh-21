@@ -2,7 +2,7 @@
 title =       "Things you use to see yourself with"
 author =      "jumpingbeans"
 date =        "2021-03-29"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["jumpingbeans"]
 
 +++

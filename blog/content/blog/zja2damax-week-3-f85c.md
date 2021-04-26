@@ -2,7 +2,7 @@
 title =       "The Red Circle"
 author =      "zja2damax"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["zja2damax"]
 [[images]]
                       src = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg"

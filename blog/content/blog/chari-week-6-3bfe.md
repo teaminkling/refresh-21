@@ -2,7 +2,7 @@
 title =       "Ghosties"
 author =      "chari"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["chari"]
 [[images]]
                       src = "/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png"

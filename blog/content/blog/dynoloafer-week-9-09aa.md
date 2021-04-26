@@ -2,7 +2,7 @@
 title =       "Dragon Collage"
 author =      "DynoLoafer"
 date =        "2021-03-02"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png"

@@ -2,7 +2,7 @@
 title =       "Blue"
 author =      "Linalifox"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Linalifox"]
 [[images]]
                       src = "/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg"

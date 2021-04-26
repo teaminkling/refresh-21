@@ -2,7 +2,7 @@
 title =       "Do what make you happy"
 author =      "TITAN011"
 date =        "2021-02-24"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg"

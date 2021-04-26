@@ -2,7 +2,7 @@
 title =       "Flow"
 author =      "Psyko"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Psyko"]
 [[images]]
                       src = "/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg"

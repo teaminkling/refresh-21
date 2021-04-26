@@ -2,7 +2,7 @@
 title =       "beach 🙂"
 author =      "hamishmr"
 date =        "2021-01-23"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["hamishmr"]
 [[images]]
                       src = "/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg"

@@ -2,7 +2,7 @@
 title =       "Rat 1 and Rat 2"
 author =      "cindry"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png"

@@ -2,7 +2,7 @@
 title =       "Desert Plains"
 author =      "poru"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["poru"]
 [[images]]
                       src = "/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png"

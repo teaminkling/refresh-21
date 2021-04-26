@@ -2,7 +2,7 @@
 title =       "Ozymandias"
 author =      "TrixyNetex"
 date =        "2021-04-22"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["TrixyNetex"]
 
 +++

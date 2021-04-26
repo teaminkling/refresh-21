@@ -2,7 +2,7 @@
 title =       "Ah, Bright Light"
 author =      "jorchael_p"
 date =        "2021-01-16"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["jorchael_p"]
 [[images]]
                       src = "/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png"

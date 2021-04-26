@@ -2,7 +2,7 @@
 title =       "Sunset Vibes, aka it was 30° degrees today"
 author =      "TrixyNetex"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png"
@@ -14,7 +14,7 @@ tags =        ["TrixyNetex"]
 {{< fancybox path="/" file="/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Sketchbook pro**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Sketchbook pro**.
 
 ## Artist's Notes
 

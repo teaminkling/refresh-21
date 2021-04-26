@@ -2,7 +2,7 @@
 title =       "Cindy’s Imaginary Friend"
 author =      "DoughYeast"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["DoughYeast"]
 [[images]]
                       src = "/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg"

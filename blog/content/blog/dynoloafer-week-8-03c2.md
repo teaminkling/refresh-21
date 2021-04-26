@@ -2,7 +2,7 @@
 title =       "Pretty, Ain't It?"
 author =      "DynoLoafer"
 date =        "2021-02-24"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png"

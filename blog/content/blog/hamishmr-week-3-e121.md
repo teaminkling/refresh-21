@@ -2,7 +2,7 @@
 title =       "koi 🙂"
 author =      "hamishmr"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["hamishmr"]
 [[images]]
                       src = "/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg"

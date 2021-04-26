@@ -2,7 +2,7 @@
 title =       "comfy spot"
 author =      "Piacine"
 date =        "2021-04-08"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Piacine"]
 [[images]]
                       src = "/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif"

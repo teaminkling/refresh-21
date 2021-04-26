@@ -2,7 +2,7 @@
 title =       "Bruh"
 author =      "paintsepsi"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png"
@@ -16,7 +16,7 @@ tags =        ["paintsepsi"]
 {{< fancybox path="/" file="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Photoshop**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.
 
 ## Artist's Notes
 

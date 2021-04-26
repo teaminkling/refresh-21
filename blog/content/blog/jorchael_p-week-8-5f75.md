@@ -2,7 +2,7 @@
 title =       "Out of Touch Tuesday"
 author =      "jorchael_p"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["jorchael_p"]
 [[images]]
                       src = "/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png"

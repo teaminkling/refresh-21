@@ -2,7 +2,7 @@
 title =       "Atlantis"
 author =      "paintsepsi"
 date =        "2021-01-11"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png"

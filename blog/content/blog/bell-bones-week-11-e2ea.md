@@ -2,7 +2,7 @@
 title =       "Aster Flower Looking Upon a Star"
 author =      "Bell-Bones"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png"
@@ -14,7 +14,7 @@ tags =        ["Bell-Bones"]
 {{< fancybox path="/" file="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **FireAlpaca**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **FireAlpaca**.
 
 ## Artist's Notes
 

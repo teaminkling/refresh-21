@@ -2,7 +2,7 @@
 title =       "Bloody Fields"
 author =      "a1ewanrichards"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg"

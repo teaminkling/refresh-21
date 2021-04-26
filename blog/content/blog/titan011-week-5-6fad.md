@@ -2,7 +2,7 @@
 title =       "Green Emerald"
 author =      "TITAN011"
 date =        "2021-02-01"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg"

@@ -2,7 +2,7 @@
 title =       "Jade Jian"
 author =      "Goblet"
 date =        "2021-02-02"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png"

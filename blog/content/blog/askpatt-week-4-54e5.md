@@ -2,7 +2,7 @@
 title =       "Green mOon"
 author =      "askpatt"
 date =        "2021-01-30"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["askpatt"]
 [[images]]
                       src = "/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png"

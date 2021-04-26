@@ -2,7 +2,7 @@
 title =       "The Five Virtues"
 author =      "vectorong"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg"

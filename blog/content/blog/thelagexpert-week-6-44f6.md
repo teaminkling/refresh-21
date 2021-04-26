@@ -2,7 +2,7 @@
 title =       "Cyber Love"
 author =      "TheLagExpert"
 date =        "2021-02-10"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["TheLagExpert"]
 [[images]]
                       src = "/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png"

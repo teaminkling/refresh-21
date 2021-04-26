@@ -2,7 +2,7 @@
 title =       "Dune Surfing"
 author =      "TITAN011"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351.jpg"

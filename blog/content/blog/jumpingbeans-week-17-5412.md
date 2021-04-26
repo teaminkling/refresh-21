@@ -2,7 +2,7 @@
 title =       "ThankEgg"
 author =      "jumpingbeans"
 date =        "2021-04-25"
-categories =  ["W17: The 4 R's"]
+categories =  ["Week 17: The 4 R's: Finale"]
 tags =        ["jumpingbeans"]
 
 +++
@@ -11,7 +11,7 @@ tags =        ["jumpingbeans"]
 {{< fancybox path="/" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" >}}
 
 
-Week 17: **The 4 R's**. This art was lovingly created using: **video**.
+Week 17: **The 4 R's: Finale**. This art was lovingly created using: **video**.
 
 ## Artist's Notes
 

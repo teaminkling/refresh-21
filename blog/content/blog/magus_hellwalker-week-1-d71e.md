@@ -2,7 +2,7 @@
 title =       "It Spins"
 author =      "Magus_Hellwalker"
 date =        "2021-01-17"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Magus_Hellwalker"]
 
 +++

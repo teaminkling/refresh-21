@@ -2,7 +2,7 @@
 title =       "Coming Up Spades"
 author =      "papapastry"
 date =        "2021-04-09"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["papapastry"]
 
 +++

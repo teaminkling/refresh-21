@@ -2,7 +2,7 @@
 title =       "Rat Race"
 author =      "vectorong"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg"

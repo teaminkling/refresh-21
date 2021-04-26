@@ -2,7 +2,7 @@
 title =       "Jade Bee"
 author =      "Lithium"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-02-05+883c3abe6465be5d4f18cb30a8b2e0e1.jpg"

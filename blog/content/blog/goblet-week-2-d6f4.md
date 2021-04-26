@@ -2,7 +2,7 @@
 title =       "simple angler pog"
 author =      "Goblet"
 date =        "2021-01-11"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png"

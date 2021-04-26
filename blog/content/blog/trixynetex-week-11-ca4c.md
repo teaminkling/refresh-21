@@ -2,7 +2,7 @@
 title =       "Liminal Sky"
 author =      "TrixyNetex"
 date =        "2021-03-18"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png"
@@ -14,7 +14,7 @@ tags =        ["TrixyNetex"]
 {{< fancybox path="/" file="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Sketchbook Pro**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Sketchbook Pro**.
 
 ## Artist's Notes
 

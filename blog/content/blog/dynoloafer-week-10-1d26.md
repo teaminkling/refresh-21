@@ -2,7 +2,7 @@
 title =       "Pico's Target"
 author =      "DynoLoafer"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png"
@@ -14,7 +14,7 @@ tags =        ["DynoLoafer"]
 {{< fancybox path="/" file="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Paint Tool SAI**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Paint Tool SAI**.
 
 ## Artist's Notes
 

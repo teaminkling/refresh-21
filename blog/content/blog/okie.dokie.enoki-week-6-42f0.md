@@ -2,7 +2,7 @@
 title =       "solemn night"
 author =      "okie.dokie.enoki"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["okie.dokie.enoki"]
 [[images]]
                       src = "/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45.png"

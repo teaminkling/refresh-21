@@ -2,7 +2,7 @@
 title =       "b̴͆͘e̸̲͌w̵͑͘ả̴̀r̶̾̎ȅ̷̌ ̶̃̎t̸͋̈́h̵̎̇e̴͑͂ ̸͑̇d̶̈́͝ě̵̤e̶͊͘p̵̒̀"
 author =      "papapastry"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["papapastry"]
 
 +++

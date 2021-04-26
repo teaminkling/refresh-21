@@ -2,7 +2,7 @@
 title =       "Berry Dragon"
 author =      "Lithium"
 date =        "2021-03-03"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg"

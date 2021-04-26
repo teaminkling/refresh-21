@@ -2,7 +2,7 @@
 title =       "Anarchy Loves Fire"
 author =      "rainydaze"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["rainydaze"]
 
 +++

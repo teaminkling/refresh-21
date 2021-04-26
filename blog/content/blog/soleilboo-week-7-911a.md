@@ -2,7 +2,7 @@
 title =       "Untitled"
 author =      "soleilboo"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg"

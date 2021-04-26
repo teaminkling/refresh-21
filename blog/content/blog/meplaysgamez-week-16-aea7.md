@@ -2,7 +2,7 @@
 title =       "Dynames"
 author =      "meplaysgamez"
 date =        "2021-04-25"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["meplaysgamez"]
 [[images]]
                       src = "/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg"

@@ -2,7 +2,7 @@
 title =       "Perspectives of Love"
 author =      "Scimister"
 date =        "2021-02-13"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Scimister"]
 [[images]]
                       src = "/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png"

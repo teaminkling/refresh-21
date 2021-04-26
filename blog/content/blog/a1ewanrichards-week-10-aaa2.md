@@ -2,7 +2,7 @@
 title =       "Portrait 6: Get Together"
 author =      "a1ewanrichards"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg"
@@ -14,7 +14,7 @@ tags =        ["a1ewanrichards"]
 {{< fancybox path="/" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Felt marker on paper, 9x12in**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Felt marker on paper, 9x12in**.
 
 ## Artist's Notes
 

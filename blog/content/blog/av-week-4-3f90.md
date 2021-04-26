@@ -2,7 +2,7 @@
 title =       "Snap Shot 1"
 author =      "av"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["av"]
 [[images]]
                       src = "/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg"

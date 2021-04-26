@@ -2,7 +2,7 @@
 title =       "Luminated Darkness"
 author =      "Moonlit Narcy"
 date =        "2021-01-10"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Moonlit Narcy"]
 [[images]]
                       src = "/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png"

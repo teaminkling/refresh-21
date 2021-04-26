@@ -2,7 +2,7 @@
 title =       "Lonely in the Quartz desert"
 author =      "TheLagExpert"
 date =        "2021-01-23"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["TheLagExpert"]
 [[images]]
                       src = "/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg"

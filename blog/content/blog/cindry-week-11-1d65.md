@@ -2,7 +2,7 @@
 title =       "Rolling Lonely Star"
 author =      "cindry"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png"
@@ -14,7 +14,7 @@ tags =        ["cindry"]
 {{< fancybox path="/" file="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Digital, CSP**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Digital, CSP**.
 
 ## Artist's Notes
 

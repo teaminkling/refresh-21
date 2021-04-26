@@ -2,7 +2,7 @@
 title =       "Queen of the Skies"
 author =      "winsome"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png"

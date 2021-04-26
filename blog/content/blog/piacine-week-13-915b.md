@@ -2,7 +2,7 @@
 title =       "Life of Avocados"
 author =      "Piacine"
 date =        "2021-03-30"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["Piacine"]
 [[images]]
                       src = "/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif"

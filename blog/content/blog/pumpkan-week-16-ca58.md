@@ -2,7 +2,7 @@
 title =       "It'sssss Smelbourne!"
 author =      "Pumpkan"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png"

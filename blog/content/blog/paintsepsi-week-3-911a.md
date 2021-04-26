@@ -2,7 +2,7 @@
 title =       "Untitled"
 author =      "paintsepsi"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png"

@@ -2,7 +2,7 @@
 title =       "Flames of Phlegethos"
 author =      "TrixyNetex"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png"

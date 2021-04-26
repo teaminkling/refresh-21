@@ -2,7 +2,7 @@
 title =       "mask"
 author =      "fonz"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["fonz"]
 [[images]]
                       src = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png"

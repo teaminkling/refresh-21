@@ -2,7 +2,7 @@
 title =       "Are we at the weekends yet?"
 author =      "jumpingbeans"
 date =        "2021-03-14"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["jumpingbeans"]
 
 +++
@@ -11,7 +11,7 @@ tags =        ["jumpingbeans"]
 {{< fancybox path="/" file="/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea.PNG" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Krita**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Krita**.
 
 ## Artist's Notes
 

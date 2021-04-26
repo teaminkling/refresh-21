@@ -2,7 +2,7 @@
 title =       "My favourite artist"
 author =      "D3m0n_Msc"
 date =        "2021-02-23"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["D3m0n_Msc"]
 [[images]]
                       src = "/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png"

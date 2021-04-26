@@ -2,7 +2,7 @@
 title =       "cold inside"
 author =      "Goblet"
 date =        "2021-01-17"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg"

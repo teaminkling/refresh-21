@@ -2,7 +2,7 @@
 title =       "Maw of the Deep"
 author =      "CapoKey"
 date =        "2021-01-11"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["CapoKey"]
 [[images]]
                       src = "/img/capokey/2021-01-11+f134fb41fbe62dbf11697219214c2b45.png"

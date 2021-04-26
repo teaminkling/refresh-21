@@ -2,7 +2,7 @@
 title =       "Little Dragons"
 author =      "vectorong"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c.jpg"

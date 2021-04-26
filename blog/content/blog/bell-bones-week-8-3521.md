@@ -2,7 +2,7 @@
 title =       "Brooke Rivers"
 author =      "Bell-Bones"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png"

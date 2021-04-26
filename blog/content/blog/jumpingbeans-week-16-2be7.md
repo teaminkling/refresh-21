@@ -2,7 +2,7 @@
 title =       "what is bigger, a giant bidoof or an individual's life?"
 author =      "jumpingbeans"
 date =        "2021-04-19"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png"

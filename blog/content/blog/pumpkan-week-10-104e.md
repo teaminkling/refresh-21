@@ -2,7 +2,7 @@
 title =       "The dread beach bum La Verne"
 author =      "Pumpkan"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png"
@@ -14,7 +14,7 @@ tags =        ["Pumpkan"]
 {{< fancybox path="/" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Procreate**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 

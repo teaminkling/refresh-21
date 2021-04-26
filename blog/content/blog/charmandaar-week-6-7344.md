@@ -2,7 +2,7 @@
 title =       "Paper Aeroplanes demo.mp3, collab with @papapastry"
 author =      "Charmandaar"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Charmandaar"]
 
 +++

@@ -2,7 +2,7 @@
 title =       "Seconds in Sand"
 author =      "vectorong"
 date =        "2021-02-18"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg"

@@ -2,7 +2,7 @@
 title =       "Dancing Cloud"
 author =      "Lithium"
 date =        "2021-01-28"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg"

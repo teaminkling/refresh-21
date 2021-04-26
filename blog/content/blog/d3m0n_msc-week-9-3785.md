@@ -2,7 +2,7 @@
 title =       "Judgement"
 author =      "D3m0n_Msc"
 date =        "2021-03-02"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["D3m0n_Msc"]
 [[images]]
                       src = "/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png"

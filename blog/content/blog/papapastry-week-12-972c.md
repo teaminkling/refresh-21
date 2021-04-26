@@ -2,7 +2,7 @@
 title =       "Noodle Bar"
 author =      "papapastry"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["papapastry"]
 
 +++

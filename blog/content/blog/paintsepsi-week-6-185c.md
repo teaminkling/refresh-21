@@ -2,7 +2,7 @@
 title =       "It's Not Living (If It's Not With You)"
 author =      "paintsepsi"
 date =        "2021-02-06"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png"

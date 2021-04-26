@@ -2,7 +2,7 @@
 title =       "Zelda Study"
 author =      "HadesPsd"
 date =        "2021-03-11"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["HadesPsd"]
 [[images]]
                       src = "/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg"
@@ -14,7 +14,7 @@ tags =        ["HadesPsd"]
 {{< fancybox path="/" file="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **CSP with Basic Brushes**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **CSP with Basic Brushes**.
 
 ## Artist's Notes
 

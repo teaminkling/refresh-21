@@ -2,7 +2,7 @@
 title =       "This is where I live now"
 author =      "arancil"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg"
@@ -14,7 +14,7 @@ tags =        ["arancil"]
 {{< fancybox path="/" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Watercolor**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
 
 ## Artist's Notes
 

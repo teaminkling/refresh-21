@@ -2,7 +2,7 @@
 title =       "cat<a:B8vibe:776693937498095637>  (cant think of a title xd)"
 author =      "mrtnong"
 date =        "2021-01-26"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["mrtnong"]
 [[images]]
                       src = "/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg"

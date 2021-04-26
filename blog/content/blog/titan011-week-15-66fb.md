@@ -2,7 +2,7 @@
 title =       "Durian at sea"
 author =      "TITAN011"
 date =        "2021-04-12"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif"

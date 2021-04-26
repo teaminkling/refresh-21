@@ -2,7 +2,7 @@
 title =       "He RUINED my DREAM JOURNAL"
 author =      "Pumpkan"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["Pumpkan"]
 
 +++
@@ -11,7 +11,7 @@ tags =        ["Pumpkan"]
 {{< fancybox path="/" file="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.JPG" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **paper and gold thread and glue and stuff**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **paper and gold thread and glue and stuff**.
 
 ## Artist's Notes
 

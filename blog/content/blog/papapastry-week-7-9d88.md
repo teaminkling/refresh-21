@@ -2,7 +2,7 @@
 title =       "Footprints"
 author =      "papapastry"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["papapastry"]
 
 +++

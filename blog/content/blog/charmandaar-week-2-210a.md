@@ -2,7 +2,7 @@
 title =       "felix, the jellyfish"
 author =      "Charmandaar"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Charmandaar"]
 [[images]]
                       src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png"

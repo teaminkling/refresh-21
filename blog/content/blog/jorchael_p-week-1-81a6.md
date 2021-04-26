@@ -2,7 +2,7 @@
 title =       "sunny day, pouring rain"
 author =      "jorchael_p"
 date =        "2021-01-08"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["jorchael_p"]
 [[images]]
                       src = "/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png"

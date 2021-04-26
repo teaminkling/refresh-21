@@ -2,7 +2,7 @@
 title =       "Trust"
 author =      "D3m0n_Msc"
 date =        "2021-03-27"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["D3m0n_Msc"]
 [[images]]
                       src = "/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png"

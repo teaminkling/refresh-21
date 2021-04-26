@@ -2,7 +2,7 @@
 title =       "Just a Peep"
 author =      "Boyf"
 date =        "2021-01-05"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Boyf"]
 [[images]]
                       src = "/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png"

@@ -2,7 +2,7 @@
 title =       "Assimilation"
 author =      "Pumpkan"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45.png"

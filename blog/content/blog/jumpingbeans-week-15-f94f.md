@@ -2,7 +2,7 @@
 title =       "illiteracy"
 author =      "jumpingbeans"
 date =        "2021-04-11"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg"

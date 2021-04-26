@@ -2,7 +2,7 @@
 title =       "Tightrope banana."
 author =      "Goblet"
 date =        "2021-04-16"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg"

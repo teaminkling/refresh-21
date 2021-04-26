@@ -2,7 +2,7 @@
 title =       "The Vessel"
 author =      "Kami"
 date =        "2021-02-04"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Kami"]
 [[images]]
                       src = "/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg"

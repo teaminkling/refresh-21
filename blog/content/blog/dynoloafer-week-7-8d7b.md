@@ -2,7 +2,7 @@
 title =       "The Sandstorm"
 author =      "DynoLoafer"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png"

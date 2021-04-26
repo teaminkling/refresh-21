@@ -2,7 +2,7 @@
 title =       "The Bat Man"
 author =      "WellCookedEgg"
 date =        "2021-03-09"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["WellCookedEgg"]
 [[images]]
                       src = "/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg"
@@ -14,7 +14,7 @@ tags =        ["WellCookedEgg"]
 {{< fancybox path="/" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Clip Studio Paint**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.
 
 ## Artist's Notes
 

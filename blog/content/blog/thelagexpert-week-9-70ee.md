@@ -2,7 +2,7 @@
 title =       "Welcome to the brave new world of me"
 author =      "TheLagExpert"
 date =        "2021-03-06"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["TheLagExpert"]
 [[images]]
                       src = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg"

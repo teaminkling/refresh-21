@@ -974,6 +974,8 @@ figcaption {
   flex-direction: column;
   margin-top: 0.5em;
   padding: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
   text-align: center; }
   #site-intro a {
     border: 0; }
@@ -990,7 +992,9 @@ figcaption {
     text-transform: uppercase; }
 
 #site-sidebar {
-  grid-area: sidebar; }
+  grid-area: sidebar;
+  padding-left: 1em;
+  padding-right: 1em; }
   #site-sidebar header h1 {
     font-size: 1em; }
   #site-sidebar > * {
@@ -1001,11 +1005,10 @@ figcaption {
     #site-sidebar > *:first-child {
       margin-top: 0; } }
   #site-sidebar ul {
-    font-family: "Raleway", Helvetica, sans-serif;
-    font-size: 0.9em;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-size: 0.75em;
     letter-spacing: 0.25em;
     line-height: 1.65;
-    text-transform: uppercase;
     list-style: none;
     padding: 0; }
   #site-sidebar footer {

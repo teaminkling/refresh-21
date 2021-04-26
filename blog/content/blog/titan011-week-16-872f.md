@@ -2,7 +2,7 @@
 title =       "A Titan's Journey"
 author =      "TITAN011"
 date =        "2021-04-21"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg"

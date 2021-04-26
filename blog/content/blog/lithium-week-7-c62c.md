@@ -2,7 +2,7 @@
 title =       "Desert~~ (Creative I know)~~"
 author =      "Lithium"
 date =        "2021-02-23"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-02-22+718516908bd914ea746a24756894c29b.jpg"

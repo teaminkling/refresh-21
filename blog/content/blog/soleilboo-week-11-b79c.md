@@ -2,7 +2,7 @@
 title =       "Hydrangea Star Gazer"
 author =      "soleilboo"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg"
@@ -14,7 +14,7 @@ tags =        ["soleilboo"]
 {{< fancybox path="/" file="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Watercolour**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolour**.
 
 ## Artist's Notes
 

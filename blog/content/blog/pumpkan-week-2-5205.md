@@ -2,7 +2,7 @@
 title =       "You have new text message! High five!"
 author =      "Pumpkan"
 date =        "2021-01-14"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png"

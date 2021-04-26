@@ -2,7 +2,7 @@
 title =       "Not My Forte"
 author =      "DynoLoafer"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png"

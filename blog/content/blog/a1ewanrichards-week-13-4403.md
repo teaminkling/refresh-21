@@ -2,7 +2,7 @@
 title =       "Portrait 7: Ruminations"
 author =      "a1ewanrichards"
 date =        "2021-04-02"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg"

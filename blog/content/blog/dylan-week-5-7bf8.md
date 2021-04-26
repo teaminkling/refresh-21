@@ -2,7 +2,7 @@
 title =       "Behind The Doors"
 author =      "Dylan®"
 date =        "2021-02-01"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Dylan®"]
 [[images]]
                       src = "/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg"

@@ -2,7 +2,7 @@
 title =       "Are You Listening?"
 author =      "Pumpkan"
 date =        "2021-03-25"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png"

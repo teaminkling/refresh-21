@@ -2,7 +2,7 @@
 title =       "idk"
 author =      "D3m0n_Msc"
 date =        "2021-04-07"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["D3m0n_Msc"]
 [[images]]
                       src = "/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png"

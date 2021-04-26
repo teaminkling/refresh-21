@@ -2,7 +2,7 @@
 title =       "Exhaustion"
 author =      "Bell-Bones"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png"

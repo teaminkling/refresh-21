@@ -2,7 +2,7 @@
 title =       "Untitled (society)"
 author =      "jumpingbeans"
 date =        "2021-01-17"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png"

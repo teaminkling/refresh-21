@@ -2,7 +2,7 @@
 title =       "The Comfy Chair"
 author =      "vectorong"
 date =        "2021-03-24"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg"

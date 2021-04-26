@@ -2,7 +2,7 @@
 title =       "Disappear"
 author =      "soleilboo"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif"

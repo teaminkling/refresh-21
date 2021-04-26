@@ -2,7 +2,7 @@
 title =       "sparkly mandrake"
 author =      "arren"
 date =        "2021-01-06"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["arren"]
 [[images]]
                       src = "/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif"

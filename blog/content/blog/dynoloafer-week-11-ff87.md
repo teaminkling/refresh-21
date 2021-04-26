@@ -2,7 +2,7 @@
 title =       "They Come Out at Night"
 author =      "DynoLoafer"
 date =        "2021-03-18"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png"
@@ -14,7 +14,7 @@ tags =        ["DynoLoafer"]
 {{< fancybox path="/" file="/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Paint Tool SAI**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Paint Tool SAI**.
 
 ## Artist's Notes
 

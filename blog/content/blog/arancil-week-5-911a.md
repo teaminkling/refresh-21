@@ -2,7 +2,7 @@
 title =       "Untitled"
 author =      "arancil"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["arancil"]
 
 +++

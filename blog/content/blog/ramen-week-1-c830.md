@@ -2,7 +2,7 @@
 title =       "Objects"
 author =      "Ramen"
 date =        "2021-01-04"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Ramen"]
 [[images]]
                       src = "/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg"

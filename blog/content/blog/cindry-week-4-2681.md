@@ -2,7 +2,7 @@
 title =       "Morning Breeze"
 author =      "cindry"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif"

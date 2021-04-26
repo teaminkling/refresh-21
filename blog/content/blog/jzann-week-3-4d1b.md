@@ -2,7 +2,7 @@
 title =       "Bat Cave"
 author =      "Jzann"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Jzann"]
 [[images]]
                       src = "/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff.png"

@@ -2,7 +2,7 @@
 title =       "Red Delicious with a Red Delicious"
 author =      "DynoLoafer"
 date =        "2021-04-18"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png"

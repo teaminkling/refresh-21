@@ -2,7 +2,7 @@
 title =       "Amalagamation: Vague Memory"
 author =      "a1ewanrichards"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg"

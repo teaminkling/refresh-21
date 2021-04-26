@@ -2,7 +2,7 @@
 title =       "Summon"
 author =      "TrixyNetex"
 date =        "2021-01-18"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png"

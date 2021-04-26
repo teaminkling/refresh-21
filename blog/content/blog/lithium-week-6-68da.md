@@ -2,7 +2,7 @@
 title =       "A Flash of Peace"
 author =      "Lithium"
 date =        "2021-02-18"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg"

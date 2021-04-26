@@ -2,7 +2,7 @@
 title =       "Big Skeleton"
 author =      "jonasw"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["jonasw"]
 [[images]]
                       src = "/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png"

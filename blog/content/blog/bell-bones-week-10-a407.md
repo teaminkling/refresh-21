@@ -2,7 +2,7 @@
 title =       "Prince Backey"
 author =      "Bell-Bones"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png"
@@ -14,7 +14,7 @@ tags =        ["Bell-Bones"]
 {{< fancybox path="/" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **FireAlpaca**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **FireAlpaca**.
 
 ## Artist's Notes
 

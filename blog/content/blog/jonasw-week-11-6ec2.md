@@ -2,7 +2,7 @@
 title =       "Six Pix Mix"
 author =      "jonasw"
 date =        "2021-03-24"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["jonasw"]
 [[images]]
                       src = "/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg"
@@ -14,7 +14,7 @@ tags =        ["jonasw"]
 {{< fancybox path="/" file="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Watercolor**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
 
 ## Artist's Notes
 

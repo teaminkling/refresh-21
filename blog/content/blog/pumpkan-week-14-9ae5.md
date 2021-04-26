@@ -2,7 +2,7 @@
 title =       "A contract for the vain, the price paid in pain"
 author =      "Pumpkan"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png"

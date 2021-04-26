@@ -2,7 +2,7 @@
 title =       "for this portrait. Can someone name it?I just took on the meaning of Jade Stone which bring good luck, peace and harmony just like a smile did."
 author =      "soleilboo"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956.jpg"

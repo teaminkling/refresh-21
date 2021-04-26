@@ -2,7 +2,7 @@
 title =       "wrod"
 author =      "jumpingbeans"
 date =        "2021-03-23"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif"

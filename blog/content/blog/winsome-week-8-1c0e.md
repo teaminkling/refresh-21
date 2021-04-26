@@ -2,7 +2,7 @@
 title =       "Just a couple of Daft Punks"
 author =      "winsome"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png"

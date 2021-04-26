@@ -2,7 +2,7 @@
 title =       "Just Smile & Smell the Flowers"
 author =      "Moonlit Narcy"
 date =        "2021-01-31"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Moonlit Narcy"]
 [[images]]
                       src = "/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png"

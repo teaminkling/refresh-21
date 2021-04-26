@@ -2,7 +2,7 @@
 title =       "Foish"
 author =      "cindry"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png"

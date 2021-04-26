@@ -2,7 +2,7 @@
 title =       "Rhythm and Tones Outine"
 author =      "meplaysgamez"
 date =        "2021-01-27"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["meplaysgamez"]
 [[images]]
                       src = "/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg"

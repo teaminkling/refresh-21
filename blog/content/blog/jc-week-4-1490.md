@@ -2,7 +2,7 @@
 title =       "costume change"
 author =      "jc"
 date =        "2021-01-28"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["jc"]
 [[images]]
                       src = "/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png"

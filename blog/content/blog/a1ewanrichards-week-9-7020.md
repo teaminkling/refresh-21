@@ -2,7 +2,7 @@
 title =       "Amalgamation - Welcome To Hell"
 author =      "a1ewanrichards"
 date =        "2021-03-03"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850.jpg"

@@ -2,7 +2,7 @@
 title =       "SOL 0"
 author =      "TrixyNetex"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png"

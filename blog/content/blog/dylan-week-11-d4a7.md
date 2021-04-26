@@ -2,7 +2,7 @@
 title =       "Cloudy Night"
 author =      "Dylan®"
 date =        "2021-03-16"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["Dylan®"]
 [[images]]
                       src = "/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg"
@@ -14,7 +14,7 @@ tags =        ["Dylan®"]
 {{< fancybox path="/" file="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Photoshop**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.
 
 ## Artist's Notes
 

@@ -2,7 +2,7 @@
 title =       "Fire Fist Ace"
 author =      "cindry"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png"

@@ -2,7 +2,7 @@
 title =       "One Drug Please"
 author =      "papapastry"
 date =        "2021-02-25"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["papapastry"]
 
 +++

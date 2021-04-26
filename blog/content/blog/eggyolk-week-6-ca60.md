@@ -2,7 +2,7 @@
 title =       "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>"
 author =      "eggyolk"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png"

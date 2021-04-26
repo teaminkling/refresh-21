@@ -2,7 +2,7 @@
 title =       "Burnt Out"
 author =      "meplaysgamez"
 date =        "2021-04-10"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["meplaysgamez"]
 [[images]]
                       src = "/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451.jpg"

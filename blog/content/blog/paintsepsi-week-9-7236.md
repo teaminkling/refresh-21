@@ -2,7 +2,7 @@
 title =       "CMY"
 author =      "paintsepsi"
 date =        "2021-03-04"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png"

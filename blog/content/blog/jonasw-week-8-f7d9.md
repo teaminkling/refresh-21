@@ -2,7 +2,7 @@
 title =       "Swim for the Ball"
 author =      "jonasw"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["jonasw"]
 [[images]]
                       src = "/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg"

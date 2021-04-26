@@ -2,7 +2,7 @@
 title =       "Fake Animu Screenshot"
 author =      "TrixyNetex"
 date =        "2021-04-03"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png"

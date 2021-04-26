@@ -2,7 +2,7 @@
 title =       "Dreams in TechieLand"
 author =      "Psyko"
 date =        "2021-02-11"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Psyko"]
 [[images]]
                       src = "/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg"

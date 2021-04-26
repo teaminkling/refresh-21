@@ -2,7 +2,7 @@
 title =       "Hungry Firelings"
 author =      "jonasw"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["jonasw"]
 [[images]]
                       src = "/img/jonasw/2021-04-08+324b230694b4bd7c5273881aa499c610.jpg"

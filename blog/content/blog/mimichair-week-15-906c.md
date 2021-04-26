@@ -2,7 +2,7 @@
 title =       "#1 Sour Lemon"
 author =      "MimiChair"
 date =        "2021-04-13"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["MimiChair"]
 [[images]]
                       src = "/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png"

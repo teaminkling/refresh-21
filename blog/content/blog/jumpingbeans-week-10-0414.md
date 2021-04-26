@@ -2,7 +2,7 @@
 title =       "Apple 16"
 author =      "jumpingbeans"
 date =        "2021-03-08"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg"
@@ -14,7 +14,7 @@ tags =        ["jumpingbeans"]
 {{< fancybox path="/" file="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Apple**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Apple**.
 
 ## Artist's Notes
 

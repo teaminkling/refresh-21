@@ -2,7 +2,7 @@
 title =       "unspoken words of affirmation"
 author =      "Charmandaar"
 date =        "2021-03-25"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["Charmandaar"]
 [[images]]
                       src = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png"

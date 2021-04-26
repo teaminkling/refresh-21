@@ -2,14 +2,14 @@
 title =       "Yesterday"
 author =      "MrGreeyne"
 date =        "2021-03-21"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["MrGreeyne"]
 
 +++
 
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Few word**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Few word**.
 
 ## Artist's Notes
 

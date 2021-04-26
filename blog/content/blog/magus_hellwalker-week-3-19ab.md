@@ -2,7 +2,7 @@
 title =       "A circle in abstractness"
 author =      "Magus_Hellwalker"
 date =        "2021-01-19"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Magus_Hellwalker"]
 [[images]]
                       src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"

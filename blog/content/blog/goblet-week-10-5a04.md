@@ -2,7 +2,7 @@
 title =       "textile grook"
 author =      "Goblet"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png"
@@ -14,7 +14,7 @@ tags =        ["Goblet"]
 {{< fancybox path="/" file="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **ibispaint x**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **ibispaint x**.
 
 ## Artist's Notes
 

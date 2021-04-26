@@ -2,7 +2,7 @@
 title =       "“you would make the sky a gijinka” - enoki"
 author =      "DoughYeast"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["DoughYeast"]
 [[images]]
                       src = "/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg"
@@ -18,7 +18,7 @@ tags =        ["DoughYeast"]
 {{< fancybox path="/" file="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Procreate**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 

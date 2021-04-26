@@ -2,7 +2,7 @@
 title =       "bright sea"
 author =      "arren"
 date =        "2021-01-12"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["arren"]
 [[images]]
                       src = "/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg"

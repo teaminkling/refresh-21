@@ -2,7 +2,7 @@
 title =       "Folds"
 author =      "Lyfeu"
 date =        "2021-03-10"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["Lyfeu"]
 [[images]]
                       src = "/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg"
@@ -14,7 +14,7 @@ tags =        ["Lyfeu"]
 {{< fancybox path="/" file="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Photoshop**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
 
 ## Artist's Notes
 

@@ -2,7 +2,7 @@
 title =       "Fixation"
 author =      "vectorong"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg"

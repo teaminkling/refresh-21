@@ -2,7 +2,7 @@
 title =       "Untitled"
 author =      "arancil"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg"

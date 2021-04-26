@@ -2,7 +2,7 @@
 title =       "Sunset at Calico Desert"
 author =      "Pumpkan"
 date =        "2021-02-18"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png"

@@ -2,7 +2,7 @@
 title =       "Honey, I'm Home!"
 author =      "Bell-Bones"
 date =        "2021-01-05"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png"

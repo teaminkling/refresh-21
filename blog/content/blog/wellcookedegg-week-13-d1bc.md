@@ -2,7 +2,7 @@
 title =       "😳"
 author =      "WellCookedEgg"
 date =        "2021-04-10"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["WellCookedEgg"]
 [[images]]
                       src = "/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg"

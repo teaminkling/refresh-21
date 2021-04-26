@@ -2,7 +2,7 @@
 title =       "felled tree"
 author =      "Goblet"
 date =        "2021-02-23"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png"

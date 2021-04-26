@@ -2,7 +2,7 @@
 title =       "Laputa"
 author =      "WellCookedEgg"
 date =        "2021-03-14"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["WellCookedEgg"]
 [[images]]
                       src = "/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg"
@@ -14,7 +14,7 @@ tags =        ["WellCookedEgg"]
 {{< fancybox path="/" file="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Clip studio paint**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio paint**.
 
 ## Artist's Notes
 

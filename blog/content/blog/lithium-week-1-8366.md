@@ -2,7 +2,7 @@
 title =       "New Year's Compass"
 author =      "Lithium"
 date =        "2021-01-05"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg"

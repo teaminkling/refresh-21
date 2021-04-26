@@ -2,7 +2,7 @@
 title =       "That's gotta hurt"
 author =      "Bell-Bones"
 date =        "2021-04-08"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png"

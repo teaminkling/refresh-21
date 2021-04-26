@@ -2,7 +2,7 @@
 title =       "The Search"
 author =      "TrixyNetex"
 date =        "2021-01-27"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png"

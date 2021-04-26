@@ -2,7 +2,7 @@
 title =       "Then She Fell”"
 author =      "vectorong"
 date =        "2021-04-02"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg"

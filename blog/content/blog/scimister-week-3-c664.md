@@ -2,7 +2,7 @@
 title =       "Blood Moon"
 author =      "Scimister"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Scimister"]
 [[images]]
                       src = "/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080.png"

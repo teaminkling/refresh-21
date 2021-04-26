@@ -2,7 +2,7 @@
 title =       "This is why I drink"
 author =      "arancil"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg"

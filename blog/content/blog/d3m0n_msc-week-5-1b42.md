@@ -2,7 +2,7 @@
 title =       "Jade scales"
 author =      "D3m0n_Msc"
 date =        "2021-02-04"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["D3m0n_Msc"]
 [[images]]
                       src = "/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4.png"

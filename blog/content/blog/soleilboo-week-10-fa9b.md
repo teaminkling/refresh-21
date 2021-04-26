@@ -2,7 +2,7 @@
 title =       "Jiu jitsu The Art of Folding Clothes While People are Still in Them."
 author =      "soleilboo"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg"
@@ -14,7 +14,7 @@ tags =        ["soleilboo"]
 {{< fancybox path="/" file="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Photoshop**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
 
 ## Artist's Notes
 

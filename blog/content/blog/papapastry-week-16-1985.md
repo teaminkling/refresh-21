@@ -2,7 +2,7 @@
 title =       "Pain"
 author =      "papapastry"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["papapastry"]
 
 +++

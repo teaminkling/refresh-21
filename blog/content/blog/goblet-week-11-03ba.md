@@ -2,7 +2,7 @@
 title =       "Passive smoking"
 author =      "Goblet"
 date =        "2021-03-13"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg"
@@ -14,7 +14,7 @@ tags =        ["Goblet"]
 {{< fancybox path="/" file="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **ibispaint x and phone photo**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **ibispaint x and phone photo**.
 
 ## Artist's Notes
 

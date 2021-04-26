@@ -2,7 +2,7 @@
 title =       "Prosperity"
 author =      "Pumpkan"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png"

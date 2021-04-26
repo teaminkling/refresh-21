@@ -2,7 +2,7 @@
 title =       "Once in a while"
 author =      "soleilboo"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif"

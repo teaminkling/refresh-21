@@ -2,7 +2,7 @@
 title =       "Self portrait"
 author =      "soleilboo"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a.jpg"

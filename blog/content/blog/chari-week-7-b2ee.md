@@ -2,7 +2,7 @@
 title =       "Academy, Disrepair"
 author =      "chari"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["chari"]
 [[images]]
                       src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg"

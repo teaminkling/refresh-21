@@ -2,7 +2,7 @@
 title =       "Circle and flow"
 author =      "askpatt"
 date =        "2021-01-17"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["askpatt"]
 [[images]]
                       src = "/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697.png"

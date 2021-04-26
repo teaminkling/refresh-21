@@ -2,7 +2,7 @@
 title =       "Profile"
 author =      "paintsepsi"
 date =        "2021-01-03"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg"

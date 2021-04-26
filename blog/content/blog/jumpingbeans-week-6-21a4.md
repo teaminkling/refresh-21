@@ -2,7 +2,7 @@
 title =       "The introspection of self, the different facades of life and embrace of the multifaceted appearences"
 author =      "jumpingbeans"
 date =        "2021-02-06"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["jumpingbeans"]
 
 +++

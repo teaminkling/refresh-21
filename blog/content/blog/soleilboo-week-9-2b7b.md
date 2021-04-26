@@ -2,7 +2,7 @@
 title =       "Be Bold and Believe"
 author =      "soleilboo"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg"

@@ -2,7 +2,7 @@
 title =       "im dying btw"
 author =      "cindry"
 date =        "2021-04-03"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png"

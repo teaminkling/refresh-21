@@ -2,7 +2,7 @@
 title =       "Hi! I like shorts! They're comfy and easy to wear!"
 author =      "winsome"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg"

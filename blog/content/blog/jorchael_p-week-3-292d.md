@@ -2,7 +2,7 @@
 title =       "'0"
 author =      "jorchael_p"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["jorchael_p"]
 [[images]]
                       src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"

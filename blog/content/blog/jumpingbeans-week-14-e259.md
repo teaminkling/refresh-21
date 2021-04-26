@@ -2,7 +2,7 @@
 title =       "Fire Sale"
 author =      "jumpingbeans"
 date =        "2021-04-04"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png"

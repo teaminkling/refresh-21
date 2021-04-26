@@ -2,7 +2,7 @@
 title =       "Color factory"
 author =      "Goblet"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["Goblet"]
 
 +++

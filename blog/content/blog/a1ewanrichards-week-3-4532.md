@@ -2,7 +2,7 @@
 title =       "Gui"
 author =      "a1ewanrichards"
 date =        "2021-01-23"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg"

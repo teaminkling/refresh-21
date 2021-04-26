@@ -2,7 +2,7 @@
 title =       "Week 11 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186> head stuck in the clouds"
 author =      "eggyolk"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png"
@@ -14,7 +14,7 @@ tags =        ["eggyolk"]
 {{< fancybox path="/" file="/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Procreate**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 

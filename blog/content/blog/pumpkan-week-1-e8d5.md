@@ -2,7 +2,7 @@
 title =       "Four of Pumpkins"
 author =      "Pumpkan"
 date =        "2021-01-09"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45.png"

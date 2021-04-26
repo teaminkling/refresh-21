@@ -2,7 +2,7 @@
 title =       "Fragments of Remembrance"
 author =      "SuaveStrawberry"
 date =        "2021-04-03"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["SuaveStrawberry"]
 
 +++

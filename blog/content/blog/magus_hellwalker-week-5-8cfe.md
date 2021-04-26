@@ -2,7 +2,7 @@
 title =       "Jade Dragon on plinth"
 author =      "Magus_Hellwalker"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Magus_Hellwalker"]
 [[images]]
                       src = "/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png"

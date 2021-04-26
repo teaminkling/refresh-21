@@ -2,7 +2,7 @@
 title =       "It's acting weird!"
 author =      "Lithium"
 date =        "2021-04-21"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a.jpg"

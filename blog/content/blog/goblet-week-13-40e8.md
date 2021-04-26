@@ -2,7 +2,7 @@
 title =       "<:cuporiGun:825806539918278686>"
 author =      "Goblet"
 date =        "2021-03-29"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png"

@@ -2,7 +2,7 @@
 title =       "Flawless"
 author =      "TrixyNetex"
 date =        "2021-02-02"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png"

@@ -2,7 +2,7 @@
 title =       "Deep Discovery"
 author =      "cindry"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg"

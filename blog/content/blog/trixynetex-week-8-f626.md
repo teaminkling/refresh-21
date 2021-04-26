@@ -2,7 +2,7 @@
 title =       "The Herald"
 author =      "TrixyNetex"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png"

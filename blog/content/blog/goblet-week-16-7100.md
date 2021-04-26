@@ -2,7 +2,7 @@
 title =       "Mechanics love their jobs sometimes"
 author =      "Goblet"
 date =        "2021-04-22"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png"

@@ -2,7 +2,7 @@
 title =       "The End of Zeno's Paradox"
 author =      "a1ewanrichards"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg"

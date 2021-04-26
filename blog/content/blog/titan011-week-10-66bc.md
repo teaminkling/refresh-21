@@ -2,7 +2,7 @@
 title =       "Folds"
 author =      "TITAN011"
 date =        "2021-03-08"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg"
@@ -14,7 +14,7 @@ tags =        ["TITAN011"]
 {{< fancybox path="/" file="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Clip Studio**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio**.
 
 ## Artist's Notes
 

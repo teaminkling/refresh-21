@@ -2,7 +2,7 @@
 title =       "Repetition, Reminisce, Reflection"
 author =      "vectorong"
 date =        "2021-03-04"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg"

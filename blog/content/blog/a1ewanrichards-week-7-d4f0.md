@@ -2,7 +2,7 @@
 title =       "Resistance 3: When The Lands Become Graveyards"
 author =      "a1ewanrichards"
 date =        "2021-02-18"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg"

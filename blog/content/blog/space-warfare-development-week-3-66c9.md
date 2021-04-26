@@ -2,7 +2,7 @@
 title =       "Harbinger"
 author =      "Space Warfare Development"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Space Warfare Development"]
 [[images]]
                       src = "/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg"

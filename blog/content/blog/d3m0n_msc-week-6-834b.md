@@ -2,7 +2,7 @@
 title =       "Love in the air"
 author =      "D3m0n_Msc"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["D3m0n_Msc"]
 [[images]]
                       src = "/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png"

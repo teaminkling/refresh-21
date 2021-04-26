@@ -2,7 +2,7 @@
 title =       "Desert heat"
 author =      "Dylan®"
 date =        "2021-02-14"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["Dylan®"]
 [[images]]
                       src = "/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg"

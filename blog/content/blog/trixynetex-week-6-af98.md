@@ -2,7 +2,7 @@
 title =       "Midnight Magic Musings"
 author =      "TrixyNetex"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png"

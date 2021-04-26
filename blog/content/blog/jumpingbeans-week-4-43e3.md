@@ -2,7 +2,7 @@
 title =       "Stress"
 author =      "jumpingbeans"
 date =        "2021-01-25"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["jumpingbeans"]
 
 +++

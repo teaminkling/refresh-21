@@ -2,7 +2,7 @@
 title =       "Jormungandr"
 author =      "eggyolk"
 date =        "2021-01-16"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png"

@@ -2,7 +2,7 @@
 title =       "King of the Sea"
 author =      "TITAN011"
 date =        "2021-01-13"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg"

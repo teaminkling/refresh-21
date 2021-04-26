@@ -2,7 +2,7 @@
 title =       "Some Pig"
 author =      "Lithium"
 date =        "2021-04-02"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg"

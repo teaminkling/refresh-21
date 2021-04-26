@@ -2,7 +2,7 @@
 title =       "Flame Soul spirit"
 author =      "Lyfeu"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["Lyfeu"]
 [[images]]
                       src = "/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg"

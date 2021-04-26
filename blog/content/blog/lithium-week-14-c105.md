@@ -2,7 +2,7 @@
 title =       "Hearts on Fire"
 author =      "Lithium"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg"

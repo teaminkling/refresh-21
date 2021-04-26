@@ -2,7 +2,7 @@
 title =       "iPod Nano"
 author =      "chari"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["chari"]
 [[images]]
                       src = "/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png"

@@ -2,7 +2,7 @@
 title =       "Amalgamation - The Body Keeps The Score"
 author =      "a1ewanrichards"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["a1ewanrichards"]
 [[images]]
                       src = "/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg"

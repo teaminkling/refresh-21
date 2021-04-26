@@ -2,7 +2,7 @@
 title =       "RELAX"
 author =      "Lithium"
 date =        "2021-03-24"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["Lithium"]
 
 +++

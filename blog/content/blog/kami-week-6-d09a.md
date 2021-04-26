@@ -2,7 +2,7 @@
 title =       "Everlasting Hope"
 author =      "Kami"
 date =        "2021-02-07"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Kami"]
 [[images]]
                       src = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg"

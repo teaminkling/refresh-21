@@ -2,7 +2,7 @@
 title =       "Wall- E fan Art"
 author =      "soleilboo"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg"

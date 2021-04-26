@@ -2,7 +2,7 @@
 title =       "Plaid & Lace sans Lace"
 author =      "arancil"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg"

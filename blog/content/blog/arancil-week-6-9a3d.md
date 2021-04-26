@@ -2,7 +2,7 @@
 title =       "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of."
 author =      "arancil"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg"

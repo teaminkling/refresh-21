@@ -2,7 +2,7 @@
 title =       "Family Portrait"
 author =      "Bell-Bones"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png"

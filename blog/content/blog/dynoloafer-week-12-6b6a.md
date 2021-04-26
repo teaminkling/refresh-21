@@ -2,7 +2,7 @@
 title =       "Crazy Bird"
 author =      "DynoLoafer"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png"

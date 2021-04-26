@@ -2,7 +2,7 @@
 title =       "Untitled"
 author =      "🌺Ichika🌺(ミケラ)"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["🌺Ichika🌺(ミケラ)"]
 [[images]]
                       src = "/img/ichika()/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg"

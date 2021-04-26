@@ -2,7 +2,7 @@
 title =       "Coconut Crab"
 author =      "Space Warfare Development"
 date =        "2021-01-30"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["Space Warfare Development"]
 [[images]]
                       src = "/img/space_warfare_development/2021-01-30+06af067c1545eae7560c664404dba321.jpg"

@@ -2,7 +2,7 @@
 title =       "i suffer"
 author =      "Pumpkan"
 date =        "2021-04-02"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-04-02+88d60618a2525143451f9da4f4a058bd.png"

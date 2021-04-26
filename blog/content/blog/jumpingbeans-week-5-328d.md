@@ -2,7 +2,7 @@
 title =       "Here we go again"
 author =      "jumpingbeans"
 date =        "2021-01-30"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg"

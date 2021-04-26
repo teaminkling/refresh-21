@@ -2,7 +2,7 @@
 title =       "Jadeite"
 author =      "poru"
 date =        "2021-02-04"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["poru"]
 [[images]]
                       src = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png"

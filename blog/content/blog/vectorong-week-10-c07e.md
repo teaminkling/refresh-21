@@ -2,7 +2,7 @@
 title =       "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
 author =      "vectorong"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg"
@@ -16,7 +16,7 @@ tags =        ["vectorong"]
 {{< fancybox path="/" file="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Fabric / fashion (upcycled fabric, screenprinting, and sewing)**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Fabric / fashion (upcycled fabric, screenprinting, and sewing)**.
 
 ## Artist's Notes
 

@@ -2,7 +2,7 @@
 title =       "d'Eggfsg"
 author =      "rainydaze"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["rainydaze"]
 [[images]]
                       src = "/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png"

@@ -2,7 +2,7 @@
 title =       "The Galaxy Beneath"
 author =      "Lithium"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg"

@@ -2,7 +2,7 @@
 title =       "神人"
 author =      "Draco"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Draco"]
 [[images]]
                       src = "/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png"

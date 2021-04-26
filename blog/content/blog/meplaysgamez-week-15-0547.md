@@ -2,7 +2,7 @@
 title =       "tomatoes are the potatoes of fruit"
 author =      "meplaysgamez"
 date =        "2021-04-17"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["meplaysgamez"]
 
 +++

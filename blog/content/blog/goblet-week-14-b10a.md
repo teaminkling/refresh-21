@@ -2,7 +2,7 @@
 title =       "My cat is on fire"
 author =      "Goblet"
 date =        "2021-04-08"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3.png"

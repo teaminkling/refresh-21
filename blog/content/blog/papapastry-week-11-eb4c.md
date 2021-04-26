@@ -2,7 +2,7 @@
 title =       "The Island"
 author =      "papapastry"
 date =        "2021-03-19"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["papapastry"]
 
 +++
@@ -11,7 +11,7 @@ tags =        ["papapastry"]
 [View on SoundCloud.](https://soundcloud.com/papapastry/the-island)
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Music**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Music**.
 
 ## Artist's Notes
 

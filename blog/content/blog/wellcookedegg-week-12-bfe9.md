@@ -2,7 +2,7 @@
 title =       "Letter from her"
 author =      "WellCookedEgg"
 date =        "2021-03-25"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["WellCookedEgg"]
 [[images]]
                       src = "/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee.jpg"

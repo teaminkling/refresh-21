@@ -2,7 +2,7 @@
 title =       "Decay"
 author =      "vectorong"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b.jpg"

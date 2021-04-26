@@ -2,7 +2,7 @@
 title =       "This is the literal worst shit i have created, i think my parent think im weird."
 author =      "jumpingbeans"
 date =        "2021-03-02"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["jumpingbeans"]
 
 +++

@@ -2,7 +2,7 @@
 title =       "Out of Your Depth"
 author =      "winsome"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png"

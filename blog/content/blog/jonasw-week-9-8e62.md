@@ -2,7 +2,7 @@
 title =       "Important Dream"
 author =      "jonasw"
 date =        "2021-03-03"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["jonasw"]
 [[images]]
                       src = "/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg"

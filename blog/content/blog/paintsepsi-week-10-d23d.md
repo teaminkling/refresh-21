@@ -2,7 +2,7 @@
 title =       "Sitting"
 author =      "paintsepsi"
 date =        "2021-03-10"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["paintsepsi"]
 [[images]]
                       src = "/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png"
@@ -14,7 +14,7 @@ tags =        ["paintsepsi"]
 {{< fancybox path="/" file="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Procreate**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 

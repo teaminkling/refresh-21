@@ -2,7 +2,7 @@
 title =       "Spicy Expressions"
 author =      "TITAN011"
 date =        "2021-03-29"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662.jpg"

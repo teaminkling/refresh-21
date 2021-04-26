@@ -2,7 +2,7 @@
 title =       "Impressionable Sky"
 author =      "Lithium"
 date =        "2021-03-18"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg"
@@ -14,7 +14,7 @@ tags =        ["Lithium"]
 {{< fancybox path="/" file="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Photomanipulation**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photomanipulation**.
 
 ## Artist's Notes
 

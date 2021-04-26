@@ -2,7 +2,7 @@
 title =       "Jaysom Kim"
 author =      "cindry"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png"

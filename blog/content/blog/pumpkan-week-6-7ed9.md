@@ -2,7 +2,7 @@
 title =       "Magical girl"
 author =      "Pumpkan"
 date =        "2021-02-08"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-02-07+f134fb41fbe62dbf11697219214c2b45.png"

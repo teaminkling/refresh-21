@@ -2,7 +2,7 @@
 title =       "Slice of Life"
 author =      "DynoLoafer"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png"

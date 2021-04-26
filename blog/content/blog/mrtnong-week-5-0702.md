@@ -2,7 +2,7 @@
 title =       "Jade Temple"
 author =      "mrtnong"
 date =        "2021-02-04"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["mrtnong"]
 [[images]]
                       src = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png"

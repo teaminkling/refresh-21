@@ -2,7 +2,7 @@
 title =       "Angry Bird"
 author =      "jonasw"
 date =        "2021-02-22"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["jonasw"]
 [[images]]
                       src = "/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png"

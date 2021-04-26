@@ -2,7 +2,7 @@
 title =       "Fusion Flare"
 author =      "WellCookedEgg"
 date =        "2021-04-10"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["WellCookedEgg"]
 [[images]]
                       src = "/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg"

@@ -2,7 +2,7 @@
 title =       "Strange Sands"
 author =      "cindry"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-02-19+a94f76d7ab958d0f890b66f82df2b34b.png"

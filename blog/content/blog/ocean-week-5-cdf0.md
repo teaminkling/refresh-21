@@ -2,7 +2,7 @@
 title =       "Seal soapstone carving"
 author =      "ocean"
 date =        "2021-02-05"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["ocean"]
 [[images]]
                       src = "/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg"

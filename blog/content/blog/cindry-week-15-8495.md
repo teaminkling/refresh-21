@@ -2,7 +2,7 @@
 title =       "leeeeemons"
 author =      "cindry"
 date =        "2021-04-16"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg"

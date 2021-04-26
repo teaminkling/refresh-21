@@ -2,7 +2,7 @@
 title =       "Sweet Nothings"
 author =      "winsome"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg"

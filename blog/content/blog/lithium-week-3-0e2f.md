@@ -2,7 +2,7 @@
 title =       "Appoh"
 author =      "Lithium"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg"

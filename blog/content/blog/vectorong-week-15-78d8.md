@@ -2,7 +2,7 @@
 title =       "Bread, Butter, Boysenberry"
 author =      "vectorong"
 date =        "2021-04-16"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg"

@@ -2,7 +2,7 @@
 title =       "Rain Over the Desert"
 author =      "Zat"
 date =        "2021-02-18"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["Zat"]
 [[images]]
                       src = "/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg"

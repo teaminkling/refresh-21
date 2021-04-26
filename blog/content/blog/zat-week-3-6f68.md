@@ -2,7 +2,7 @@
 title =       "Eye to the stars"
 author =      "Zat"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Zat"]
 [[images]]
                       src = "/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png"

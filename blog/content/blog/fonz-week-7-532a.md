@@ -2,7 +2,7 @@
 title =       "desert strands"
 author =      "fonz"
 date =        "2021-02-19"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["fonz"]
 [[images]]
                       src = "/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png"

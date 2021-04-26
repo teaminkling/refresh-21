@@ -2,7 +2,7 @@
 title =       "Need a Hand?"
 author =      "Bell-Bones"
 date =        "2021-02-03"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png"

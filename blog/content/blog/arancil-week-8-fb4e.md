@@ -2,7 +2,7 @@
 title =       "1:43:51 (PB)"
 author =      "arancil"
 date =        "2021-02-24"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg"

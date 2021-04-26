@@ -2,7 +2,7 @@
 title =       "Just a normal day as an asian girl online"
 author =      "cindry"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png"

@@ -2,7 +2,7 @@
 title =       "Welcome to Sandy Point! Population: me"
 author =      "Goblet"
 date =        "2021-02-18"
-categories =  ["W07: Disturbed Desert"]
+categories =  ["Week 07: Disturbed Desert"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png"

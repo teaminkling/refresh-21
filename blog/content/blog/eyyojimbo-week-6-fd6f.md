@@ -2,7 +2,7 @@
 title =       "Tenacity (Year of the Ox)"
 author =      "EyYoJimbo"
 date =        "2021-02-14"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["EyYoJimbo"]
 [[images]]
                       src = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg"

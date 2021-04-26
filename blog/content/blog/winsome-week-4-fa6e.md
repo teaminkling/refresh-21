@@ -2,7 +2,7 @@
 title =       "Dead Squats"
 author =      "winsome"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["winsome"]
 [[images]]
                       src = "/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png"

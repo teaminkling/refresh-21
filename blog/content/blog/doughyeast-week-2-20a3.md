@@ -2,7 +2,7 @@
 title =       "The Deep End"
 author =      "DoughYeast"
 date =        "2021-01-16"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["DoughYeast"]
 [[images]]
                       src = "/img/doughyeast/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png"

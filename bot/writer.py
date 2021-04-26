@@ -71,14 +71,14 @@ WEEK_TO_THEME_MAP: Dict[int, str] = {
     7: "Disturbed Desert",
     8: "High Sheen",
     9: "Bold Strokes",
-    10: "Folds & Folds",
-    11: "Atmos. Spectrum",
+    10: "Folds and Folds",
+    11: "Atmosphere Spectrum",
     12: "Visual Words",
     13: "Look At Me",
     14: "Absolute Fire",
     15: "Back to Basics",
     16: "Scaling Giants",
-    17: "The 4 R's",
+    17: "The 4 R's: Finale",
 }
 """A mapping from the week integer to the name of the theme."""
 
@@ -197,7 +197,7 @@ def create_all_posts():
                 .replace("<!SUBMITTED_DATE>", submission["created_at"])
                 .replace(
                     "<!THEME>",
-                    f"W{submission['week']:02d}: {WEEK_TO_THEME_MAP[submission['week']]}"
+                    f"Week {submission['week']:02d}: {WEEK_TO_THEME_MAP[submission['week']]}"
                 )
                 .replace("<!WEEK>", str(week_number))
                 .replace("<!MEDIUM>", medium)

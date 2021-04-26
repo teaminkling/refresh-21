@@ -2,7 +2,7 @@
 title =       "Hello there!"
 author =      "Bell-Bones"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png"

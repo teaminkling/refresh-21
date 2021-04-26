@@ -2,7 +2,7 @@
 title =       "Ducks by docks"
 author =      "Goblet"
 date =        "2021-02-06"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["Goblet"]
 [[images]]
                       src = "/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad.png"

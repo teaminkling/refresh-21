@@ -2,7 +2,7 @@
 title =       "hEhE LEmon bUTt but also strawberry and coffee is kinda vibes"
 author =      "eggyolk"
 date =        "2021-04-16"
-categories =  ["W15: Back to Basics"]
+categories =  ["Week 15: Back to Basics"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png"

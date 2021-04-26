@@ -2,7 +2,7 @@
 title =       "Temple discovery"
 author =      "Magus_Hellwalker"
 date =        "2021-01-18"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["Magus_Hellwalker"]
 
 +++

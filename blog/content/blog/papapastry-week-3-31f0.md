@@ -2,7 +2,7 @@
 title =       "Tamago Tama"
 author =      "papapastry"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["papapastry"]
 
 +++

@@ -2,7 +2,7 @@
 title =       "The Forest King"
 author =      "Pumpkan"
 date =        "2021-01-21"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86.png"

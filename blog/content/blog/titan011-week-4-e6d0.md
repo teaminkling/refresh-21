@@ -2,7 +2,7 @@
 title =       "Sleepless Night"
 author =      "TITAN011"
 date =        "2021-01-26"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg"

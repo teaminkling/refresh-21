@@ -2,7 +2,7 @@
 title =       "Chromatic Dragon"
 author =      "TrixyNetex"
 date =        "2021-03-04"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png"

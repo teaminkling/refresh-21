@@ -2,7 +2,7 @@
 title =       "Origin Point"
 author =      "vectorong"
 date =        "2021-01-05"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg"

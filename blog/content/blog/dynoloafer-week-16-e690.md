@@ -2,7 +2,7 @@
 title =       "The ~~Diving~~ Maternal Legendary"
 author =      "DynoLoafer"
 date =        "2021-04-22"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["DynoLoafer"]
 [[images]]
                       src = "/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png"

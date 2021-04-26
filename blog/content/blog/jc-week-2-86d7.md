@@ -2,7 +2,7 @@
 title =       "oarfish"
 author =      "jc"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["jc"]
 [[images]]
                       src = "/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f.png"

@@ -2,7 +2,7 @@
 title =       "Bog"
 author =      "DoughYeast"
 date =        "2021-01-29"
-categories =  ["W04: Murky Silhouettes"]
+categories =  ["Week 04: Murky Silhouettes"]
 tags =        ["DoughYeast"]
 
 +++

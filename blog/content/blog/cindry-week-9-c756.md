@@ -2,7 +2,7 @@
 title =       "ANIME AM I RIGHT"
 author =      "cindry"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png"

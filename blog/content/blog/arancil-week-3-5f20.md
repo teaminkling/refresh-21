@@ -2,7 +2,7 @@
 title =       "Behold my stand - [BRIGHT EYES!!]"
 author =      "arancil"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg"

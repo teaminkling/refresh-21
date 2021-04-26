@@ -2,7 +2,7 @@
 title =       "oof"
 author =      "Bell-Bones"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png"

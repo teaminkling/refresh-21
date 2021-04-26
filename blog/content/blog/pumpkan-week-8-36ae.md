@@ -2,7 +2,7 @@
 title =       "Angels in our Atmosphere"
 author =      "Pumpkan"
 date =        "2021-02-26"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["Pumpkan"]
 [[images]]
                       src = "/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png"

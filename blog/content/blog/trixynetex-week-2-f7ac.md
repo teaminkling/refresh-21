@@ -2,7 +2,7 @@
 title =       "Engulf"
 author =      "TrixyNetex"
 date =        "2021-01-11"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["TrixyNetex"]
 [[images]]
                       src = "/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png"

@@ -2,7 +2,7 @@
 title =       "OMORI AU"
 author =      "Bell-Bones"
 date =        "2021-04-02"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png"

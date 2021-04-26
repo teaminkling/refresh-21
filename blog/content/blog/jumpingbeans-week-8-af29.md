@@ -2,7 +2,7 @@
 title =       "Trashbin"
 author =      "jumpingbeans"
 date =        "2021-02-23"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["jumpingbeans"]
 [[images]]
                       src = "/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg"

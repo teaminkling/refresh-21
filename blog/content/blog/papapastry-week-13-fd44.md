@@ -2,7 +2,7 @@
 title =       "Fuck"
 author =      "papapastry"
 date =        "2021-04-03"
-categories =  ["W13: Look At Me"]
+categories =  ["Week 13: Look At Me"]
 tags =        ["papapastry"]
 [[images]]
                       src = "/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png"

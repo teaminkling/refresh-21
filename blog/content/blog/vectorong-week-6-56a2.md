@@ -2,7 +2,7 @@
 title =       "Paper Pond"
 author =      "vectorong"
 date =        "2021-02-12"
-categories =  ["W06: Simple Love"]
+categories =  ["Week 06: Simple Love"]
 tags =        ["vectorong"]
 [[images]]
                       src = "/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg"

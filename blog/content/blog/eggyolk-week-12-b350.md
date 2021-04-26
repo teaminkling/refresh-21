@@ -2,7 +2,7 @@
 title =       "Reach"
 author =      "eggyolk"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif"

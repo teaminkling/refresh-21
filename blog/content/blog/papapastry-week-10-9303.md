@@ -2,7 +2,7 @@
 title =       "Good Clothes"
 author =      "papapastry"
 date =        "2021-03-12"
-categories =  ["W10: Folds & Folds"]
+categories =  ["Week 10: Folds and Folds"]
 tags =        ["papapastry"]
 
 +++
@@ -11,7 +11,7 @@ tags =        ["papapastry"]
 {{< youtube KwACnHlAEmY >}}
 
 
-Week 10: **Folds & Folds**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.
+Week 10: **Folds and Folds**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.
 
 ## Artist's Notes
 

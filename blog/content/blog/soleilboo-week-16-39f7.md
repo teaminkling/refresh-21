@@ -2,7 +2,7 @@
 title =       "Dobby and me"
 author =      "soleilboo"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["soleilboo"]
 [[images]]
                       src = "/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg"

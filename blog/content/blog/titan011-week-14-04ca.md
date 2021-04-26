@@ -2,7 +2,7 @@
 title =       "His name is Shiro 🔥"
 author =      "TITAN011"
 date =        "2021-04-06"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["TITAN011"]
 [[images]]
                       src = "/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg"

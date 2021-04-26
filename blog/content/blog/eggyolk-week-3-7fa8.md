@@ -2,7 +2,7 @@
 title =       "Week 3 Submission <:eyeleft:800396950012035081> 👄 <:eyeright:800396965551538186>"
 author =      "eggyolk"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["eggyolk"]
 [[images]]
                       src = "/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png"

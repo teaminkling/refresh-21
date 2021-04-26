@@ -2,7 +2,7 @@
 title =       "Noodle Dancer"
 author =      "DoughYeast"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["DoughYeast"]
 
 +++

@@ -2,7 +2,7 @@
 title =       "the movement of water in two cups multiplicative of volumetric estimated measurement of water"
 author =      "jumpingbeans"
 date =        "2021-01-10"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["jumpingbeans"]
 
 +++

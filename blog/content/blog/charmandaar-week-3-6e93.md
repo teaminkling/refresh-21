@@ -2,7 +2,7 @@
 title =       "cirque of monkeys except it's me. i am the monkey"
 author =      "Charmandaar"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["Charmandaar"]
 [[images]]
                       src = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg"

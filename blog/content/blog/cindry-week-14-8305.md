@@ -2,7 +2,7 @@
 title =       "burnout"
 author =      "cindry"
 date =        "2021-04-09"
-categories =  ["W14: Absolute Fire"]
+categories =  ["Week 14: Absolute Fire"]
 tags =        ["cindry"]
 [[images]]
                       src = "/img/cindry/2021-04-09+69b1510906ccacbb9363690cbb4bd257.png"

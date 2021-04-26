@@ -2,7 +2,7 @@
 title =       "glitch clouds inc"
 author =      "rainydaze"
 date =        "2021-03-18"
-categories =  ["W11: Atmos. Spectrum"]
+categories =  ["Week 11: Atmosphere Spectrum"]
 tags =        ["rainydaze"]
 [[images]]
                       src = "/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png"
@@ -14,7 +14,7 @@ tags =        ["rainydaze"]
 {{< fancybox path="/" file="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" >}}
 
 
-Week 11: **Atmos. Spectrum**. This art was lovingly created using: **Procreate**.
+Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 

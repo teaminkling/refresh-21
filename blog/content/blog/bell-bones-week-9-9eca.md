@@ -2,7 +2,7 @@
 title =       "Introspection"
 author =      "Bell-Bones"
 date =        "2021-03-05"
-categories =  ["W09: Bold Strokes"]
+categories =  ["Week 09: Bold Strokes"]
 tags =        ["Bell-Bones"]
 [[images]]
                       src = "/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png"

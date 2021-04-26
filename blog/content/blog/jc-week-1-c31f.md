@@ -2,7 +2,7 @@
 title =       "egg galaxy"
 author =      "jc"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["jc"]
 [[images]]
                       src = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png"

@@ -2,7 +2,7 @@
 title =       "Distance..."
 author =      "madboi"
 date =        "2021-01-07"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["madboi"]
 [[images]]
                       src = "/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3.jpg"

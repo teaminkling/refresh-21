@@ -2,7 +2,7 @@
 title =       "Perspective is fun"
 author =      "HadesPsd"
 date =        "2021-01-15"
-categories =  ["W02: Deep Ocean"]
+categories =  ["Week 02: Deep Ocean"]
 tags =        ["HadesPsd"]
 [[images]]
                       src = "/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg"

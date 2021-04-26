@@ -2,7 +2,7 @@
 title =       "Spicy Tuna"
 author =      "Space Warfare Development"
 date =        "2021-02-24"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["Space Warfare Development"]
 [[images]]
                       src = "/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465.jpg"

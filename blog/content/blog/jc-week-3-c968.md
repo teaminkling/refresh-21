@@ -2,7 +2,7 @@
 title =       "am i coming outta left field"
 author =      "jc"
 date =        "2021-01-22"
-categories =  ["W03: Red Circle"]
+categories =  ["Week 03: Red Circle"]
 tags =        ["jc"]
 [[images]]
                       src = "/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png"

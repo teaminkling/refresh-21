@@ -2,7 +2,7 @@
 title =       "Jupiter Falling"
 author =      "Lithium"
 date =        "2021-02-25"
-categories =  ["W08: High Sheen"]
+categories =  ["Week 08: High Sheen"]
 tags =        ["Lithium"]
 [[images]]
                       src = "/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg"

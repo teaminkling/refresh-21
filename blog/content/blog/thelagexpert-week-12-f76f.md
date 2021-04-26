@@ -2,7 +2,7 @@
 title =       "Glass House"
 author =      "TheLagExpert"
 date =        "2021-03-26"
-categories =  ["W12: Visual Words"]
+categories =  ["Week 12: Visual Words"]
 tags =        ["TheLagExpert"]
 [[images]]
                       src = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg"

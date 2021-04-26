@@ -2,7 +2,7 @@
 title =       "Jade Possessions"
 author =      "meplaysgamez"
 date =        "2021-02-04"
-categories =  ["W05: Royal Green"]
+categories =  ["Week 05: Royal Green"]
 tags =        ["meplaysgamez"]
 [[images]]
                       src = "/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg"

@@ -2,7 +2,7 @@
 title =       "flush"
 author =      "MalorBaker"
 date =        "2021-01-04"
-categories =  ["W01: Yellow Lines"]
+categories =  ["Week 01: Yellow Lines"]
 tags =        ["MalorBaker"]
 [[images]]
                       src = "/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png"

@@ -2,7 +2,7 @@
 title =       "Untitled"
 author =      "arancil"
 date =        "2021-04-23"
-categories =  ["W16: Scaling Giants"]
+categories =  ["Week 16: Scaling Giants"]
 tags =        ["arancil"]
 [[images]]
                       src = "/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg"
