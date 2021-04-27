@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["D3m0n_Msc"]
 description = "by D3m0n_Msc for week 5: Royal Green. Created using: Digital - Ibis Paintx."
 [[images]]
-              src = "../static/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4-thumbnail-w720px.png"
+              src = "/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4-thumbnail-w720px.png"
               href = "/blog/d3m0n_msc-week-5-1b42"
               alt = "Jade scales"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4-thumbnail-w720px.png" file="../static/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4-thumbnail-w720px.png" file="img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital - Ibis Paintx**.

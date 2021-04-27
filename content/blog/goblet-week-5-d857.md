@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Goblet"]
 description = "by Goblet for week 5: Royal Green. Created using: ibispaint x."
 [[images]]
-              src = "../static/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc-thumbnail-w720px.png"
+              src = "/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc-thumbnail-w720px.png"
               href = "/blog/goblet-week-5-d857"
               alt = "Jade Jian"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc-thumbnail-w720px.png" file="../static/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc-thumbnail-w720px.png" file="img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **ibispaint x**.

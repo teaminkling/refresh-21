@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["winsome"]
 description = "by winsome for week 3: Red Circle. Created using: Digital (Photopea)."
 [[images]]
-              src = "../static/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260-thumbnail-w720px.png"
+              src = "/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260-thumbnail-w720px.png"
               href = "/blog/winsome-week-3-a45d"
               alt = "Out of Your Depth"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260-thumbnail-w720px.png" file="../static/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260-thumbnail-w720px.png" file="img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital (Photopea)**.

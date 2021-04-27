@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 4: Murky Silhouettes. Created using: procreate."
 [[images]]
-              src = "../static/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+              src = "/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-4-bb08"
               alt = "Assimilation"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **procreate**.

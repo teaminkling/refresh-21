@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Kami"]
 description = "by Kami for week 5: Royal Green. Created using: Photoshop."
 [[images]]
-              src = "../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg"
+              src = "/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg"
               href = "/blog/kami-week-5-2ea5"
               alt = "The Vessel"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg" file="../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg" file="img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Photoshop**.

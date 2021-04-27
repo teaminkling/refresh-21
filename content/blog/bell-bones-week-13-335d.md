@@ -6,16 +6,16 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 13: Look At Me. Created using: FireAlpaca."
 [[images]]
-              src = "../static/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7-thumbnail-w720px.png"
+              src = "/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-13-335d"
               alt = "OMORI AU"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855-thumbnail-w720px.png" file="../static/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855-thumbnail-w720px.png" file="img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="../static/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7-thumbnail-w720px.png" file="../static/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7-thumbnail-w720px.png" file="img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **FireAlpaca**.

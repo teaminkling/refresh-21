@@ -13,7 +13,7 @@ description = "by Charmandaar for week 4: Murky Silhouettes. Created using: vide
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="../static/img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="img/video-placeholder.png" file="img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **video/photoshop**.

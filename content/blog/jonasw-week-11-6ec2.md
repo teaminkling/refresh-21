@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["jonasw"]
 description = "by jonasw for week 11: Atmosphere Spectrum. Created using: Watercolor."
 [[images]]
-              src = "../static/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4-thumbnail-w720px.jpg"
+              src = "/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4-thumbnail-w720px.jpg"
               href = "/blog/jonasw-week-11-6ec2"
               alt = "Six Pix Mix"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4-thumbnail-w720px.jpg" file="img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.

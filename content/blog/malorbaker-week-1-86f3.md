@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["MalorBaker"]
 description = "by MalorBaker for week 1: Yellow Lines. Created using: ms paint."
 [[images]]
-              src = "../static/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png"
+              src = "/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png"
               href = "/blog/malorbaker-week-1-86f3"
               alt = "flush"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png" file="../static/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png" file="img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **ms paint**.

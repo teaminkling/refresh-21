@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["vectorong"]
 description = "by vectorong for week 4: Murky Silhouettes. Created using: ink + paper collage."
 [[images]]
-              src = "../static/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png"
+              src = "/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png"
               href = "/blog/vectorong-week-4-b82c"
               alt = "Façade"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png" file="../static/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png" file="img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ink + paper collage**.

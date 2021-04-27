@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["fonz"]
 description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 [[images]]
-              src = "../static/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png"
+              src = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png"
               href = "/blog/fonz-week-4-f2ce"
               alt = "mask"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png" file="../static/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png" file="img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.

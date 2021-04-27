@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["jc"]
 description = "by jc for week 1: Yellow Lines. Created using: csp."
 [[images]]
-              src = "../static/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png"
+              src = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png"
               href = "/blog/jc-week-1-c31f"
               alt = "egg galaxy"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png" file="../static/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png" file="img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **csp**.

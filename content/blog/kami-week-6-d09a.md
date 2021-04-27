@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Kami"]
 description = "by Kami for week 6: Simple Love. Created using: Photoshop."
 [[images]]
-              src = "../static/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg"
+              src = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg"
               href = "/blog/kami-week-6-d09a"
               alt = "Everlasting Hope"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg" file="../static/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg" file="img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.

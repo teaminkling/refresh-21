@@ -6,16 +6,16 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["arancil"]
 description = "by arancil for week 4: Murky Silhouettes. Created using: Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)."
 [[images]]
-              src = "../static/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1-thumbnail-w720px.jpg"
+              src = "/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-4-ac13"
               alt = "1:21 AM"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577-thumbnail-w720px.jpg" file="../static/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577-thumbnail-w720px.jpg" file="img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="../static/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1-thumbnail-w720px.jpg" file="../static/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1-thumbnail-w720px.jpg" file="img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)**.

@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 7: Disturbed Desert. Created using: Krita."
 [[images]]
-              src = "../static/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2-thumbnail-w720px.png"
+              src = "/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2-thumbnail-w720px.png"
               href = "/blog/jumpingbeans-week-7-f970"
               alt = "Ghost City (ft bad cropping)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2-thumbnail-w720px.png" file="img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Krita**.

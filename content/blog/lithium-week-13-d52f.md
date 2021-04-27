@@ -6,14 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["Lithium"]
 description = "by Lithium for week 13: Look At Me. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "../static/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32-thumbnail-w720px.jpg"
+              src = "/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-13-d52f"
               alt = "Some Pig"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32-thumbnail-w720px.jpg" file="../static/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32-thumbnail-w720px.jpg" file="img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

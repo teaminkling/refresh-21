@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["winsome"]
 description = "by winsome for week 4: Murky Silhouettes. Created using: Digital (Photopea)."
 [[images]]
-              src = "../static/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png"
+              src = "/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png"
               href = "/blog/winsome-week-4-fa6e"
               alt = "Dead Squats"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png" file="../static/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png" file="img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Photopea)**.

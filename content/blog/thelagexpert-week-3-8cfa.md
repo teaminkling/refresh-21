@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["TheLagExpert"]
 description = "by TheLagExpert for week 3: Red Circle. Created using: Affinity Photo."
 [[images]]
-              src = "../static/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg"
+              src = "/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg"
               href = "/blog/thelagexpert-week-3-8cfa"
               alt = "Lonely in the Quartz desert"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg" file="../static/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg" file="img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Affinity Photo**.

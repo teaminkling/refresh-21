@@ -40,9 +40,9 @@ body,
 input,
 select,
 textarea {
-    color: #000000;
+    color: #000000 !important;
 }
 
 .copyright {
-    color: #000000;
+    color: #000000 !important;
 }

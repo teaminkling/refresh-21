@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Zat"]
 description = "by Zat for week 3: Red Circle. Created using: Photographs/Krita."
 [[images]]
-              src = "../static/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c-thumbnail-w720px.png"
+              src = "/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c-thumbnail-w720px.png"
               href = "/blog/zat-week-3-6f68"
               alt = "Eye to the stars"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c-thumbnail-w720px.png" file="../static/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c-thumbnail-w720px.png" file="img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photographs/Krita**.

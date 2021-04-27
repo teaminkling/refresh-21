@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 14: Absolute Fire. Created using: Procreate."
 [[images]]
-              src = "../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+              src = "/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-14-9ae5"
               alt = "A contract for the vain, the price paid in pain"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.

@@ -13,7 +13,7 @@ description = "by Magus_Hellwalker for week 2: Deep Ocean. Created using: 3D Dig
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="../static/img/magus_hellwalker/2021-01-17+77078e4e8d705cc66174d3e6e4fcf6e7.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="img/video-placeholder.png" file="img/magus_hellwalker/2021-01-17+77078e4e8d705cc66174d3e6e4fcf6e7.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **3D Digital**.

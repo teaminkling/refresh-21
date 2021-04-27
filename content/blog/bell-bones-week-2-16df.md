@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 2: Deep Ocean. Created using: FireAlpaca."
 [[images]]
-              src = "../static/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png"
+              src = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-2-16df"
               alt = "Hello there!"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png" file="../static/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png" file="img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **FireAlpaca**.

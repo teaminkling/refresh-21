@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 16: Scaling Giants. Created using: Photo + Procreate."
 [[images]]
-              src = "../static/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png"
+              src = "/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-16-ca58"
               alt = "It'sssss Smelbourne!"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png" file="../static/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png" file="img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photo + Procreate**.

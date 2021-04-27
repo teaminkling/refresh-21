@@ -13,7 +13,7 @@ description = "by arancil for week 5: Royal Green. Created using: A3 watercolor,
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4-thumbnail-w720px.jpg" file="../static/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4-thumbnail-w720px.jpg" file="img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 [View on Imgur.](https://imgur.com/a/4UO7n4s)
 

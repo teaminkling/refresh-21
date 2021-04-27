@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 3: Red Circle. Created using: Sketchbook Pro."
 [[images]]
-              src = "../static/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0-thumbnail-w720px.png"
+              src = "/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0-thumbnail-w720px.png"
               href = "/blog/trixynetex-week-3-efde"
               alt = "Summon"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0-thumbnail-w720px.png" file="../static/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0-thumbnail-w720px.png" file="img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Sketchbook Pro**.

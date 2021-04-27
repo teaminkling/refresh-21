@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["Goblet"]
 description = "by Goblet for week 11: Atmosphere Spectrum. Created using: ibispaint x and phone photo."
 [[images]]
-              src = "../static/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg"
+              src = "/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg"
               href = "/blog/goblet-week-11-03ba"
               alt = "Passive smoking"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg" file="../static/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg" file="img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **ibispaint x and phone photo**.

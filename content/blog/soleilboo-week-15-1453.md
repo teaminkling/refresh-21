@@ -6,16 +6,16 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 15: Back to Basics. Created using: watercolour."
 [[images]]
-              src = "../static/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png"
+              src = "/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png"
               href = "/blog/soleilboo-week-15-1453"
               alt = "still life"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="../static/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png" file="../static/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png" file="img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **watercolour**.

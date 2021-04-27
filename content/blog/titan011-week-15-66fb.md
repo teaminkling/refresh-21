@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 15: Back to Basics. Created using: Clip Studio."
 [[images]]
-              src = "../static/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf-thumbnail-w720px.gif"
+              src = "/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf-thumbnail-w720px.gif"
               href = "/blog/titan011-week-15-66fb"
               alt = "Durian at sea"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf-thumbnail-w720px.gif" file="../static/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf-thumbnail-w720px.gif" file="img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio**.

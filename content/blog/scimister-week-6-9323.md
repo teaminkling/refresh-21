@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Scimister"]
 description = "by Scimister for week 6: Simple Love. Created using: Paint Tool SAI."
 [[images]]
-              src = "../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png"
+              src = "/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png"
               href = "/blog/scimister-week-6-9323"
               alt = "Perspectives of Love"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png" file="../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png" file="img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Paint Tool SAI**.

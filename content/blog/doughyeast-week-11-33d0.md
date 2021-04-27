@@ -6,18 +6,18 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 11: Atmosphere Spectrum. Created using: Procreate."
 [[images]]
-              src = "../static/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg"
+              src = "/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg"
               href = "/blog/doughyeast-week-11-33d0"
               alt = "“you would make the sky a gijinka” - enoki"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="../static/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg" file="../static/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg" file="img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="../static/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg" file="../static/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg" file="img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.

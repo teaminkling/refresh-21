@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 6: Simple Love. Created using: Paint Tool SAI."
 [[images]]
-              src = "../static/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032-thumbnail-w720px.png"
+              src = "/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-6-f33c"
               alt = "Slice of Life"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032-thumbnail-w720px.png" file="img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Paint Tool SAI**.

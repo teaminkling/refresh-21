@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 11: Atmosphere Spectrum. Created using: Procreate."
 [[images]]
-              src = "../static/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688-thumbnail-w720px.png"
+              src = "/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688-thumbnail-w720px.png"
               href = "/blog/rainydaze-week-11-c4f8"
               alt = "glitch clouds inc"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688-thumbnail-w720px.png" file="../static/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688-thumbnail-w720px.png" file="img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.

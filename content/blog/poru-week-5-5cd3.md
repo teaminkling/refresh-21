@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["poru"]
 description = "by poru for week 5: Royal Green. Created using: Digital - Clip Studio Paint."
 [[images]]
-              src = "../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png"
+              src = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png"
               href = "/blog/poru-week-5-5cd3"
               alt = "Jadeite"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png" file="../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png" file="img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital - Clip Studio Paint**.

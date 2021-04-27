@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Goblet"]
 description = "by Goblet for week 3: Red Circle. Created using: ibispaint and phone photos."
 [[images]]
-              src = "../static/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg"
+              src = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg"
               href = "/blog/goblet-week-3-9ea7"
               alt = "cold inside"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg" file="../static/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg" file="img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **ibispaint and phone photos**.

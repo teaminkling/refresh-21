@@ -122,8 +122,8 @@ def create_all_posts():
 
                 # First, make the paths relative to the root and not the bot.
 
-                attachment = attachment.replace("../blog/static/", "/")
-                provided_thumbnail = provided_thumbnail.replace("../blog/static/", "/")
+                attachment = attachment.replace("../static/", "")
+                provided_thumbnail = provided_thumbnail.replace("../static", "")
 
                 # Set the first thumbnail.
 

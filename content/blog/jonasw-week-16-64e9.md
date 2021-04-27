@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["jonasw"]
 description = "by jonasw for week 16: Scaling Giants. Created using: Pencils."
 [[images]]
-              src = "../static/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612-thumbnail-w720px.png"
+              src = "/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612-thumbnail-w720px.png"
               href = "/blog/jonasw-week-16-64e9"
               alt = "Big Skeleton"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612-thumbnail-w720px.png" file="../static/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612-thumbnail-w720px.png" file="img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Pencils**.

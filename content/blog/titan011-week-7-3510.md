@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 7: Disturbed Desert. Created using: clip studio."
 [[images]]
-              src = "../static/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351-thumbnail-w720px.jpg"
+              src = "/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-7-3510"
               alt = "Dune Surfing"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351-thumbnail-w720px.jpg" file="../static/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351-thumbnail-w720px.jpg" file="img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **clip studio**.

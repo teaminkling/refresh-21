@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["jonasw"]
 description = "by jonasw for week 8: High Sheen. Created using: Pencil on Paper."
 [[images]]
-              src = "../static/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg"
+              src = "/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg"
               href = "/blog/jonasw-week-8-f7d9"
               alt = "Swim for the Ball"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg" file="img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Pencil on Paper**.

@@ -6,16 +6,16 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["winsome"]
 description = "by winsome for week 7: Disturbed Desert. Created using: Photography, Clay Figure & Cake."
 [[images]]
-              src = "../static/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855-thumbnail-w720px.jpg"
+              src = "/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855-thumbnail-w720px.jpg"
               href = "/blog/winsome-week-7-16e6"
               alt = "Three Celebrations (Change)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595-thumbnail-w720px.jpg" file="../static/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595-thumbnail-w720px.jpg" file="img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="../static/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855-thumbnail-w720px.jpg" file="../static/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855-thumbnail-w720px.jpg" file="img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography, Clay Figure & Cake**.

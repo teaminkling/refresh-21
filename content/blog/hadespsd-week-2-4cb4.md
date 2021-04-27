@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["HadesPsd"]
 description = "by HadesPsd for week 2: Deep Ocean. Created using: CSP."
 [[images]]
-              src = "../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg"
+              src = "/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg"
               href = "/blog/hadespsd-week-2-4cb4"
               alt = "Perspective is fun"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg" file="../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg" file="img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **CSP**.

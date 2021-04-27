@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["WellCookedEgg"]
 description = "by WellCookedEgg for week 12: Visual Words. Created using: Clip Studio Paint."
 [[images]]
-              src = "../static/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee-thumbnail-w720px.jpg"
+              src = "/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee-thumbnail-w720px.jpg"
               href = "/blog/wellcookedegg-week-12-bfe9"
               alt = "Letter from her"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee-thumbnail-w720px.jpg" file="../static/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee-thumbnail-w720px.jpg" file="img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Clip Studio Paint**.

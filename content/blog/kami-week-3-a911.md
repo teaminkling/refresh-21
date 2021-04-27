@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Kami"]
 description = "by Kami for week 3: Red Circle. Created using: Pencil on paper."
 [[images]]
-              src = "../static/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e-thumbnail-w720px.jpg"
+              src = "/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e-thumbnail-w720px.jpg"
               href = "/blog/kami-week-3-a911"
               alt = "Shine No Shogun"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e-thumbnail-w720px.jpg" file="../static/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e-thumbnail-w720px.jpg" file="img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Pencil on paper**.

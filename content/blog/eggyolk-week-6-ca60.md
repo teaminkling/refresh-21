@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 6: Simple Love. Created using: Procreate."
 [[images]]
-              src = "../static/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png"
+              src = "/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png"
               href = "/blog/eggyolk-week-6-ca60"
               alt = "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png" file="../static/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png" file="img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.

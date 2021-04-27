@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 12: Visual Words. Created using: procreate."
 [[images]]
-              src = "../static/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png"
+              src = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png"
               href = "/blog/charmandaar-week-12-9763"
               alt = "unspoken words of affirmation"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png" file="../static/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png" file="img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **procreate**.

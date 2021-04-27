@@ -188,7 +188,9 @@ def do_dump_all_messages():
                         image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
                         image.save(local_thumb_path)
 
-                local_thumb_path = local_thumb_path if os.path.exists(local_thumb_path) else None
+                local_thumb_path = (
+                    local_thumb_path if os.path.exists(local_thumb_path) else None
+                )
 
                 attachments_map: dict = {
                     "id": attachment.id,

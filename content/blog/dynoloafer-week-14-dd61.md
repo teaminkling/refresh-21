@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 14: Absolute Fire. Created using: Paint Tool SAI."
 [[images]]
-              src = "../static/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc-thumbnail-w720px.png"
+              src = "/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-14-dd61"
               alt = "My Protective Assistant"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc-thumbnail-w720px.png" file="img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Paint Tool SAI**.

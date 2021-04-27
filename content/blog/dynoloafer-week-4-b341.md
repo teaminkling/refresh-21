@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 4: Murky Silhouettes. Created using: Paint Tool SAI."
 [[images]]
-              src = "../static/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3-thumbnail-w720px.png"
+              src = "/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-4-b341"
               alt = "You Ain't No Bounty Hunter"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3-thumbnail-w720px.png" file="img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Paint Tool SAI**.

@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["EyYoJimbo"]
 description = "by EyYoJimbo for week 6: Simple Love. Created using: Procreate."
 [[images]]
-              src = "../static/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+              src = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/eyyojimbo-week-6-fd6f"
               alt = "Tenacity (Year of the Ox)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.

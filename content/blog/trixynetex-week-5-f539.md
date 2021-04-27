@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 5: Royal Green. Created using: Sketchbook Pro."
 [[images]]
-              src = "../static/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f-thumbnail-w720px.png"
+              src = "/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f-thumbnail-w720px.png"
               href = "/blog/trixynetex-week-5-f539"
               alt = "Flawless"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f-thumbnail-w720px.png" file="../static/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f-thumbnail-w720px.png" file="img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Sketchbook Pro**.

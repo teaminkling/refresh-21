@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 16: Scaling Giants. Created using: Clip Studio."
 [[images]]
-              src = "../static/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg"
+              src = "/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-16-872f"
               alt = "A Titan's Journey"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg" file="../static/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg" file="img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip Studio**.

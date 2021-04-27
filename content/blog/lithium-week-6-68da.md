@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Lithium"]
 description = "by Lithium for week 6: Simple Love. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "../static/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31-thumbnail-w720px.jpg"
+              src = "/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-6-68da"
               alt = "A Flash of Peace"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31-thumbnail-w720px.jpg" file="../static/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31-thumbnail-w720px.jpg" file="img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["winsome"]
 description = "by winsome for week 8: High Sheen. Created using: Digital collage (photopea)."
 [[images]]
-              src = "../static/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd-thumbnail-w720px.png"
+              src = "/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd-thumbnail-w720px.png"
               href = "/blog/winsome-week-8-1c0e"
               alt = "Just a couple of Daft Punks"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd-thumbnail-w720px.png" file="../static/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd-thumbnail-w720px.png" file="img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital collage (photopea)**.

@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Goblet"]
 description = "by Goblet for week 7: Disturbed Desert. Created using: ibispaint x."
 [[images]]
-              src = "../static/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png"
+              src = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png"
               href = "/blog/goblet-week-7-d10c"
               alt = "Welcome to Sandy Point! Population: me"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png" file="../static/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png" file="img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ibispaint x**.

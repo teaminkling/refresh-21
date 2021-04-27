@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 14: Absolute Fire. Created using: Krita w/ mouse."
 [[images]]
-              src = "../static/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039-thumbnail-w720px.png"
+              src = "/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039-thumbnail-w720px.png"
               href = "/blog/jumpingbeans-week-14-e259"
               alt = "Fire Sale"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039-thumbnail-w720px.png" file="img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Krita w/ mouse**.

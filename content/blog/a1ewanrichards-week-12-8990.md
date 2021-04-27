@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 12: Visual Words. Created using: Felt markers and highlighters."
 [[images]]
-              src = "../static/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455-thumbnail-w720px.jpg"
+              src = "/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-12-8990"
               alt = "Amalgamation - The Body Keeps The Score"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455-thumbnail-w720px.jpg" file="img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Felt markers and highlighters**.

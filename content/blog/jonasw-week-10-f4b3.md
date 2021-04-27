@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["jonasw"]
 description = "by jonasw for week 10: Folds and Folds. Created using: Colored Pencils."
 [[images]]
-              src = "../static/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg"
+              src = "/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg"
               href = "/blog/jonasw-week-10-f4b3"
               alt = "Harlem '33/'83"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg" file="img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Colored Pencils**.

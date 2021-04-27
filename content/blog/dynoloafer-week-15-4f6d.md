@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 15: Back to Basics. Created using: Paint Tool SAI."
 [[images]]
-              src = "../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png"
+              src = "/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-15-4f6d"
               alt = "Red Delicious with a Red Delicious"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png" file="img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paint Tool SAI**.

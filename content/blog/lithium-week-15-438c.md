@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Lithium"]
 description = "by Lithium for week 15: Back to Basics. Created using: Clip Studio Paint."
 [[images]]
-              src = "../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg"
+              src = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-15-438c"
               alt = "Still Life Succulents"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg" file="../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg" file="img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.

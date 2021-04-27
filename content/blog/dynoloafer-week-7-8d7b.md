@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 7: Disturbed Desert. Created using: Paint Tool SAI."
 [[images]]
-              src = "../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png"
+              src = "/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-7-8d7b"
               alt = "The Sandstorm"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png" file="img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Paint Tool SAI**.

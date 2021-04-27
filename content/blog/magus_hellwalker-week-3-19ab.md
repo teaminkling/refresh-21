@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Magus_Hellwalker"]
 description = "by Magus_Hellwalker for week 3: Red Circle. Created using: 3D Digital."
 [[images]]
-              src = "../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png"
+              src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png"
               href = "/blog/magus_hellwalker-week-3-19ab"
               alt = "A circle in abstractness"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png" file="../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png" file="img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **3D Digital**.

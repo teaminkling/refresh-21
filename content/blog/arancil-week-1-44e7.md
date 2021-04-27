@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["arancil"]
 description = "by arancil for week 1: Yellow Lines. Created using: Ink, watercolour."
 [[images]]
-              src = "../static/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233-thumbnail-w720px.jpg"
+              src = "/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-1-44e7"
               alt = "Plaid & Lace sans Lace"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233-thumbnail-w720px.jpg" file="../static/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233-thumbnail-w720px.jpg" file="img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Ink, watercolour**.

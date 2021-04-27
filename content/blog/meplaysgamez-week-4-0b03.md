@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["meplaysgamez"]
 description = "by meplaysgamez for week 4: Murky Silhouettes. Created using: free photo editor thing idk."
 [[images]]
-              src = "../static/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672-thumbnail-w720px.jpg"
+              src = "/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672-thumbnail-w720px.jpg"
               href = "/blog/meplaysgamez-week-4-0b03"
               alt = "Rhythm and Tones Outine"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="../static/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672-thumbnail-w720px.jpg" file="../static/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672-thumbnail-w720px.jpg" file="img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **free photo editor thing idk**.
