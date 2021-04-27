@@ -15,6 +15,18 @@ Cindy is a professional clown, freelance graphic designer, and Twitch streamer.
 The 2021 Design Refresh is a community centered weekly art challenge.  It ran online from January to May and was 
 organised by Cindy Xu. This website hosts the themes and showcases all the entries from the #2021DesignRefresh.
 
+## Site Updates
+
+The site is updated automatically on changes to the individual blog pages in around 5 to 10 minutes after the change 
+is made. The blog pages, however, are parsed from Discord. This happens about once a day.
+
+Every time a change is made, we review the metafile changes to see what has changed. It is _incredibly easy_ to see 
+if somebody is trying to troll the system so just be careful with what content is uploaded please.
+
+If you would like a change on next site update in 24 to 48 hours, then just edit the Discord post you initially 
+posted. Otherwise, you can directly use the "suggest an edit" link on any page or contact the developer 
+(papapastry#8888) directly to have problems fixed faster.
+
 ## For Nerds
 
 This site was written and deployed by me. Ya boi. [Thomas "papapastry" Wang](/artists/papapastry/).

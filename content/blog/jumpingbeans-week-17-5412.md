@@ -1,7 +1,7 @@
 +++
 title =       "ThankEgg"
 author =      "jumpingbeans"
-date =        "2021-04-25"
+date =        "2021-04-27"
 themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 17: The 4 R's: Finale. Created using: video."

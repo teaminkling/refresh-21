@@ -24,7 +24,7 @@ so this kind of didn't happen as intended, just smashed together everything that
 
 consider that bit inspired by @DynoLoafer 
 
-Also @jonasw was my spirit animal
+Also @Mrop2000 was my spirit animal
 
 ## Social Media
 
@@ -47,7 +47,7 @@ so this kind of didn't happen as intended, just smashed together everything that
 
 consider that bit inspired by @DynoLoafer 
 
-Also @jonasw was my spirit animal
+Also @Mrop2000 was my spirit animal
 
 Social Media: instagram.com/arancil
 {{< /highlight >}}
