@@ -13,7 +13,7 @@ description = "by eggyolk for week 6: Simple Love. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" file="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" >}}
+{{< fancybox path="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" file="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.
@@ -33,7 +33,7 @@ urmom6.0
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/eggyolk-week-6-ca60.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/eggyolk-week-6-ca60.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

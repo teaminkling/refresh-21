@@ -13,9 +13,9 @@ description = "by vectorong for week 14: Absolute Fire. Created using: Pyrograph
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" file="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" file="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" file="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" file="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Pyrography (woodburning)**.
@@ -37,7 +37,7 @@ detail shot since i have shaky hands
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-14-de8e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-14-de8e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

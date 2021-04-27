@@ -13,7 +13,7 @@ description = "by cindry for week 11: Atmosphere Spectrum. Created using: Digita
 +++
 
 
-{{< fancybox path="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" file="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" >}}
+{{< fancybox path="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" file="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Digital, CSP**.
@@ -32,7 +32,7 @@ Hey I love the stars and I love katamari. Star  gazing is something i really lov
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-11-1d65.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-11-1d65.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Goblet for week 16: Scaling Giants. Created using: Krita (stil
 +++
 
 
-{{< fancybox path="/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png" file="/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png" >}}
+{{< fancybox path="/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png" file="/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Krita (still mouse)**.
@@ -30,7 +30,7 @@ Don't be deceived, the Blue Amazon is a killing machine. Although these robots a
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-16-7100.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-16-7100.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

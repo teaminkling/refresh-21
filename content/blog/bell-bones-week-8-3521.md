@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 8: High Sheen. Created using: FireAlpaca."
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" >}}
+{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Wow! This was stressful! The time limit and outside stressors made this a partic
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-8-3521.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-8-3521.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

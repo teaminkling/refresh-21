@@ -13,7 +13,7 @@ description = "by Goblet for week 10: Folds and Folds. Created using: ibispaint 
 +++
 
 
-{{< fancybox path="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" file="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" >}}
+{{< fancybox path="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" file="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ibispaint x**.
@@ -30,7 +30,7 @@ Sorry, used 5 min
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-10-5a04.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-10-5a04.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

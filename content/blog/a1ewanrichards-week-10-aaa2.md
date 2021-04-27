@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 10: Folds and Folds. Created using: Fe
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Felt marker on paper, 9x12in**.
@@ -38,7 +38,7 @@ The dance is called "tinikling," where a couple dances between two bamboo poles 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-10-aaa2.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-10-aaa2.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

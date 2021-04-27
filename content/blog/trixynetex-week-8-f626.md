@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 8: High Sheen. Created using: Sketchbook P
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" file="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" >}}
+{{< fancybox path="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" file="/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Sketchbook Pro**.
@@ -36,7 +36,7 @@ Also, the texture from the original picture was used in the hat/disc, the stream
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-8-f626.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-8-f626.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

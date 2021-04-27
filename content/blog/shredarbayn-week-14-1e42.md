@@ -13,7 +13,7 @@ description = "by Shredarbayn for week 14: Absolute Fire. Created using: Charcoa
 +++
 
 
-{{< fancybox path="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" file="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" >}}
+{{< fancybox path="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" file="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< youtube l-7cvM7f3Ps >}}
 
@@ -39,7 +39,7 @@ Howl, the boy who ate a star. Spicy fire spirit 🔥
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/shredarbayn-week-14-1e42.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/shredarbayn-week-14-1e42.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

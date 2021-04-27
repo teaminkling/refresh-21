@@ -13,7 +13,7 @@ description = "by vectorong for week 4: Murky Silhouettes. Created using: ink + 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" file="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" >}}
+{{< fancybox path="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" file="/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ink + paper collage**.
@@ -30,7 +30,7 @@ Delving a bit personal with this piece. Often there's a disconnect between the p
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-4-b82c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-4-b82c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

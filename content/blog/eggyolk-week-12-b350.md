@@ -13,7 +13,7 @@ description = "by eggyolk for week 12: Visual Words. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif" file="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif" >}}
+{{< fancybox path="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif" file="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ urmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/eggyolk-week-12-b350.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/eggyolk-week-12-b350.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

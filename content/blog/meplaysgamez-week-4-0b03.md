@@ -13,7 +13,7 @@ description = "by meplaysgamez for week 4: Murky Silhouettes. Created using: fre
 +++
 
 
-{{< fancybox path="/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" file="/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" >}}
+{{< fancybox path="/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" file="/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **free photo editor thing idk**.
@@ -28,7 +28,7 @@ i saw rhythm and tones in the outines of the prompt.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/meplaysgamez-week-4-0b03.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/meplaysgamez-week-4-0b03.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

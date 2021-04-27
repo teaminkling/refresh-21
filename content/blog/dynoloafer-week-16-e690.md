@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 16: Scaling Giants. Created using: Paint T
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" file="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" file="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< youtube TQbKwNmsTes >}}
 
@@ -33,7 +33,7 @@ here's a video with more information on Lugia's Story
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-16-e690.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-16-e690.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

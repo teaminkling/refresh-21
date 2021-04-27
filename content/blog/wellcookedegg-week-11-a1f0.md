@@ -13,7 +13,7 @@ description = "by WellCookedEgg for week 11: Atmosphere Spectrum. Created using:
 +++
 
 
-{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" file="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" file="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio paint**.
@@ -31,7 +31,7 @@ Pressed enter before I put stuff by accident lol
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/wellcookedegg-week-11-a1f0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/wellcookedegg-week-11-a1f0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

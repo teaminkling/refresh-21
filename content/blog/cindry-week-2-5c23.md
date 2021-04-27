@@ -13,9 +13,9 @@ description = "by cindry for week 2: Deep Ocean. Created using: 2 page comic, In
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" file="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" >}}
+{{< fancybox path="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" file="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" file="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" >}}
+{{< fancybox path="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" file="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **2 page comic, Ink on Paper**.
@@ -40,7 +40,7 @@ Really just inspired by series like Made in Abyss and Jigokuraku!
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-2-5c23.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-2-5c23.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

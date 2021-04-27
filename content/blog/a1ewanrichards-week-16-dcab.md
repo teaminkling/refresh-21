@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Dig
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" file="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" file="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Digital - Clip Studio Paint**.
@@ -40,7 +40,7 @@ The title is derived from the text displayed on the original Japanese theatrical
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-16-dcab.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-16-dcab.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

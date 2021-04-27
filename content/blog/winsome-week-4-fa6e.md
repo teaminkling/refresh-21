@@ -13,7 +13,7 @@ description = "by winsome for week 4: Murky Silhouettes. Created using: Digital 
 +++
 
 
-{{< fancybox path="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" file="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" >}}
+{{< fancybox path="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" file="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Photopea)**.
@@ -30,7 +30,7 @@ I wanted to focus on figure drawing so used the classic slav squat as a ref, the
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/winsome-week-4-fa6e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-4-fa6e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

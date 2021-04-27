@@ -13,7 +13,7 @@ description = "by D3m0n_Msc for week 6: Simple Love. Created using: : Ibis paint
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" file="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" file="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **: Ibis paint x**.
@@ -37,7 +37,7 @@ Sorry the is a mess
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/d3m0n_msc-week-6-834b.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/d3m0n_msc-week-6-834b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

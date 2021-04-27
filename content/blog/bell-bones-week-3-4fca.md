@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 3: Red Circle. Created using: FireAlpaca."
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png" file="/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png" >}}
+{{< fancybox path="/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png" file="/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Sooo, week 3, huh? Due to school and my personal life, this came out rather rush
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-3-4fca.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-3-4fca.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

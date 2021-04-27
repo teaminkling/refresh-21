@@ -13,7 +13,7 @@ description = "by Goblet for week 5: Royal Green. Created using: ibispaint x."
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" file="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" >}}
+{{< fancybox path="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" file="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **ibispaint x**.
@@ -34,7 +34,7 @@ I painted the outline for the sword, tried painting the jade texture, but was di
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-5-d857.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-5-d857.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

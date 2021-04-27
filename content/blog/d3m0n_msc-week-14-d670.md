@@ -13,7 +13,7 @@ description = "by D3m0n_Msc for week 14: Absolute Fire. Created using: phone."
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png" file="/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png" file="/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **phone**.
@@ -30,7 +30,7 @@ My drawing skills arnt the best compared to others in this discord but this stil
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/d3m0n_msc-week-14-d670.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/d3m0n_msc-week-14-d670.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

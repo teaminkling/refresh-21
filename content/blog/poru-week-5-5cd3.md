@@ -13,7 +13,7 @@ description = "by poru for week 5: Royal Green. Created using: Digital - Clip St
 +++
 
 
-{{< fancybox path="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" file="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" >}}
+{{< fancybox path="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" file="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital - Clip Studio Paint**.
@@ -31,7 +31,7 @@ When I about the prompt being Jade related. I thought of the anime Houseki no Ku
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/poru-week-5-5cd3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/poru-week-5-5cd3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

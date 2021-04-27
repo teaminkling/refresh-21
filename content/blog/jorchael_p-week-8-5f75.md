@@ -13,7 +13,7 @@ description = "by jorchael_p for week 8: High Sheen. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" file="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" file="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
@@ -33,7 +33,7 @@ https://mobile.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jorchael_p-week-8-5f75.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jorchael_p-week-8-5f75.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by meplaysgamez for week 16: Scaling Giants. Created using: Photo
 +++
 
 
-{{< fancybox path="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photography + free photo edit thing again lmao**.
@@ -28,7 +28,7 @@ Gundam Dynames with Lockon Stratos as pilot. idk lol
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/meplaysgamez-week-16-aea7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/meplaysgamez-week-16-aea7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

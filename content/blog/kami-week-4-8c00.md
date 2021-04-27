@@ -13,7 +13,7 @@ description = "by Kami for week 4: Murky Silhouettes. Created using: Pencil , sk
 +++
 
 
-{{< fancybox path="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" file="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" >}}
+{{< fancybox path="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" file="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Pencil , sketch pens**.
@@ -29,7 +29,7 @@ This is a martial arts style from India called Kalari, it's really aggressive an
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/kami-week-4-8c00.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/kami-week-4-8c00.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

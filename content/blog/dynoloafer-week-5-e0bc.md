@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 5: Royal Green. Created using: Paint Tool 
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" file="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" file="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Paint Tool SAI**.
@@ -32,7 +32,7 @@ Backey: "Uhm.. your Highness, word gets around eheh..." (sweating)
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-5-e0bc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-5-e0bc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

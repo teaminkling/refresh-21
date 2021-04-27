@@ -13,9 +13,9 @@ description = "by Bell-Bones for week 13: Look At Me. Created using: FireAlpaca.
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" file="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" file="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" file="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" file="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **FireAlpaca**.
@@ -36,7 +36,7 @@ Also here's the template I used for this: https://www.reddit.com/r/OMORI/comment
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-13-335d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-13-335d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

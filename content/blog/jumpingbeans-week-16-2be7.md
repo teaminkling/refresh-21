@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 16: Scaling Giants. Created using: krita
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" file="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" file="/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **krita**.
@@ -38,7 +38,7 @@ tl;dr beans (who cant draw) having existential dread
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-16-2be7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-16-2be7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

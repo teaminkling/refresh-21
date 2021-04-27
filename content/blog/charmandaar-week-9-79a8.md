@@ -35,7 +35,7 @@ Submission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaa
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/charmandaar-week-9-79a8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/charmandaar-week-9-79a8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

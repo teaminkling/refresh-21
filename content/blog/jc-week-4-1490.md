@@ -13,7 +13,7 @@ description = "by jc for week 4: Murky Silhouettes. Created using: csp!."
 +++
 
 
-{{< fancybox path="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" file="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" >}}
+{{< fancybox path="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" file="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp!**.
@@ -31,7 +31,7 @@ i saw 'state of change' and 'movement' and that was it for me! i forgot it was m
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jc-week-4-1490.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jc-week-4-1490.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

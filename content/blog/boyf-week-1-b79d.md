@@ -13,7 +13,7 @@ description = "by Boyf for week 1: Yellow Lines. Created using: FireAlpaca64."
 +++
 
 
-{{< fancybox path="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" >}}
+{{< fancybox path="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca64**.
@@ -29,7 +29,7 @@ I thought for a second, I didn't know what to do though I knew I wanted to use m
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/boyf-week-1-b79d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/boyf-week-1-b79d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

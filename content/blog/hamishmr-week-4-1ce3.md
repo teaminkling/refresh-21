@@ -13,7 +13,7 @@ description = "by hamishmr for week 4: Murky Silhouettes. Created using: Photo a
 +++
 
 
-{{< fancybox path="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" file="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" >}}
+{{< fancybox path="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" file="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Photo and Adobe Suite**.
@@ -31,7 +31,7 @@ nah 🙂
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/hamishmr-week-4-1ce3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/hamishmr-week-4-1ce3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by arancil for week 5: Royal Green. Created using: A3 watercolor,
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.JPG" file="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.JPG" >}}
+{{< fancybox path="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.JPG" file="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
 [View on Imgur.](https://imgur.com/a/4UO7n4s)
 
@@ -36,7 +36,7 @@ More notes here: https://imgur.com/a/4UO7n4s
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-5-911a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-5-911a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

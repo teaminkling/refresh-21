@@ -13,7 +13,7 @@ description = "by askpatt for week 4: Murky Silhouettes. Created using: PS."
 +++
 
 
-{{< fancybox path="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" file="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" >}}
+{{< fancybox path="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" file="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PS**.
@@ -29,7 +29,7 @@ Note: save your work...i lost the first draft and finished this 1 hr before dead
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/askpatt-week-4-54e5.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/askpatt-week-4-54e5.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

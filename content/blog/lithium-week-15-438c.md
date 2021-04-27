@@ -13,7 +13,7 @@ description = "by Lithium for week 15: Back to Basics. Created using: Clip Studi
 +++
 
 
-{{< fancybox path="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" file="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" >}}
+{{< fancybox path="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" file="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.
@@ -33,7 +33,7 @@ IG/tumblr lithiumreflections, twitter lireflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-15-438c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-15-438c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

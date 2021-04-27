@@ -13,7 +13,7 @@ description = "by winsome for week 16: Scaling Giants. Created using: Photo + CL
 +++
 
 
-{{< fancybox path="/img/winsome/2021-04-23+53ef0c44d40053101c4ef3cfc9f82f2a.png" file="/img/winsome/2021-04-23+53ef0c44d40053101c4ef3cfc9f82f2a.png" >}}
+{{< fancybox path="/img/winsome/2021-04-23+53ef0c44d40053101c4ef3cfc9f82f2a.png" file="/img/winsome/2021-04-23+53ef0c44d40053101c4ef3cfc9f82f2a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photo + CLIP STUDIO PAINT**.
@@ -30,7 +30,7 @@ Godzilla v Kong cut content. Actually though, heavily inspired by an old PS2 gam
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/winsome-week-16-aef1.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-16-aef1.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

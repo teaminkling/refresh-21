@@ -13,7 +13,7 @@ description = "by Draco for week 3: Red Circle. Created using: Krita."
 +++
 
 
-{{< fancybox path="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png" file="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png" >}}
+{{< fancybox path="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png" file="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Krita**.
@@ -28,7 +28,7 @@ In a decrepit dojo lies a gi. The gi is ragged, likely from years of training. H
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/draco-week-3-2a39.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/draco-week-3-2a39.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

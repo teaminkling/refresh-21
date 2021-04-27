@@ -13,7 +13,7 @@ description = "by cindry for week 15: Back to Basics. Created using: relief prin
 +++
 
 
-{{< fancybox path="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg" file="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg" >}}
+{{< fancybox path="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg" file="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **relief printing on note books**.
@@ -32,7 +32,7 @@ taking it easy this week with something i found relaxing and i guess soothing? s
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-15-8495.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-15-8495.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

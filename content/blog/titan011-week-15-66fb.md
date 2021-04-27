@@ -13,7 +13,7 @@ description = "by TITAN011 for week 15: Back to Basics. Created using: Clip Stud
 +++
 
 
-{{< fancybox path="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" file="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" >}}
+{{< fancybox path="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" file="/img/titan011/2021-04-11+a610e5c8126fe976d42e657222debdbf.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio**.
@@ -28,7 +28,7 @@ Decide to try something new this week so i tried animation for the first time...
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-15-66fb.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-15-66fb.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

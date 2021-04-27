@@ -13,7 +13,7 @@ description = "by D3m0n_Msc for week 8: High Sheen. Created using: : Phone."
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" file="/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" file="/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **: Phone**.
@@ -34,7 +34,7 @@ I incorporated the wood in the base of the "snow globe?" Using birch wood and th
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/d3m0n_msc-week-8-02a0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/d3m0n_msc-week-8-02a0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

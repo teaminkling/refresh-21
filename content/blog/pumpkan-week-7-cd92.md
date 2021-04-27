@@ -13,7 +13,7 @@ description = "by Pumpkan for week 7: Disturbed Desert. Created using: Procreate
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" file="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" file="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ When I heard the prompt was about deserts and what lived in them I immediately t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-7-cd92.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-7-cd92.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

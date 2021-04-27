@@ -13,7 +13,7 @@ description = "by D3m0n_Msc for week 9: Bold Strokes. Created using: phone."
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" file="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" file="/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **phone**.
@@ -39,7 +39,7 @@ She is being dropped from heaven without wings to signify she is living and or h
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/d3m0n_msc-week-9-3785.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/d3m0n_msc-week-9-3785.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

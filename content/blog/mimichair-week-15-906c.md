@@ -13,7 +13,7 @@ description = "by MimiChair for week 15: Back to Basics. Created using: Adobe Ph
 +++
 
 
-{{< fancybox path="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" file="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" >}}
+{{< fancybox path="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" file="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Adobe Photoshop**.
@@ -31,7 +31,7 @@ I actually love the sourness of lemons ~ that is what lemons are known for too. 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/mimichair-week-15-906c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/mimichair-week-15-906c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

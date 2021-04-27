@@ -13,7 +13,7 @@ description = "by winsome for week 5: Royal Green. Created using: unknown medium
 +++
 
 
-{{< fancybox path="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" file="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" >}}
+{{< fancybox path="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" file="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **unknown medium**.
@@ -30,7 +30,7 @@ The prompt immediately made me think of the Rathian from Monster Hunter, the fem
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/winsome-week-5-4c35.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-5-4c35.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

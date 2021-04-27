@@ -13,7 +13,7 @@ description = "by poru for week 7: Disturbed Desert. Created using: Clip Studio 
 +++
 
 
-{{< fancybox path="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" file="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" >}}
+{{< fancybox path="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" file="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Clip Studio Paint**.
@@ -31,7 +31,7 @@ I fucking love NieR:Automata.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/poru-week-7-a9a8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/poru-week-7-a9a8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,9 +13,9 @@ description = "by vectorong for week 6: Simple Love. Created using: Origami + in
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Origami + ink**.
@@ -35,7 +35,7 @@ detail shot so you can see the paper better LOL
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-6-56a2.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-6-56a2.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 7: Disturbed Desert. Created using: Sketch
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" file="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" >}}
+{{< fancybox path="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" file="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Sketchbook Pro**.
@@ -32,7 +32,7 @@ Also, drew this while listen to The Martian soundtrack, cause vibes
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-7-f8df.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-7-f8df.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

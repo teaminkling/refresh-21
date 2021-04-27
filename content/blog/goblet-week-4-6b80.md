@@ -13,7 +13,7 @@ description = "by Goblet for week 4: Murky Silhouettes. Created using: Krita wit
 +++
 
 
-{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" >}}
+{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Krita with mouse**.
@@ -30,7 +30,7 @@ Chose orange, quickly doodled a jumping person, decided to make some kind of par
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-4-6b80.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-4-6b80.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

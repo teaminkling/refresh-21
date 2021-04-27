@@ -13,7 +13,7 @@ description = "by TITAN011 for week 6: Simple Love. Created using: Clip studio."
 +++
 
 
-{{< fancybox path="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg" file="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg" >}}
+{{< fancybox path="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg" file="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Clip studio**.
@@ -28,7 +28,7 @@ Don’t think I’ll have time to do week 8 art cause of midterms but I manage t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-6-0868.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-6-0868.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

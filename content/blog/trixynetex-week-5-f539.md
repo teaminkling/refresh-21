@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 5: Royal Green. Created using: Sketchbook 
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png" file="/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png" >}}
+{{< fancybox path="/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png" file="/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Sketchbook Pro**.
@@ -30,7 +30,7 @@ This one took me a hot minute, but I think I'm starting to get the hang of digit
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-5-f539.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-5-f539.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

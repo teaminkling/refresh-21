@@ -13,7 +13,7 @@ description = "by TITAN011 for week 3: Red Circle. Created using: Clipstudio."
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" file="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" >}}
+{{< fancybox path="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" file="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Clipstudio**.
@@ -28,7 +28,7 @@ Bit out of my comfort zone but tried to do something artsy
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-3-e808.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-3-e808.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

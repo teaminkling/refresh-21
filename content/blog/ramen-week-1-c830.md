@@ -13,7 +13,7 @@ description = "by Ramen for week 1: Yellow Lines. Created using: Clip Studio Pai
 +++
 
 
-{{< fancybox path="/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg" file="/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg" >}}
+{{< fancybox path="/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg" file="/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Clip Studio Paint**.
@@ -28,7 +28,7 @@ i made this at 2 am. there is something special about this drawing. i really lik
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/ramen-week-1-c830.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/ramen-week-1-c830.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

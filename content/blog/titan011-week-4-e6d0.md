@@ -13,7 +13,7 @@ description = "by TITAN011 for week 4: Murky Silhouettes. Created using: ClipStu
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" file="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" >}}
+{{< fancybox path="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" file="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ClipStudio**.
@@ -28,7 +28,7 @@ Didn’t use one color but I tried to stick with cold colors? Worked on value an
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-4-e6d0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-4-e6d0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

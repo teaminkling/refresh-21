@@ -13,7 +13,7 @@ description = "by soleilboo for week 10: Folds and Folds. Created using: Photosh
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" file="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" file="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
@@ -30,7 +30,7 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-10-fa9b.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-10-fa9b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

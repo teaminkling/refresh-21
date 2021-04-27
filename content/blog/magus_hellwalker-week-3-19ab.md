@@ -13,7 +13,7 @@ description = "by Magus_Hellwalker for week 3: Red Circle. Created using: 3D Dig
 +++
 
 
-{{< fancybox path="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" file="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" >}}
+{{< fancybox path="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" file="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **3D Digital**.
@@ -29,7 +29,7 @@ I was playing around with some atmospheric lighting in Blender and started playi
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/magus_hellwalker-week-3-19ab.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/magus_hellwalker-week-3-19ab.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

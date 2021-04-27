@@ -13,7 +13,7 @@ description = "by soleilboo for week 11: Atmosphere Spectrum. Created using: Wat
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" file="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" file="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolour**.
@@ -30,7 +30,7 @@ There are 9,096 stars in the sky and I know one of them is you.  I love you to t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-11-b79c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-11-b79c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

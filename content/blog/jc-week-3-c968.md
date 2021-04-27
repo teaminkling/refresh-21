@@ -13,7 +13,7 @@ description = "by jc for week 3: Red Circle. Created using: csp."
 +++
 
 
-{{< fancybox path="/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" file="/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" >}}
+{{< fancybox path="/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" file="/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **csp**.
@@ -31,7 +31,7 @@ i have a really involved animatic in my head set to rebel just for kicks. i will
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jc-week-3-c968.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jc-week-3-c968.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

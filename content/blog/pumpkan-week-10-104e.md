@@ -13,7 +13,7 @@ description = "by Pumpkan for week 10: Folds and Folds. Created using: Procreate
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" >}}
+{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.
@@ -31,7 +31,7 @@ Anyway here is my dnd character Joselynn La Verne being no more dramatic than us
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-10-104e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-10-104e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

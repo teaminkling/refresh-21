@@ -13,7 +13,7 @@ description = "by jonasw for week 11: Atmosphere Spectrum. Created using: Waterc
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" file="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" file="/img/jonasw/2021-03-24+080950c79e54bdb2d46271da3968b9d4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
@@ -28,7 +28,7 @@ Some different sky colors
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jonasw-week-11-6ec2.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jonasw-week-11-6ec2.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

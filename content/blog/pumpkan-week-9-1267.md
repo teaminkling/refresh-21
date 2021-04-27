@@ -13,7 +13,7 @@ description = "by Pumpkan for week 9: Bold Strokes. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG" file="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG" >}}
+{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG" file="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ yo who else misses hatsune miku
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-9-1267.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-9-1267.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

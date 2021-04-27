@@ -13,7 +13,7 @@ description = "by rainydaze for week 14: Absolute Fire. Created using: Procreate
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="/img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate (and DaVinci Resolve)**.
@@ -29,7 +29,7 @@ a piece of an animatic I'm currently working on about an anarchist pig and his c
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/rainydaze-week-14-c8c8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/rainydaze-week-14-c8c8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

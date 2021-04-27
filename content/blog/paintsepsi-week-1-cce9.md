@@ -13,7 +13,7 @@ description = "by paintsepsi for week 1: Yellow Lines. Created using: Procreate 
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate Digital Painting**.
@@ -33,7 +33,7 @@ Basically a portrait of a model but using the Pantone colour of the year as the 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-1-cce9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-1-cce9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

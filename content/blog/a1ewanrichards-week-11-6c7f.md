@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 11: Atmosphere Spectrum. Created using
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" file="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" file="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Felt marker and oil pastel on paper**.
@@ -40,7 +40,7 @@ As I kept on drawing, it became apparent that, in line with the song's theme, th
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-11-6c7f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-11-6c7f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

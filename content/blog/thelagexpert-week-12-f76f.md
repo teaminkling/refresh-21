@@ -13,7 +13,7 @@ description = "by TheLagExpert for week 12: Visual Words. Created using: Affinit
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" file="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" >}}
+{{< fancybox path="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" file="/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2.jpeg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Affinity Photo**.
@@ -29,7 +29,7 @@ A bit too late cz I am busy with the exams. These are Lyrics from my favourite S
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/thelagexpert-week-12-f76f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/thelagexpert-week-12-f76f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

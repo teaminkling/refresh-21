@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 3: Red Circle. Created using: Sketchbook P
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" file="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" >}}
+{{< fancybox path="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" file="/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Sketchbook Pro**.
@@ -30,7 +30,7 @@ Media:
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-3-efde.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-3-efde.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by DoughYeast for week 3: Red Circle. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ no flash photography!! <:OOOdrake:779973582298021890>
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/doughyeast-week-3-d3de.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/doughyeast-week-3-d3de.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

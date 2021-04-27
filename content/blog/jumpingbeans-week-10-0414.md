@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 10: Folds and Folds. Created using: Appl
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" file="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" file="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Apple**.
@@ -30,7 +30,7 @@ This apple has weird fashion.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-10-0414.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-10-0414.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by TITAN011 for week 2: Deep Ocean. Created using: Clipstudio."
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" file="/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" >}}
+{{< fancybox path="/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" file="/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Clipstudio**.
@@ -28,7 +28,7 @@ Started Digital art few month ago, First art post ever so feel free to give all 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-2-1981.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-2-1981.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

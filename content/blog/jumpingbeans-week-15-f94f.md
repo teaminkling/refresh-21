@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 15: Back to Basics. Created using: chine
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" file="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" file="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **chinese calligraphy**.
@@ -34,7 +34,7 @@ But, doing this work reminds me, i suck at calligraphy.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-15-f94f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-15-f94f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

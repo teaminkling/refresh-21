@@ -13,7 +13,7 @@ description = "by cindry for week 1: Yellow Lines. Created using: Digital, Paint
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" file="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" >}}
+{{< fancybox path="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" file="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Paint Tool SAI**.
@@ -35,7 +35,7 @@ I went a bit crazy on SAI which is a huge guilty pleasure. In the end it's a bit
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-1-64a9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-1-64a9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

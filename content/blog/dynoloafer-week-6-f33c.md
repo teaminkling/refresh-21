@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 6: Simple Love. Created using: Paint Tool 
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" file="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" file="/img/dynoloafer/2021-02-12+d18a893e0ce4db5cb424190c3ac67032.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ Cutting close again, wowie! Oh well, I like how this came out even if it's just 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-6-f33c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-6-f33c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

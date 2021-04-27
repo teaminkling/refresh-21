@@ -13,9 +13,9 @@ description = "by arancil for week 4: Murky Silhouettes. Created using: Acrylic 
 +++
 
 
-{{< fancybox path="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" file="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" >}}
+{{< fancybox path="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" file="/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" file="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" >}}
+{{< fancybox path="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" file="/img/arancil/2021-01-27+d32fe9b2406efa8f4bd7ffd4ffd007e1.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Acrylic paint (Magenta/yellow mix for orange, winsor violet with a bit of magenta for the hand)**.
@@ -33,7 +33,7 @@ Tried to capture desperation, intensity and passion. Didn't manage to make the i
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-4-ac13.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-4-ac13.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

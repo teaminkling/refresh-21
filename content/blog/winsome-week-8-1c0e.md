@@ -13,7 +13,7 @@ description = "by winsome for week 8: High Sheen. Created using: Digital collage
 +++
 
 
-{{< fancybox path="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" file="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" >}}
+{{< fancybox path="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" file="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital collage (photopea)**.
@@ -30,7 +30,7 @@ The prompt image immediately made me think of a vinyl record so I was thinking o
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/winsome-week-8-1c0e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-8-1c0e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

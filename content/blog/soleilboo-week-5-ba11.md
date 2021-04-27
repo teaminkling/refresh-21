@@ -13,7 +13,7 @@ description = "by soleilboo for week 5: Royal Green. Created using: digital/ pho
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956.jpg" file="/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956.jpg" file="/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **digital/ photoshop**.
@@ -30,7 +30,7 @@ I don't have
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-5-ba11.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-5-ba11.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 5: Royal Green. Created using: Installat
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Installation**.
@@ -34,7 +34,7 @@ Media:
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-5-328d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-5-328d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

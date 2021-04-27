@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 10: Folds and Folds. Created using: Sketch
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png" file="/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png" >}}
+{{< fancybox path="/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png" file="/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Sketchbook pro**.
@@ -31,7 +31,7 @@ Bit of a quick one today cause running out of time. Yes, I did use a photo of my
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-10-b389.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-10-b389.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

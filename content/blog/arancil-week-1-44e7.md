@@ -13,7 +13,7 @@ description = "by arancil for week 1: Yellow Lines. Created using: Ink, watercol
 +++
 
 
-{{< fancybox path="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" file="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" >}}
+{{< fancybox path="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" file="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Ink, watercolour**.
@@ -31,7 +31,7 @@ Was originally going for "Plaid & Lace" as my keywords, but ... no way I'm putti
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-1-44e7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-1-44e7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

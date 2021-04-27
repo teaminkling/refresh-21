@@ -13,7 +13,7 @@ description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 +++
 
 
-{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" file="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" >}}
+{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" file="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
@@ -29,7 +29,7 @@ i really just wanted to create something ambiguous with this piece, no clear exp
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/fonz-week-4-f2ce.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/fonz-week-4-f2ce.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

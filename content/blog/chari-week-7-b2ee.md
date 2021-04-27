@@ -13,7 +13,7 @@ description = "by chari for week 7: Disturbed Desert. Created using: Digital, Cl
 +++
 
 
-{{< fancybox path="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" file="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" >}}
+{{< fancybox path="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" file="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital, Clip Studio Paint**.
@@ -29,7 +29,7 @@ Sort of a composition exercise since I don't normally draw backgrounds. Couldn't
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/chari-week-7-b2ee.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/chari-week-7-b2ee.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

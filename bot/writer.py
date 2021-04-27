@@ -121,7 +121,7 @@ def create_all_posts():
             for attachment in submission["attachments"]:
                 # First, make the path relative to the root and not the bot.
 
-                attachment = attachment.replace("../static", "")
+                attachment = attachment.replace("../blog/static/", "/")
 
                 # The first found media is the thumbnail.
 
@@ -152,7 +152,7 @@ def create_all_posts():
                             + attachment
                             + '" file="'
                             + attachment
-                            + '" >}}\n'
+                            + '" caption="Placeholder thumbnail for a visual work." >}}\n'
                         )
                     elif extension in ("mp4", "mov", "swf"):
                         if old_extension not in VALID_INSTANT_THUMBNAILS:
@@ -161,7 +161,7 @@ def create_all_posts():
                         attachment_text += (
                             '\n{{< fancybox path="img/video-placeholder.png" file="'
                             + attachment
-                            + '" >}}\n'
+                            + '" caption="Placeholder thumbnail for a video work." >}}\n'
                         )
                     elif extension in ("mp3", "wav", "ogg"):
                         if old_extension not in VALID_INSTANT_THUMBNAILS:
@@ -170,7 +170,7 @@ def create_all_posts():
                         attachment_text += (
                             '\n{{< fancybox path="img/audio-placeholder.png" file="'
                             + attachment
-                            + '" >}}\n'
+                            + '" caption="Placeholder thumbnail for an audio work." >}}\n'
                         )
                     else:
                         if old_extension not in VALID_INSTANT_THUMBNAILS:
@@ -179,7 +179,7 @@ def create_all_posts():
                         attachment_text += (
                             '\n{{< fancybox path="img/other-placeholder.png" file="'
                             + attachment
-                            + '" >}}\n'
+                            + '" caption="Placeholder thumbnail for a special work." >}}\n'
                         )
                 elif "youtu.be" in attachment:
                     code: str = attachment.split("/")[-1]

@@ -13,7 +13,7 @@ description = "by Lithium for week 4: Murky Silhouettes. Created using: Digital 
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" file="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" >}}
+{{< fancybox path="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" file="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ IG/Tumblr lithiumreflections, Twitter jaimeskelton
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-4-c9e7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-4-c9e7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

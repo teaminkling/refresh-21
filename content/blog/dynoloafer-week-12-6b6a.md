@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 12: Visual Words. Created using: Paint Too
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" file="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" file="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ I made it after all, sweet! Anyways, I decided to use a sharp type of typography
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-12-6b6a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-12-6b6a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

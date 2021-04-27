@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 9: Bold Strokes. Created using: Clip S
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850.jpg" file="/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850.jpg" file="/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Clip Studio Paint**.
@@ -34,7 +34,7 @@ I've wanted to express in one way or another this powerlessness I've been feelin
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-9-7020.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-9-7020.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

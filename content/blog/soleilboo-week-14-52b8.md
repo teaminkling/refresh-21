@@ -13,7 +13,7 @@ description = "by soleilboo for week 14: Absolute Fire. Created using: procreate
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif" file="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif" >}}
+{{< fancybox path="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif" file="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **procreate pocket**.
@@ -30,7 +30,7 @@ have yourself a little girlled marshmallow in this cold winter night... ( ok you
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-14-52b8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-14-52b8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

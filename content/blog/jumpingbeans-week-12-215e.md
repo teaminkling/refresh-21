@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 12: Visual Words. Created using: gif."
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" file="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" >}}
+{{< fancybox path="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" file="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **gif**.
@@ -32,7 +32,7 @@ edit: redid the gif, its still giving the weird coloured background thingy, even
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-12-215e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-12-215e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

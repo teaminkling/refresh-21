@@ -13,7 +13,7 @@ description = "by Kami for week 5: Royal Green. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" file="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" >}}
+{{< fancybox path="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" file="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Photoshop**.
@@ -29,7 +29,7 @@ This is my first time using photoshop for art, i tried making the short sword th
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/kami-week-5-2ea5.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/kami-week-5-2ea5.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 13: Look At Me. Created using: Clip St
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg" file="/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg" file="/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Clip Studio Paint**.
@@ -38,7 +38,7 @@ My interpretation of Otomatsu Sato from the movie "Poppoya" (Railroad Man), a st
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-13-4403.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-13-4403.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

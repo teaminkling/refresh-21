@@ -13,7 +13,7 @@ description = "by Moonlit Narcy for week 1: Yellow Lines. Created using: Procrea
 +++
 
 
-{{< fancybox path="/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate**.
@@ -34,7 +34,7 @@ Twitch:MoonlitNarcy
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/moonlit-narcy-week-1-ce9d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/moonlit-narcy-week-1-ce9d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

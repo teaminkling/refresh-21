@@ -13,7 +13,7 @@ description = "by Lithium for week 3: Red Circle. Created using: Digital (Clip S
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg" file="/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg" >}}
+{{< fancybox path="/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg" file="/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ IG/Tumblr lithiumreflections / Twitter jaimeskelton
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-3-0e2f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-3-0e2f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by soleilboo for week 8: High Sheen. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
@@ -34,7 +34,7 @@ https://vm.tiktok.com/ZSJdWxeBV/
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-8-fde4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-8-fde4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

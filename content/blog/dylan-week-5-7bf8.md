@@ -13,7 +13,7 @@ description = "by Dylan for week 5: Royal Green. Created using: Digital (PhotoSh
 +++
 
 
-{{< fancybox path="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (PhotoShop)**.
@@ -28,7 +28,7 @@ I wanted to make something that has a backstory so basically i had a friend that
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dylan-week-5-7bf8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dylan-week-5-7bf8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

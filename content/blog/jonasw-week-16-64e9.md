@@ -13,7 +13,7 @@ description = "by jonasw for week 16: Scaling Giants. Created using: Pencils."
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" file="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" >}}
+{{< fancybox path="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" file="/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Pencils**.
@@ -28,7 +28,7 @@ Almost forgot to submit :I
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jonasw-week-16-64e9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jonasw-week-16-64e9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

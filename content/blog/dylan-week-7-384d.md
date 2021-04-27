@@ -13,7 +13,7 @@ description = "by Dylan for week 7: Disturbed Desert. Created using: blender."
 +++
 
 
-{{< fancybox path="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" file="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" >}}
+{{< fancybox path="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" file="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **blender**.
@@ -28,7 +28,7 @@ i wanted to try a new something new so instead of photoshop i used blender this 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dylan-week-7-384d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dylan-week-7-384d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

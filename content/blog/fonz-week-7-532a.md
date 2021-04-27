@@ -13,7 +13,7 @@ description = "by fonz for week 7: Disturbed Desert. Created using: csp."
 +++
 
 
-{{< fancybox path="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" file="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" >}}
+{{< fancybox path="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" file="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
@@ -29,7 +29,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/fonz-week-7-532a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/fonz-week-7-532a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

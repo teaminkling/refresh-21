@@ -13,7 +13,7 @@ description = "by cindry for week 3: Red Circle. Created using: Digital, SAI."
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png" file="/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png" >}}
+{{< fancybox path="/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png" file="/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital, SAI**.
@@ -33,7 +33,7 @@ Also ace is cool ace is really cool, tried to keep it simple and I really tried 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-3-6fd7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-3-6fd7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

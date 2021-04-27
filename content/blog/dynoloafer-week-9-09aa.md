@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 9: Bold Strokes. Created using: Paint Tool
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" file="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" file="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ Desc: Wow I'm the first one submitting this week? That's weird. Anyways, I decid
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-9-09aa.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-9-09aa.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

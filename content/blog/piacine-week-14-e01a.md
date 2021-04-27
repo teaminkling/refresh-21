@@ -13,7 +13,7 @@ description = "by Piacine for week 14: Absolute Fire. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" file="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" >}}
+{{< fancybox path="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" file="/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.
@@ -28,7 +28,7 @@ The fire is warm, comforting, bright. Just warms your cold toes and the tip of t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/piacine-week-14-e01a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/piacine-week-14-e01a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

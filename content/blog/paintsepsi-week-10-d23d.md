@@ -13,7 +13,7 @@ description = "by paintsepsi for week 10: Folds and Folds. Created using: Procre
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.
@@ -31,7 +31,7 @@ just a simple qurl wearing street style. uhhh lines/colouring isn’t super clea
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-10-d23d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-10-d23d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

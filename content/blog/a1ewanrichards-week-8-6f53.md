@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 8: High Sheen. Created using: Adobe Ph
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg" file="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg" file="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Adobe Photoshop**.
@@ -34,7 +34,7 @@ This is probably the laziest thing I've ever done, lol. I had other ideas in min
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-8-6f53.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-8-6f53.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

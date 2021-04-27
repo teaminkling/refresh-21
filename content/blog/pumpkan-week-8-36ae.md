@@ -13,7 +13,7 @@ description = "by Pumpkan for week 8: High Sheen. Created using: Digital collage
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" file="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" file="/img/pumpkan/2021-02-26+6c13682c72de3e7318ee7c92a14e3c2c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital collage (procreate)**.
@@ -30,7 +30,7 @@ I love doing collage my dudes. From brainstorm to submission with was about 75 m
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-8-36ae.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-8-36ae.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

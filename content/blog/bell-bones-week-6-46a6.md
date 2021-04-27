@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 6: Simple Love. Created using: FireAlpaca.
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" file="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" >}}
+{{< fancybox path="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" file="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ After a lot of thinking about the prompt, I'd say that I love to roleplay! Dyno 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-6-46a6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-6-46a6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

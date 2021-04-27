@@ -13,7 +13,7 @@ description = "by vectorong for week 11: Atmosphere Spectrum. Created using: Rel
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" file="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" file="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Relief printing**.
@@ -30,7 +30,7 @@ Based on my initial wonder (and subsequent terror) of the galaxy, where I would 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-11-3c65.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-11-3c65.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

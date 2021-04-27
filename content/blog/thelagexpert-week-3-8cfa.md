@@ -13,7 +13,7 @@ description = "by TheLagExpert for week 3: Red Circle. Created using: Affinity P
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" file="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" >}}
+{{< fancybox path="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" file="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Affinity Photo**.
@@ -29,7 +29,7 @@ lost in the desert, not really what I imagined (was afraid to post it), but will
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/thelagexpert-week-3-8cfa.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/thelagexpert-week-3-8cfa.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

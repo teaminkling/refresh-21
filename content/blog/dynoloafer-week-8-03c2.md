@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 8: High Sheen. Created using: Paint Tool S
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" file="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" file="/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Paint Tool SAI**.
@@ -29,7 +29,7 @@ This was a very interesting challenge! Decided to go for a painting-like piece w
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-8-03c2.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-8-03c2.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

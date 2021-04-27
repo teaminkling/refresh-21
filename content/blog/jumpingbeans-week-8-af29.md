@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 8: High Sheen. Created using: Autodesk s
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" file="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" >}}
+{{< fancybox path="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" file="/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Autodesk sketch**.
@@ -32,7 +32,7 @@ Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-8-af29.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-8-af29.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

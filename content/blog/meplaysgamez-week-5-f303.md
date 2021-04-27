@@ -13,9 +13,9 @@ description = "by meplaysgamez for week 5: Royal Green. Created using: i love ai
 +++
 
 
-{{< fancybox path="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg" file="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg" >}}
+{{< fancybox path="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg" file="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **i love airbrushes**.
@@ -32,7 +32,7 @@ a better angle
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/meplaysgamez-week-5-f303.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/meplaysgamez-week-5-f303.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

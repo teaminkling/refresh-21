@@ -13,7 +13,7 @@ description = "by Pumpkan for week 15: Back to Basics. Created using: markers + 
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" file="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" >}}
+{{< fancybox path="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" file="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **markers + paper in gif**.
@@ -32,7 +32,7 @@ edit: fixed the file
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-15-2fdb.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-15-2fdb.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

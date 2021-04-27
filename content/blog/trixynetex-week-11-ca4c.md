@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 11: Atmosphere Spectrum. Created using: Sk
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" file="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" >}}
+{{< fancybox path="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" file="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Sketchbook Pro**.
@@ -30,7 +30,7 @@ Trying to get better at digital painting. Think I got the vibe at least 😊
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-11-ca4c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-11-ca4c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

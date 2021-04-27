@@ -13,7 +13,7 @@ description = "by jonasw for week 8: High Sheen. Created using: Pencil on Paper.
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" file="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" file="/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Pencil on Paper**.
@@ -28,7 +28,7 @@ Don't have a printer so had to trace off my computer screen
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jonasw-week-8-f7d9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jonasw-week-8-f7d9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

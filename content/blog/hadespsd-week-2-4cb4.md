@@ -13,7 +13,7 @@ description = "by HadesPsd for week 2: Deep Ocean. Created using: CSP."
 +++
 
 
-{{< fancybox path="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" file="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" >}}
+{{< fancybox path="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" file="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **CSP**.
@@ -29,7 +29,7 @@ I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:77999072421229
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/hadespsd-week-2-4cb4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/hadespsd-week-2-4cb4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

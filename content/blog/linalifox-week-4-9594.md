@@ -13,7 +13,7 @@ description = "by Linalifox for week 4: Murky Silhouettes. Created using: Procre
 +++
 
 
-{{< fancybox path="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ I began this piece with a cyan background and started painting in a dark blue. I
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/linalifox-week-4-9594.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/linalifox-week-4-9594.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 16: Scaling Giants. Created using: FireAlp
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" file="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" file="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ This isn't up to the usual quality of what I make, but I wanted to do something 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-16-b445.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-16-b445.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

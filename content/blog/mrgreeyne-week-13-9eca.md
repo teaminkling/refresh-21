@@ -13,9 +13,9 @@ description = "by MrGreeyne for week 13: Look At Me. Created using: Keyboard, an
 +++
 
 
-{{< fancybox path="img/audio-placeholder.png" file="/img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wav" >}}
+{{< fancybox path="img/audio-placeholder.png" file="/img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wav" caption="Placeholder thumbnail for an audio work." >}}
 
-{{< fancybox path="img/audio-placeholder.png" file="/img/mrgreeyne/2021-04-03+cff95c6de0cbf581d6f2d1fc33a71444.wav" >}}
+{{< fancybox path="img/audio-placeholder.png" file="/img/mrgreeyne/2021-04-03+cff95c6de0cbf581d6f2d1fc33a71444.wav" caption="Placeholder thumbnail for an audio work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Keyboard, and some words.**.
@@ -45,7 +45,7 @@ Giving them value? Now thats absurd.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/mrgreeyne-week-13-9eca.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/mrgreeyne-week-13-9eca.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

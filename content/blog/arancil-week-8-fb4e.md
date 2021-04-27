@@ -13,7 +13,7 @@ description = "by arancil for week 8: High Sheen. Created using: Oil sticks & oi
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" file="/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" >}}
+{{< fancybox path="/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" file="/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Oil sticks & oil crayons + some paper cutout**.
@@ -31,7 +31,7 @@ Printed out the prompt's image - turns out I didn't have any black ink, just col
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-8-fb4e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-8-fb4e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

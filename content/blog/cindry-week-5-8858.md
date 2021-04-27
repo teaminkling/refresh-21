@@ -13,7 +13,7 @@ description = "by cindry for week 5: Royal Green. Created using: Digital, Clip S
 +++
 
 
-{{< fancybox path="/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png" file="/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png" >}}
+{{< fancybox path="/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png" file="/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital, Clip Studio Paint**.
@@ -34,7 +34,7 @@ There's honestly a lot more to this but the concept was "jade teeth grills" and 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-5-8858.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-5-8858.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

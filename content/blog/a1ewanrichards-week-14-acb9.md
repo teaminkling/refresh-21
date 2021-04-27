@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 14: Absolute Fire. Created using: Clip
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg" file="/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg" file="/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Clip Studio Paint**.
@@ -38,7 +38,7 @@ I based this on a scene from Takeshi Kitano's 2008 movie "Achilles and the Torto
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-14-acb9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-14-acb9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

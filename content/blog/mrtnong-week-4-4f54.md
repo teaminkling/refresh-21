@@ -13,7 +13,7 @@ description = "by mrtnong for week 4: Murky Silhouettes. Created using: Procreat
 +++
 
 
-{{< fancybox path="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" file="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" >}}
+{{< fancybox path="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" file="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
@@ -32,7 +32,7 @@ It's my first time creating something graphic art-y I usually paint my stuff in 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/mrtnong-week-4-4f54.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/mrtnong-week-4-4f54.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

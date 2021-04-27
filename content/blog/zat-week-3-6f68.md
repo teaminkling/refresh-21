@@ -13,7 +13,7 @@ description = "by Zat for week 3: Red Circle. Created using: Photographs/Krita."
 +++
 
 
-{{< fancybox path="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" file="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" >}}
+{{< fancybox path="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" file="/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photographs/Krita**.
@@ -28,7 +28,7 @@ Photo of a section of Markarian's Chain, a part of the Virgo cluster set as the 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/zat-week-3-6f68.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/zat-week-3-6f68.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

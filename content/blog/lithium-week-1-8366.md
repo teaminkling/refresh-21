@@ -13,7 +13,7 @@ description = "by Lithium for week 1: Yellow Lines. Created using: Digital (Clip
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg" file="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg" >}}
+{{< fancybox path="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg" file="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ IG/Tumblr @Lithiumreflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-1-8366.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-1-8366.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

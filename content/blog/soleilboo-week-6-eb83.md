@@ -13,7 +13,7 @@ description = "by soleilboo for week 6: Simple Love. Created using: digital/ pho
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a.jpg" file="/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a.jpg" file="/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **digital/ photoshop**.
@@ -30,7 +30,7 @@ Learning to love myself is not easy and It's still a long way to go. so here it 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-6-eb83.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-6-eb83.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

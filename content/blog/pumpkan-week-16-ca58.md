@@ -13,7 +13,7 @@ description = "by Pumpkan for week 16: Scaling Giants. Created using: Photo + Pr
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" file="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" >}}
+{{< fancybox path="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" file="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photo + Procreate**.
@@ -30,7 +30,7 @@ I've been feeling nostalgic for blue skies and pub crawls in the city. Here's a 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-16-ca58.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-16-ca58.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

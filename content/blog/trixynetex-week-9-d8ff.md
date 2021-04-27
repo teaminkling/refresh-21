@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 9: Bold Strokes. Created using: Sketchbook
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" file="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" >}}
+{{< fancybox path="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" file="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Sketchbook Pro**.
@@ -31,7 +31,7 @@ Technically based of the Black Dragons from D&D cause I'm a nerd. Enjoy!
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-9-d8ff.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-9-d8ff.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

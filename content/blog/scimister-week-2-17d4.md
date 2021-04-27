@@ -13,7 +13,7 @@ description = "by Scimister for week 2: Deep Ocean. Created using: PaintToolSAI.
 +++
 
 
-{{< fancybox path="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" >}}
+{{< fancybox path="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **PaintToolSAI**.
@@ -29,7 +29,7 @@ Ascending towards the light and away from theL, whatever that may be <:cindryAAA
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/scimister-week-2-17d4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/scimister-week-2-17d4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

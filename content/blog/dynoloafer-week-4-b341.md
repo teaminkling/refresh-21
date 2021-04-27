@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 4: Murky Silhouettes. Created using: Paint
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" file="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" file="/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ Desc: Whew, this one was close! Sucks that I had to kinda rush at the end becaus
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-4-b341.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-4-b341.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

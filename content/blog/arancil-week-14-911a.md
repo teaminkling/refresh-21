@@ -13,7 +13,7 @@ description = "by arancil for week 14: Absolute Fire. Created using: Watercolor.
 +++
 
 
-{{< fancybox path="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" file="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" >}}
+{{< fancybox path="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" file="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Watercolor**.
@@ -35,7 +35,7 @@ Forest w/ blue flame wisps, foxes & birbs rorodoAAA congregating around a big ow
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-14-911a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-14-911a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

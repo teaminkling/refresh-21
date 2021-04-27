@@ -13,9 +13,9 @@ description = "by Bell-Bones for week 4: Murky Silhouettes. Created using: FireA
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" file="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" >}}
+{{< fancybox path="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" file="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" file="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" >}}
+{{< fancybox path="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" file="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **FireAlpaca**.
@@ -32,7 +32,7 @@ I had the idea to do a cute wild west family portrait featuring the gays(tm) and
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-4-b8b8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-4-b8b8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

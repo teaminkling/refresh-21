@@ -13,7 +13,7 @@ description = "by Charmandaar for week 3: Red Circle. Created using: photography
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" file="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" >}}
+{{< fancybox path="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" file="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **photography/photoshop**.
@@ -31,7 +31,7 @@ this is just me being a monkey in aerial silks. except many of me. in many silks
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/charmandaar-week-3-6e93.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/charmandaar-week-3-6e93.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

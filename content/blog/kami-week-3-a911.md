@@ -13,7 +13,7 @@ description = "by Kami for week 3: Red Circle. Created using: Pencil on paper."
 +++
 
 
-{{< fancybox path="/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg" file="/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg" >}}
+{{< fancybox path="/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg" file="/img/kami/2021-01-23+7ce861195fcd22dffae0f2ea9c0e924e.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Pencil on paper**.
@@ -29,7 +29,7 @@ The Shogun of Death is a character ive been working on for a while ( i say worki
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/kami-week-3-a911.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/kami-week-3-a911.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

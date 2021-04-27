@@ -13,9 +13,9 @@ description = "by WellCookedEgg for week 13: Look At Me. Created using: Clip Stu
 +++
 
 
-{{< fancybox path="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" file="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" file="/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" file="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" file="/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Clip Studio Paint**.
@@ -31,7 +31,7 @@ I drew my OC because I like her :)
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/wellcookedegg-week-13-d1bc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/wellcookedegg-week-13-d1bc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

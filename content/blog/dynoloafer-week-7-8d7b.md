@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 7: Disturbed Desert. Created using: Paint 
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" file="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" file="/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +30,7 @@ This sandstorm is fogging up my judgement. I can't even see you. I can't even se
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-7-8d7b.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-7-8d7b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

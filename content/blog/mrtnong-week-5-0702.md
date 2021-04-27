@@ -13,7 +13,7 @@ description = "by mrtnong for week 5: Royal Green. Created using: Digital (Procr
 +++
 
 
-{{< fancybox path="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" file="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" file="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (Procreate)**.
@@ -30,7 +30,7 @@ I started this piece by chaotically<a:ultrafastparrot:800558785907261441>  flick
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/mrtnong-week-5-0702.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/mrtnong-week-5-0702.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

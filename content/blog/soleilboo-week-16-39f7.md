@@ -13,9 +13,9 @@ description = "by soleilboo for week 16: Scaling Giants. Created using: digital 
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph**.
@@ -32,7 +32,7 @@ This is how I feel everytime I hug my cat. He is a giant things to my heart! Yea
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-16-39f7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-16-39f7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Pumpkan for week 5: Royal Green. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" file="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" >}}
+{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" file="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ Pretty busy this week, so something simple. The image of the expensive jade neck
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-5-ba91.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-5-ba91.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

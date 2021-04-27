@@ -13,7 +13,7 @@ description = "by TITAN011 for week 16: Scaling Giants. Created using: Clip Stud
 +++
 
 
-{{< fancybox path="/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" file="/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" >}}
+{{< fancybox path="/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" file="/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip Studio**.
@@ -28,7 +28,7 @@ To improve as an artist its important to try new things so i decided to draw wit
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-16-872f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-16-872f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

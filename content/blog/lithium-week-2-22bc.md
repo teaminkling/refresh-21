@@ -13,7 +13,7 @@ description = "by Lithium for week 2: Deep Ocean. Created using: Digital (Clip S
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" >}}
+{{< fancybox path="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ IG/Tumblr lithiumreflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-2-22bc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-2-22bc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

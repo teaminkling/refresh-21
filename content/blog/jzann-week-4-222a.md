@@ -13,7 +13,7 @@ description = "by Jzann for week 4: Murky Silhouettes. Created using: Clip Studi
 +++
 
 
-{{< fancybox path="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" file="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" >}}
+{{< fancybox path="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" file="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.
@@ -28,7 +28,7 @@ just an otter floating by, moving with the water
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jzann-week-4-222a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jzann-week-4-222a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

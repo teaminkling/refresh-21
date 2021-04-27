@@ -13,9 +13,9 @@ description = "by Lithium for week 12: Visual Words. Created using: Digital (Cli
 +++
 
 
-{{< fancybox path="/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e.jpg" file="/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e.jpg" >}}
+{{< fancybox path="/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e.jpg" file="/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="img/other-placeholder.png" file="/img/lithium/2021-03-23+0779b2c02590c9267cf40308a1e15fd3.zip" >}}
+{{< fancybox path="img/other-placeholder.png" file="/img/lithium/2021-03-23+0779b2c02590c9267cf40308a1e15fd3.zip" caption="Placeholder thumbnail for a special work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -36,7 +36,7 @@ Handmade font used above - free for your use because you're awesome!
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-12-78e9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-12-78e9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

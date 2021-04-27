@@ -13,9 +13,9 @@ description = "by Goblet for week 13: Look At Me. Created using: Krita."
 +++
 
 
-{{< fancybox path="/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" file="/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" >}}
+{{< fancybox path="/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" file="/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" file="/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" >}}
+{{< fancybox path="/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" file="/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Krita**.
@@ -32,7 +32,7 @@ remade my emote. made the expression better. (first one is the new one)
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-13-40e8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-13-40e8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

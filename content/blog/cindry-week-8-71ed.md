@@ -13,7 +13,7 @@ description = "by cindry for week 8: High Sheen. Created using: graphic, Illustr
 +++
 
 
-{{< fancybox path="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" file="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" >}}
+{{< fancybox path="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" file="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **graphic, Illustrator**.
@@ -32,7 +32,7 @@ Something about a brassy steam punk-y fish, it looks a tad japanese now? i love 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-8-71ed.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-8-71ed.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

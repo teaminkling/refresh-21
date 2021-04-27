@@ -13,7 +13,7 @@ description = "by cindry for week 4: Murky Silhouettes. Created using: Animation
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" file="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" >}}
+{{< fancybox path="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" file="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Animation, CSP**.
@@ -32,7 +32,7 @@ Made a character based off the feeling of morning grogginess and brain fog. Low 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-4-2681.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-4-2681.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

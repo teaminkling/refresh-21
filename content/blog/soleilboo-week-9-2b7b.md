@@ -13,7 +13,7 @@ description = "by soleilboo for week 9: Bold Strokes. Created using: photoshop."
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" file="/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" file="/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **photoshop**.
@@ -30,7 +30,7 @@ Tomorrow I will compete in my Jiu Jisu tournament so I try to keep my mind calm 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-9-2b7b.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-9-2b7b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

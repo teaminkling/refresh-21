@@ -13,7 +13,7 @@ description = "by Jzann for week 3: Red Circle. Created using: Clip Studio Paint
 +++
 
 
-{{< fancybox path="/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff.png" file="/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff.png" >}}
+{{< fancybox path="/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff.png" file="/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Clip Studio Paint**.
@@ -28,7 +28,7 @@ put a circle on top of another and used the eraser tool to create the image and 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jzann-week-3-4d1b.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jzann-week-3-4d1b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

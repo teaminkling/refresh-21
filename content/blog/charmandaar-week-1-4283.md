@@ -13,7 +13,7 @@ description = "by Charmandaar for week 1: Yellow Lines. Created using: digital, 
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" file="/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" >}}
+{{< fancybox path="/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" file="/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **digital, procreate**.
@@ -36,7 +36,7 @@ i look towards the sunlight /
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/charmandaar-week-1-4283.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/charmandaar-week-1-4283.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

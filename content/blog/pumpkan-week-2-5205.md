@@ -13,7 +13,7 @@ description = "by Pumpkan for week 2: Deep Ocean. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" file="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" >}}
+{{< fancybox path="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" file="/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ Wanted to draw a mermaid. I really wanted to show this massive lady with somethi
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-2-5205.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-2-5205.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

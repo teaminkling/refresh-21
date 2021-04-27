@@ -13,7 +13,7 @@ description = "by Scimister for week 16: Scaling Giants. Created using: Paint To
 +++
 
 
-{{< fancybox path="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a.png" file="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a.png" >}}
+{{< fancybox path="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a.png" file="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Paint Tool SAI**.
@@ -29,7 +29,7 @@ A giant golem accompanies and provides shade to desert travellers
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/scimister-week-16-25d6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/scimister-week-16-25d6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

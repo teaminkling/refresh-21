@@ -13,7 +13,7 @@ description = "by HadesPsd for week 10: Folds and Folds. Created using: CSP with
 +++
 
 
-{{< fancybox path="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" file="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" >}}
+{{< fancybox path="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" file="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **CSP with Basic Brushes**.
@@ -29,7 +29,7 @@ Cindy said I was allowed. But also, I really admire the character designs in Bre
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/hadespsd-week-10-04b4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/hadespsd-week-10-04b4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

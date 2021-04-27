@@ -13,9 +13,9 @@ description = "by paintsepsi for week 12: Visual Words. Created using: Photoshop
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="img/video-placeholder.png" file="/img/paintsepsi/2021-03-30+ef4ac246226cf2f9896c0d978c71541f.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/paintsepsi/2021-03-30+ef4ac246226cf2f9896c0d978c71541f.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Photoshop/Premiere Pro**.
@@ -33,7 +33,7 @@ whoops I missed last week but here we gooooo
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-12-6dbd.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-12-6dbd.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

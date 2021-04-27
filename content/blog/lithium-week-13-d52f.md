@@ -13,7 +13,7 @@ description = "by Lithium for week 13: Look At Me. Created using: Digital (Clip 
 +++
 
 
-{{< fancybox path="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" file="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" >}}
+{{< fancybox path="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" file="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ IG/tumblr lithiumreflections / twitter lireflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-13-d52f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-13-d52f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

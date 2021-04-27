@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 3: Red Circle. Created using: Felt and
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" file="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" file="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Felt and ink on paper**.
@@ -34,7 +34,7 @@ I looked up the flag of Okinawa and it was perfect with what I had in mind. The 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-3-4532.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-3-4532.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

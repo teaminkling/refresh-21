@@ -13,7 +13,7 @@ description = "by Goblet for week 8: High Sheen. Created using: ibispaint x."
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" file="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" >}}
+{{< fancybox path="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" file="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **ibispaint x**.
@@ -30,7 +30,7 @@ only used the picture and the colors of the picture. Plus the little tree dawing
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-8-24cb.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-8-24cb.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

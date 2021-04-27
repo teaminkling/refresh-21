@@ -13,7 +13,7 @@ description = "by Pumpkan for week 11: Atmosphere Spectrum. Created using: paper
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.JPG" file="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.JPG" >}}
+{{< fancybox path="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.JPG" file="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **paper and gold thread and glue and stuff**.
@@ -34,7 +34,7 @@ https://twitter.com/pumpkanart/status/1372889078400647169?s=21
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-11-49d3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-11-49d3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

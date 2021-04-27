@@ -13,9 +13,9 @@ description = "by winsome for week 7: Disturbed Desert. Created using: Photograp
 +++
 
 
-{{< fancybox path="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" file="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" >}}
+{{< fancybox path="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" file="/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" file="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" >}}
+{{< fancybox path="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" file="/img/winsome/2021-02-19+40995d4b717102bc6bf2e34a0af0b855.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography, Clay Figure & Cake**.
@@ -40,7 +40,7 @@ A little BTS of the photoshoot
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/winsome-week-7-16e6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-7-16e6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

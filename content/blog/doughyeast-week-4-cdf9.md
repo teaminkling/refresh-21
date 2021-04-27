@@ -13,9 +13,9 @@ description = "by DoughYeast for week 4: Murky Silhouettes. Created using: Procr
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png" file="/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png" file="/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="img/video-placeholder.png" file="/img/doughyeast/2021-01-29+f2813b2589edf72357d317004560ae2a.mov" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/doughyeast/2021-01-29+f2813b2589edf72357d317004560ae2a.mov" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate, Pixaloop**.
@@ -38,7 +38,7 @@ yet she is unable to see the silhouette beneath the water...
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/doughyeast-week-4-cdf9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/doughyeast-week-4-cdf9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by rainydaze for week 16: Scaling Giants. Created using: Procreat
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" file="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" >}}
+{{< fancybox path="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" file="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Procreate**.
@@ -29,7 +29,7 @@ I wanted to draw big egg. Smol soldier. In combination, they make a pretty strik
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/rainydaze-week-16-21e5.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/rainydaze-week-16-21e5.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

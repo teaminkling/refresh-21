@@ -13,7 +13,7 @@ description = "by Lithium for week 9: Bold Strokes. Created using: Digital (Clip
 +++
 
 
-{{< fancybox path="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" file="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" >}}
+{{< fancybox path="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" file="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ twitter lireflections, IG/tumblr lithiumreflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-9-8bb3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-9-8bb3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

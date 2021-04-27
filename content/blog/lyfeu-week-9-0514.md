@@ -13,7 +13,7 @@ description = "by Lyfeu for week 9: Bold Strokes. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" file="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" >}}
+{{< fancybox path="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" file="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.
@@ -31,7 +31,7 @@ twitch/tv/Lyfeu
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lyfeu-week-9-0514.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lyfeu-week-9-0514.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

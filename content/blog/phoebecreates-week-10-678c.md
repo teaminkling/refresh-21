@@ -13,7 +13,7 @@ description = "by PhoebeCreates for week 10: Folds and Folds. Created using: ink
 +++
 
 
-{{< fancybox path="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" file="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" >}}
+{{< fancybox path="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" file="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ink and watercolour**.
@@ -29,7 +29,7 @@ This is the beginning of my 100 outfits challenge. Yes I'm planning to do 100 of
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/phoebecreates-week-10-678c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/phoebecreates-week-10-678c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

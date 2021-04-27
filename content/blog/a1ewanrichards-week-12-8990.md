@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 12: Visual Words. Created using: Felt 
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg" file="/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg" file="/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Felt markers and highlighters**.
@@ -38,7 +38,7 @@ Instagram/Twitter: rjmmendoza444
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-12-8990.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-12-8990.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

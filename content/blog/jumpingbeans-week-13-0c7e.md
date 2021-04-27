@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 13: Look At Me. Created using: MS paint 
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="/img/jumpingbeans/2021-03-29+83503df741b0a25054f4e0aca1ec0685.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/jumpingbeans/2021-03-29+83503df741b0a25054f4e0aca1ec0685.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **MS paint /some online video compiler**.
@@ -30,7 +30,7 @@ My sister took my computer, so i used a potato to do this work.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-13-0c7e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-13-0c7e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

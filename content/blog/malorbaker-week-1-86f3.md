@@ -13,7 +13,7 @@ description = "by MalorBaker for week 1: Yellow Lines. Created using: ms paint."
 +++
 
 
-{{< fancybox path="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" file="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" >}}
+{{< fancybox path="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" file="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **ms paint**.
@@ -28,7 +28,7 @@ sideways yellow waterfall there is harmony in all the whoosh's and they are also
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/malorbaker-week-1-86f3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/malorbaker-week-1-86f3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

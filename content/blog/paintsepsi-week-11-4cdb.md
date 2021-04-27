@@ -13,9 +13,9 @@ description = "by paintsepsi for week 11: Atmosphere Spectrum. Created using: Ph
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4.png" file="/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4.png" file="/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" file="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" file="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.
@@ -33,7 +33,7 @@ No time to draw something this week so instead I decided on a quick little desig
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-11-4cdb.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-11-4cdb.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

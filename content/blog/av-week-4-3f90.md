@@ -13,7 +13,7 @@ description = "by av for week 4: Murky Silhouettes. Created using: Clip Studio P
 +++
 
 
-{{< fancybox path="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" >}}
+{{< fancybox path="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.
@@ -28,7 +28,7 @@ OKAY so this is a snapshot of life. There is a little darkness and a little ligh
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/av-week-4-3f90.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/av-week-4-3f90.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by jonasw for week 7: Disturbed Desert. Created using: Ballpoint 
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" file="/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" >}}
+{{< fancybox path="/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" file="/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ballpoint and hand smudge**.
@@ -30,7 +30,7 @@ No thanks
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jonasw-week-7-fbb3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jonasw-week-7-fbb3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 2: Deep Ocean. Created using: FireAlpaca."
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" file="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" >}}
+{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" file="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Ok, ok, I see your tiny human and large creature entries, but I raise you this,,
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-2-16df.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-2-16df.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

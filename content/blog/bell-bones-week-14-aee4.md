@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 14: Absolute Fire. Created using: FireAlpa
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" file="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" file="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.
@@ -34,7 +34,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-14-aee4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-14-aee4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

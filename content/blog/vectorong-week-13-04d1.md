@@ -13,9 +13,9 @@ description = "by vectorong for week 13: Look At Me. Created using: Mixed media 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< youtube lkYeBXXHgY4 >}}
 
@@ -42,7 +42,7 @@ lol and here's the front of the mask since it's hard to see in the lighting of t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-13-04d1.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-13-04d1.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by meplaysgamez for week 14: Absolute Fire. Created using: Photog
 +++
 
 
-{{< fancybox path="/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451.jpg" file="/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451.jpg" >}}
+{{< fancybox path="/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451.jpg" file="/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Photograph/Free Photo Editing Thingymajig**.
@@ -28,7 +28,7 @@ feeling a bit burnt out
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/meplaysgamez-week-14-2f2a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/meplaysgamez-week-14-2f2a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

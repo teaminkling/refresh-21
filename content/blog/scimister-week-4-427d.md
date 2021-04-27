@@ -13,7 +13,7 @@ description = "by Scimister for week 4: Murky Silhouettes. Created using: PaintT
 +++
 
 
-{{< fancybox path="/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" file="/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" >}}
+{{< fancybox path="/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" file="/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PaintToolSAI**.
@@ -29,7 +29,7 @@ A simplified digital wood carving of a giraffe 🐘
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/scimister-week-4-427d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/scimister-week-4-427d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

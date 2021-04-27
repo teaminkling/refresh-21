@@ -13,9 +13,9 @@ description = "by Magus_Hellwalker for week 5: Royal Green. Created using: Digit
 +++
 
 
-{{< fancybox path="/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png" file="/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png" >}}
+{{< fancybox path="/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png" file="/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png" file="/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png" >}}
+{{< fancybox path="/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png" file="/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital 3D (Blender)**.
@@ -33,7 +33,7 @@ Screen shot of my setup
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/magus_hellwalker-week-5-8cfe.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/magus_hellwalker-week-5-8cfe.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

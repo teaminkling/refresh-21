@@ -13,7 +13,7 @@ description = "by Charmandaar for week 4: Murky Silhouettes. Created using: vide
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="/img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **video/photoshop**.
@@ -33,7 +33,7 @@ ps: pls turn up the audio it's a bit soft lol
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/charmandaar-week-4-36cd.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/charmandaar-week-4-36cd.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

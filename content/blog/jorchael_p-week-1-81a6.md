@@ -13,7 +13,7 @@ description = "by jorchael_p for week 1: Yellow Lines. Created using: Digital, P
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" file="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" file="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Photoshop**.
@@ -30,7 +30,7 @@ I wanted to try play with the rain patterns but rushed them a little. References
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jorchael_p-week-1-81a6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jorchael_p-week-1-81a6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

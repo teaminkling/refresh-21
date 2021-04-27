@@ -13,7 +13,7 @@ description = "by cindry for week 16: Scaling Giants. Created using: digital pai
 +++
 
 
-{{< fancybox path="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" file="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" >}}
+{{< fancybox path="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" file="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph, CSP**.
@@ -32,7 +32,7 @@ hey you should read kaiju no.8 its really good and big things are really cool!!!
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-16-8ba4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-16-8ba4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

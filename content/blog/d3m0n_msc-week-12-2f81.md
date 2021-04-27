@@ -13,7 +13,7 @@ description = "by D3m0n_Msc for week 12: Visual Words. Created using: phone."
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" file="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" >}}
+{{< fancybox path="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" file="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **phone**.
@@ -29,7 +29,7 @@ really rushed submission school is hectic. Saw this quote somewhere and really l
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/d3m0n_msc-week-12-2f81.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/d3m0n_msc-week-12-2f81.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

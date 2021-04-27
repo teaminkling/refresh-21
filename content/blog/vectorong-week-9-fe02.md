@@ -13,7 +13,7 @@ description = "by vectorong for week 9: Bold Strokes. Created using: Suminagashi
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" file="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" file="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< youtube wdwzLaljOzw >}}
 
@@ -35,7 +35,7 @@ While working alongside printmaking friends on a group zoom call, I was suddenly
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-9-fe02.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-9-fe02.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

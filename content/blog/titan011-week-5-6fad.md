@@ -13,7 +13,7 @@ description = "by TITAN011 for week 5: Royal Green. Created using: ClipStudio."
 +++
 
 
-{{< fancybox path="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" file="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" >}}
+{{< fancybox path="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" file="/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **ClipStudio**.
@@ -28,7 +28,7 @@ Music cover
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-5-6fad.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-5-6fad.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

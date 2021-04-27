@@ -13,7 +13,7 @@ description = "by rainydaze for week 11: Atmosphere Spectrum. Created using: Pro
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" file="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" >}}
+{{< fancybox path="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" file="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
@@ -29,7 +29,7 @@ sky with slightly glitched-out clouds plus reflection in water, i like pretty st
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/rainydaze-week-11-c4f8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/rainydaze-week-11-c4f8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

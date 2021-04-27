@@ -13,7 +13,7 @@ description = "by vectorong for week 15: Back to Basics. Created using: Food."
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Food**.
@@ -30,7 +30,7 @@ My grandfather loved boysenberry jam, so I made a simple tribute to him and my f
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-15-78d8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-15-78d8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

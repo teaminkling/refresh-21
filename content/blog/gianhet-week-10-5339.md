@@ -13,7 +13,7 @@ description = "by gianhet for week 10: Folds and Folds. Created using: : CSP."
 +++
 
 
-{{< fancybox path="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" file="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" >}}
+{{< fancybox path="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" file="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **: CSP**.
@@ -30,7 +30,7 @@ rushed this one a bit lmao
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/gianhet-week-10-5339.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/gianhet-week-10-5339.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

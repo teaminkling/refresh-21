@@ -13,7 +13,7 @@ description = "by Kami for week 6: Simple Love. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" >}}
+{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.
@@ -29,7 +29,7 @@ I like the oceans and i like the city skyline in the night. Why is it called Eve
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/kami-week-6-d09a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/kami-week-6-d09a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

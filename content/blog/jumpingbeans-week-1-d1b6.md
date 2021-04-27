@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 1: Yellow Lines. Created using: MS Paint
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" file="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" file="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **MS Paint**.
@@ -30,7 +30,7 @@ simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-1-d1b6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-1-d1b6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

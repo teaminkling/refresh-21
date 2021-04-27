@@ -13,7 +13,7 @@ description = "by Psyko for week 6: Simple Love. Created using: Krita."
 +++
 
 
-{{< fancybox path="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" file="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" >}}
+{{< fancybox path="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" file="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Krita**.
@@ -30,7 +30,7 @@ San Francisco, sunsets, stargazing, and day dreaming are what inspired this piec
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/psyko-week-6-f17c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/psyko-week-6-f17c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

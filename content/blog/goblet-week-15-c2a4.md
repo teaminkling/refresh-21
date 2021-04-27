@@ -13,7 +13,7 @@ description = "by Goblet for week 15: Back to Basics. Created using: Paper, perm
 +++
 
 
-{{< fancybox path="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" file="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" >}}
+{{< fancybox path="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" file="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paper, permanent marker.**.
@@ -30,7 +30,7 @@ Sorry, life happened and I forgot. Here take this shitpost instead. Balance!
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-15-c2a4.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-15-c2a4.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

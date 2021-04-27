@@ -13,7 +13,7 @@ description = "by Space Warfare Development for week 8: High Sheen. Created usin
 +++
 
 
-{{< fancybox path="/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465.jpg" file="/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465.jpg" >}}
+{{< fancybox path="/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465.jpg" file="/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Traditional art.  Copic markers and pens, gell pen.**.
@@ -31,7 +31,7 @@ I applied the photo texture to the maccha cup, the rice bowl, and the ground tun
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/space-warfare-development-week-8-6a17.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/space-warfare-development-week-8-6a17.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

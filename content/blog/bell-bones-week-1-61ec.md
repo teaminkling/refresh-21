@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 1: Yellow Lines. Created using: FireAlpaca
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png" file="/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png" >}}
+{{< fancybox path="/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png" file="/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ I wanted to draw my oc in a dress, so I drew him in a dress! He likes wearing dr
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-1-61ec.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-1-61ec.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

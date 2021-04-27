@@ -13,7 +13,7 @@ description = "by Pumpkan for week 3: Red Circle. Created using: Rubber stamp bl
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86.png" file="/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86.png" >}}
+{{< fancybox path="/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86.png" file="/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Rubber stamp block + ink, procreate**.
@@ -30,7 +30,7 @@ Bc this prompt focusses on contrast I wanted to explore black and white stamp pr
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-3-7d52.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-3-7d52.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

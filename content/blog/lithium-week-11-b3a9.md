@@ -13,7 +13,7 @@ description = "by Lithium for week 11: Atmosphere Spectrum. Created using: Photo
 +++
 
 
-{{< fancybox path="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" file="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" >}}
+{{< fancybox path="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" file="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photomanipulation**.
@@ -33,7 +33,7 @@ lithiumreflections (tumblr, IG), lireflections (twitter)
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-11-b3a9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-11-b3a9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

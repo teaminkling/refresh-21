@@ -13,7 +13,7 @@ description = "by TheLagExpert for week 9: Bold Strokes. Created using: Affinity
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" file="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" >}}
+{{< fancybox path="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" file="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Affinity photo**.
@@ -29,7 +29,7 @@ My new year resolution in 2021 was to start a new chapter after the long and exh
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/thelagexpert-week-9-70ee.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/thelagexpert-week-9-70ee.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

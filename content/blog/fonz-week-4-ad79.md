@@ -13,7 +13,7 @@ description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 +++
 
 
-{{< fancybox path="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" file="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" >}}
+{{< fancybox path="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" file="/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
@@ -29,7 +29,7 @@ another last minute entry  <:wow:649902323191119882>  really just wanted to expl
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/fonz-week-4-ad79.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/fonz-week-4-ad79.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

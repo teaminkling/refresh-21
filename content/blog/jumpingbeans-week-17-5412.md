@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 17: The 4 R's: Finale. Created using: vi
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **video**.
@@ -32,7 +32,7 @@ ive ran out of ideas and time
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-17-5412.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-17-5412.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

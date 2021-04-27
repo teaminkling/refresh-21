@@ -13,7 +13,7 @@ description = "by jorchael_p for week 2: Deep Ocean. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" file="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" file="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Photoshop**.
@@ -35,7 +35,7 @@ https://mobile.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jorchael_p-week-2-3cec.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jorchael_p-week-2-3cec.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

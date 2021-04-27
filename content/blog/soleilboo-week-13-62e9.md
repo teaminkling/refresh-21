@@ -13,7 +13,7 @@ description = "by soleilboo for week 13: Look At Me. Created using: digital,phot
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **digital,photoshop+procreate**.
@@ -32,7 +32,7 @@ the title said it all I guess 🥺🥺🥺
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-13-62e9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-13-62e9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

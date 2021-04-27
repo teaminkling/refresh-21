@@ -13,7 +13,7 @@ description = "by arancil for week 3: Red Circle. Created using: Ink (+watercolo
 +++
 
 
-{{< fancybox path="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" file="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" >}}
+{{< fancybox path="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" file="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)**.
@@ -33,7 +33,7 @@ A JoJo-esque pre-fight peacocking scene. Imagine this being followed by the vill
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-3-5f20.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-3-5f20.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Goblet for week 14: Absolute Fire. Created using: Krita."
 +++
 
 
-{{< fancybox path="/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3.png" file="/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3.png" >}}
+{{< fancybox path="/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3.png" file="/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Krita**.
@@ -30,7 +30,7 @@ Played around with a photo of my cat.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-14-b10a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-14-b10a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

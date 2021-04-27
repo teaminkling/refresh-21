@@ -13,7 +13,7 @@ description = "by TITAN011 for week 10: Folds and Folds. Created using: Clip Stu
 +++
 
 
-{{< fancybox path="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" file="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" >}}
+{{< fancybox path="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" file="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio**.
@@ -28,7 +28,7 @@ Baggy fashion kimono wear 🇯🇵
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-10-66bc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-10-66bc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

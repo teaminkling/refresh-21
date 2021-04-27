@@ -13,11 +13,11 @@ description = "by cindry for week 12: Visual Words. Created using: Photography a
 +++
 
 
-{{< fancybox path="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png" file="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png" >}}
+{{< fancybox path="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png" file="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5.png" file="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5.png" >}}
+{{< fancybox path="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5.png" file="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png" file="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png" >}}
+{{< fancybox path="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png" file="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Photography and Digital Editing**.
@@ -37,7 +37,7 @@ This is a response piece to the experience of being a female online. The quotes 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-12-713c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-12-713c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

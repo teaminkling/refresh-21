@@ -13,7 +13,7 @@ description = "by soleilboo for week 7: Disturbed Desert. Created using: Procrea
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
@@ -37,7 +37,7 @@ And yes flowers can grow in the desert.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soleilboo-week-7-911a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soleilboo-week-7-911a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

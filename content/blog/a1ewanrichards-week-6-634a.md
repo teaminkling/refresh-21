@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 6: Simple Love. Created using: Ink on 
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037.jpg" file="/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037.jpg" file="/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Ink on paper, 9x12 inches.**.
@@ -47,7 +47,7 @@ A1EwanRichards (Twitch)
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-6-634a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-6-634a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

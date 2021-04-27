@@ -13,7 +13,7 @@ description = "by jonasw for week 10: Folds and Folds. Created using: Colored Pe
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" file="/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" file="/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Colored Pencils**.
@@ -30,7 +30,7 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Colored Pen
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jonasw-week-10-f4b3.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jonasw-week-10-f4b3.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

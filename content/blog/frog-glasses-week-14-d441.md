@@ -13,7 +13,7 @@ description = "by Frog Glasses for week 14: Absolute Fire. Created using: procra
 +++
 
 
-{{< fancybox path="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **procrate**.
@@ -29,7 +29,7 @@ Socaisl:  https://frogglasses.carrd.co/
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/frog-glasses-week-14-d441.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/frog-glasses-week-14-d441.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

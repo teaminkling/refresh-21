@@ -13,7 +13,7 @@ description = "by vectorong for week 16: Scaling Giants. Created using: Graphite
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Graphite**.
@@ -30,7 +30,7 @@ The idiom is defined as "an endless, self-defeating, or pointless pursuit...The 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-16-eca9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-16-eca9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

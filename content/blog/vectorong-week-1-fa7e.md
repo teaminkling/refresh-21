@@ -13,7 +13,7 @@ description = "by vectorong for week 1: Yellow Lines. Created using: Processing 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" file="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" file="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Processing (program) + Java**.
@@ -30,7 +30,7 @@ Circle created with Java code that randomizes the spiral variance and the stroke
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-1-fa7e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-1-fa7e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpac
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" >}}
+{{< fancybox path="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Was going to do something cuter this week and make a lovecore aesthetic piece, b
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-12-62d1.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-12-62d1.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

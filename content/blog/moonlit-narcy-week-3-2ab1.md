@@ -13,7 +13,7 @@ description = "by Moonlit Narcy for week 3: Red Circle. Created using: Procreate
 +++
 
 
-{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
@@ -32,7 +32,7 @@ IG&Twitter| Moonlit_narcy. Twitch| MoonlitNarcy
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/moonlit-narcy-week-3-2ab1.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/moonlit-narcy-week-3-2ab1.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

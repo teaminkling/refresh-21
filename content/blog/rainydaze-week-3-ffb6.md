@@ -13,7 +13,7 @@ description = "by rainydaze for week 3: Red Circle. Created using: Marker, brush
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Marker, brush pen, acrylic (red)**.
@@ -29,7 +29,7 @@ Assassin in training with like two knives cuz stab stab v cool
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/rainydaze-week-3-ffb6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/rainydaze-week-3-ffb6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

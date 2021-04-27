@@ -13,7 +13,7 @@ description = "by Lyfeu for week 10: Folds and Folds. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" file="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" >}}
+{{< fancybox path="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" file="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
@@ -29,7 +29,7 @@ Edgy Basket Baller
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lyfeu-week-10-66bc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lyfeu-week-10-66bc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

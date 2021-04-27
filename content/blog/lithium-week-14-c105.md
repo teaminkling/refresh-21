@@ -13,7 +13,7 @@ description = "by Lithium for week 14: Absolute Fire. Created using: Digital/Cli
 +++
 
 
-{{< fancybox path="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg" file="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg" >}}
+{{< fancybox path="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg" file="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Digital/Clip Studio Paint**.
@@ -33,7 +33,7 @@ IG/tumblr lithiumreflections, twitter lireflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-14-c105.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-14-c105.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 10: Folds and Folds. Created using: FireAl
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" >}}
+{{< fancybox path="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Ok, so,, I didn't feel like shading, but partially colored lines are cool, right
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-10-a407.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-10-a407.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

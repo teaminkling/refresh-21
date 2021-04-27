@@ -13,9 +13,9 @@ description = "by cindry for week 13: Look At Me. Created using: digital, CSP an
 +++
 
 
-{{< fancybox path="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" file="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" >}}
+{{< fancybox path="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" file="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" file="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" >}}
+{{< fancybox path="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" file="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **digital, CSP and SAI**.
@@ -36,7 +36,7 @@ i think this has inspired me to do more 4komas tho in the future!!! i really lik
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/cindry-week-13-4534.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/cindry-week-13-4534.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

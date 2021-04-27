@@ -13,7 +13,7 @@ description = "by EyYoJimbo for week 6: Simple Love. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.
@@ -28,7 +28,7 @@ I thought I’d do a piece that describes the appreciation I have for the resili
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/eyyojimbo-week-6-fd6f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/eyyojimbo-week-6-fd6f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

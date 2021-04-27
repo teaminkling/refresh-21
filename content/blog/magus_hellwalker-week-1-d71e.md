@@ -13,7 +13,7 @@ description = "by Magus_Hellwalker for week 1: Yellow Lines. Created using: 3D D
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="/img/magus_hellwalker/2021-01-16+316b8f2be04f6e1fe3753d0f86759834.mp4" >}}
+{{< fancybox path="img/video-placeholder.png" file="/img/magus_hellwalker/2021-01-16+316b8f2be04f6e1fe3753d0f86759834.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **3D Digital**.
@@ -29,7 +29,7 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **3D Digital**.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/magus_hellwalker-week-1-d71e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/magus_hellwalker-week-1-d71e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

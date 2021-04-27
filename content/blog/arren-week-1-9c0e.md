@@ -13,7 +13,7 @@ description = "by arren for week 1: Yellow Lines. Created using: photoshop."
 +++
 
 
-{{< fancybox path="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif" file="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif" >}}
+{{< fancybox path="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif" file="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **photoshop**.
@@ -28,7 +28,7 @@ here's a sparkly mandrake gif that I made, file was too big so I had to resize i
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arren-week-1-9c0e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arren-week-1-9c0e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

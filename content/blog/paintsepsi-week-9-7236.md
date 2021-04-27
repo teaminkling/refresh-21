@@ -13,7 +13,7 @@ description = "by paintsepsi for week 9: Bold Strokes. Created using: Photoshop.
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" file="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" file="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.
@@ -31,7 +31,7 @@ Wow this hurts my eyes. This was meant to be like a 10 min sketch and it looks l
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-9-7236.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-9-7236.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,9 +13,9 @@ description = "by paintsepsi for week 6: Simple Love. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" file="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" file="/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" file="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" file="/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.
@@ -33,7 +33,7 @@ I wanted to do a non paint style for this one and was hugely hugely inspired by 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-6-185c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-6-185c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by arancil for week 9: Bold Strokes. Created using: Pencil, water
 +++
 
 
-{{< fancybox path="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" file="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" >}}
+{{< fancybox path="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" file="/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Pencil, watercolor, acrylics, promarkers, various fineliners, ink, hands, anger, frustration, stress, acceptance, coffee**.
@@ -35,7 +35,7 @@ Also @jonasw was my spirit animal
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-9-7061.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-9-7061.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

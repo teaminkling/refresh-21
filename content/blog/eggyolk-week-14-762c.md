@@ -13,7 +13,7 @@ description = "by eggyolk for week 14: Absolute Fire. Created using: LMFAO HELP.
 +++
 
 
-{{< fancybox path="/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4.png" file="/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4.png" >}}
+{{< fancybox path="/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4.png" file="/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **LMFAO HELP**.
@@ -30,7 +30,7 @@ urmomr1.4505
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/eggyolk-week-14-762c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/eggyolk-week-14-762c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

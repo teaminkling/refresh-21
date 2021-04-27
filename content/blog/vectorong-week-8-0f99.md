@@ -13,7 +13,7 @@ description = "by vectorong for week 8: High Sheen. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" file="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" file="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
@@ -30,7 +30,7 @@ A visual ode to my need for repetitious tasks and the nonsensical thoughts that 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-8-0f99.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-8-0f99.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

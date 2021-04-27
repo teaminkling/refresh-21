@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 14: Absolute Fire. Created using: Krita 
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" file="/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" file="/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Krita w/ mouse**.
@@ -30,7 +30,7 @@ Think about the value
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-14-e259.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-14-e259.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

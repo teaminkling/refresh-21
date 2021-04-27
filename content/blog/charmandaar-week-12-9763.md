@@ -13,7 +13,7 @@ description = "by Charmandaar for week 12: Visual Words. Created using: procreat
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" file="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" >}}
+{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" file="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **procreate**.
@@ -35,7 +35,7 @@ not sure if this counts as typography hahaha oOPs but uhh i really like writing 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/charmandaar-week-12-9763.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/charmandaar-week-12-9763.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

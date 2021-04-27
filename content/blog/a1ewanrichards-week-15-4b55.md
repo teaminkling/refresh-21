@@ -13,7 +13,7 @@ description = "by a1ewanrichards for week 15: Back to Basics. Created using: Cli
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" file="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" file="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.
@@ -38,7 +38,7 @@ The mango is the national fruit of the Philippines, and are usually in season ar
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/a1ewanrichards-week-15-4b55.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-15-4b55.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

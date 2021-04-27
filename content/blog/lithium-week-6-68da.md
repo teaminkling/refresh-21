@@ -13,7 +13,7 @@ description = "by Lithium for week 6: Simple Love. Created using: Digital (Clip 
 +++
 
 
-{{< fancybox path="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" file="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" >}}
+{{< fancybox path="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" file="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -31,7 +31,7 @@ A blanket, the sound of rain, a chill breeze, and distant thunder... these were 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-6-68da.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-6-68da.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by TITAN011 for week 11: Atmosphere Spectrum. Created using: Clip
 +++
 
 
-{{< fancybox path="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" >}}
+{{< fancybox path="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio**.
@@ -28,7 +28,7 @@ Decided to utilize everything I’ve learned in these past few months (perspecti
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/titan011-week-11-aba0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/titan011-week-11-aba0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

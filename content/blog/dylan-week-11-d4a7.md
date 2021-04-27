@@ -13,7 +13,7 @@ description = "by Dylan for week 11: Atmosphere Spectrum. Created using: Photosh
 +++
 
 
-{{< fancybox path="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.
@@ -28,7 +28,7 @@ I usually draw night scenes all the time so this time I tried adding some more c
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dylan-week-11-d4a7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dylan-week-11-d4a7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by jorchael_p for week 3: Red Circle. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photoshop**.
@@ -32,7 +32,7 @@ Didn't know what to draw so I drew something horny, sorry. She sure has a lot of
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jorchael_p-week-3-292d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jorchael_p-week-3-292d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

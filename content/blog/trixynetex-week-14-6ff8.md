@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 14: Absolute Fire. Created using: Sketchbo
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" file="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" >}}
+{{< fancybox path="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" file="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Sketchbook Pro**.
@@ -31,7 +31,7 @@ Very pleased with how it turned out 😊
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-14-6ff8.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-14-6ff8.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

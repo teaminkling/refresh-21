@@ -13,7 +13,7 @@ description = "by Pumpkan for week 12: Visual Words. Created using: Indesign (if
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" file="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" >}}
+{{< fancybox path="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" file="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Indesign (if you prefer illustrator you can fight me)**.
@@ -31,7 +31,7 @@ Maybe this is less 3D than I could have experimented with, but it felt comfortin
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/pumpkan-week-12-2b80.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-12-2b80.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

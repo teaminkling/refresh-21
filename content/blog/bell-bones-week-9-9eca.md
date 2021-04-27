@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 9: Bold Strokes. Created using: FireAlpaca
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" file="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" >}}
+{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" file="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Did something more simple this week since I've been feeling a little burned out.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-9-9eca.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-9-9eca.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

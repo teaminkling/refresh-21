@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 14: Absolute Fire. Created using: Paint To
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" file="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" file="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've a
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-14-dd61.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-14-dd61.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

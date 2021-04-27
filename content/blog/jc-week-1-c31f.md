@@ -13,7 +13,7 @@ description = "by jc for week 1: Yellow Lines. Created using: csp."
 +++
 
 
-{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" >}}
+{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **csp**.
@@ -33,7 +33,7 @@ rybaris
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jc-week-1-c31f.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jc-week-1-c31f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

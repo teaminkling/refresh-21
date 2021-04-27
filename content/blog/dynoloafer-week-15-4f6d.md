@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 15: Back to Basics. Created using: Paint T
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" file="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" file="/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ Whoopsies, I'm late again! Oh well, school finals are happening right now and, p
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-15-4f6d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-15-4f6d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

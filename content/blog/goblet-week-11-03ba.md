@@ -13,7 +13,7 @@ description = "by Goblet for week 11: Atmosphere Spectrum. Created using: ibispa
 +++
 
 
-{{< fancybox path="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" file="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" >}}
+{{< fancybox path="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" file="/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **ibispaint x and phone photo**.
@@ -30,7 +30,7 @@ Went skiing, had fun, saw happy little clouds. Was pretty, smelled chimney smoke
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-11-03ba.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-11-03ba.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

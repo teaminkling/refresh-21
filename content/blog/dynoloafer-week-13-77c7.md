@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 13: Look At Me. Created using: Paint Tool 
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" file="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" file="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Paint Tool SAI**.
@@ -30,7 +30,7 @@ bright colors, just as a warning
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-13-77c7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-13-77c7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

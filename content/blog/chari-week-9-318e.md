@@ -13,7 +13,7 @@ description = "by chari for week 9: Bold Strokes. Created using: Digital, Clip S
 +++
 
 
-{{< fancybox path="/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" file="/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" >}}
+{{< fancybox path="/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" file="/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital, Clip Studio Paint**.
@@ -29,7 +29,7 @@ I'm trying to move away from using super bright palettes so I tried to think of 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/chari-week-9-318e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/chari-week-9-318e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

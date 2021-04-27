@@ -13,11 +13,11 @@ description = "by arancil for week 7: Disturbed Desert. Created using: Ink, trad
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG" file="/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG" >}}
+{{< fancybox path="/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG" file="/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134.JPG" file="/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134.JPG" >}}
+{{< fancybox path="/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134.JPG" file="/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb.JPG" file="/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb.JPG" >}}
+{{< fancybox path="/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb.JPG" file="/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb.JPG" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ink, traditional**.
@@ -44,7 +44,7 @@ This one was a bit rushed, final hours before submission <:cindryBAM:77549832094
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-7-c2c0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-7-c2c0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

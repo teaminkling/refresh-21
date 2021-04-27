@@ -13,7 +13,7 @@ description = "by arancil for week 6: Simple Love. Created using: Trad art, wate
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" >}}
+{{< fancybox path="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Trad art, watercolor**.
@@ -35,7 +35,7 @@ Angled shots in discussion to show off sheen on the gold paint.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-6-9a3d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-6-9a3d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

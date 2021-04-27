@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 11: Atmosphere Spectrum. Created using: Fi
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png" file="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png" >}}
+{{< fancybox path="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png" file="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **FireAlpaca**.
@@ -32,7 +32,7 @@ Also check <#794059396165926913> for a sketch done by DynoLoafer that's basicall
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-11-e2ea.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-11-e2ea.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

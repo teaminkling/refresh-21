@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 7: Disturbed Desert. Created using: Krit
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" file="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" >}}
+{{< fancybox path="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" file="/img/jumpingbeans/2021-02-14+3401288f6feb0319cf41940612f51ac2.PNG" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Krita**.
@@ -30,7 +30,7 @@ The huge creature was a character that I had written about, inspired by League o
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jumpingbeans-week-7-f970.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jumpingbeans-week-7-f970.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Lithium for week 5: Royal Green. Created using: Digital (Clip 
 +++
 
 
-{{< fancybox path="/img/lithium/2021-02-05+883c3abe6465be5d4f18cb30a8b2e0e1.jpg" file="/img/lithium/2021-02-05+883c3abe6465be5d4f18cb30a8b2e0e1.jpg" >}}
+{{< fancybox path="/img/lithium/2021-02-05+883c3abe6465be5d4f18cb30a8b2e0e1.jpg" file="/img/lithium/2021-02-05+883c3abe6465be5d4f18cb30a8b2e0e1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
@@ -33,7 +33,7 @@ IG/Tumblr lithiumreflections
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/lithium-week-5-af61.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/lithium-week-5-af61.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

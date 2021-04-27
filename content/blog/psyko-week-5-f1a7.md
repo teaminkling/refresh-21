@@ -13,7 +13,7 @@ description = "by Psyko for week 5: Royal Green. Created using: Acrylics."
 +++
 
 
-{{< fancybox path="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" >}}
+{{< fancybox path="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Acrylics**.
@@ -30,7 +30,7 @@ I took a lot of influence from the messy textures created by Jade. I made the lo
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/psyko-week-5-f1a7.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/psyko-week-5-f1a7.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by Space Warfare Development for week 3: Red Circle. Created usin
 +++
 
 
-{{< fancybox path="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" file="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" >}}
+{{< fancybox path="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" file="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Traditional, Copic markers & pens**.
@@ -32,7 +32,7 @@ Kill everything they see."
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/space-warfare-development-week-3-66c9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/space-warfare-development-week-3-66c9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

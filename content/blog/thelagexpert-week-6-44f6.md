@@ -13,7 +13,7 @@ description = "by TheLagExpert for week 6: Simple Love. Created using: Affinity 
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" file="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" >}}
+{{< fancybox path="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" file="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Affinity Photo**.
@@ -31,7 +31,7 @@ Twitter: @TheLagExpert
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/thelagexpert-week-6-44f6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/thelagexpert-week-6-44f6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

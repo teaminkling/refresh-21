@@ -13,7 +13,7 @@ description = "by soggyissoggy for week 3: Red Circle. Created using: unknown me
 +++
 
 
-{{< fancybox path="/img/soggyissoggy/2021-01-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soggyissoggy/2021-01-23+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/soggyissoggy/2021-01-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soggyissoggy/2021-01-23+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **unknown medium**.
@@ -33,7 +33,7 @@ a reimagination of the classical story. I try to make use of circular compositio
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/soggyissoggy-week-3-433e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/soggyissoggy-week-3-433e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

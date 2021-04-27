@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 15: Back to Basics. Created using: FireAlp
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" file="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" >}}
+{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" file="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ So... I was late for once. Annnd this wasn't even what I was working on, this is
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-15-6259.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-15-6259.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

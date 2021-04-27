@@ -13,7 +13,7 @@ description = "by jorchael_p for week 6: Simple Love. Created using: photoshop."
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" >}}
+{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **photoshop**.
@@ -33,7 +33,7 @@ https://mobile.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jorchael_p-week-6-92bc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jorchael_p-week-6-92bc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

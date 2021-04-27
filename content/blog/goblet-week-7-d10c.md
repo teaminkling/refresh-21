@@ -13,7 +13,7 @@ description = "by Goblet for week 7: Disturbed Desert. Created using: ibispaint 
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" >}}
+{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ibispaint x**.
@@ -30,7 +30,7 @@ dropped randomly in death valley on google maps and used that as my reference. D
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/goblet-week-7-d10c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/goblet-week-7-d10c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

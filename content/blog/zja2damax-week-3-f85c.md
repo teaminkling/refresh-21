@@ -13,7 +13,7 @@ description = "by zja2damax for week 3: Red Circle. Created using: Charcoal, Acr
 +++
 
 
-{{< fancybox path="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Charcoal, Acrylic, and Watercolor on paper**.
@@ -28,7 +28,7 @@ Desc: A photoshopped composition focused around the red circle. The circle is em
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/zja2damax-week-3-f85c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/zja2damax-week-3-f85c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 10: Folds and Folds. Created using: Paint 
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" file="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" file="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Paint Tool SAI**.
@@ -28,7 +28,7 @@ Not too much behind this lol, just wanted to draw some fanart for good ol' Pico 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-10-1d26.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-10-1d26.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

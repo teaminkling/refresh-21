@@ -13,7 +13,7 @@ description = "by arancil for week 11: Atmosphere Spectrum. Created using: Water
 +++
 
 
-{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" >}}
+{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
@@ -34,7 +34,7 @@ Have a good day day/night/morning/evening, everyone, you're all lovely.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/arancil-week-11-fb4d.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-11-fb4d.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

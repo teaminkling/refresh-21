@@ -13,7 +13,7 @@ description = "by paintsepsi for week 3: Red Circle. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
@@ -31,7 +31,7 @@ Simple profile draw based on Akihiko Yoshida’s art. Was trying to do a new ren
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/paintsepsi-week-3-911a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/paintsepsi-week-3-911a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

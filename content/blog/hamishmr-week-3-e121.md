@@ -13,7 +13,7 @@ description = "by hamishmr for week 3: Red Circle. Created using: Ps."
 +++
 
 
-{{< fancybox path="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" file="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" >}}
+{{< fancybox path="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" file="/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ps**.
@@ -28,7 +28,7 @@ fish 🙂
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/hamishmr-week-3-e121.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/hamishmr-week-3-e121.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

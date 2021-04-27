@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 13: Look At Me. Created using: Sketchbook 
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png" file="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png" >}}
+{{< fancybox path="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png" file="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Sketchbook pro & paint.net**.
@@ -35,7 +35,7 @@ Enjoy
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-13-b7c6.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-13-b7c6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

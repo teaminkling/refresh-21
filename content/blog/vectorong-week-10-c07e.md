@@ -13,9 +13,9 @@ description = "by vectorong for week 10: Folds and Folds. Created using: Fabric 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" file="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" file="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" file="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" file="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Fabric / fashion (upcycled fabric, screenprinting, and sewing)**.
@@ -35,7 +35,7 @@ I also included a comparison image for fun and how you can use non-functionality
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-10-c07e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-10-c07e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

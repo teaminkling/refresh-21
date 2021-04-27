@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 4: Murky Silhouettes. Created using: Sketc
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" file="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" >}}
+{{< fancybox path="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" file="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Sketchbook Pro**.
@@ -32,7 +32,7 @@ Enjoy!
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/trixynetex-week-4-4be9.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/trixynetex-week-4-4be9.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

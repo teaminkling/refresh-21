@@ -13,7 +13,7 @@ description = "by vectorong for week 7: Disturbed Desert. Created using: Photogr
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" file="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" >}}
+{{< fancybox path="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" file="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography (shot w/ a Canon 40D)**.
@@ -32,7 +32,7 @@ There's often times when I feel like I'm in an internal 'desert', where ideas do
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/vectorong-week-7-7f38.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-7-7f38.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

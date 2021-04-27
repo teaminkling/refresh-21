@@ -13,7 +13,7 @@ description = "by DynoLoafer for week 3: Red Circle. Created using: Paint Tool S
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" file="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" >}}
+{{< fancybox path="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" file="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Paint Tool SAI**.
@@ -31,7 +31,7 @@ Don't you worry, it's very gay
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/dynoloafer-week-3-ee54.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/dynoloafer-week-3-ee54.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

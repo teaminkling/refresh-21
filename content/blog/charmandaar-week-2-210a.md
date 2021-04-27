@@ -13,7 +13,7 @@ description = "by Charmandaar for week 2: Deep Ocean. Created using: traditional
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" >}}
+{{< fancybox path="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **traditional, embroidery on tulle**.
@@ -31,7 +31,7 @@ embroidered this cutie across two streams! freehanded off.. a questionable draft
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/charmandaar-week-2-210a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/charmandaar-week-2-210a.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

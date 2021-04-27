@@ -13,7 +13,7 @@ description = "by rainydaze for week 6: Simple Love. Created using: Procreate, w
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" >}}
+{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate, with the Narinder Pencil**.
@@ -29,7 +29,7 @@ I don't have many people to rely on for emotional support, so it's really nice t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/rainydaze-week-6-0452.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/rainydaze-week-6-0452.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

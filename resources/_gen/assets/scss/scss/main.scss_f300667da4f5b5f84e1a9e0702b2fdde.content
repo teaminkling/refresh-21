@@ -121,7 +121,7 @@ body,
 input,
 select,
 textarea {
-  color: #333333;
+  color: black;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   line-height: 1.75em; }
 
@@ -831,7 +831,7 @@ figcaption {
   float: right; }
 
 .copyright {
-  color: #ababab;
+  color: #000000;
   font-family: "Raleway", Helvetica, sans-serif;
   font-size: 0.5em;
   font-weight: 400;

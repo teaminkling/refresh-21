@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 5: Royal Green. Created using: FireAlpaca.
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" file="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" >}}
+{{< fancybox path="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" file="/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **FireAlpaca**.
@@ -30,7 +30,7 @@ Finally, something not last minute! I decided to be experimental, doing a linele
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/bell-bones-week-5-1fa0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-5-1fa0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

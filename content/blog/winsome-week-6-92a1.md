@@ -13,7 +13,7 @@ description = "by winsome for week 6: Simple Love. Created using: Modelling Clay
 +++
 
 
-{{< fancybox path="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" file="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" >}}
+{{< fancybox path="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" file="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Modelling Clay (Sculpey)**.
@@ -30,7 +30,7 @@ A lot of people give chocolates for Valentines and other romantic holidays. I'm 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/winsome-week-6-92a1.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-6-92a1.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

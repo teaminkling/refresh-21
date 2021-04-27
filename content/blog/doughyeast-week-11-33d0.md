@@ -13,11 +13,11 @@ description = "by DoughYeast for week 11: Atmosphere Spectrum. Created using: Pr
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" file="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" file="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
@@ -36,7 +36,7 @@ I need to stop making non-human things human <:ThankEgg:797490219716050954>
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/doughyeast-week-11-33d0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/doughyeast-week-11-33d0.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

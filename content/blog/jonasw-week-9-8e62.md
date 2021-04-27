@@ -13,7 +13,7 @@ description = "by jonasw for week 9: Bold Strokes. Created using: Color Pencils 
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" file="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" >}}
+{{< fancybox path="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" file="/img/jonasw/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)**.
@@ -28,7 +28,7 @@ Katamari Damacy (Song) Fanart, wanted something big and bright and cheerful. Als
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/jonasw-week-9-8e62.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/jonasw-week-9-8e62.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

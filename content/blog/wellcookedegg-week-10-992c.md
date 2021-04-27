@@ -13,7 +13,7 @@ description = "by WellCookedEgg for week 10: Folds and Folds. Created using: Cli
 +++
 
 
-{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.
@@ -29,7 +29,7 @@ I went for some baggier street wear cause street wear is sick
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/wellcookedegg-week-10-992c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/wellcookedegg-week-10-992c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

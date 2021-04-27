@@ -13,7 +13,7 @@ description = "by eggyolk for week 11: Atmosphere Spectrum. Created using: Procr
 +++
 
 
-{{< fancybox path="/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png" file="/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png" >}}
+{{< fancybox path="/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png" file="/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
@@ -30,7 +30,7 @@ urmom 11.0 <:doughy4Idle:787151835311636540> <:cindry4Idle:814123098928185394>
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/eggyolk-week-11-c06c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/eggyolk-week-11-c06c.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

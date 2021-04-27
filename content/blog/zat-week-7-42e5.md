@@ -13,7 +13,7 @@ description = "by Zat for week 7: Disturbed Desert. Created using: Photography."
 +++
 
 
-{{< fancybox path="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" >}}
+{{< fancybox path="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography**.
@@ -30,7 +30,7 @@ https://500px.com/p/antiiobs08
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/zat-week-7-42e5.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/zat-week-7-42e5.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -13,7 +13,7 @@ description = "by chari for week 6: Simple Love. Created using: Digital, Clip St
 +++
 
 
-{{< fancybox path="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" file="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" >}}
+{{< fancybox path="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" file="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital, Clip Studio Paint**.
@@ -29,7 +29,7 @@ Was meant to be a Week 5 submission but it fits Week 6 for me too. I love my OCs
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/blog/content/blog/chari-week-6-3bfe.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/chari-week-6-3bfe.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
