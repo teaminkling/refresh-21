@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["arancil"]
 description = "by arancil for week 6: Simple Love. Created using: Trad art, watercolor."
 [[images]]
-              src = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg"
+              src = "../static/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-6-9a3d"
               alt = "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of."
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439-thumbnail-w720px.jpg
 
 Week 6: **Simple Love**. This art was lovingly created using: **Trad art, watercolor**.
 
@@ -28,10 +27,9 @@ Angled shots in discussion to show off sheen on the gold paint.
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

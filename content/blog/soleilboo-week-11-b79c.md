@@ -6,15 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 11: Atmosphere Spectrum. Created using: Watercolour."
 [[images]]
-              src = "/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg"
+              src = "../static/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343-thumbnail-w720px.jpg"
               href = "/blog/soleilboo-week-11-b79c"
               alt = "Hydrangea Star Gazer"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" file="/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343-thumbnail-w720px.jpg
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolour**.
 
@@ -26,7 +25,6 @@ There are 9,096 stars in the sky and I know one of them is you.  I love you to t
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

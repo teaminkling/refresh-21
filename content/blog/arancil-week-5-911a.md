@@ -13,8 +13,7 @@ description = "by arancil for week 5: Royal Green. Created using: A3 watercolor,
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.JPG" file="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.JPG" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4-thumbnail-w720px.jpg
 [View on Imgur.](https://imgur.com/a/4UO7n4s)
 
 
@@ -29,10 +28,9 @@ More notes here: https://imgur.com/a/4UO7n4s
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

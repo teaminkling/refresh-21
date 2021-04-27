@@ -6,23 +6,18 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["winsome"]
 description = "by winsome for week 9: Bold Strokes. Created using: Photography (Photo set)."
 [[images]]
-              src = "/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg"
+              src = "../static/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d-thumbnail-w720px.jpeg"
               href = "/blog/winsome-week-9-ca4a"
               alt = "Hi! I like shorts! They're comfy and easy to wear!"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg" file="/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5.jpeg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/winsome/2021-03-05+bd3f8368b4e6120a4eaf6a08e7aeea14.jpeg" file="/img/winsome/2021-03-05+bd3f8368b4e6120a4eaf6a08e7aeea14.jpeg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/winsome/2021-03-05+3c76cb38f9a1aa193ec28e8ad6afe1de.jpeg" file="/img/winsome/2021-03-05+3c76cb38f9a1aa193ec28e8ad6afe1de.jpeg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/winsome/2021-03-05+7b8722a0591a4ec0ec3702c7507d46e6.jpeg" file="/img/winsome/2021-03-05+7b8722a0591a4ec0ec3702c7507d46e6.jpeg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg" file="/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d.jpeg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5-thumbnail-w720px.jpeg
+{{< fancybox path="../static/img/winsome/2021-03-05+bd3f8368b4e6120a4eaf6a08e7aeea14-thumbnail-w720px.jpeg
+{{< fancybox path="../static/img/winsome/2021-03-05+3c76cb38f9a1aa193ec28e8ad6afe1de-thumbnail-w720px.jpeg
+{{< fancybox path="../static/img/winsome/2021-03-05+7b8722a0591a4ec0ec3702c7507d46e6-thumbnail-w720px.jpeg
+{{< fancybox path="../static/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d-thumbnail-w720px.jpeg
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photography (Photo set)**.
 
@@ -34,7 +29,6 @@ Celebrating the 25th Anniversary of Pokemon and myself, with a Pokemon that I li
 
 - **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
 - **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
-
 
 ## Other
 

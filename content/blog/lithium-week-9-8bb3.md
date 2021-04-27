@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Lithium"]
 description = "by Lithium for week 9: Bold Strokes. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg"
+              src = "../static/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-9-8bb3"
               alt = "Berry Dragon"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" file="/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1-thumbnail-w720px.jpg
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 
@@ -26,10 +25,9 @@ twitter lireflections, IG/tumblr lithiumreflections
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

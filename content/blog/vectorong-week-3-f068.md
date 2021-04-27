@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["vectorong"]
 description = "by vectorong for week 3: Red Circle. Created using: Vector illustration."
 [[images]]
-              src = "/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d.jpg"
+              src = "../static/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-3-f068"
               alt = "Tesseract"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d.jpg" file="/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Vector illustration**.
 
@@ -26,7 +25,6 @@ Rather than a finalized illustration, I wanted to use this week as a way to push
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

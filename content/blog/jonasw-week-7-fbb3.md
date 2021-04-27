@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["jonasw"]
 description = "by jonasw for week 7: Disturbed Desert. Created using: Ballpoint and hand smudge."
 [[images]]
-              src = "/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png"
+              src = "../static/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64-thumbnail-w720px.png"
               href = "/blog/jonasw-week-7-fbb3"
               alt = "Angry Bird"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" file="/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64-thumbnail-w720px.png
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ballpoint and hand smudge**.
 

@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 12: Visual Words. Created using: Procreate."
 [[images]]
-              src = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif"
+              src = "../static/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif"
               href = "/blog/soleilboo-week-12-f36b"
               alt = "Disappear"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" file="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif
 
 Week 12: **Visual Words**. This art was lovingly created using: **Procreate**.
 
@@ -29,7 +28,6 @@ twitch.tv/soleilboo
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

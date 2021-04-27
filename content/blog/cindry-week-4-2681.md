@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["cindry"]
 description = "by cindry for week 4: Murky Silhouettes. Created using: Animation, CSP."
 [[images]]
-              src = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif"
+              src = "../static/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55-thumbnail-w720px.gif"
               href = "/blog/cindry-week-4-2681"
               alt = "Morning Breeze"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" file="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55-thumbnail-w720px.gif
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Animation, CSP**.
 
@@ -25,10 +24,9 @@ Made a character based off the feeling of morning grogginess and brain fog. Low 
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
-- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
-
 
 ## Other
 

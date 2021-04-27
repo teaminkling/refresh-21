@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["D3m0n_Msc"]
 description = "by D3m0n_Msc for week 12: Visual Words. Created using: phone."
 [[images]]
-              src = "/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png"
+              src = "../static/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716-thumbnail-w720px.png"
               href = "/blog/d3m0n_msc-week-12-2f81"
               alt = "Trust"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" file="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716-thumbnail-w720px.png
 
 Week 12: **Visual Words**. This art was lovingly created using: **phone**.
 
@@ -25,7 +24,6 @@ really rushed submission school is hectic. Saw this quote somewhere and really l
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
-
 
 ## Other
 

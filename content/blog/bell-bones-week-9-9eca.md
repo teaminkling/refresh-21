@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 9: Bold Strokes. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png"
+              src = "../static/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-9-9eca"
               alt = "Introspection"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" file="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b-thumbnail-w720px.png
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ Did something more simple this week since I've been feeling a little burned out.
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

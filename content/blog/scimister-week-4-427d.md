@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Scimister"]
 description = "by Scimister for week 4: Murky Silhouettes. Created using: PaintToolSAI."
 [[images]]
-              src = "/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png"
+              src = "../static/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4-thumbnail-w720px.png"
               href = "/blog/scimister-week-4-427d"
               alt = "Giraffe"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" file="/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4-thumbnail-w720px.png
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PaintToolSAI**.
 
@@ -25,7 +24,6 @@ A simplified digital wood carving of a giraffe 🐘
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/scimister' target='_blank'>scimister</a>
-
 
 ## Other
 

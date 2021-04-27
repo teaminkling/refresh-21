@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 12: Visual Words. Created using: Indesign (if you prefer illustrator you can fight me)."
 [[images]]
-              src = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png"
+              src = "../static/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-12-2b80"
               alt = "Are You Listening?"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" file="/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e-thumbnail-w720px.png
 
 Week 12: **Visual Words**. This art was lovingly created using: **Indesign (if you prefer illustrator you can fight me)**.
 
@@ -27,7 +26,6 @@ Maybe this is less 3D than I could have experimented with, but it felt comfortin
 
 - **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
 - **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
-
 
 ## Other
 

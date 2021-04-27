@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 9: Bold Strokes. Created using: Procreate."
 [[images]]
-              src = "/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG"
+              src = "../static/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-9-1267"
               alt = "wikipedia"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG" file="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.PNG" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71-thumbnail-w720px.png
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Procreate**.
 
@@ -26,7 +25,6 @@ yo who else misses hatsune miku
 
 - **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
 - **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
-
 
 ## Other
 

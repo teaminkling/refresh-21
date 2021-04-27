@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 3: Red Circle. Created using: Marker, brush pen, acrylic (red)."
 [[images]]
-              src = "/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/rainydaze-week-3-ffb6"
               alt = "Shadow of the Red Sun"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Marker, brush pen, acrylic (red)**.
 
@@ -25,7 +24,6 @@ Assassin in training with like two knives cuz stab stab v cool
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/rainydazedoeslife' target='_blank'>rainydazedoeslife</a>
-
 
 ## Other
 

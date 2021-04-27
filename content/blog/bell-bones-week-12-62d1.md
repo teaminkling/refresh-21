@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png"
+              src = "../static/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-12-62d1"
               alt = "Exhaustion"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png
 
 Week 12: **Visual Words**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ Was going to do something cuter this week and make a lovecore aesthetic piece, b
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

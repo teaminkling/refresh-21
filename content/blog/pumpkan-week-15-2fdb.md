@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 15: Back to Basics. Created using: markers + paper in gif."
 [[images]]
-              src = "/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif"
+              src = "../static/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd-thumbnail-w720px.gif"
               href = "/blog/pumpkan-week-15-2fdb"
               alt = "Whats Left : Left handed Leftovers, vol. 1"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" file="/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd-thumbnail-w720px.gif
 
 Week 15: **Back to Basics**. This art was lovingly created using: **markers + paper in gif**.
 
@@ -28,7 +27,6 @@ edit: fixed the file
 
 - **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
 - **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
-
 
 ## Other
 

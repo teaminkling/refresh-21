@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Ramen"]
 description = "by Ramen for week 1: Yellow Lines. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg"
+              src = "../static/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8-thumbnail-w720px.jpg"
               href = "/blog/ramen-week-1-c830"
               alt = "Objects"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg" file="/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8-thumbnail-w720px.jpg
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Clip Studio Paint**.
 

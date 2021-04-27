@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Scimister"]
 description = "by Scimister for week 2: Deep Ocean. Created using: PaintToolSAI."
 [[images]]
-              src = "/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png"
+              src = "../static/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9-thumbnail-w720px.png"
               href = "/blog/scimister-week-2-17d4"
               alt = "Ascend"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9-thumbnail-w720px.png
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **PaintToolSAI**.
 
@@ -25,7 +24,6 @@ Ascending towards the light and away from theL, whatever that may be <:cindryAAA
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/scimister' target='_blank'>scimister</a>
-
 
 ## Other
 

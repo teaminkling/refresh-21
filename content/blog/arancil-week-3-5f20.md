@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["arancil"]
 description = "by arancil for week 3: Red Circle. Created using: Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)."
 [[images]]
-              src = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg"
+              src = "../static/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-3-5f20"
               alt = "Behold my stand - [BRIGHT EYES!!]"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" file="/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)**.
 
@@ -26,10 +25,9 @@ A JoJo-esque pre-fight peacocking scene. Imagine this being followed by the vill
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

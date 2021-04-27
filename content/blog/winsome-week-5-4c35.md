@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["winsome"]
 description = "by winsome for week 5: Royal Green. Created using: unknown medium."
 [[images]]
-              src = "/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png"
+              src = "../static/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a-thumbnail-w720px.png"
               href = "/blog/winsome-week-5-4c35"
               alt = "Queen of the Skies"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" file="/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a-thumbnail-w720px.png
 
 Week 5: **Royal Green**. This art was lovingly created using: **unknown medium**.
 
@@ -26,7 +25,6 @@ The prompt immediately made me think of the Rathian from Monster Hunter, the fem
 
 - **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
 - **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
-
 
 ## Other
 

@@ -110,23 +110,24 @@ def create_all_posts():
 
             # Determine a short description. This is only used in the search interface.
 
-            short_description: str = (
-                f"by {short_author} for week {week_number}: {theme_name}. Created using: {medium}."
-            )
+            short_description: str = f"by {short_author} for week {week_number}: {theme_name}. Created using: {medium}."
 
             # Determine the media to show.
 
             attachment_text: str = ""
             thumbnail: str = ""
-            for attachment in submission["attachments"]:
-                # First, make the path relative to the root and not the bot.
+            for attachment_data in submission["attachments"]:
+                attachment: str = attachment_data["url"]
+                provided_thumbnail: str = attachment_data.get("thumbnail_url") or ""
+
+                # First, make the paths relative to the root and not the bot.
 
                 attachment = attachment.replace("../blog/static/", "/")
+                provided_thumbnail = provided_thumbnail.replace("../blog/static/", "/")
 
-                # The first found media is the thumbnail.
+                # Set the first thumbnail.
 
-                if not thumbnail:
-                    thumbnail = attachment
+                thumbnail = provided_thumbnail or attachment
 
                 if "img/" in attachment:
                     # This is a local file so we can display it with a fancybox. However,
@@ -145,11 +146,11 @@ def create_all_posts():
 
                     if extension in VALID_INSTANT_THUMBNAILS:
                         if old_extension not in VALID_INSTANT_THUMBNAILS:
-                            thumbnail = attachment
+                            thumbnail = provided_thumbnail or attachment
 
                         attachment_text += (
                             '\n{{< fancybox path="'
-                            + attachment
+                            + provided_thumbnail or attachment
                             + '" file="'
                             + attachment
                             + '" caption="Placeholder thumbnail for a visual work." >}}\n'
@@ -218,6 +219,8 @@ def create_all_posts():
                     attachment_text += f"\n[View on External Website.]({attachment})\n"
                     thumbnail = "img/other-placeholder.png"
 
+            # Handle poetry/prose.
+
             if not submission["attachments"]:
                 thumbnail = "img/other-placeholder.png"
 
@@ -228,7 +231,7 @@ def create_all_posts():
 
             thumbnail_text = f"""
             [[images]]
-              src = "{thumbnail}"
+              src = "{provided_thumbnail or thumbnail}"
               href = "/blog/{submission['id']}"
               alt = "{title}"
               stretch = "cover"
@@ -240,7 +243,7 @@ def create_all_posts():
                 submission["author"], []
             )
 
-            socials_text: str = ""
+            socials_list: List[str] = []
             for social in user_socials:
                 provider: str = social["provider"]
                 username: str = social["username"]
@@ -264,9 +267,14 @@ def create_all_posts():
                 elif provider.lower() == "twitch":
                     link = f"https://twitch.tv/{username}"
 
-                socials_text += f"- **{provider}**: <a href='{link}' target='_blank'>{username}</a>\n"
-            if not socials_text:
+                socials_list.append(
+                    f"- **{provider}**: <a href='{link}' target='_blank'>{username}</a>"
+                )
+
+            if not socials_list:
                 socials_text = "- N/A."
+            else:
+                socials_text = "\n".join(socials_list)
 
             # Write each post to a file using tag substitutions.
 

@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["fonz"]
 description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 [[images]]
-              src = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png"
+              src = "../static/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png"
               href = "/blog/fonz-week-4-f2ce"
               alt = "mask"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" file="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
 
@@ -25,7 +24,6 @@ i really just wanted to create something ambiguous with this piece, no clear exp
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/fonzaku' target='_blank'>fonzaku</a>
-
 
 ## Other
 

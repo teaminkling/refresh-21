@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["cindry"]
 description = "by cindry for week 10: Folds and Folds. Created using: Digital, Illustrator and CSP."
 [[images]]
-              src = "/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png"
+              src = "../static/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png"
               href = "/blog/cindry-week-10-43db"
               alt = "Implied emotion??"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png" file="/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Digital, Illustrator and CSP**.
 
@@ -27,10 +26,9 @@ shop.fiveclawd.com LOL
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
-- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
-
 
 ## Other
 

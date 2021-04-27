@@ -6,17 +6,15 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Magus_Hellwalker"]
 description = "by Magus_Hellwalker for week 5: Royal Green. Created using: Digital 3D (Blender)."
 [[images]]
-              src = "/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png"
+              src = "../static/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24-thumbnail-w720px.png"
               href = "/blog/magus_hellwalker-week-5-8cfe"
               alt = "Jade Dragon on plinth"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png" file="/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png" file="/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be-thumbnail-w720px.png
+{{< fancybox path="../static/img/magus_hellwalker/2021-02-05+91db82e6e75ac45437c356c04e189b24-thumbnail-w720px.png
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital 3D (Blender)**.
 
@@ -29,7 +27,6 @@ Screen shot of my setup
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/magus_hellwalker' target='_blank'>magus_hellwalker</a>
-
 
 ## Other
 

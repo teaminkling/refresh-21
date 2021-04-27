@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Space Warfare Development"]
 description = "by Space Warfare Development for week 3: Red Circle. Created using: Traditional, Copic markers & pens."
 [[images]]
-              src = "/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg"
+              src = "../static/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1-thumbnail-w720px.jpg"
               href = "/blog/space-warfare-development-week-3-66c9"
               alt = "Harbinger"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" file="/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Traditional, Copic markers & pens**.
 

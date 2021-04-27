@@ -6,15 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 14: Absolute Fire. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg"
+              src = "../static/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-14-acb9"
               alt = "The End of Zeno's Paradox"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg" file="/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd-thumbnail-w720px.jpg
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Clip Studio Paint**.
 
@@ -28,13 +27,12 @@ I based this on a scene from Takeshi Kitano's 2008 movie "Achilles and the Torto
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

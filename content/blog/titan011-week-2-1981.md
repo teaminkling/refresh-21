@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 2: Deep Ocean. Created using: Clipstudio."
 [[images]]
-              src = "/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg"
+              src = "../static/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-2-1981"
               alt = "King of the Sea"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" file="/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5-thumbnail-w720px.jpg
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Clipstudio**.
 

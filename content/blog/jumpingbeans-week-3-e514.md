@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 3: Red Circle. Created using: autodesk sketchbook (mobile)."
 [[images]]
-              src = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png"
+              src = "../static/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e-thumbnail-w720px.png"
               href = "/blog/jumpingbeans-week-3-e514"
               alt = "Untitled (society)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png" file="/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **autodesk sketchbook (mobile)**.
 
@@ -28,9 +27,8 @@ bonus points for whoever could guess my inspiration :p
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 - **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
-
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 ## Other
 

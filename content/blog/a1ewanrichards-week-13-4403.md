@@ -6,15 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 13: Look At Me. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg"
+              src = "../static/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-13-4403"
               alt = "Portrait 7: Ruminations"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg" file="/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f-thumbnail-w720px.jpg
 
 Week 13: **Look At Me**. This art was lovingly created using: **Clip Studio Paint**.
 
@@ -28,13 +27,12 @@ My interpretation of Otomatsu Sato from the movie "Poppoya" (Railroad Man), a st
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

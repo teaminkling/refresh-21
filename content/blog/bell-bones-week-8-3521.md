@@ -6,15 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 8: High Sheen. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png"
+              src = "../static/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-8-3521"
               alt = "Brooke Rivers"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68-thumbnail-w720px.png
 
 Week 8: **High Sheen**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ Wow! This was stressful! The time limit and outside stressors made this a partic
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["Lithium"]
 description = "by Lithium for week 11: Atmosphere Spectrum. Created using: Photomanipulation."
 [[images]]
-              src = "/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg"
+              src = "../static/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-11-b3a9"
               alt = "Impressionable Sky"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" file="/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11-thumbnail-w720px.jpg
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photomanipulation**.
 
@@ -26,10 +25,9 @@ lithiumreflections (tumblr, IG), lireflections (twitter)
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

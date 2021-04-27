@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["chari"]
 description = "by chari for week 7: Disturbed Desert. Created using: Digital, Clip Studio Paint."
 [[images]]
-              src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg"
+              src = "../static/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg"
               href = "/blog/chari-week-7-b2ee"
               alt = "Academy, Disrepair"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" file="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital, Clip Studio Paint**.
 
@@ -25,7 +24,6 @@ Sort of a composition exercise since I don't normally draw backgrounds. Couldn't
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/hogfriendz' target='_blank'>hogfriendz</a>
-
 
 ## Other
 

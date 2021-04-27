@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 15: Back to Basics. Created using: chinese calligraphy."
 [[images]]
-              src = "/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg"
+              src = "../static/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c-thumbnail-w720px.jpg"
               href = "/blog/jumpingbeans-week-15-f94f"
               alt = "illiteracy"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" file="/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c-thumbnail-w720px.jpg
 
 Week 15: **Back to Basics**. This art was lovingly created using: **chinese calligraphy**.
 
@@ -28,9 +27,8 @@ But, doing this work reminds me, i suck at calligraphy.
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 - **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
-
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 ## Other
 

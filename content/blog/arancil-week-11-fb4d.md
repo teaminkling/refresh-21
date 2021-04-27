@@ -6,15 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["arancil"]
 description = "by arancil for week 11: Atmosphere Spectrum. Created using: Watercolor."
 [[images]]
-              src = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg"
+              src = "../static/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-11-fb4d"
               alt = "This is where I live now"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.
 
@@ -27,10 +26,9 @@ Have a good day day/night/morning/evening, everyone, you're all lovely.
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

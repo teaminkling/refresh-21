@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 7: Disturbed Desert. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg"
+              src = "../static/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-7-d4f0"
               alt = "Resistance 3: When The Lands Become Graveyards"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg" file="/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 
@@ -28,13 +27,12 @@ It's not a desert in the typical sense. It's an amalgam of sugar cane farms and 
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

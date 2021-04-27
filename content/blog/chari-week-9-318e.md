@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["chari"]
 description = "by chari for week 9: Bold Strokes. Created using: Digital, Clip Studio Paint."
 [[images]]
-              src = "/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png"
+              src = "../static/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110-thumbnail-w720px.png"
               href = "/blog/chari-week-9-318e"
               alt = "iPod Nano"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" file="/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110-thumbnail-w720px.png
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital, Clip Studio Paint**.
 
@@ -25,7 +24,6 @@ I'm trying to move away from using super bright palettes so I tried to think of 
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/hogfriendz' target='_blank'>hogfriendz</a>
-
 
 ## Other
 

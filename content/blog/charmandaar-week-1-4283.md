@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 1: Yellow Lines. Created using: digital, procreate."
 [[images]]
-              src = "/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png"
+              src = "../static/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png"
               href = "/blog/charmandaar-week-1-4283"
               alt = "upon sunflowers"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" file="/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **digital, procreate**.
 
@@ -29,10 +28,9 @@ i look towards the sunlight /
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
-- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
 - **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
-
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other
 

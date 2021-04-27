@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["PhoebeCreates"]
 description = "by PhoebeCreates for week 10: Folds and Folds. Created using: ink and watercolour."
 [[images]]
-              src = "/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg"
+              src = "../static/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg"
               href = "/blog/phoebecreates-week-10-678c"
               alt = "cute outfits"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" file="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ink and watercolour**.
 
@@ -25,7 +24,6 @@ This is the beginning of my 100 outfits challenge. Yes I'm planning to do 100 of
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/phoebecreates' target='_blank'>phoebecreates</a>
-
 
 ## Other
 

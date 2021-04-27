@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Zat"]
 description = "by Zat for week 7: Disturbed Desert. Created using: Photography."
 [[images]]
-              src = "/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg"
+              src = "../static/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg"
               href = "/blog/zat-week-7-42e5"
               alt = "Rain Over the Desert"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography**.
 

@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Lithium"]
 description = "by Lithium for week 6: Simple Love. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg"
+              src = "../static/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-6-68da"
               alt = "A Flash of Peace"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" file="/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-02-18+8de35c20aee050df7d3e6379f6a75d31-thumbnail-w720px.jpg
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 
@@ -24,10 +23,9 @@ A blanket, the sound of rain, a chill breeze, and distant thunder... these were 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

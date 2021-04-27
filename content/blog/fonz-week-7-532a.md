@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["fonz"]
 description = "by fonz for week 7: Disturbed Desert. Created using: csp."
 [[images]]
-              src = "/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png"
+              src = "../static/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1-thumbnail-w720px.png"
               href = "/blog/fonz-week-7-532a"
               alt = "desert strands"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" file="/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1-thumbnail-w720px.png
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 
@@ -25,7 +24,6 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/fonzaku' target='_blank'>fonzaku</a>
-
 
 ## Other
 

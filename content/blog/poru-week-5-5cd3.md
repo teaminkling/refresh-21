@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["poru"]
 description = "by poru for week 5: Royal Green. Created using: Digital - Clip Studio Paint."
 [[images]]
-              src = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png"
+              src = "../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png"
               href = "/blog/poru-week-5-5cd3"
               alt = "Jadeite"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" file="/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital - Clip Studio Paint**.
 
@@ -25,9 +24,8 @@ When I about the prompt being Jade related. I thought of the anime Houseki no Ku
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/poruchan_920' target='_blank'>poruchan_920</a>
-- **Twitch**: <a href='https://twitch.tv/poru_chan' target='_blank'>poru_chan</a>
 - **Twitter**: <a href='https://twitter.com/poruchan09' target='_blank'>poruchan09</a>
-
+- **Twitch**: <a href='https://twitch.tv/poru_chan' target='_blank'>poru_chan</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Moonlit Narcy"]
 description = "by Moonlit Narcy for week 1: Yellow Lines. Created using: Procreate."
 [[images]]
-              src = "/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/moonlit-narcy-week-1-ce9d"
               alt = "Luminated Darkness"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate**.
 
@@ -30,7 +29,6 @@ Twitch:MoonlitNarcy
 
 - **Instagram**: <a href='https://instagram.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
 - **Twitter**: <a href='https://twitter.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
-
 
 ## Other
 

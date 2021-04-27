@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Kami"]
 description = "by Kami for week 4: Murky Silhouettes. Created using: Pencil , sketch pens."
 [[images]]
-              src = "/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg"
+              src = "../static/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094-thumbnail-w720px.jpg"
               href = "/blog/kami-week-4-8c00"
               alt = "Practice"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" file="/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Pencil , sketch pens**.
 
@@ -25,7 +24,6 @@ This is a martial arts style from India called Kalari, it's really aggressive an
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/kamiofthesouth' target='_blank'>kamiofthesouth</a>
-
 
 ## Other
 

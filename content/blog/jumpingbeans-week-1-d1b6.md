@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 1: Yellow Lines. Created using: MS Paint."
 [[images]]
-              src = "/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG"
+              src = "../static/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba-thumbnail-w720px.png"
               href = "/blog/jumpingbeans-week-1-d1b6"
               alt = "Bowl"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" file="/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.PNG" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **MS Paint**.
 
@@ -24,9 +23,8 @@ simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 - **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
-
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 ## Other
 

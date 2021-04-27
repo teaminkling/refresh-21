@@ -6,17 +6,15 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["arancil"]
 description = "by arancil for week 16: Scaling Giants. Created using: Fineliner 0.05 mm yay."
 [[images]]
-              src = "/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg"
+              src = "../static/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-16-911a"
               alt = "Untitled"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg" file="/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg" file="/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e-thumbnail-w720px.jpg
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Fineliner 0.05 mm yay**.
 
@@ -30,10 +28,9 @@ Guys, guys, just sitting down putting in lines here and there where you feel lik
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

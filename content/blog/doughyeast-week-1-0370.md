@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 1: Yellow Lines. Created using: Procreate."
 [[images]]
-              src = "/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1.PNG"
+              src = "../static/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1-thumbnail-w720px.png"
               href = "/blog/doughyeast-week-1-0370"
               alt = "Noodle Dancer"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1.PNG" file="/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1.PNG" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate**.
 
@@ -26,7 +25,6 @@ Chef dressed in black and yellow hand-pulling noodles in a chaotic, yet harmonio
 
 - **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>
 - **Twitch**: <a href='https://twitch.tv/doughyeast' target='_blank'>doughyeast</a>
-
 
 ## Other
 

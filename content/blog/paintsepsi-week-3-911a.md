@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 3: Red Circle. Created using: Procreate."
 [[images]]
-              src = "/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/paintsepsi-week-3-911a"
               alt = "Untitled"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" file="/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
 
@@ -24,10 +23,9 @@ Simple profile draw based on Akihiko Yoshida’s art. Was trying to do a new ren
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
-
 
 ## Other
 

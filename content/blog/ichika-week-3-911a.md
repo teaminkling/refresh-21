@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Ichika"]
 description = "by Ichika for week 3: Red Circle. Created using: unknown medium."
 [[images]]
-              src = "/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg"
+              src = "../static/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206-thumbnail-w720px.jpg"
               href = "/blog/ichika-week-3-911a"
               alt = "Untitled"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg" file="/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **unknown medium**.
 

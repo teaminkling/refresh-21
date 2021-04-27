@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 15: Back to Basics. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png"
+              src = "../static/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-15-6259"
               alt = "sometimes art is not worth having a mental breakdown over"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" file="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png
 
 Week 15: **Back to Basics**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ So... I was late for once. Annnd this wasn't even what I was working on, this is
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

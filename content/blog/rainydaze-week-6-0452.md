@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 6: Simple Love. Created using: Procreate, with the Narinder Pencil."
 [[images]]
-              src = "/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png"
+              src = "../static/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4-thumbnail-w720px.png"
               href = "/blog/rainydaze-week-6-0452"
               alt = "inanimate objects that give me comfort"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4-thumbnail-w720px.png
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate, with the Narinder Pencil**.
 
@@ -25,7 +24,6 @@ I don't have many people to rely on for emotional support, so it's really nice t
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/rainydazedoeslife' target='_blank'>rainydazedoeslife</a>
-
 
 ## Other
 

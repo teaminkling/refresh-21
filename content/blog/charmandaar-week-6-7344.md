@@ -32,10 +32,9 @@ papapastry on yt (https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg/video
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
-- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
 - **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
-
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 14: Absolute Fire. Created using: Clip studio."
 [[images]]
-              src = "/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg"
+              src = "../static/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-14-04ca"
               alt = "His name is Shiro 🔥"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg" file="/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a-thumbnail-w720px.jpg
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Clip studio**.
 

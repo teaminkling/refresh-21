@@ -6,17 +6,15 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["Goblet"]
 description = "by Goblet for week 13: Look At Me. Created using: Krita."
 [[images]]
-              src = "/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png"
+              src = "../static/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81-thumbnail-w720px.png"
               href = "/blog/goblet-week-13-40e8"
               alt = "<:cuporiGun:825806539918278686>"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" file="/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" file="/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693-thumbnail-w720px.png
+{{< fancybox path="../static/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81-thumbnail-w720px.png
 
 Week 13: **Look At Me**. This art was lovingly created using: **Krita**.
 
@@ -26,9 +24,8 @@ remade my emote. made the expression better. (first one is the new one)
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

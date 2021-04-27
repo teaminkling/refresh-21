@@ -6,16 +6,15 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 4: Murky Silhouettes. Created using: Procreate, Pixaloop."
 [[images]]
-              src = "/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "img/video-placeholder.png"
               href = "/blog/doughyeast-week-4-cdf9"
               alt = "Bog"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png" file="/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="img/video-placeholder.png" file="/img/doughyeast/2021-01-29+f2813b2589edf72357d317004560ae2a.mov" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="../static/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="img/video-placeholder.png" file="../static/img/doughyeast/2021-01-29+f2813b2589edf72357d317004560ae2a.mov" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate, Pixaloop**.
@@ -34,7 +33,6 @@ yet she is unable to see the silhouette beneath the water...
 
 - **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>
 - **Twitch**: <a href='https://twitch.tv/doughyeast' target='_blank'>doughyeast</a>
-
 
 ## Other
 

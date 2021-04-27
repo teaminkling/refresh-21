@@ -6,17 +6,15 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["vectorong"]
 description = "by vectorong for week 6: Simple Love. Created using: Origami + ink."
 [[images]]
-              src = "/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg"
+              src = "../static/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-6-56a2"
               alt = "Paper Pond"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d-thumbnail-w720px.jpg
 
 Week 6: **Simple Love**. This art was lovingly created using: **Origami + ink**.
 
@@ -31,7 +29,6 @@ detail shot so you can see the paper better LOL
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

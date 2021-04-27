@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 3: Red Circle. Created using: Procreate."
 [[images]]
-              src = "/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/eggyolk-week-3-7fa8"
               alt = "Week 3 Submission <:eyeleft:800396950012035081> 👄 <:eyeright:800396965551538186>"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png" file="/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
 

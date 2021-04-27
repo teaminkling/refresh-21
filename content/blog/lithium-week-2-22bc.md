@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Lithium"]
 description = "by Lithium for week 2: Deep Ocean. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg"
+              src = "../static/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-2-22bc"
               alt = "The Galaxy Beneath"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9-thumbnail-w720px.jpg
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 
@@ -26,10 +25,9 @@ IG/Tumblr lithiumreflections
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

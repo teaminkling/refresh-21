@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 10: Folds and Folds. Created using: Clip Studio."
 [[images]]
-              src = "/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg"
+              src = "../static/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-10-66bc"
               alt = "Folds"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" file="/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef-thumbnail-w720px.jpg
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio**.
 

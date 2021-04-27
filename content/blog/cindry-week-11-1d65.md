@@ -6,15 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["cindry"]
 description = "by cindry for week 11: Atmosphere Spectrum. Created using: Digital, CSP."
 [[images]]
-              src = "/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png"
+              src = "../static/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74-thumbnail-w720px.png"
               href = "/blog/cindry-week-11-1d65"
               alt = "Rolling Lonely Star"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" file="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74-thumbnail-w720px.png
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Digital, CSP**.
 
@@ -25,10 +24,9 @@ Hey I love the stars and I love katamari. Star  gazing is something i really lov
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
-- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
-
 
 ## Other
 

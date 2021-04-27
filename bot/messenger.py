@@ -13,6 +13,7 @@ from typing import Any, Dict, List, Optional
 
 import discord
 from discord import Client, Message, User
+from PIL import Image, ImageSequence
 
 # Initialise logging and include Discord SDK logs.
 
@@ -41,8 +42,14 @@ CLIENT_SECRET_KEY: str = "CLIENT_SECRET"
 MESSAGE_HISTORY_UPPER_LIMIT: int = 10000
 """An upper limit of the number of messages to retrieve."""
 
-SUBMISSIONS_CHANNEL = "submissions"
+SUBMISSIONS_CHANNEL: str = "submissions"
 """The expected name of the channel with all submissions."""
+
+THUMBNAIL_MAX_WIDTH: int = 720
+"""Pixel maximum width of a thumbnail."""
+
+FORCE_THUMBNAIL_REGENERATION: bool = False
+"""Whether to always regenerate the thumbnail image."""
 
 
 def do_dump_all_messages():
@@ -124,10 +131,15 @@ def do_dump_all_messages():
                     f"{md5(attachment.filename.encode()).hexdigest()}"
                 )
 
-                extension: str = attachment.filename.split(".")[-1]
+                extension: str = attachment.filename.split(".")[-1].lower()
 
                 local_path: str = os.path.join(
                     author_directory, f"{filename}.{extension}"
+                )
+
+                local_thumb_path: str = os.path.join(
+                    author_directory,
+                    f"{filename}-thumbnail-w{THUMBNAIL_MAX_WIDTH}px.{extension}",
                 )
 
                 if not os.path.exists(local_path):
@@ -138,10 +150,51 @@ def do_dump_all_messages():
                 else:
                     LOGGER.debug("Exists, skipping: [%s]...", local_path)
 
+                if (
+                    not os.path.exists(local_thumb_path) or FORCE_THUMBNAIL_REGENERATION
+                ) and extension in (
+                    "png",
+                    "jpg",
+                    "jpeg",
+                    "gif",
+                ):
+                    LOGGER.info("Writing thumbnail: [%s]...", local_thumb_path)
+
+                    image: Image = Image.open(local_path)
+
+                    width_percent: float = THUMBNAIL_MAX_WIDTH / float(image.size[0])
+                    height: int = int(1.0 * image.size[1] / width_percent)
+
+                    if extension == "gif":
+                        frames: List[Image] = []
+                        for frame in ImageSequence.Iterator(image):
+                            gif_thumbnail: Image = frame.copy()
+                            gif_thumbnail.thumbnail(
+                                (THUMBNAIL_MAX_WIDTH, height), Image.ANTIALIAS
+                            )
+
+                            frames.append(gif_thumbnail)
+
+                        # Save output.
+
+                        output_gif: Image = frames[0]
+                        output_gif.info = image.info
+                        output_gif.save(
+                            local_thumb_path,
+                            save_all=True,
+                            append_images=list(frames),
+                        )
+                    else:
+                        image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
+                        image.save(local_thumb_path)
+
+                local_thumb_path = local_thumb_path if os.path.exists(local_thumb_path) else None
+
                 attachments_map: dict = {
                     "id": attachment.id,
                     "cloud_url": attachment.url,
-                    "local_url": local_path,
+                    "url": local_path,
+                    "thumbnail_url": local_thumb_path,
                     "filename": attachment.filename,
                     "type": attachment.content_type,
                 }

@@ -6,15 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 14: Absolute Fire. Created using: Sketchbook Pro."
 [[images]]
-              src = "/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png"
+              src = "../static/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635-thumbnail-w720px.png"
               href = "/blog/trixynetex-week-14-6ff8"
               alt = "Flames of Phlegethos"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" file="/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635-thumbnail-w720px.png
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Sketchbook Pro**.
 

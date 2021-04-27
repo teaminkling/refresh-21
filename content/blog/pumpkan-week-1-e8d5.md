@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 1: Yellow Lines. Created using: procreate."
 [[images]]
-              src = "/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-1-e8d5"
               alt = "Four of Pumpkins"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45.png" file="/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **procreate**.
 
@@ -26,7 +25,6 @@ I wanted to do something elegant with pattern. However, when I streamed this lik
 
 - **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
 - **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
-
 
 ## Other
 

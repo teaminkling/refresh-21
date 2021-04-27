@@ -6,17 +6,15 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["vectorong"]
 description = "by vectorong for week 10: Folds and Folds. Created using: Fabric / fashion (upcycled fabric, screenprinting, and sewing)."
 [[images]]
-              src = "/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg"
+              src = "../static/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-10-c07e"
               alt = "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" file="/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" file="/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-03-11+5a06fe4fdde3213f23e83882fc737c5b-thumbnail-w720px.jpg
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Fabric / fashion (upcycled fabric, screenprinting, and sewing)**.
 
@@ -31,7 +29,6 @@ I also included a comparison image for fun and how you can use non-functionality
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

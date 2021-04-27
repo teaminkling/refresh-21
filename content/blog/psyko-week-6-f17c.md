@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Psyko"]
 description = "by Psyko for week 6: Simple Love. Created using: Krita."
 [[images]]
-              src = "/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg"
+              src = "../static/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867-thumbnail-w720px.jpg"
               href = "/blog/psyko-week-6-f17c"
               alt = "Dreams in TechieLand"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" file="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867-thumbnail-w720px.jpg
 
 Week 6: **Simple Love**. This art was lovingly created using: **Krita**.
 
@@ -24,9 +23,8 @@ San Francisco, sunsets, stargazing, and day dreaming are what inspired this piec
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
 - **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
-
+- **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
 
 ## Other
 

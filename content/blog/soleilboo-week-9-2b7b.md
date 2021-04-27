@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 9: Bold Strokes. Created using: photoshop."
 [[images]]
-              src = "/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg"
+              src = "../static/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a-thumbnail-w720px.jpg"
               href = "/blog/soleilboo-week-9-2b7b"
               alt = "Be Bold and Believe"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" file="/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a-thumbnail-w720px.jpg
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **photoshop**.
 
@@ -26,7 +25,6 @@ Tomorrow I will compete in my Jiu Jisu tournament so I try to keep my mind calm 
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

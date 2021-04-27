@@ -13,8 +13,7 @@ description = "by Lithium for week 10: Folds and Folds. Created using: Clip Stud
 +++
 
 
-{{< fancybox path="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" file="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75-thumbnail-w720px.jpg
 {{< youtube XFUyeYrCcN0 >}}
 
 
@@ -28,10 +27,9 @@ lithiumreflections (IG, tumblr, twitter)
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

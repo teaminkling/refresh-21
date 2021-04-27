@@ -6,15 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["D3m0n_Msc"]
 description = "by D3m0n_Msc for week 8: High Sheen. Created using: : Phone."
 [[images]]
-              src = "/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png"
+              src = "../static/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237-thumbnail-w720px.png"
               href = "/blog/d3m0n_msc-week-8-02a0"
               alt = "My favourite artist"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" file="/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237-thumbnail-w720px.png
 
 Week 8: **High Sheen**. This art was lovingly created using: **: Phone**.
 
@@ -30,7 +29,6 @@ I incorporated the wood in the base of the "snow globe?" Using birch wood and th
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
-
 
 ## Other
 

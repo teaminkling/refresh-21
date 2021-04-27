@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Moonlit Narcy"]
 description = "by Moonlit Narcy for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-              src = "/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/moonlit-narcy-week-4-3b95"
               alt = "Just Smile & Smell the Flowers"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png" file="/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
 
@@ -26,7 +25,6 @@ sometimes all it takes is the wonderful smell of flowers to put a smile on your 
 
 - **Instagram**: <a href='https://instagram.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
 - **Twitter**: <a href='https://twitter.com/moonlit_narcy' target='_blank'>moonlit_narcy</a>
-
 
 ## Other
 

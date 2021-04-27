@@ -6,15 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 14: Absolute Fire. Created using: Procreate."
 [[images]]
-              src = "/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-14-9ae5"
               alt = "A contract for the vain, the price paid in pain"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png" file="/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.
 
@@ -28,7 +27,6 @@ wrist still hurts, I want to D word
 
 - **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
 - **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
-
 
 ## Other
 

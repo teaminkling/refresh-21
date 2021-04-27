@@ -36,9 +36,8 @@ EDIT: I also have an early/meme version (I'll send it after you've seen the "rea
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 - **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
-
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 
 ## Other
 

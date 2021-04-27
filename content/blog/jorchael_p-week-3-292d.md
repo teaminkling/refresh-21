@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 3: Red Circle. Created using: Photoshop."
 [[images]]
-              src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png"
+              src = "../static/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d-thumbnail-w720px.png"
               href = "/blog/jorchael_p-week-3-292d"
               alt = "'0"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photoshop**.
 
@@ -28,7 +27,6 @@ Didn't know what to draw so I drew something horny, sorry. She sure has a lot of
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
 - **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
-
 
 ## Other
 

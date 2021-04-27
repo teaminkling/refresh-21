@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 16: Scaling Giants. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png"
+              src = "../static/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-16-b445"
               alt = "oof"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" file="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175-thumbnail-w720px.png
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ This isn't up to the usual quality of what I make, but I wanted to do something 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

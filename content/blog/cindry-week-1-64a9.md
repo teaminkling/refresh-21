@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["cindry"]
 description = "by cindry for week 1: Yellow Lines. Created using: Digital, Paint Tool SAI."
 [[images]]
-              src = "/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png"
+              src = "../static/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681-thumbnail-w720px.png"
               href = "/blog/cindry-week-1-64a9"
               alt = "Rat 1 and Rat 2"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" file="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Paint Tool SAI**.
 
@@ -28,10 +27,9 @@ I went a bit crazy on SAI which is a huge guilty pleasure. In the end it's a bit
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
-- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
-
 
 ## Other
 

@@ -6,17 +6,15 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["vectorong"]
 description = "by vectorong for week 14: Absolute Fire. Created using: Pyrography (woodburning)."
 [[images]]
-              src = "/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg"
+              src = "../static/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-14-de8e"
               alt = "The Five Virtues"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" file="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" file="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834-thumbnail-w720px.jpg
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Pyrography (woodburning)**.
 
@@ -33,7 +31,6 @@ detail shot since i have shaky hands
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

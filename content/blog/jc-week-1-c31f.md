@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["jc"]
 description = "by jc for week 1: Yellow Lines. Created using: csp."
 [[images]]
-              src = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png"
+              src = "../static/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png"
               href = "/blog/jc-week-1-c31f"
               alt = "egg galaxy"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **csp**.
 
@@ -29,7 +28,6 @@ rybaris
 - **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
 - **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
 - **Instagram**: <a href='https://instagram.com/rybaris' target='_blank'>rybaris</a>
-
 
 ## Other
 

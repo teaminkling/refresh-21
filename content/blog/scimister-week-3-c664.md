@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Scimister"]
 description = "by Scimister for week 3: Red Circle. Created using: PaintToolSAI."
 [[images]]
-              src = "/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080.png"
+              src = "../static/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080-thumbnail-w720px.png"
               href = "/blog/scimister-week-3-c664"
               alt = "Blood Moon"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080.png" file="/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **PaintToolSAI**.
 
@@ -25,7 +24,6 @@ An archer wanders the wilderness under under the blood moon.
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/scimister' target='_blank'>scimister</a>
-
 
 ## Other
 

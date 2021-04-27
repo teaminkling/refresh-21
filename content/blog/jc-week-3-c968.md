@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["jc"]
 description = "by jc for week 3: Red Circle. Created using: csp."
 [[images]]
-              src = "/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png"
+              src = "../static/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867-thumbnail-w720px.png"
               href = "/blog/jc-week-3-c968"
               alt = "am i coming outta left field"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" file="/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **csp**.
 
@@ -27,7 +26,6 @@ i have a really involved animatic in my head set to rebel just for kicks. i will
 - **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
 - **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
 - **Instagram**: <a href='https://instagram.com/rybaris' target='_blank'>rybaris</a>
-
 
 ## Other
 

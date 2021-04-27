@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["WellCookedEgg"]
 description = "by WellCookedEgg for week 10: Folds and Folds. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg"
+              src = "../static/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392-thumbnail-w720px.jpg"
               href = "/blog/wellcookedegg-week-10-992c"
               alt = "The Bat Man"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392-thumbnail-w720px.jpg
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.
 
@@ -25,7 +24,6 @@ I went for some baggier street wear cause street wear is sick
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/well_egg' target='_blank'>well_egg</a>
-
 
 ## Other
 

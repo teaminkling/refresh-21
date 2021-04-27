@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["vectorong"]
 description = "by vectorong for week 1: Yellow Lines. Created using: Processing (program) + Java."
 [[images]]
-              src = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg"
+              src = "../static/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-1-fa7e"
               alt = "Origin Point"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" file="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337-thumbnail-w720px.jpg
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Processing (program) + Java**.
 
@@ -26,7 +25,6 @@ Circle created with Java code that randomizes the spiral variance and the stroke
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

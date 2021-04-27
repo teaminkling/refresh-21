@@ -6,17 +6,15 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["cindry"]
 description = "by cindry for week 2: Deep Ocean. Created using: 2 page comic, Ink on Paper."
 [[images]]
-              src = "/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg"
+              src = "../static/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407-thumbnail-w720px.jpg"
               href = "/blog/cindry-week-2-5c23"
               alt = "Deep Discovery"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" file="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" file="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407-thumbnail-w720px.jpg
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **2 page comic, Ink on Paper**.
 
@@ -33,10 +31,9 @@ Really just inspired by series like Made in Abyss and Jigokuraku!
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
-- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
-
 
 ## Other
 

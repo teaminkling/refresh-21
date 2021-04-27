@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["askpatt"]
 description = "by askpatt for week 3: Red Circle. Created using: illustrator."
 [[images]]
-              src = "/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697.png"
+              src = "../static/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697-thumbnail-w720px.png"
               href = "/blog/askpatt-week-3-e80d"
               alt = "Circle and flow"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697.png" file="/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **illustrator**.
 

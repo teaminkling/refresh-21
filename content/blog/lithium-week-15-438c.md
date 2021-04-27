@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Lithium"]
 description = "by Lithium for week 15: Back to Basics. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg"
+              src = "../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-15-438c"
               alt = "Still Life Succulents"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" file="/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.
 
@@ -26,10 +25,9 @@ IG/tumblr lithiumreflections, twitter lireflections
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

@@ -13,8 +13,7 @@ description = "by vectorong for week 9: Bold Strokes. Created using: Suminagashi
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" file="/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1-thumbnail-w720px.jpg
 {{< youtube wdwzLaljOzw >}}
 
 
@@ -31,7 +30,6 @@ While working alongside printmaking friends on a group zoom call, I was suddenly
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

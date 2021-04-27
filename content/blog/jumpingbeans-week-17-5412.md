@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 17: The 4 R's: Finale. Created using: vi
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="img/video-placeholder.png" file="../static/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **video**.
@@ -26,9 +26,8 @@ ive ran out of ideas and time
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 - **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
-
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 ## Other
 

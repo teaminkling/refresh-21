@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Goblet"]
 description = "by Goblet for week 7: Disturbed Desert. Created using: ibispaint x."
 [[images]]
-              src = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png"
+              src = "../static/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png"
               href = "/blog/goblet-week-7-d10c"
               alt = "Welcome to Sandy Point! Population: me"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ibispaint x**.
 
@@ -24,9 +23,8 @@ dropped randomly in death valley on google maps and used that as my reference. D
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Kami"]
 description = "by Kami for week 6: Simple Love. Created using: Photoshop."
 [[images]]
-              src = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg"
+              src = "../static/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg"
               href = "/blog/kami-week-6-d09a"
               alt = "Everlasting Hope"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.
 
@@ -25,7 +24,6 @@ I like the oceans and i like the city skyline in the night. Why is it called Eve
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/kamiofthesouth' target='_blank'>kamiofthesouth</a>
-
 
 ## Other
 

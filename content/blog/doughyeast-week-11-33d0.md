@@ -6,19 +6,16 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 11: Atmosphere Spectrum. Created using: Procreate."
 [[images]]
-              src = "/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg"
               href = "/blog/doughyeast-week-11-33d0"
               alt = "“you would make the sky a gijinka” - enoki"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" file="/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/doughyeast/2021-03-19+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.
 
@@ -32,7 +29,6 @@ I need to stop making non-human things human <:ThankEgg:797490219716050954>
 
 - **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>
 - **Twitch**: <a href='https://twitch.tv/doughyeast' target='_blank'>doughyeast</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Magus_Hellwalker"]
 description = "by Magus_Hellwalker for week 3: Red Circle. Created using: 3D Digital."
 [[images]]
-              src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png"
+              src = "../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png"
               href = "/blog/magus_hellwalker-week-3-19ab"
               alt = "A circle in abstractness"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" file="/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **3D Digital**.
 
@@ -25,7 +24,6 @@ I was playing around with some atmospheric lighting in Blender and started playi
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/magus_hellwalker' target='_blank'>magus_hellwalker</a>
-
 
 ## Other
 

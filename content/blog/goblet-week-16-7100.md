@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Goblet"]
 description = "by Goblet for week 16: Scaling Giants. Created using: Krita (still mouse)."
 [[images]]
-              src = "/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png"
+              src = "../static/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7-thumbnail-w720px.png"
               href = "/blog/goblet-week-16-7100"
               alt = "Mechanics love their jobs sometimes"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png" file="/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7-thumbnail-w720px.png
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Krita (still mouse)**.
 
@@ -24,9 +23,8 @@ Don't be deceived, the Blue Amazon is a killing machine. Although these robots a
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

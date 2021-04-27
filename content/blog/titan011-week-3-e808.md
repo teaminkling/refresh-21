@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 3: Red Circle. Created using: Clipstudio."
 [[images]]
-              src = "/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg"
+              src = "../static/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-3-e808"
               alt = "Brain Echo"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" file="/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Clipstudio**.
 

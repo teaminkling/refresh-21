@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-              src = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/soleilboo-week-7-911a"
               alt = "Untitled"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
 
@@ -33,7 +32,6 @@ And yes flowers can grow in the desert.
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

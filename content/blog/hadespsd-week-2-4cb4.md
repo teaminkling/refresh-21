@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["HadesPsd"]
 description = "by HadesPsd for week 2: Deep Ocean. Created using: CSP."
 [[images]]
-              src = "/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg"
+              src = "../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg"
               href = "/blog/hadespsd-week-2-4cb4"
               alt = "Perspective is fun"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" file="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **CSP**.
 
@@ -25,7 +24,6 @@ I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:77999072421229
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/hadespsd' target='_blank'>hadespsd</a>
-
 
 ## Other
 

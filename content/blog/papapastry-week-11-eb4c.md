@@ -32,9 +32,8 @@ Spotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76Kt
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 - **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
-
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 
 ## Other
 

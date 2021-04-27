@@ -13,8 +13,7 @@ description = "by papapastry for week 13: Look At Me. Created using: Procreate, 
 +++
 
 
-{{< fancybox path="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" file="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 {{< youtube s2bUtKo88HQ >}}
 
 
@@ -40,9 +39,8 @@ just Spotify search "papapastry"
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 - **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
-
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 
 ## Other
 

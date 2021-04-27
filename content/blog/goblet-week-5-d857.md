@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Goblet"]
 description = "by Goblet for week 5: Royal Green. Created using: ibispaint x."
 [[images]]
-              src = "/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png"
+              src = "../static/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc-thumbnail-w720px.png"
               href = "/blog/goblet-week-5-d857"
               alt = "Jade Jian"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" file="/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-02-01+830efdddce545544ab75273a3331f9bc-thumbnail-w720px.png
 
 Week 5: **Royal Green**. This art was lovingly created using: **ibispaint x**.
 
@@ -28,9 +27,8 @@ I painted the outline for the sword, tried painting the jade texture, but was di
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

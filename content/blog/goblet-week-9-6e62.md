@@ -29,9 +29,8 @@ it's a statement because I was inspired by the Citarum river in Indonesia, most 
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Goblet"]
 description = "by Goblet for week 6: Simple Love. Created using: Krita with mouse."
 [[images]]
-              src = "/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad.png"
+              src = "../static/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad-thumbnail-w720px.png"
               href = "/blog/goblet-week-6-3827"
               alt = "Ducks by docks"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad.png" file="/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad-thumbnail-w720px.png
 
 Week 6: **Simple Love**. This art was lovingly created using: **Krita with mouse**.
 
@@ -24,9 +23,8 @@ I like ducks. A mama duck loves her ducklings. I love the water texture stamp.
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

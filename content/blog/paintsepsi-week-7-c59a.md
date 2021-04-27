@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-              src = "/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/paintsepsi-week-7-c59a"
               alt = "Skull"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
 
@@ -24,10 +23,9 @@ big skull... in desert... giant? Who kno....?
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 10: Folds and Folds. Created using: Photoshop."
 [[images]]
-              src = "/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg"
+              src = "../static/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19-thumbnail-w720px.jpg"
               href = "/blog/soleilboo-week-10-fa9b"
               alt = "Jiu jitsu The Art of Folding Clothes While People are Still in Them."
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" file="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19-thumbnail-w720px.jpg
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
 
@@ -26,7 +25,6 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

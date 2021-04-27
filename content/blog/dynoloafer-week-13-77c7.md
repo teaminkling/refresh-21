@@ -6,15 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 13: Look At Me. Created using: Paint Tool SAI."
 [[images]]
-              src = "/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png"
+              src = "../static/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-13-77c7"
               alt = "P̷̑̚Ä̴́̅I̴͒̚N̷̈͠F̵̳̂Ű̷͓L̵̛͝ ̶̓̏B̷̈́̔L̴̅̂Ī̶̈́S̵̓̾S̷̐̐"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" file="/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596-thumbnail-w720px.png
 
 Week 13: **Look At Me**. This art was lovingly created using: **Paint Tool SAI**.
 

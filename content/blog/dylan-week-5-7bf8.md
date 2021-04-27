@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Dylan"]
 description = "by Dylan for week 5: Royal Green. Created using: Digital (PhotoShop)."
 [[images]]
-              src = "/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/dylan-week-5-7bf8"
               alt = "Behind The Doors"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (PhotoShop)**.
 

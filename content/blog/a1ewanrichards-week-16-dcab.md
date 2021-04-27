@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Digital - Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg"
+              src = "../static/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-16-dcab"
               alt = "Amalgamation: At A Time Like This, Will Someone Be There For You?"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" file="/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Digital - Clip Studio Paint**.
 
@@ -30,13 +29,12 @@ The title is derived from the text displayed on the original Japanese theatrical
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 11: Atmosphere Spectrum. Created using: Felt marker and oil pastel on paper."
 [[images]]
-              src = "/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg"
+              src = "../static/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-11-6c7f"
               alt = "Undercooled 1: Please Return The Moon To Us"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" file="/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0-thumbnail-w720px.jpg
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Felt marker and oil pastel on paper**.
 
@@ -30,13 +29,12 @@ As I kept on drawing, it became apparent that, in line with the song's theme, th
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

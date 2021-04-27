@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 9: Bold Strokes. Created using: Photoshop."
 [[images]]
-              src = "/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png"
+              src = "../static/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00-thumbnail-w720px.png"
               href = "/blog/paintsepsi-week-9-7236"
               alt = "CMY"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" file="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00-thumbnail-w720px.png
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.
 
@@ -24,10 +23,9 @@ Wow this hurts my eyes. This was meant to be like a 10 min sketch and it looks l
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
-
 
 ## Other
 

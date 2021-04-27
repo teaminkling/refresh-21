@@ -6,15 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 11: Atmosphere Spectrum. Created using: Paint Tool SAI."
 [[images]]
-              src = "/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png"
+              src = "../static/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-11-ff87"
               alt = "They Come Out at Night"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" file="/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a-thumbnail-w720px.png
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Paint Tool SAI**.
 

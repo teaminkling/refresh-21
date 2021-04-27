@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Goblet"]
 description = "by Goblet for week 15: Back to Basics. Created using: Paper, permanent marker.."
 [[images]]
-              src = "/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg"
+              src = "../static/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119-thumbnail-w720px.jpg"
               href = "/blog/goblet-week-15-c2a4"
               alt = "Tightrope banana."
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" file="/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119-thumbnail-w720px.jpg
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paper, permanent marker.**.
 
@@ -24,9 +23,8 @@ Sorry, life happened and I forgot. Here take this shitpost instead. Balance!
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

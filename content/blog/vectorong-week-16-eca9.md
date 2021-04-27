@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["vectorong"]
 description = "by vectorong for week 16: Scaling Giants. Created using: Graphite."
 [[images]]
-              src = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg"
+              src = "../static/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-16-eca9"
               alt = "Rat Race"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Graphite**.
 
@@ -26,7 +25,6 @@ The idiom is defined as "an endless, self-defeating, or pointless pursuit...The 
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

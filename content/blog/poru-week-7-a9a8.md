@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["poru"]
 description = "by poru for week 7: Disturbed Desert. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png"
+              src = "../static/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671-thumbnail-w720px.png"
               href = "/blog/poru-week-7-a9a8"
               alt = "Desert Plains"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" file="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671-thumbnail-w720px.png
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Clip Studio Paint**.
 
@@ -25,9 +24,8 @@ I fucking love NieR:Automata.
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/poruchan_920' target='_blank'>poruchan_920</a>
-- **Twitch**: <a href='https://twitch.tv/poru_chan' target='_blank'>poru_chan</a>
 - **Twitter**: <a href='https://twitter.com/poruchan09' target='_blank'>poruchan09</a>
-
+- **Twitch**: <a href='https://twitch.tv/poru_chan' target='_blank'>poru_chan</a>
 
 ## Other
 

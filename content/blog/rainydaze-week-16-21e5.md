@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 16: Scaling Giants. Created using: Procreate."
 [[images]]
-              src = "/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png"
+              src = "../static/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df-thumbnail-w720px.png"
               href = "/blog/rainydaze-week-16-21e5"
               alt = "d'Eggfsg"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" file="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df-thumbnail-w720px.png
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Procreate**.
 
@@ -25,7 +24,6 @@ I wanted to draw big egg. Smol soldier. In combination, they make a pretty strik
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/rainydazedoeslife' target='_blank'>rainydazedoeslife</a>
-
 
 ## Other
 

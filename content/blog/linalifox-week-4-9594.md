@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Linalifox"]
 description = "by Linalifox for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-              src = "/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/linalifox-week-4-9594"
               alt = "Blue"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
 
@@ -26,7 +25,6 @@ I began this piece with a cyan background and started painting in a dark blue. I
 
 - **Instagram**: <a href='https://instagram.com/linalifox' target='_blank'>linalifox</a>
 - **Twitch**: <a href='https://twitch.tv/linalifox' target='_blank'>linalifox</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["vectorong"]
 description = "by vectorong for week 15: Back to Basics. Created using: Food."
 [[images]]
-              src = "/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg"
+              src = "../static/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-15-78d8"
               alt = "Bread, Butter, Boysenberry"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad-thumbnail-w720px.jpg
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Food**.
 
@@ -26,7 +25,6 @@ My grandfather loved boysenberry jam, so I made a simple tribute to him and my f
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

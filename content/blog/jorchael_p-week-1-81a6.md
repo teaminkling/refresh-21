@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 1: Yellow Lines. Created using: Digital, Photoshop."
 [[images]]
-              src = "/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png"
+              src = "../static/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d-thumbnail-w720px.png"
               href = "/blog/jorchael_p-week-1-81a6"
               alt = "sunny day, pouring rain"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" file="/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Photoshop**.
 
@@ -26,7 +25,6 @@ I wanted to try play with the rain patterns but rushed them a little. References
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
 - **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
-
 
 ## Other
 

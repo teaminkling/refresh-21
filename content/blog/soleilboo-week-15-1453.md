@@ -6,17 +6,15 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 15: Back to Basics. Created using: watercolour."
 [[images]]
-              src = "/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png"
               href = "/blog/soleilboo-week-15-1453"
               alt = "still life"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168.png" file="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="../static/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png
 
 Week 15: **Back to Basics**. This art was lovingly created using: **watercolour**.
 
@@ -28,7 +26,6 @@ Collection of my ongoing still life fruit project. All photos for reference take
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

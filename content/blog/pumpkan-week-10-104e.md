@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 10: Folds and Folds. Created using: Procreate."
 [[images]]
-              src = "/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png"
+              src = "../static/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b-thumbnail-w720px.png"
               href = "/blog/pumpkan-week-10-104e"
               alt = "The dread beach bum La Verne"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b-thumbnail-w720px.png
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.
 
@@ -27,7 +26,6 @@ Anyway here is my dnd character Joselynn La Verne being no more dramatic than us
 
 - **Twitch**: <a href='https://twitch.tv/pumpkanart' target='_blank'>pumpkanart</a>
 - **Twitter**: <a href='https://twitter.com/pumpkanart' target='_blank'>pumpkanart</a>
-
 
 ## Other
 

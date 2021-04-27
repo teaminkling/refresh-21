@@ -6,15 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["TheLagExpert"]
 description = "by TheLagExpert for week 9: Bold Strokes. Created using: Affinity photo."
 [[images]]
-              src = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg"
+              src = "../static/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a-thumbnail-w720px.jpg"
               href = "/blog/thelagexpert-week-9-70ee"
               alt = "Welcome to the brave new world of me"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" file="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a-thumbnail-w720px.jpg
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Affinity photo**.
 
@@ -25,7 +24,6 @@ My new year resolution in 2021 was to start a new chapter after the long and exh
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/billelhambli' target='_blank'>billelhambli</a>
-
 
 ## Other
 

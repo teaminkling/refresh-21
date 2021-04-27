@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 4: Murky Silhouettes. Created using: Felt pen on paper."
 [[images]]
-              src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg"
+              src = "../static/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-4-759c"
               alt = "Bloody Fields"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg" file="/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Felt pen on paper**.
 
@@ -28,13 +27,12 @@ I'm running out of ink!
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Scimister"]
 description = "by Scimister for week 6: Simple Love. Created using: Paint Tool SAI."
 [[images]]
-              src = "/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png"
+              src = "../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png"
               href = "/blog/scimister-week-6-9323"
               alt = "Perspectives of Love"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png" file="/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png
 
 Week 6: **Simple Love**. This art was lovingly created using: **Paint Tool SAI**.
 
@@ -25,7 +24,6 @@ The cubes are symbolic of the fragments of love and how each fragment, although 
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/scimister' target='_blank'>scimister</a>
-
 
 ## Other
 

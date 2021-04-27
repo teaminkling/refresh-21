@@ -6,15 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 8: High Sheen. Created using: Photoshop."
 [[images]]
-              src = "/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png"
+              src = "../static/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9-thumbnail-w720px.png"
               href = "/blog/jorchael_p-week-8-5f75"
               alt = "Out of Touch Tuesday"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" file="/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9-thumbnail-w720px.png
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
 
@@ -29,7 +28,6 @@ https://mobile.
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
 - **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
-
 
 ## Other
 

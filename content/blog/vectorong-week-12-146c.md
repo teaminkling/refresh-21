@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["vectorong"]
 description = "by vectorong for week 12: Visual Words. Created using: Ink + Marker, Photoshop."
 [[images]]
-              src = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg"
+              src = "../static/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf-thumbnail-w720px.jpg"
               href = "/blog/vectorong-week-12-146c"
               alt = "The Comfy Chair"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg" file="/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf-thumbnail-w720px.jpg
 
 Week 12: **Visual Words**. This art was lovingly created using: **Ink + Marker, Photoshop**.
 
@@ -26,7 +25,6 @@ Inspired by the range of Italian designer Massimo Vignelli's work, and that "If 
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

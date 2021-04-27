@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["cindry"]
 description = "by cindry for week 16: Scaling Giants. Created using: digital painting on photograph, CSP."
 [[images]]
-              src = "/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg"
+              src = "../static/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e-thumbnail-w720px.jpg"
               href = "/blog/cindry-week-16-8ba4"
               alt = "ooh shit"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" file="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e-thumbnail-w720px.jpg
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph, CSP**.
 
@@ -25,10 +24,9 @@ hey you should read kaiju no.8 its really good and big things are really cool!!!
 ## Social Media
 
 - **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
-- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
+- **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
-
 
 ## Other
 

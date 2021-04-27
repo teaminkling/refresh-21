@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 2: Deep Ocean. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png"
+              src = "../static/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-2-16df"
               alt = "Hello there!"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" file="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ Ok, ok, I see your tiny human and large creature entries, but I raise you this,,
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

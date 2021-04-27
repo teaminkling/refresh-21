@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 3: Red Circle. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png"
+              src = "../static/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-3-4fca"
               alt = "A Shining Star"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png" file="/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ Sooo, week 3, huh? Due to school and my personal life, this came out rather rush
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

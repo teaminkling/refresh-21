@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Lithium"]
 description = "by Lithium for week 4: Murky Silhouettes. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg"
+              src = "../static/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-4-c9e7"
               alt = "Dancing Cloud"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" file="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 
@@ -26,10 +25,9 @@ IG/Tumblr lithiumreflections, Twitter jaimeskelton
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

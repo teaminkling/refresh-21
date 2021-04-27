@@ -38,9 +38,8 @@ Link:
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 - **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
-
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 
 ## Other
 

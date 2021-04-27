@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 12: Visual Words. Created using: gif."
 [[images]]
-              src = "/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif"
+              src = "../static/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7-thumbnail-w720px.gif"
               href = "/blog/jumpingbeans-week-12-215e"
               alt = "wrod"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" file="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7-thumbnail-w720px.gif
 
 Week 12: **Visual Words**. This art was lovingly created using: **gif**.
 
@@ -26,9 +25,8 @@ edit: redid the gif, its still giving the weird coloured background thingy, even
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 - **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
-
+- **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 ## Other
 

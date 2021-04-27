@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Kami"]
 description = "by Kami for week 5: Royal Green. Created using: Photoshop."
 [[images]]
-              src = "/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg"
+              src = "../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg"
               href = "/blog/kami-week-5-2ea5"
               alt = "The Vessel"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" file="/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg
 
 Week 5: **Royal Green**. This art was lovingly created using: **Photoshop**.
 
@@ -25,7 +24,6 @@ This is my first time using photoshop for art, i tried making the short sword th
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/kamiofthesouth' target='_blank'>kamiofthesouth</a>
-
 
 ## Other
 

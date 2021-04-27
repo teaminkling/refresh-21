@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 4: Murky Silhouettes. Created using: ClipStudio."
 [[images]]
-              src = "/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg"
+              src = "../static/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-4-e6d0"
               alt = "Sleepless Night"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" file="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ClipStudio**.
 

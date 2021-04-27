@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 3: Red Circle. Created using: Felt and ink on paper."
 [[images]]
-              src = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg"
+              src = "../static/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735-thumbnail-w720px.jpg"
               href = "/blog/a1ewanrichards-week-3-4532"
               alt = "Gui"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" file="/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Felt and ink on paper**.
 
@@ -24,13 +23,12 @@ I looked up the flag of Okinawa and it was perfect with what I had in mind. The 
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
 - **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
-- **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
-
+- **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other
 

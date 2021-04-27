@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Lyfeu"]
 description = "by Lyfeu for week 10: Folds and Folds. Created using: Photoshop."
 [[images]]
-              src = "/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg"
+              src = "../static/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6-thumbnail-w720px.jpg"
               href = "/blog/lyfeu-week-10-66bc"
               alt = "Folds"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" file="/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6-thumbnail-w720px.jpg
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.
 
@@ -25,7 +24,6 @@ Edgy Basket Baller
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/lyfeu' target='_blank'>lyfeu</a>
-
 
 ## Other
 

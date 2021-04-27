@@ -6,19 +6,16 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["arancil"]
 description = "by arancil for week 7: Disturbed Desert. Created using: Ink, traditional."
 [[images]]
-              src = "/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG"
+              src = "../static/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-7-c2c0"
               alt = "placeholder edit later"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG" file="/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.JPG" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134.JPG" file="/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134.JPG" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb.JPG" file="/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb.JPG" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-02-19+8cc290b5822fbb2aa854d70b58ce6134-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ink, traditional**.
 
@@ -37,10 +34,9 @@ This one was a bit rushed, final hours before submission <:cindryBAM:77549832094
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

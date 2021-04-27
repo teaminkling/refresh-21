@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 10: Folds and Folds. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png"
+              src = "../static/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-10-a407"
               alt = "Prince Backey"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ Ok, so,, I didn't feel like shading, but partially colored lines are cool, right
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

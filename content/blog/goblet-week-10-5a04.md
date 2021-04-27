@@ -6,15 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Goblet"]
 description = "by Goblet for week 10: Folds and Folds. Created using: ibispaint x."
 [[images]]
-              src = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png"
+              src = "../static/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12-thumbnail-w720px.png"
               href = "/blog/goblet-week-10-5a04"
               alt = "textile grook"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" file="/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12-thumbnail-w720px.png
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ibispaint x**.
 
@@ -24,9 +23,8 @@ Sorry, used 5 min
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

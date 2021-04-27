@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Goblet"]
 description = "by Goblet for week 4: Murky Silhouettes. Created using: Krita with mouse."
 [[images]]
-              src = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg"
+              src = "../static/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg"
               href = "/blog/goblet-week-4-6b80"
               alt = "Orange jump"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Krita with mouse**.
 
@@ -24,9 +23,8 @@ Chose orange, quickly doodled a jumping person, decided to make some kind of par
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

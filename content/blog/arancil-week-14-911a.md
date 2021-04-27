@@ -6,15 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["arancil"]
 description = "by arancil for week 14: Absolute Fire. Created using: Watercolor."
 [[images]]
-              src = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg"
+              src = "../static/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-14-911a"
               alt = "Untitled"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" file="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Watercolor**.
 
@@ -28,10 +27,9 @@ Forest w/ blue flame wisps, foxes & birbs rorodoAAA congregating around a big ow
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

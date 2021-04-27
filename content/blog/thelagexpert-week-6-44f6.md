@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["TheLagExpert"]
 description = "by TheLagExpert for week 6: Simple Love. Created using: Affinity Photo."
 [[images]]
-              src = "/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png"
+              src = "../static/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f-thumbnail-w720px.png"
               href = "/blog/thelagexpert-week-6-44f6"
               alt = "Cyber Love"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" file="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f-thumbnail-w720px.png
 
 Week 6: **Simple Love**. This art was lovingly created using: **Affinity Photo**.
 
@@ -27,7 +26,6 @@ Twitter: @TheLagExpert
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/billelhambli' target='_blank'>billelhambli</a>
-
 
 ## Other
 

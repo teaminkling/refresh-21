@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["av"]
 description = "by av for week 4: Murky Silhouettes. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg"
+              src = "../static/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg"
               href = "/blog/av-week-4-3f90"
               alt = "Snap Shot 1"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.
 

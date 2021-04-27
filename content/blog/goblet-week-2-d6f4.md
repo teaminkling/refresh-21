@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Goblet"]
 description = "by Goblet for week 2: Deep Ocean. Created using: ibispaint x."
 [[images]]
-              src = "/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png"
+              src = "../static/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5-thumbnail-w720px.png"
               href = "/blog/goblet-week-2-d6f4"
               alt = "simple angler pog"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" file="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5-thumbnail-w720px.png
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **ibispaint x**.
 
@@ -29,9 +28,8 @@ just wanted to make something really simple
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

@@ -300,7 +300,7 @@ def parse_retrieved() -> None:
 
         content: str = message["message"]
         created_at: str = message["created_at"]
-        attachments: List[str] = message["attachments"]
+        attachments: List[Dict[str, str]] = message["attachments"]
 
         final_data["submissions"].extend(
             extract_all_content(
@@ -414,15 +414,19 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
     # Combine all of the consecutive messages together.
 
     cumulative_message: str = ""
-    cumulative_attachments: List[str] = []
+    cumulative_attachments: List[Dict[str, str]] = []
     author: str = ""
     last_author: str = ""
     last_seen_date: str = ""
 
     for message in reversed(retrieved_data["messages"]):
         author: str = message["author"]["mention_name"]
-        attachments: List[str] = [
-            attachment["local_url"] for attachment in message["attachments"]
+        attachments: List[Dict[str, str]] = [
+            {
+                "url": attachment["url"],
+                "thumbnail_url": attachment["thumbnail_url"],
+            }
+            for attachment in message["attachments"]
         ]
         last_seen_date = message["created_at"]
 
@@ -460,7 +464,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
 
 
 def extract_all_content(
-    content: str, author: str, created_at: str, attachments: List[str]
+    content: str, author: str, created_at: str, attachments: List[Dict[str, str]]
 ) -> List[dict]:
     """
     Extract all information for content, allowing for multiple week submissions in one post.
@@ -476,7 +480,7 @@ def extract_all_content(
     created_at : `str`
         The created timestamp.
 
-    attachments : `List[str]`
+    attachments : `List[Dict[str, str]`
         The found attachments for the given content. Note that if there are attachments for
         multiple weeks in one post, there will be duplications that must be handled manually.
 
@@ -636,8 +640,8 @@ def extract_all_content(
         # Form the hyperlinks and augment attachments if applicable.
 
         links: List[str] = re.findall(HYPERLINK_REGEX, description)
-        url_attachments: List[str] = [
-            link for link in links if re.findall(CONTENT_LINK_REGEX, link)
+        url_attachments: List[Dict[str, str]] = [
+            {"url": link} for link in links if re.findall(CONTENT_LINK_REGEX, link)
         ]
 
         # Ensure title and ID exists.

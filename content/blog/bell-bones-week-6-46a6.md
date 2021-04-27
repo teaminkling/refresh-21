@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 6: Simple Love. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png"
+              src = "../static/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-6-46a6"
               alt = "Roleplay! (and a puppet show I suppose)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" file="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb-thumbnail-w720px.png
 
 Week 6: **Simple Love**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ After a lot of thinking about the prompt, I'd say that I love to roleplay! Dyno 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 3: Red Circle. Created using: photography/photoshop."
 [[images]]
-              src = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg"
+              src = "../static/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg"
               href = "/blog/charmandaar-week-3-6e93"
               alt = "cirque of monkeys except it's me. i am the monkey"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" file="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **photography/photoshop**.
 
@@ -24,10 +23,9 @@ this is just me being a monkey in aerial silks. except many of me. in many silks
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
-- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
 - **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
-
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other
 

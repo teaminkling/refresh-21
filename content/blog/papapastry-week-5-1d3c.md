@@ -28,9 +28,8 @@ Link: https://www.youtube.com/watch?v=DTR0npqq0c4
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 - **Twitch**: <a href='https://twitch.tv/papapastry' target='_blank'>papapastry</a>
-
+- **Twitter**: <a href='https://twitter.com/papapastry_' target='_blank'>papapastry_</a>
 
 ## Other
 

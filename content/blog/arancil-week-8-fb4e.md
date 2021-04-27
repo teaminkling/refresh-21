@@ -6,15 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["arancil"]
 description = "by arancil for week 8: High Sheen. Created using: Oil sticks & oil crayons + some paper cutout."
 [[images]]
-              src = "/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg"
+              src = "../static/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-8-fb4e"
               alt = "1:43:51 (PB)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" file="/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab-thumbnail-w720px.jpg
 
 Week 8: **High Sheen**. This art was lovingly created using: **Oil sticks & oil crayons + some paper cutout**.
 
@@ -24,10 +23,9 @@ Printed out the prompt's image - turns out I didn't have any black ink, just col
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 1: Yellow Lines. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png"
+              src = "../static/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-1-61ec"
               alt = "Honey, I'm Home!"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png" file="/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca**.
 
@@ -24,9 +23,8 @@ I wanted to draw my oc in a dress, so I drew him in a dress! He likes wearing dr
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

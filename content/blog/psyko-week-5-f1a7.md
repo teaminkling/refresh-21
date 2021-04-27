@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Psyko"]
 description = "by Psyko for week 5: Royal Green. Created using: Acrylics."
 [[images]]
-              src = "/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg"
+              src = "../static/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903-thumbnail-w720px.jpg"
               href = "/blog/psyko-week-5-f1a7"
               alt = "Flow"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903-thumbnail-w720px.jpg
 
 Week 5: **Royal Green**. This art was lovingly created using: **Acrylics**.
 
@@ -24,9 +23,8 @@ I took a lot of influence from the messy textures created by Jade. I made the lo
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
 - **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
-
+- **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 3: Red Circle. Created using: Procreate."
 [[images]]
-              src = "/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/doughyeast-week-3-d3de"
               alt = "Cindy’s Imaginary Friend"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
 
@@ -26,7 +25,6 @@ no flash photography!! <:OOOdrake:779973582298021890>
 
 - **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>
 - **Twitch**: <a href='https://twitch.tv/doughyeast' target='_blank'>doughyeast</a>
-
 
 ## Other
 

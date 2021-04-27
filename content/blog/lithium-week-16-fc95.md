@@ -6,15 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Lithium"]
 description = "by Lithium for week 16: Scaling Giants. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a.jpg"
+              src = "../static/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a-thumbnail-w720px.jpg"
               href = "/blog/lithium-week-16-fc95"
               alt = "It's acting weird!"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a.jpg" file="/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a-thumbnail-w720px.jpg
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip Studio Paint**.
 
@@ -26,10 +25,9 @@ lithiumreflections (IG/tumblr), lireflections (twitter)
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Tumblr**: <a href='https://lithiumreflections.tumblr.com' target='_blank'>lithiumreflections</a>
+- **Twitter**: <a href='https://twitter.com/jaimeskelton' target='_blank'>jaimeskelton</a>
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>
-
 
 ## Other
 

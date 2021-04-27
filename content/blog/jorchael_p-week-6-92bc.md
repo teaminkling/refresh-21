@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 6: Simple Love. Created using: photoshop."
 [[images]]
-              src = "/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png"
+              src = "../static/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593-thumbnail-w720px.png"
               href = "/blog/jorchael_p-week-6-92bc"
               alt = "Nian Gao, old and new"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593-thumbnail-w720px.png
 
 Week 6: **Simple Love**. This art was lovingly created using: **photoshop**.
 
@@ -29,7 +28,6 @@ https://mobile.
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>
 - **Twitter**: <a href='https://twitter.com/jorchaelp' target='_blank'>jorchaelp</a>
-
 
 ## Other
 

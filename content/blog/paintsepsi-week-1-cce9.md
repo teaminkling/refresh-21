@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 1: Yellow Lines. Created using: Procreate Digital Painting."
 [[images]]
-              src = "/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/paintsepsi-week-1-cce9"
               alt = "Profile"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/paintsepsi/2021-01-02+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate Digital Painting**.
 
@@ -26,10 +25,9 @@ Basically a portrait of a model but using the Pantone colour of the year as the 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["mrtnong"]
 description = "by mrtnong for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-              src = "/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg"
+              src = "../static/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950-thumbnail-w720px.jpg"
               href = "/blog/mrtnong-week-4-4f54"
               alt = "cat<a:B8vibe:776693937498095637>  (cant think of a title xd)"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" file="/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950-thumbnail-w720px.jpg
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
 
@@ -26,9 +25,8 @@ It's my first time creating something graphic art-y I usually paint my stuff in 
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/mrtnong' target='_blank'>mrtnong</a>
 - **Instagram**: <a href='https://instagram.com/mrtnong' target='_blank'>mrtnong</a>
-
+- **Twitch**: <a href='https://twitch.tv/mrtnong' target='_blank'>mrtnong</a>
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 13: Look At Me. Created using: Clip studio."
 [[images]]
-              src = "/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662.jpg"
+              src = "../static/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662-thumbnail-w720px.jpg"
               href = "/blog/titan011-week-13-a56d"
               alt = "Spicy Expressions"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662.jpg" file="/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662-thumbnail-w720px.jpg
 
 Week 13: **Look At Me**. This art was lovingly created using: **Clip studio**.
 

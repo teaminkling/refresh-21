@@ -6,17 +6,15 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 4: Murky Silhouettes. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png"
+              src = "../static/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4-thumbnail-w720px.png"
               href = "/blog/bell-bones-week-4-b8b8"
               alt = "Family Portrait"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" file="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" file="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247-thumbnail-w720px.png
+{{< fancybox path="../static/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4-thumbnail-w720px.png
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **FireAlpaca**.
 
@@ -26,9 +24,8 @@ I had the idea to do a cute wild west family portrait featuring the gays(tm) and
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 - **Tumblr**: <a href='https://bellbones1207.tumblr.com' target='_blank'>bellbones1207</a>
-
+- **Twitter**: <a href='https://twitter.com/bbart1207' target='_blank'>bbart1207</a>
 
 ## Other
 

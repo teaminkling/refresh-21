@@ -6,15 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 4: Murky Silhouettes. Created using: Sketchbook Pro."
 [[images]]
-              src = "/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png"
+              src = "../static/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817-thumbnail-w720px.png"
               href = "/blog/trixynetex-week-4-4be9"
               alt = "The Search"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" file="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817-thumbnail-w720px.png
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Sketchbook Pro**.
 

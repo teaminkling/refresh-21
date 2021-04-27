@@ -6,15 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["winsome"]
 description = "by winsome for week 6: Simple Love. Created using: Modelling Clay (Sculpey)."
 [[images]]
-              src = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg"
+              src = "../static/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af-thumbnail-w720px.jpg"
               href = "/blog/winsome-week-6-92a1"
               alt = "Sweet Nothings"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" file="/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af-thumbnail-w720px.jpg
 
 Week 6: **Simple Love**. This art was lovingly created using: **Modelling Clay (Sculpey)**.
 
@@ -26,7 +25,6 @@ A lot of people give chocolates for Valentines and other romantic holidays. I'm 
 
 - **Twitch**: <a href='https://twitch.tv/winsomeorc' target='_blank'>winsomeorc</a>
 - **Twitter**: <a href='https://twitter.com/winsomeorc' target='_blank'>winsomeorc</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Goblet"]
 description = "by Goblet for week 8: High Sheen. Created using: ibispaint x."
 [[images]]
-              src = "/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png"
+              src = "../static/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c-thumbnail-w720px.png"
               href = "/blog/goblet-week-8-24cb"
               alt = "felled tree"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" file="/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-02-23+b5991f84a07e4e947f7c9065c141ea7c-thumbnail-w720px.png
 
 Week 8: **High Sheen**. This art was lovingly created using: **ibispaint x**.
 
@@ -24,9 +23,8 @@ only used the picture and the colors of the picture. Plus the little tree dawing
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

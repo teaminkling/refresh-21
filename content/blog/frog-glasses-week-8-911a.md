@@ -6,15 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Frog Glasses"]
 description = "by Frog Glasses for week 8: High Sheen. Created using: procreate."
 [[images]]
-              src = "/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf.jpg"
+              src = "../static/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
               href = "/blog/frog-glasses-week-8-911a"
               alt = "Untitled"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf.jpg" file="/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
 
 Week 8: **High Sheen**. This art was lovingly created using: **procreate**.
 

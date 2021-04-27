@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Goblet"]
 description = "by Goblet for week 3: Red Circle. Created using: ibispaint and phone photos."
 [[images]]
-              src = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg"
+              src = "../static/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg"
               href = "/blog/goblet-week-3-9ea7"
               alt = "cold inside"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" file="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg
 
 Week 3: **Red Circle**. This art was lovingly created using: **ibispaint and phone photos**.
 
@@ -29,9 +28,8 @@ a view from my house at opposite ends of the year. Could have been a bigger cont
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 - **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-
+- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
 
 ## Other
 

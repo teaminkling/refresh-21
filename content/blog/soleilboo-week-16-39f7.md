@@ -6,17 +6,15 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 16: Scaling Giants. Created using: digital painting on photograph."
 [[images]]
-              src = "/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg"
               href = "/blog/soleilboo-week-16-39f7"
               alt = "Dobby and me"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" file="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" file="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="../static/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph**.
 
@@ -28,7 +26,6 @@ This is how I feel everytime I hug my cat. He is a giant things to my heart! Yea
 
 - **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
-
 
 ## Other
 

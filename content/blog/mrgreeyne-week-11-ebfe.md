@@ -6,7 +6,7 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["MrGreeyne"]
 description = "by MrGreeyne for week 11: Atmosphere Spectrum. Created using: Few word."
 [[images]]
-              src = "img/other-placeholder.png"
+              src = "../static/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg"
               href = "/blog/mrgreeyne-week-11-ebfe"
               alt = "Yesterday"
               stretch = "cover"
@@ -59,7 +59,6 @@ Twinkling far away
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/mrgreeyne' target='_blank'>mrgreeyne</a>
-
 
 ## Other
 

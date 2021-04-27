@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 2: Deep Ocean. Created using: traditional, embroidery on tulle."
 [[images]]
-              src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png"
+              src = "../static/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png"
               href = "/blog/charmandaar-week-2-210a"
               alt = "felix, the jellyfish"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **traditional, embroidery on tulle**.
 
@@ -24,10 +23,9 @@ embroidered this cutie across two streams! freehanded off.. a questionable draft
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
-- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
 - **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
-
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other
 

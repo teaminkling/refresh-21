@@ -6,15 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 3: Red Circle. Created using: Paint Tool SAI."
 [[images]]
-              src = "/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png"
+              src = "../static/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed-thumbnail-w720px.png"
               href = "/blog/dynoloafer-week-3-ee54"
               alt = "Blood Moon"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" file="/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed-thumbnail-w720px.png
 
 Week 3: **Red Circle**. This art was lovingly created using: **Paint Tool SAI**.
 

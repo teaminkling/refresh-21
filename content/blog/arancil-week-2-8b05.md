@@ -6,15 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["arancil"]
 description = "by arancil for week 2: Deep Ocean. Created using: Watercolor (Arches A5 rough)."
 [[images]]
-              src = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg"
+              src = "../static/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg"
               href = "/blog/arancil-week-2-8b05"
               alt = "This is why I drink"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" file="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Watercolor (Arches A5 rough)**.
 
@@ -28,10 +27,9 @@ Had to redo the whole thing after being unhappy with the first go at it - and I 
 
 ## Social Media
 
+- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
 - **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
-- **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
-
 
 ## Other
 

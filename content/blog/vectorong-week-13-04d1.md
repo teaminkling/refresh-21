@@ -13,10 +13,8 @@ description = "by vectorong for week 13: Look At Me. Created using: Mixed media 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455-thumbnail-w720px.jpg
 {{< youtube lkYeBXXHgY4 >}}
 
 
@@ -38,7 +36,6 @@ lol and here's the front of the mask since it's hard to see in the lighting of t
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>
 - **Twitch**: <a href='https://twitch.tv/vectorong' target='_blank'>vectorong</a>
-
 
 ## Other
 

@@ -6,15 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["MimiChair"]
 description = "by MimiChair for week 15: Back to Basics. Created using: Adobe Photoshop."
 [[images]]
-              src = "/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png"
+              src = "../static/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31-thumbnail-w720px.png"
               href = "/blog/mimichair-week-15-906c"
               alt = "#1 Sour Lemon"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" file="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31-thumbnail-w720px.png
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Adobe Photoshop**.
 
@@ -24,10 +23,9 @@ I actually love the sourness of lemons ~ that is what lemons are known for too. 
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/mimichair.art' target='_blank'>mimichair.art</a>
 - **Twitch**: <a href='https://twitch.tv/mimichair' target='_blank'>mimichair</a>
+- **Instagram**: <a href='https://instagram.com/mimichair.art' target='_blank'>mimichair.art</a>
 - **Twitter**: <a href='https://twitter.com/mimikuchan' target='_blank'>mimikuchan</a>
-
 
 ## Other
 

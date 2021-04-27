@@ -6,15 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Dylan"]
 description = "by Dylan for week 7: Disturbed Desert. Created using: blender."
 [[images]]
-              src = "/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg"
+              src = "../static/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg"
               href = "/blog/dylan-week-7-384d"
               alt = "Desert heat"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" file="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **blender**.
 

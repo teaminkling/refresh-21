@@ -6,15 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Boyf"]
 description = "by Boyf for week 1: Yellow Lines. Created using: FireAlpaca64."
 [[images]]
-              src = "/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png"
+              src = "../static/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png"
               href = "/blog/boyf-week-1-b79d"
               alt = "Just a Peep"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca64**.
 
@@ -25,7 +24,6 @@ I thought for a second, I didn't know what to do though I knew I wanted to use m
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/_daniluvsyou' target='_blank'>_daniluvsyou</a>
-
 
 ## Other
 

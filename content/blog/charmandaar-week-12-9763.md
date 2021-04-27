@@ -6,15 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 12: Visual Words. Created using: procreate."
 [[images]]
-              src = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png"
+              src = "../static/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png"
               href = "/blog/charmandaar-week-12-9763"
               alt = "unspoken words of affirmation"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" file="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png
 
 Week 12: **Visual Words**. This art was lovingly created using: **procreate**.
 
@@ -28,10 +27,9 @@ not sure if this counts as typography hahaha oOPs but uhh i really like writing 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
-- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
 - **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
-
+- **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other
 

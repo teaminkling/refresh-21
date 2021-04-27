@@ -6,15 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["mrtnong"]
 description = "by mrtnong for week 5: Royal Green. Created using: Digital (Procreate)."
 [[images]]
-              src = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png"
+              src = "../static/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
               href = "/blog/mrtnong-week-5-0702"
               alt = "Jade Temple"
               stretch = "cover"
 +++
 
 
-{{< fancybox path="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" file="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
+{{< fancybox path="../static/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (Procreate)**.
 
@@ -24,9 +23,8 @@ I started this piece by chaotically<a:ultrafastparrot:800558785907261441>  flick
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/mrtnong' target='_blank'>mrtnong</a>
 - **Instagram**: <a href='https://instagram.com/mrtnong' target='_blank'>mrtnong</a>
-
+- **Twitch**: <a href='https://twitch.tv/mrtnong' target='_blank'>mrtnong</a>
 
 ## Other
 
