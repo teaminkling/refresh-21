@@ -6,4 +6,4 @@ date = "2021-04-26"
 layout = "about"
 +++
 
-This site was written and deployed by [Thomas "papapastry" Wang](/tags/papapastry/).
+This site was written and deployed by [Thomas "papapastry" Wang](/artists/papapastry/).
