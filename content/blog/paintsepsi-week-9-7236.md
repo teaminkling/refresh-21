@@ -25,8 +25,8 @@ Wow this hurts my eyes. This was meant to be like a 10 min sketch and it looks l
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 
 ## Other
 

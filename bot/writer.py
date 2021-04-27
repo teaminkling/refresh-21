@@ -244,7 +244,10 @@ def create_all_posts():
             )
 
             socials_list: List[str] = []
-            for social in user_socials:
+            for social in sorted(
+                user_socials,
+                key=lambda pair: tuple([pair["provider"], pair["username"]]),
+            ):
                 provider: str = social["provider"]
                 username: str = social["username"]
 

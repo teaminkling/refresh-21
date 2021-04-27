@@ -32,7 +32,7 @@ Sorry the is a mess
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
+- **Instagram**: <a href='https://instagram.com/leo__layne' target='_blank'>leo__layne</a>
 
 ## Other
 

@@ -24,9 +24,9 @@ i saw 'state of change' and 'movement' and that was it for me! i forgot it was m
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
-- **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
 - **Instagram**: <a href='https://instagram.com/rybaris' target='_blank'>rybaris</a>
+- **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
+- **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
 
 ## Other
 

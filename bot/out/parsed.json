@@ -2,7 +2,11 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Instagram",
+        "provider": "Everywhere",
+        "username": "paintsepsi"
+      },
+      {
+        "provider": "Twitch",
         "username": "paintsepsi"
       },
       {
@@ -10,11 +14,7 @@
         "username": "paintsepsi"
       },
       {
-        "provider": "Everywhere",
-        "username": "paintsepsi"
-      },
-      {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "paintsepsi"
       }
     ],
@@ -30,7 +30,7 @@
     ],
     "Lithium#7468": [
       {
-        "provider": "Tumblr",
+        "provider": "Instagram",
         "username": "lithiumreflections"
       },
       {
@@ -38,7 +38,7 @@
         "username": "jaimeskelton"
       },
       {
-        "provider": "Instagram",
+        "provider": "Tumblr",
         "username": "lithiumreflections"
       }
     ],
@@ -74,11 +74,11 @@
         "username": "charmandaar"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "charmandaar_"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "charmandaar_"
       }
     ],
@@ -98,12 +98,12 @@
     ],
     "jorchael_p#2534": [
       {
-        "provider": "Instagram",
-        "username": "jrchlp.png"
-      },
-      {
         "provider": "Twitter",
         "username": "jorchaelp"
+      },
+      {
+        "provider": "Instagram",
+        "username": "jrchlp.png"
       }
     ],
     "Pumpkan#2447": [
@@ -118,22 +118,22 @@
     ],
     "Moonlit Narcy#0961": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "moonlit_narcy"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "moonlit_narcy"
       }
     ],
     "CapoKey#0003": [
       {
-        "provider": "Instagram",
-        "username": "caposketch"
-      },
-      {
         "provider": "Twitter",
         "username": "capokeyt"
+      },
+      {
+        "provider": "Instagram",
+        "username": "caposketch"
       }
     ],
     "jc#3609": [
@@ -158,12 +158,12 @@
     ],
     "papapastry#8888": [
       {
-        "provider": "Twitch",
-        "username": "papapastry"
-      },
-      {
         "provider": "Twitter",
         "username": "papapastry_"
+      },
+      {
+        "provider": "Twitch",
+        "username": "papapastry"
       }
     ],
     "HadesPsd#6683": [
@@ -175,6 +175,10 @@
     "cindry#4068": [
       {
         "provider": "Twitter",
+        "username": "cindrytuna"
+      },
+      {
+        "provider": "Instagram",
         "username": "fiveclawd"
       },
       {
@@ -183,10 +187,6 @@
       },
       {
         "provider": "Twitter",
-        "username": "cindrytuna"
-      },
-      {
-        "provider": "Instagram",
         "username": "fiveclawd"
       }
     ],
@@ -198,18 +198,6 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Instagram",
-        "username": "rjmmendoza444"
-      },
-      {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
-      },
-      {
-        "provider": "Instagram",
-        "username": "and"
-      },
-      {
         "provider": "Twitter",
         "username": "rjmendoza444"
       },
@@ -220,6 +208,18 @@
       {
         "provider": "Twitter",
         "username": "rjmmendoza444"
+      },
+      {
+        "provider": "Instagram",
+        "username": "rjmmendoza444"
+      },
+      {
+        "provider": "Instagram",
+        "username": "and"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
       }
     ],
     "soggyissoggy#7277": [
@@ -230,21 +230,21 @@
     ],
     "Goblet#7026": [
       {
-        "provider": "Twitter",
-        "username": "cuporice"
+        "provider": "Twitch",
+        "username": "cup_o_rice"
       },
       {
-        "provider": "Twitch",
-        "username": "cuporice"
+        "provider": "Twitter",
+        "username": "cup_o_rice"
       }
     ],
     "mrtnong#3026": [
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       }
     ],
@@ -272,32 +272,32 @@
     ],
     "poru#3659": [
       {
+        "provider": "Twitch",
+        "username": "poru_chan"
+      },
+      {
         "provider": "Instagram",
         "username": "poruchan_920"
       },
       {
         "provider": "Twitter",
         "username": "poruchan09"
-      },
-      {
-        "provider": "Twitch",
-        "username": "poru_chan"
       }
     ],
     "D3m0n_Msc#9927": [
       {
         "provider": "Instagram",
-        "username": "leolayne"
+        "username": "leo__layne"
       }
     ],
     "Psyko#9587": [
       {
-        "provider": "Twitter",
-        "username": "psykoframe"
-      },
-      {
         "provider": "Instagram",
         "username": "austeezus"
+      },
+      {
+        "provider": "Twitter",
+        "username": "psykoframe"
       }
     ],
     "Magus_Hellwalker#9661": [
@@ -334,12 +334,12 @@
     ],
     "okie.dokie.enoki#0233": [
       {
-        "provider": "Instagram",
-        "username": "okie.dokie.enoki"
+        "provider": "Twitch",
+        "username": "okie_dokie_enoki"
       },
       {
-        "provider": "Twitch",
-        "username": "okiedokieenoki"
+        "provider": "Instagram",
+        "username": "okie.dokie.enoki"
       }
     ],
     "winsome#5621": [
@@ -390,16 +390,16 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Twitch",
-        "username": "mimichair"
-      },
-      {
         "provider": "Instagram",
         "username": "mimichair.art"
       },
       {
         "provider": "Twitter",
         "username": "mimikuchan"
+      },
+      {
+        "provider": "Twitch",
+        "username": "mimichair"
       }
     ]
   },
@@ -411,7 +411,7 @@
       "week": 1,
       "title": "Bowl",
       "medium": "MS Paint",
-      "description": "simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS Paint, the yellow used to demonstrate the 3 dimensionality of bowl... aaaa theres a cat in it .... oh welp if it fits, it sits \u00af\\(\u30c4)/\u00af",
+      "description": "simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS Paint, the yellow used to demonstrate the 3 dimensionality of bowl... aaaa theres a cat in it .... oh welp if it fits, it sits \u00af\\_(\u30c4)_/\u00af",
       "attachments": [
         {
           "url": "../static/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.png",
@@ -2158,11 +2158,11 @@
       ],
       "socials": [
         {
-          "Twitter": "cuporice"
+          "Twitter": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 4\n**Title: Orange jump  **\nMedium: Krita with mouse\nDescription: Chose orange, quickly doodled a jumping person, decided to make some kind of parkour picture. \n\nSocial Media: https://twitter.com/Cup_o_Rice",
-      "raw_socials": "https://twitter.com/CupoRice",
+      "raw_socials": "https://twitter.com/Cup_o_Rice",
       "raw_hyperlinks": []
     },
     {
@@ -2192,7 +2192,7 @@
       "week": 4,
       "title": "cat<a:B8_vibe:776693937498095637>  (cant think of a title xd)",
       "medium": "Procreate",
-      "description": "It's my first time creating something graphic art-y I usually paint my stuff in a more painterly way <a:2534_ablobblastoff:795931611375337472> \n\n(might stream sometime in 2021 <a:ultrafastparrot:800558785907261441> )",
+      "description": "It's my first time creating something graphic art-y I usually paint my stuff in a more painterly way <a:2534_ablobblastoff:795931611375337472> \n\n(might stream sometime in 2021 <a:ultra_fast_parrot:800558785907261441> )",
       "attachments": [
         {
           "url": "../static/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg",
@@ -2208,7 +2208,7 @@
         }
       ],
       "raw_content": "Week: 4\nTitle: cat<a:B8_vibe:776693937498095637>  (cant think of a title xd)\nMedium: Procreate\nDescription: It's my first time creating something *graphic art-y* I usually paint my stuff in a more painterly way <a:2534_ablobblastoff:795931611375337472> \nSocials: https://www.instagram.com/mrtnong https://www.twitch.tv/mrtnong (might stream sometime in 2021 <a:ultra_fast_parrot:800558785907261441> )",
-      "raw_socials": "https://www.instagram.com/mrtnong https://www.twitch.tv/mrtnong (might stream sometime in 2021 <a:ultrafastparrot:800558785907261441> )",
+      "raw_socials": "https://www.instagram.com/mrtnong https://www.twitch.tv/mrtnong (might stream sometime in 2021 <a:ultra_fast_parrot:800558785907261441> )",
       "raw_hyperlinks": []
     },
     {
@@ -2897,7 +2897,7 @@
       "week": 5,
       "title": "Jade Temple",
       "medium": "Digital (Procreate)",
-      "description": "I started this piece by chaotically<a:ultrafastparrot:800558785907261441>  flicking my strokes everywhere cuz my brain cant think of anything, and now i have this abstract-y jade temple. it's pretty messy <a:Bonk:769829350622232587>",
+      "description": "I started this piece by *chaotically*<a:ultra_fast_parrot:800558785907261441>  flicking my strokes everywhere cuz my brain cant think of anything, and now i have this abstract-y jade temple. it's pretty messy <a:Bonk:769829350622232587>",
       "attachments": [
         {
           "url": "../static/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png",
@@ -3033,11 +3033,11 @@
       ],
       "socials": [
         {
-          "Instagram": "leolayne"
+          "Instagram": "leo__layne"
         }
       ],
       "raw_content": "\nWeek 5\nTitle : Jade scales\nMedium: Digital - Ibis Paintx\n\nSocials: Insta-leo__layne (double underscore\n",
-      "raw_socials": "Insta-leolayne (double underscore",
+      "raw_socials": "Insta-leo__layne (double underscore",
       "raw_hyperlinks": []
     },
     {
@@ -3410,11 +3410,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 6\nTitle:  Ducks by docks\nMedium: Krita with mouse \nDescription: I like ducks. A mama duck loves her ducklings. I love the water texture stamp. \n\nSocial Media: https://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -3748,11 +3748,11 @@
           "Instagram": "okie.dokie.enoki"
         },
         {
-          "Twitch": "okiedokieenoki"
+          "Twitch": "okie_dokie_enoki"
         }
       ],
       "raw_content": "week: 6\ntitle: solemn night\nmedium: procreate\ndescription: i didn\u2019t want to study so i made this \u2764\ufe0f\npov: you\u2019re god but also a third wheel</3\nsocial: https://www.twitch.tv/okie_dokie_enoki\nhttps://www.instagram.com/okie.dokie.enoki",
-      "raw_socials": "https://www.twitch.tv/okiedokieenoki\nhttps://www.instagram.com/okie.dokie.enoki",
+      "raw_socials": "https://www.twitch.tv/okie_dokie_enoki\nhttps://www.instagram.com/okie.dokie.enoki",
       "raw_hyperlinks": []
     },
     {
@@ -3823,11 +3823,11 @@
       ],
       "socials": [
         {
-          "Instagram": "leolayne"
+          "Instagram": "leo__layne"
         }
       ],
       "raw_content": "Social: twitch: leo_d3mom\nInsta: leo__layne\nDescription: based from girl in red . I'm part of the LGBTQ+ community and it basically represents us\n\nTitle : Love in the air\nMedium : Ibis paint x\nSorry the description is a mess also I'm a growing artist so sorry if it's bad it cringe\n\nMedium : Ibis paint x\n\nSorry the description is a mess\n",
-      "raw_socials": "twitch: leo_d3mom\nInsta: leolayne\nDescription: based from girl in red . I'm part of the LGBTQ+ community and it basically represents us\n\n\n\n\n\nSorry the description is a mess also I'm a growing artist so sorry if it's bad it cringe\n\nMedium : Ibis paint x\n\nSorry the description is a mess",
+      "raw_socials": "twitch: leo_d3mom\nInsta: leo__layne\nDescription: based from girl in red . I'm part of the LGBTQ+ community and it basically represents us\n\n\n\n\n\nSorry the description is a mess also I'm a growing artist so sorry if it's bad it cringe\n\nMedium : Ibis paint x\n\nSorry the description is a mess",
       "raw_hyperlinks": []
     },
     {
@@ -3987,11 +3987,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 7\nTitle:  Welcome to Sandy Point! Population: me\nMedium: ibispaint x \nDescription: dropped randomly in death valley on google maps and used that as my reference. Drew a bighorn's head, decided to make it a sassy cowboy. \n\nSocial Media: https://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -4526,11 +4526,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 8\nTitle:  felled tree\nMedium: ibispaint x \nDescription: only used the picture and the colors of the picture. Plus the little tree dawing I made and a leaf brush. Forgot to stay metallic\n\nSocial Media: https://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -5205,10 +5205,10 @@
       "week": 9,
       "title": "POV you find another VHS tape, and your sleep deprived self slots it in the player\u2026",
       "medium": "video/photoshop",
-      "description": "!!!epilepsy warning!!!\n\nrhythm and flow? say no more.. didn\u2019t have much time this week so this was a very quickly put-together and rushed but i found this super funky cmyk filter on insta\u2026 this was such a headache to edit lol, but hope you enjoy!! you asked for statement so\u2026 i look like a giant but i promise you it\u2019s 60% camera angle 40% my 8\u201d pole heels xd\n\nSubmission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaar",
+      "description": "!!!epilepsy warning!!!\n\nrhythm and flow? say no more.. didn\u2019t have much time this week so this was a very quickly put-together and rushed but i found this super funky cmyk filter on insta\u2026 this was such a headache to edit lol, but hope you enjoy!! you asked for statement so\u2026 i look like a giant but i promise you it\u2019s 60% camera angle 40% my 8\u201d pole heels xd\n\nSubmission link: https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar",
       "attachments": [
         {
-          "url": "https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaar"
+          "url": "https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar"
         }
       ],
       "socials": [
@@ -5220,9 +5220,9 @@
         }
       ],
       "raw_content": "Week: 9\nTitle: **POV you find another VHS tape, and your sleep deprived self slots it in the player\u2026 **\nMedium: video/photoshop\nDescription: \n\n*!!!epilepsy warning!!!*\n\nrhythm and flow? say no more.. didn\u2019t have much time this week so this was a very quickly put-together and rushed but i found this super funky cmyk filter on insta\u2026 this was such a headache to edit lol, but hope you enjoy!! you asked for statement so\u2026 i look like a giant but i promise you it\u2019s 60% camera angle 40% my 8\u201d pole heels xd\n\nSocial Media: \nhttps://www.twitch.tv/charmandaar\nhttps://twitter.com/charmandaar_ \n\n**Submission link**: https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar",
-      "raw_socials": "https://www.twitch.tv/charmandaar\nhttps://twitter.com/charmandaar_ \n\nSubmission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaar",
+      "raw_socials": "https://www.twitch.tv/charmandaar\nhttps://twitter.com/charmandaar_ \n\nSubmission link: https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar",
       "raw_hyperlinks": [
-        "https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaar"
+        "https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar"
       ]
     },
     {
@@ -5302,11 +5302,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "https://docs.google.com/presentation/d/1CrUiHBniouCtC2vncknVcsFT4cf-kVRzb--YlfKXxWA/edit?usp=sharing\n\nWeek: 9\nTitle: Color factory \nMedium: survival Minecraft\nDescription: \n\nDecided to use minecraft since I was in quarantine during the vacation and had time. Needed green dye to mix into cyan dye and so I made a cactus farm and built a factory around it. uses mostly blocks and stuff you can make from the dyes (also a little stone). Tried to make it look like it pollutes the river (dug out custom rivers and had them flow into the swamp biome for extra dirty effect). Solved the rhythm part by making a noteblock drum-kit in the factory. \nit's a statement because I was inspired by the Citarum river in Indonesia, most polluted village in the world. Also has textile factories. \n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": [
         "https://docs.google.com/presentation/d/1CrUiHBniouCtC2vncknVcsFT4cf-kVRzb--YlfKXxWA/edit?usp=sharing"
       ]
@@ -5794,11 +5794,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 10\nTitle: textile grook\nMedium: ibispaint x \nDescription: \nSorry, used 5 min\n\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -5918,11 +5918,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 11\nTitle: Passive smoking \nMedium: ibispaint x and phone photo\nDescription: \nWent skiing, had fun, saw happy little clouds. Was pretty, smelled chimney smoke. Wanted to make something fun. \n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -6270,7 +6270,7 @@
       "week": 11,
       "title": "\u201cyou would make the sky a gijinka\u201d - enoki",
       "medium": "Procreate",
-      "description": "* Used the two references above *(an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn** and *Noon, but time prevails <:cindryBURN:775498317336805416> \n\nI need to stop making non-human things human <:ThankEgg:797490219716050954>",
+      "description": "** Used the two references above (an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn* and **Noon, but time prevails <:cindryBURN:775498317336805416> \n\nI need to stop making non-human things human <:ThankEgg:797490219716050954>",
       "attachments": [
         {
           "url": "../static/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg",
@@ -6771,11 +6771,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 13\nTitle: <:cuporiGun:825806539918278686>\nMedium: Krita\nDescription: \nremade my emote. made the expression better. (first one is the new one)\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice\n\n",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -6873,7 +6873,7 @@
       "week": 13,
       "title": "OMORI AU",
       "medium": "FireAlpaca",
-      "description": "Wasn't sure if I was gonna finish on time, but I managed to get these done! I finished watching a let's play of OMORI recently, and it was wonderful experience... I felt inspired to draw little battle portraits of my OCs in the game's style! Was gonna draw their real world counterparts, but I... don't have the time nor energy. Either way, here's Astro and Backey as kids, aren't they cute?\n\n; /\n\nAlso here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basilfanmade_battle_portraits_a_bit_latetemplate/",
+      "description": "Wasn't sure if I was gonna finish on time, but I managed to get these done! I finished watching a let's play of OMORI recently, and it was wonderful experience... I felt inspired to draw little battle portraits of my OCs in the game's style! Was gonna draw their real world counterparts, but I... don't have the time nor energy. Either way, here's Astro and Backey as kids, aren't they cute?\n\n; /\n\nAlso here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basil_fanmade_battle_portraits_a_bit_late_template/",
       "attachments": [
         {
           "url": "../static/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png",
@@ -6893,9 +6893,9 @@
         }
       ],
       "raw_content": "Week: 13\nTitle: OMORI AU\nMedium: FireAlpaca\nDescription: Wasn't sure if I was gonna finish on time, but I managed to get these done! I finished watching a let's play of OMORI recently, and it was wonderful experience... I felt inspired to draw little battle portraits of my OCs in the game's style! Was gonna draw their real world counterparts, but I... don't have the time nor energy. Either way, here's Astro and Backey as kids, aren't they cute?\nSocial Media: https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/\n\nAlso here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basil_fanmade_battle_portraits_a_bit_late_template/\n\n",
-      "raw_socials": "https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/\n\nAlso here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basilfanmade_battle_portraits_a_bit_latetemplate/",
+      "raw_socials": "https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/\n\nAlso here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basil_fanmade_battle_portraits_a_bit_late_template/",
       "raw_hyperlinks": [
-        "https://www.reddit.com/r/OMORI/comments/lf29ec/basilfanmade_battle_portraits_a_bit_latetemplate/"
+        "https://www.reddit.com/r/OMORI/comments/lf29ec/basil_fanmade_battle_portraits_a_bit_late_template/"
       ]
     },
     {
@@ -7311,11 +7311,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 14\nTitle: My cat is on fire\nMedium: Krita\nDescription: \nPlayed around with a photo of my cat. \n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -7977,11 +7977,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 15\nTitle: Tightrope banana. \nMedium: Paper, permanent marker. \nDescription: \nSorry, life happened and I forgot. Here take this shitpost instead. Balance!\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice\n\n",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {
@@ -8188,17 +8188,17 @@
       "week": 16,
       "title": "Ozymandias",
       "medium": "Clip studio paint",
-      "description": "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better \ud83d\ude1b\nSo this is based off the poem \"Ozymandias\" by Percy Bysshe Shelley. Good poem, go read it. This is also my first real go with Clip studio and trying to make a webtoon/uploading a webtoon.\nSo yeah, go read it \ud83d\ude18\n(Don't worry, it's short)\n\nhttps://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titleno=633899&episodeno=1",
+      "description": "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better \ud83d\ude1b\nSo this is based off the poem \"Ozymandias\" by Percy Bysshe Shelley. Good poem, go read it. This is also my first real go with Clip studio and trying to make a webtoon/uploading a webtoon.\nSo yeah, go read it \ud83d\ude18\n(Don't worry, it's short)\n\nhttps://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1",
       "attachments": [
         {
-          "url": "https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titleno=633899&episodeno=1"
+          "url": "https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1"
         }
       ],
       "socials": [],
       "raw_content": "Week: 16\n**Title:  Ozymandias**\nMedium: Clip studio paint \nDescription: So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better \ud83d\ude1b\nSo this is based off the poem \"Ozymandias\" by Percy Bysshe Shelley. Good poem, go read it. This is also my first real go with Clip studio and trying to make a webtoon/uploading a webtoon.\nSo yeah, go read it \ud83d\ude18\n(Don't worry, it's short)\n\nhttps://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1",
       "raw_socials": "",
       "raw_hyperlinks": [
-        "https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titleno=633899&episodeno=1"
+        "https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1"
       ]
     },
     {
@@ -8264,11 +8264,11 @@
       ],
       "socials": [
         {
-          "Twitch": "cuporice"
+          "Twitch": "cup_o_rice"
         }
       ],
       "raw_content": "Week: 16\nTitle: Mechanics love their jobs sometimes\nMedium: Krita (still mouse)\nDescription: \nDon't be deceived, the Blue Amazon is a killing machine. Although these robots are programmed to try to act human, they are infact very much controlled by their masters (at least that is what the master thinks). If you think you are in ara ara distance, you are in fact in danger. (didn't manage to finish)\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice",
-      "raw_socials": "https://www.twitch.tv/cuporice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
     {

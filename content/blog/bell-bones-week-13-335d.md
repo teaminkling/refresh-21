@@ -26,7 +26,7 @@ Wasn't sure if I was gonna finish on time, but I managed to get these done! I fi
 
 ; /
 
-Also here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basilfanmade_battle_portraits_a_bit_latetemplate/
+Also here's the template I used for this: https://www.reddit.com/r/OMORI/comments/lf29ec/basil_fanmade_battle_portraits_a_bit_late_template/
 
 ## Social Media
 

@@ -29,10 +29,10 @@ This is a response piece to the experience of being a female online. The quotes 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
-- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 ## Other
 

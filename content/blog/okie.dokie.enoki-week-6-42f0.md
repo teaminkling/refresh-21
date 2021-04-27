@@ -26,7 +26,7 @@ pov: you’re god but also a third wheel</3
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/okie.dokie.enoki' target='_blank'>okie.dokie.enoki</a>
-- **Twitch**: <a href='https://twitch.tv/okiedokieenoki' target='_blank'>okiedokieenoki</a>
+- **Twitch**: <a href='https://twitch.tv/okie_dokie_enoki' target='_blank'>okie_dokie_enoki</a>
 
 ## Other
 

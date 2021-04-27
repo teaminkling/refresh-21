@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 16: Scaling Giants. Created using: Clip st
 +++
 
 
-[View on Webtoons.](https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titleno=633899&episodeno=1)
+[View on Webtoons.](https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1)
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip studio paint**.
@@ -25,7 +25,7 @@ So this is based off the poem "Ozymandias" by Percy Bysshe Shelley. Good poem, g
 So yeah, go read it 😘
 (Don't worry, it's short)
 
-https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?titleno=633899&episodeno=1
+https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1
 
 ## Social Media
 

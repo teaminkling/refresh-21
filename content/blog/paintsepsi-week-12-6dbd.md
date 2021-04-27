@@ -27,8 +27,8 @@ whoops I missed last week but here we gooooo
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 
 ## Other
 

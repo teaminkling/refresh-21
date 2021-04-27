@@ -26,8 +26,8 @@ Collection of my ongoing still life fruit project. All photos for reference take
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
+- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 
 ## Other
 

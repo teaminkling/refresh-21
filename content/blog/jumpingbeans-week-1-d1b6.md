@@ -20,12 +20,12 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **MS Paint**.
 
 ## Artist's Notes
 
-simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS Paint, the yellow used to demonstrate the 3 dimensionality of bowl... aaaa theres a cat in it .... oh welp if it fits, it sits ¯\(ツ)/¯
+simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS Paint, the yellow used to demonstrate the 3 dimensionality of bowl... aaaa theres a cat in it .... oh welp if it fits, it sits ¯\_(ツ)_/¯
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 - **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>
+- **Twitch**: <a href='https://twitch.tv/jumpingbeansz' target='_blank'>jumpingbeansz</a>
 
 ## Other
 

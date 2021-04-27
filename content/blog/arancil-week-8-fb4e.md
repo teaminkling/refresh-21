@@ -24,9 +24,9 @@ Printed out the prompt's image - turns out I didn't have any black ink, just col
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 - **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
-- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 
 ## Other
 

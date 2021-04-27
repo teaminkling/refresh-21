@@ -24,8 +24,8 @@ San Francisco, sunsets, stargazing, and day dreaming are what inspired this piec
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
 - **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
+- **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
 
 ## Other
 

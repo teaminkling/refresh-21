@@ -34,7 +34,7 @@ She is being dropped from heaven without wings to signify she is living and or h
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
+- **Instagram**: <a href='https://instagram.com/leo__layne' target='_blank'>leo__layne</a>
 
 ## Other
 

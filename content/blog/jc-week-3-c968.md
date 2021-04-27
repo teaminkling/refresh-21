@@ -24,9 +24,9 @@ i have a really involved animatic in my head set to rebel just for kicks. i will
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
-- **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
 - **Instagram**: <a href='https://instagram.com/rybaris' target='_blank'>rybaris</a>
+- **Tumblr**: <a href='https://rybaris.tumblr.com' target='_blank'>rybaris</a>
+- **Twitter**: <a href='https://twitter.com/rybaris' target='_blank'>rybaris</a>
 
 ## Other
 

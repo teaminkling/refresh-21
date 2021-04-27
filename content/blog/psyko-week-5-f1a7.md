@@ -24,8 +24,8 @@ I took a lot of influence from the messy textures created by Jade. I made the lo
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
 - **Instagram**: <a href='https://instagram.com/austeezus' target='_blank'>austeezus</a>
+- **Twitter**: <a href='https://twitter.com/psykoframe' target='_blank'>psykoframe</a>
 
 ## Other
 

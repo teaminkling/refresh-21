@@ -24,12 +24,12 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **video/photoshop
 
 rhythm and flow? say no more.. didn’t have much time this week so this was a very quickly put-together and rushed but i found this super funky cmyk filter on insta… this was such a headache to edit lol, but hope you enjoy!! you asked for statement so… i look like a giant but i promise you it’s 60% camera angle 40% my 8” pole heels xd
 
-Submission link: https://www.youtube.com/watch?v=rGs-0-vHBw&abchannel=charmandaar
+Submission link: https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 - **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 - **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other

@@ -26,9 +26,9 @@ Tried to capture desperation, intensity and passion. Didn't manage to make the i
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 - **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
-- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 
 ## Other
 

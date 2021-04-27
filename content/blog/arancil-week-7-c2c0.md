@@ -37,9 +37,9 @@ This one was a bit rushed, final hours before submission <:cindryBAM:77549832094
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 - **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
-- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 
 ## Other
 

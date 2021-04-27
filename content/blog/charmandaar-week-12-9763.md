@@ -28,8 +28,8 @@ not sure if this counts as typography hahaha oOPs but uhh i really like writing 
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 - **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 - **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other

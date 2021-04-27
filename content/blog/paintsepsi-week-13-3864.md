@@ -25,8 +25,8 @@ my gf likes to take pics with my mirror lmao.
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 
 ## Other
 

@@ -24,8 +24,8 @@ Learning to love myself is not easy and It's still a long way to go. so here it 
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
+- **Twitch**: <a href='https://twitch.tv/soleilboo' target='_blank'>soleilboo</a>
 
 ## Other
 

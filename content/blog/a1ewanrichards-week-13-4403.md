@@ -28,11 +28,11 @@ My interpretation of Otomatsu Sato from the movie "Poppoya" (Railroad Man), a st
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
 - **Instagram**: <a href='https://instagram.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards' target='_blank'>a1ewanrichards</a>
-- **Instagram**: <a href='https://instagram.com/and' target='_blank'>and</a>
-- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitch**: <a href='https://twitch.tv/a1ewanrichards#0881' target='_blank'>a1ewanrichards#0881</a>
+- **Twitter**: <a href='https://twitter.com/rjmendoza444' target='_blank'>rjmendoza444</a>
 - **Twitter**: <a href='https://twitter.com/rjmmendoza444' target='_blank'>rjmmendoza444</a>
 
 ## Other

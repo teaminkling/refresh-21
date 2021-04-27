@@ -24,10 +24,10 @@ Something about a brassy steam punk-y fish, it looks a tad japanese now? i love 
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
-- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 ## Other
 

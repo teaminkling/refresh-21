@@ -28,9 +28,9 @@ Had to redo the whole thing after being unhappy with the first go at it - and I 
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 - **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
-- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 
 ## Other
 

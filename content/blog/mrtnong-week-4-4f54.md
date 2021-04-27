@@ -22,7 +22,7 @@ Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate*
 
 It's my first time creating something graphic art-y I usually paint my stuff in a more painterly way <a:2534_ablobblastoff:795931611375337472> 
 
-(might stream sometime in 2021 <a:ultrafastparrot:800558785907261441> )
+(might stream sometime in 2021 <a:ultra_fast_parrot:800558785907261441> )
 
 ## Social Media
 

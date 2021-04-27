@@ -24,8 +24,8 @@ I actually love the sourness of lemons ~ that is what lemons are known for too. 
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/mimichair' target='_blank'>mimichair</a>
 - **Instagram**: <a href='https://instagram.com/mimichair.art' target='_blank'>mimichair.art</a>
+- **Twitch**: <a href='https://twitch.tv/mimichair' target='_blank'>mimichair</a>
 - **Twitter**: <a href='https://twitter.com/mimikuchan' target='_blank'>mimikuchan</a>
 
 ## Other

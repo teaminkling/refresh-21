@@ -26,8 +26,8 @@ ps: pls turn up the audio it's a bit soft lol
 
 ## Social Media
 
-- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 - **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>
+- **Twitch**: <a href='https://twitch.tv/charmandaar' target='_blank'>charmandaar</a>
 - **Twitter**: <a href='https://twitter.com/charmandaar_' target='_blank'>charmandaar_</a>
 
 ## Other

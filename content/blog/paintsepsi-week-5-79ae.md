@@ -25,8 +25,8 @@ It’s a quick piece I drew based on Irene from Red Velvet! I tried to make her 
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/paintsepsi' target='_blank'>paintsepsi</a>
-- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 - **Twitch**: <a href='https://twitch.tv/paintsepsi' target='_blank'>paintsepsi</a>
+- **Twitter**: <a href='https://twitter.com/paintsepsi' target='_blank'>paintsepsi</a>
 
 ## Other
 

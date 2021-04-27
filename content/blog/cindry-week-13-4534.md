@@ -28,10 +28,10 @@ i think this has inspired me to do more 4komas tho in the future!!! i really lik
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
 - **Twitch**: <a href='https://twitch.tv/cindrytuna' target='_blank'>cindrytuna</a>
 - **Twitter**: <a href='https://twitter.com/cindrytuna' target='_blank'>cindrytuna</a>
-- **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>
+- **Twitter**: <a href='https://twitter.com/fiveclawd' target='_blank'>fiveclawd</a>
 
 ## Other
 

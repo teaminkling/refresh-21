@@ -25,8 +25,8 @@ I fucking love NieR:Automata.
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/poruchan_920' target='_blank'>poruchan_920</a>
-- **Twitter**: <a href='https://twitter.com/poruchan09' target='_blank'>poruchan09</a>
 - **Twitch**: <a href='https://twitch.tv/poru_chan' target='_blank'>poru_chan</a>
+- **Twitter**: <a href='https://twitter.com/poruchan09' target='_blank'>poruchan09</a>
 
 ## Other
 

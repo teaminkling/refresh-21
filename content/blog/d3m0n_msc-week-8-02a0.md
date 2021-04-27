@@ -29,7 +29,7 @@ I incorporated the wood in the base of the "snow globe?" Using birch wood and th
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
+- **Instagram**: <a href='https://instagram.com/leo__layne' target='_blank'>leo__layne</a>
 
 ## Other
 

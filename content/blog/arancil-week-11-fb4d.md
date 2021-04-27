@@ -27,9 +27,9 @@ Have a good day day/night/morning/evening, everyone, you're all lovely.
 
 ## Social Media
 
+- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 - **Twitch**: <a href='https://twitch.tv/arancil' target='_blank'>arancil</a>
 - **Twitter**: <a href='https://twitter.com/arancil' target='_blank'>arancil</a>
-- **Instagram**: <a href='https://instagram.com/arancil' target='_blank'>arancil</a>
 
 ## Other
 

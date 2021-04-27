@@ -578,10 +578,18 @@ def extract_all_content(
 
         # Remove italics.
 
-        preamble = re.sub(r"_(?P<unformatted>.*)_", r"\g<unformatted>", preamble)
-        remainder = re.sub(r"_(?P<unformatted>.*)_", r"\g<unformatted>", remainder)
-        preamble = re.sub(r"\*(?P<unformatted>.*)\*", r"\g<unformatted>", preamble)
-        remainder = re.sub(r"\*(?P<unformatted>.*)\*", r"\g<unformatted>", remainder)
+        preamble = re.sub(
+            r"(?<!\S)_(?P<unformatted>.*)_(?!\S)", r"\g<unformatted>", preamble
+        )
+        remainder = re.sub(
+            r"(?<!\S)_(?P<unformatted>.*)_(?!\S)", r"\g<unformatted>", remainder
+        )
+        preamble = re.sub(
+            r"(?<!\S)\*(?P<unformatted>.*)\*(?!\S)", r"\g<unformatted>", preamble
+        )
+        remainder = re.sub(
+            r"(?<!\S)\*(?P<unformatted>.*)\*(?!\S)", r"\g<unformatted>", remainder
+        )
 
         # Remove underlines.
 

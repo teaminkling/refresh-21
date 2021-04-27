@@ -28,8 +28,8 @@ I painted the outline for the sword, tried painting the jade texture, but was di
 
 ## Social Media
 
-- **Twitter**: <a href='https://twitter.com/cuporice' target='_blank'>cuporice</a>
-- **Twitch**: <a href='https://twitch.tv/cuporice' target='_blank'>cuporice</a>
+- **Twitch**: <a href='https://twitch.tv/cup_o_rice' target='_blank'>cup_o_rice</a>
+- **Twitter**: <a href='https://twitter.com/cup_o_rice' target='_blank'>cup_o_rice</a>
 
 ## Other
 

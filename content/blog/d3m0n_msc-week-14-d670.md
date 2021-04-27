@@ -25,7 +25,7 @@ My drawing skills arnt the best compared to others in this discord but this stil
 
 ## Social Media
 
-- **Instagram**: <a href='https://instagram.com/leolayne' target='_blank'>leolayne</a>
+- **Instagram**: <a href='https://instagram.com/leo__layne' target='_blank'>leo__layne</a>
 
 ## Other
 
