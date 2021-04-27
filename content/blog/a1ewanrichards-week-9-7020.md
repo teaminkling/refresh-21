@@ -13,7 +13,8 @@ description = "by a1ewanrichards for week 9: Bold Strokes. Created using: Clip S
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Clip Studio Paint**.
 

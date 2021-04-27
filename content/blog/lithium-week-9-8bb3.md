@@ -13,7 +13,8 @@ description = "by Lithium for week 9: Bold Strokes. Created using: Digital (Clip
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1-thumbnail-w720px.jpg" file="../static/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 

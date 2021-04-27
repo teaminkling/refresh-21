@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 16: Scaling Giants. Created using: krita
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989-thumbnail-w720px.png
+{{< fancybox path="../static/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **krita**.
 

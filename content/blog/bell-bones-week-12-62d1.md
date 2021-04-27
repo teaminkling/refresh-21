@@ -13,7 +13,8 @@ description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpac
 +++
 
 
-{{< fancybox path="../static/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png
+{{< fancybox path="../static/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png" file="../static/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 12: **Visual Words**. This art was lovingly created using: **FireAlpaca**.
 

@@ -13,7 +13,8 @@ description = "by DynoLoafer for week 8: High Sheen. Created using: Paint Tool S
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c-thumbnail-w720px.png
+{{< fancybox path="../static/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Paint Tool SAI**.
 

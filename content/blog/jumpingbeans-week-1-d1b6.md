@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 1: Yellow Lines. Created using: MS Paint
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba-thumbnail-w720px.png
+{{< fancybox path="../static/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **MS Paint**.
 

@@ -13,7 +13,8 @@ description = "by TrixyNetex for week 9: Bold Strokes. Created using: Sketchbook
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37-thumbnail-w720px.png
+{{< fancybox path="../static/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37-thumbnail-w720px.png" file="../static/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Sketchbook Pro**.
 

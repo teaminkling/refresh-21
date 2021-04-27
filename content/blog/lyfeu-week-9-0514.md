@@ -13,7 +13,8 @@ description = "by Lyfeu for week 9: Bold Strokes. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="../static/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d-thumbnail-w720px.jpg" file="../static/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.
 

@@ -13,7 +13,8 @@ description = "by Zat for week 7: Disturbed Desert. Created using: Photography."
 +++
 
 
-{{< fancybox path="../static/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg" file="../static/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography**.
 

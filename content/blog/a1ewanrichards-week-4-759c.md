@@ -13,7 +13,8 @@ description = "by a1ewanrichards for week 4: Murky Silhouettes. Created using: F
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Felt pen on paper**.
 

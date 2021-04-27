@@ -13,7 +13,8 @@ description = "by Moonlit Narcy for week 4: Murky Silhouettes. Created using: Pr
 +++
 
 
-{{< fancybox path="../static/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="../static/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
 

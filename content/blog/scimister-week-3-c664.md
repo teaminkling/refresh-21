@@ -13,7 +13,8 @@ description = "by Scimister for week 3: Red Circle. Created using: PaintToolSAI.
 +++
 
 
-{{< fancybox path="../static/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080-thumbnail-w720px.png
+{{< fancybox path="../static/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080-thumbnail-w720px.png" file="../static/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **PaintToolSAI**.
 

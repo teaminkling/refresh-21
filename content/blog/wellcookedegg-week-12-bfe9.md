@@ -13,7 +13,8 @@ description = "by WellCookedEgg for week 12: Visual Words. Created using: Clip S
 +++
 
 
-{{< fancybox path="../static/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee-thumbnail-w720px.jpg" file="../static/img/wellcookedegg/2021-03-24+e74eb49c52cd46f36ac18e53f5d166ee.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 12: **Visual Words**. This art was lovingly created using: **Clip Studio Paint**.
 

@@ -13,7 +13,8 @@ description = "by cindry for week 10: Folds and Folds. Created using: Digital, I
 +++
 
 
-{{< fancybox path="../static/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png
+{{< fancybox path="../static/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png" file="../static/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Digital, Illustrator and CSP**.
 

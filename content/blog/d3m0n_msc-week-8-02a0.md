@@ -13,7 +13,8 @@ description = "by D3m0n_Msc for week 8: High Sheen. Created using: : Phone."
 +++
 
 
-{{< fancybox path="../static/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237-thumbnail-w720px.png
+{{< fancybox path="../static/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237-thumbnail-w720px.png" file="../static/img/d3m0n_msc/2021-02-23+8f498cc5367dafc105b2862e0c299237.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **: Phone**.
 

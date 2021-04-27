@@ -13,7 +13,8 @@ description = "by soleilboo for week 5: Royal Green. Created using: digital/ pho
 +++
 
 
-{{< fancybox path="../static/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956-thumbnail-w720px.jpg" file="../static/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **digital/ photoshop**.
 

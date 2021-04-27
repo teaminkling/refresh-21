@@ -13,7 +13,8 @@ description = "by PhoebeCreates for week 10: Folds and Folds. Created using: ink
 +++
 
 
-{{< fancybox path="../static/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg
+{{< fancybox path="../static/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg" file="../static/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ink and watercolour**.
 

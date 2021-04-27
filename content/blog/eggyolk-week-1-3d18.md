@@ -13,7 +13,8 @@ description = "by eggyolk for week 1: Yellow Lines. Created using: Procreate."
 +++
 
 
-{{< fancybox path="../static/img/eggyolk/2021-01-07+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/eggyolk/2021-01-07+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/eggyolk/2021-01-07+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate**.
 

@@ -13,7 +13,8 @@ description = "by hamishmr for week 3: Red Circle. Created using: Ps."
 +++
 
 
-{{< fancybox path="../static/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334-thumbnail-w720px.jpg" file="../static/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ps**.
 

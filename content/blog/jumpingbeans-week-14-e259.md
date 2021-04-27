@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 14: Absolute Fire. Created using: Krita 
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039-thumbnail-w720px.png
+{{< fancybox path="../static/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-04-04+a4c66ec53571d0b8c434f226c4a69039.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Krita w/ mouse**.
 

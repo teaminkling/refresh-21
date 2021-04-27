@@ -13,7 +13,8 @@ description = "by arancil for week 8: High Sheen. Created using: Oil sticks & oi
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab-thumbnail-w720px.jpg" file="../static/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Oil sticks & oil crayons + some paper cutout**.
 

@@ -13,7 +13,8 @@ description = "by askpatt for week 4: Murky Silhouettes. Created using: PS."
 +++
 
 
-{{< fancybox path="../static/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4-thumbnail-w720px.png
+{{< fancybox path="../static/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4-thumbnail-w720px.png" file="../static/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PS**.
 

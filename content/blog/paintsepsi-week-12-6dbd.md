@@ -13,7 +13,8 @@ description = "by paintsepsi for week 12: Visual Words. Created using: Photoshop
 +++
 
 
-{{< fancybox path="../static/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 {{< fancybox path="img/video-placeholder.png" file="../static/img/paintsepsi/2021-03-30+ef4ac246226cf2f9896c0d978c71541f.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 

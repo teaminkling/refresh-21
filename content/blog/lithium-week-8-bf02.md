@@ -13,7 +13,8 @@ description = "by Lithium for week 8: High Sheen. Created using: Digital (Clip S
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500-thumbnail-w720px.jpg" file="../static/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 

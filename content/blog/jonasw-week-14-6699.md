@@ -13,9 +13,12 @@ description = "by jonasw for week 14: Absolute Fire. Created using: Fire."
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-04-08+b910ea183eb803fda3c77906e1f6fea1-thumbnail-w720px.jpg
-{{< fancybox path="../static/img/jonasw/2021-04-08+2722cf0abe4cd9653d53b4fba876b781-thumbnail-w720px.gif
-{{< fancybox path="../static/img/jonasw/2021-04-08+324b230694b4bd7c5273881aa499c610-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/jonasw/2021-04-08+b910ea183eb803fda3c77906e1f6fea1-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-04-08+b910ea183eb803fda3c77906e1f6fea1.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/jonasw/2021-04-08+2722cf0abe4cd9653d53b4fba876b781-thumbnail-w720px.gif" file="../static/img/jonasw/2021-04-08+2722cf0abe4cd9653d53b4fba876b781.gif" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/jonasw/2021-04-08+324b230694b4bd7c5273881aa499c610-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-04-08+324b230694b4bd7c5273881aa499c610.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Fire**.
 

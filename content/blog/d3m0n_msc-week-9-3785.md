@@ -13,7 +13,8 @@ description = "by D3m0n_Msc for week 9: Bold Strokes. Created using: phone."
 +++
 
 
-{{< fancybox path="../static/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a-thumbnail-w720px.png
+{{< fancybox path="../static/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a-thumbnail-w720px.png" file="../static/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **phone**.
 

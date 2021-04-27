@@ -13,7 +13,8 @@ description = "by a1ewanrichards for week 11: Atmosphere Spectrum. Created using
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Felt marker and oil pastel on paper**.
 

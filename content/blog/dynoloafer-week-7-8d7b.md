@@ -13,7 +13,8 @@ description = "by DynoLoafer for week 7: Disturbed Desert. Created using: Paint 
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png
+{{< fancybox path="../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Paint Tool SAI**.
 

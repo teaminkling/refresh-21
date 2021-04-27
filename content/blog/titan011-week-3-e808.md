@@ -13,7 +13,8 @@ description = "by TITAN011 for week 3: Red Circle. Created using: Clipstudio."
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195-thumbnail-w720px.jpg" file="../static/img/titan011/2021-01-19+7da9383f3b9e2560166a17815a448195.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Clipstudio**.
 

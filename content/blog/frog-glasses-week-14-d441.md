@@ -13,7 +13,8 @@ description = "by Frog Glasses for week 14: Absolute Fire. Created using: procra
 +++
 
 
-{{< fancybox path="../static/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **procrate**.
 

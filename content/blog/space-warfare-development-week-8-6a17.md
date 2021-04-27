@@ -13,7 +13,8 @@ description = "by Space Warfare Development for week 8: High Sheen. Created usin
 +++
 
 
-{{< fancybox path="../static/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465-thumbnail-w720px.jpg" file="../static/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Traditional art.  Copic markers and pens, gell pen.**.
 

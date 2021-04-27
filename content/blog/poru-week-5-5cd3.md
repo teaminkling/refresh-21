@@ -13,7 +13,8 @@ description = "by poru for week 5: Royal Green. Created using: Digital - Clip St
 +++
 
 
-{{< fancybox path="../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png
+{{< fancybox path="../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png" file="../static/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital - Clip Studio Paint**.
 

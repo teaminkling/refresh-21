@@ -13,7 +13,8 @@ description = "by TrixyNetex for week 8: High Sheen. Created using: Sketchbook P
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6-thumbnail-w720px.png
+{{< fancybox path="../static/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6-thumbnail-w720px.png" file="../static/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Sketchbook Pro**.
 

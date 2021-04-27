@@ -13,7 +13,8 @@ description = "by rainydaze for week 3: Red Circle. Created using: Marker, brush
 +++
 
 
-{{< fancybox path="../static/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/rainydaze/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Marker, brush pen, acrylic (red)**.
 

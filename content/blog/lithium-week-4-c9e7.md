@@ -13,7 +13,8 @@ description = "by Lithium for week 4: Murky Silhouettes. Created using: Digital 
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg" file="../static/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 

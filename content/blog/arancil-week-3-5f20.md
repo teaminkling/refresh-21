@@ -13,7 +13,8 @@ description = "by arancil for week 3: Red Circle. Created using: Ink (+watercolo
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026-thumbnail-w720px.jpg" file="../static/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)**.
 

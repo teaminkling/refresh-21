@@ -13,7 +13,8 @@ description = "by askpatt for week 3: Red Circle. Created using: illustrator."
 +++
 
 
-{{< fancybox path="../static/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697-thumbnail-w720px.png
+{{< fancybox path="../static/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697-thumbnail-w720px.png" file="../static/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **illustrator**.
 

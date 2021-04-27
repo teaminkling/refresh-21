@@ -13,7 +13,8 @@ description = "by Dylan for week 5: Royal Green. Created using: Digital (PhotoSh
 +++
 
 
-{{< fancybox path="../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (PhotoShop)**.
 

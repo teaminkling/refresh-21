@@ -13,7 +13,8 @@ description = "by cindry for week 3: Red Circle. Created using: Digital, SAI."
 +++
 
 
-{{< fancybox path="../static/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8-thumbnail-w720px.png
+{{< fancybox path="../static/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8-thumbnail-w720px.png" file="../static/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital, SAI**.
 

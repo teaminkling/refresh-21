@@ -13,7 +13,8 @@ description = "by av for week 4: Murky Silhouettes. Created using: Clip Studio P
 +++
 
 
-{{< fancybox path="../static/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg" file="../static/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.
 

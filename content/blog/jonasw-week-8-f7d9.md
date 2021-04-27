@@ -13,7 +13,8 @@ description = "by jonasw for week 8: High Sheen. Created using: Pencil on Paper.
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Pencil on Paper**.
 

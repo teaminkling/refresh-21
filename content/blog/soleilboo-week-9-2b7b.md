@@ -13,7 +13,8 @@ description = "by soleilboo for week 9: Bold Strokes. Created using: photoshop."
 +++
 
 
-{{< fancybox path="../static/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a-thumbnail-w720px.jpg" file="../static/img/soleilboo/2021-03-05+b19bf2caa19cdb6f08160a9ec0107c5a.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **photoshop**.
 

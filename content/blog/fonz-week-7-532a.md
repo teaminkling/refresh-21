@@ -13,7 +13,8 @@ description = "by fonz for week 7: Disturbed Desert. Created using: csp."
 +++
 
 
-{{< fancybox path="../static/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1-thumbnail-w720px.png
+{{< fancybox path="../static/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1-thumbnail-w720px.png" file="../static/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 

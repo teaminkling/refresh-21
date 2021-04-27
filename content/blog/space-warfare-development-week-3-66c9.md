@@ -13,7 +13,8 @@ description = "by Space Warfare Development for week 3: Red Circle. Created usin
 +++
 
 
-{{< fancybox path="../static/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1-thumbnail-w720px.jpg" file="../static/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Traditional, Copic markers & pens**.
 

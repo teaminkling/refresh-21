@@ -13,7 +13,8 @@ description = "by jorchael_p for week 8: High Sheen. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="../static/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9-thumbnail-w720px.png
+{{< fancybox path="../static/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9-thumbnail-w720px.png" file="../static/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
 

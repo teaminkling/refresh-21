@@ -13,7 +13,8 @@ description = "by Boyf for week 1: Yellow Lines. Created using: FireAlpaca64."
 +++
 
 
-{{< fancybox path="../static/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png
+{{< fancybox path="../static/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png" file="../static/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca64**.
 

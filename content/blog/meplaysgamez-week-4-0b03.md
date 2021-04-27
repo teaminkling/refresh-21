@@ -13,7 +13,8 @@ description = "by meplaysgamez for week 4: Murky Silhouettes. Created using: fre
 +++
 
 
-{{< fancybox path="../static/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672-thumbnail-w720px.jpg" file="../static/img/meplaysgamez/2021-01-27+06440b02555112a7744a4244aca2d672.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **free photo editor thing idk**.
 

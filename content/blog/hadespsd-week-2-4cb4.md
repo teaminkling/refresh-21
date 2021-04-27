@@ -13,7 +13,8 @@ description = "by HadesPsd for week 2: Deep Ocean. Created using: CSP."
 +++
 
 
-{{< fancybox path="../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg" file="../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **CSP**.
 

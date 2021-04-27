@@ -13,7 +13,8 @@ description = "by vectorong for week 4: Murky Silhouettes. Created using: ink + 
 +++
 
 
-{{< fancybox path="../static/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png
+{{< fancybox path="../static/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png" file="../static/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ink + paper collage**.
 

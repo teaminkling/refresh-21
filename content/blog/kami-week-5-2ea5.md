@@ -13,7 +13,8 @@ description = "by Kami for week 5: Royal Green. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba-thumbnail-w720px.jpg" file="../static/img/kami/2021-02-04+744079a9eeddf33cf330d2cf0cf8c7ba.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **Photoshop**.
 

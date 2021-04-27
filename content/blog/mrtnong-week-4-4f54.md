@@ -13,7 +13,8 @@ description = "by mrtnong for week 4: Murky Silhouettes. Created using: Procreat
 +++
 
 
-{{< fancybox path="../static/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950-thumbnail-w720px.jpg" file="../static/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
 

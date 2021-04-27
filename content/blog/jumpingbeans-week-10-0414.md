@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 10: Folds and Folds. Created using: Appl
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714-thumbnail-w720px.jpg" file="../static/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Apple**.
 

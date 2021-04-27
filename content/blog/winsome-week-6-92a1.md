@@ -13,7 +13,8 @@ description = "by winsome for week 6: Simple Love. Created using: Modelling Clay
 +++
 
 
-{{< fancybox path="../static/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af-thumbnail-w720px.jpg" file="../static/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 6: **Simple Love**. This art was lovingly created using: **Modelling Clay (Sculpey)**.
 

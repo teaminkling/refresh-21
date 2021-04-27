@@ -13,7 +13,8 @@ description = "by winsome for week 5: Royal Green. Created using: unknown medium
 +++
 
 
-{{< fancybox path="../static/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a-thumbnail-w720px.png
+{{< fancybox path="../static/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a-thumbnail-w720px.png" file="../static/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **unknown medium**.
 

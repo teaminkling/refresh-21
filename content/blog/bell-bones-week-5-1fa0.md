@@ -13,7 +13,8 @@ description = "by Bell-Bones for week 5: Royal Green. Created using: FireAlpaca.
 +++
 
 
-{{< fancybox path="../static/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882-thumbnail-w720px.png
+{{< fancybox path="../static/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882-thumbnail-w720px.png" file="../static/img/bell-bones/2021-02-02+543336d4df116356155e3778a1bb3882.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **FireAlpaca**.
 

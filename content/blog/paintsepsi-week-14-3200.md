@@ -13,7 +13,8 @@ description = "by paintsepsi for week 14: Absolute Fire. Created using: Procreat
 +++
 
 
-{{< fancybox path="../static/img/paintsepsi/2021-04-22+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="../static/img/paintsepsi/2021-04-22+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/paintsepsi/2021-04-22+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.
 

@@ -13,7 +13,8 @@ description = "by vectorong for week 3: Red Circle. Created using: Vector illust
 +++
 
 
-{{< fancybox path="../static/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d-thumbnail-w720px.jpg" file="../static/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Vector illustration**.
 

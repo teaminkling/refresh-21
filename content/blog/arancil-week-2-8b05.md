@@ -13,7 +13,8 @@ description = "by arancil for week 2: Deep Ocean. Created using: Watercolor (Arc
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg" file="../static/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Watercolor (Arches A5 rough)**.
 

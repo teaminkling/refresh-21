@@ -13,7 +13,8 @@ description = "by MalorBaker for week 1: Yellow Lines. Created using: ms paint."
 +++
 
 
-{{< fancybox path="../static/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png
+{{< fancybox path="../static/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png" file="../static/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **ms paint**.
 

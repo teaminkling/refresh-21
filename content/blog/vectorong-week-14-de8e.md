@@ -13,8 +13,10 @@ description = "by vectorong for week 14: Absolute Fire. Created using: Pyrograph
 +++
 
 
-{{< fancybox path="../static/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg
-{{< fancybox path="../static/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg" file="../static/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834-thumbnail-w720px.jpg" file="../static/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Pyrography (woodburning)**.
 

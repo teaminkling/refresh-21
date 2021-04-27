@@ -13,7 +13,8 @@ description = "by a1ewanrichards for week 3: Red Circle. Created using: Felt and
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Felt and ink on paper**.
 

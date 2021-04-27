@@ -13,7 +13,8 @@ description = "by jc for week 3: Red Circle. Created using: csp."
 +++
 
 
-{{< fancybox path="../static/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867-thumbnail-w720px.png
+{{< fancybox path="../static/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867-thumbnail-w720px.png" file="../static/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **csp**.
 

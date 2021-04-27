@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 3: Red Circle. Created using: autodesk s
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e-thumbnail-w720px.png
+{{< fancybox path="../static/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **autodesk sketchbook (mobile)**.
 

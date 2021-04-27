@@ -13,7 +13,8 @@ description = "by cindry for week 5: Royal Green. Created using: Digital, Clip S
 +++
 
 
-{{< fancybox path="../static/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42-thumbnail-w720px.png
+{{< fancybox path="../static/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42-thumbnail-w720px.png" file="../static/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital, Clip Studio Paint**.
 

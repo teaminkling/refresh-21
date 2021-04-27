@@ -13,7 +13,8 @@ description = "by Lithium for week 10: Folds and Folds. Created using: Clip Stud
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75-thumbnail-w720px.jpg" file="../static/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 {{< youtube XFUyeYrCcN0 >}}
 
 

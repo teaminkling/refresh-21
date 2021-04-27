@@ -13,7 +13,8 @@ description = "by paintsepsi for week 3: Red Circle. Created using: Procreate."
 +++
 
 
-{{< fancybox path="../static/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="../static/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
 

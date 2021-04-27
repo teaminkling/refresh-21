@@ -13,7 +13,8 @@ description = "by Goblet for week 14: Absolute Fire. Created using: Krita."
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3-thumbnail-w720px.png
+{{< fancybox path="../static/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3-thumbnail-w720px.png" file="../static/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Krita**.
 

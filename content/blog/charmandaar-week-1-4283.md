@@ -13,7 +13,8 @@ description = "by Charmandaar for week 1: Yellow Lines. Created using: digital, 
 +++
 
 
-{{< fancybox path="../static/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png
+{{< fancybox path="../static/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png" file="../static/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **digital, procreate**.
 

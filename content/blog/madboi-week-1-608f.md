@@ -13,7 +13,8 @@ description = "by madboi for week 1: Yellow Lines. Created using: : Traditional 
 +++
 
 
-{{< fancybox path="../static/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3-thumbnail-w720px.jpg" file="../static/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **: Traditional (fine liner, artist pitt pen, paper)**.
 

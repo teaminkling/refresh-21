@@ -13,7 +13,8 @@ description = "by paintsepsi for week 9: Bold Strokes. Created using: Photoshop.
 +++
 
 
-{{< fancybox path="../static/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00-thumbnail-w720px.png
+{{< fancybox path="../static/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00-thumbnail-w720px.png" file="../static/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.
 

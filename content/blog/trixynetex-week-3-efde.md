@@ -13,7 +13,8 @@ description = "by TrixyNetex for week 3: Red Circle. Created using: Sketchbook P
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0-thumbnail-w720px.png
+{{< fancybox path="../static/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0-thumbnail-w720px.png" file="../static/img/trixynetex/2021-01-18+02af603525ce0ff01522e712b3cd0eb0.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Sketchbook Pro**.
 

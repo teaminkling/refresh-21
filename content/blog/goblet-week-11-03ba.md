@@ -13,7 +13,8 @@ description = "by Goblet for week 11: Atmosphere Spectrum. Created using: ibispa
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg" file="../static/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **ibispaint x and phone photo**.
 

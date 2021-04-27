@@ -13,7 +13,8 @@ description = "by TrixyNetex for week 14: Absolute Fire. Created using: Sketchbo
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635-thumbnail-w720px.png
+{{< fancybox path="../static/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635-thumbnail-w720px.png" file="../static/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Sketchbook Pro**.
 

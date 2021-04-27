@@ -13,7 +13,8 @@ description = "by Pumpkan for week 15: Back to Basics. Created using: markers + 
 +++
 
 
-{{< fancybox path="../static/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd-thumbnail-w720px.gif
+{{< fancybox path="../static/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd-thumbnail-w720px.gif" file="../static/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd.gif" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 15: **Back to Basics**. This art was lovingly created using: **markers + paper in gif**.
 

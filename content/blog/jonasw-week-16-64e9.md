@@ -13,7 +13,8 @@ description = "by jonasw for week 16: Scaling Giants. Created using: Pencils."
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612-thumbnail-w720px.png
+{{< fancybox path="../static/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612-thumbnail-w720px.png" file="../static/img/jonasw/2021-04-23+2441e1621bc836da80fbd85e07bd9612.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Pencils**.
 

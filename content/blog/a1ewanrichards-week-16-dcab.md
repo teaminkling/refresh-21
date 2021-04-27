@@ -13,7 +13,8 @@ description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Dig
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Digital - Clip Studio Paint**.
 

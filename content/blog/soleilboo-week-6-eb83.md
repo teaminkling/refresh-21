@@ -13,7 +13,8 @@ description = "by soleilboo for week 6: Simple Love. Created using: digital/ pho
 +++
 
 
-{{< fancybox path="../static/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a-thumbnail-w720px.jpg" file="../static/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 6: **Simple Love**. This art was lovingly created using: **digital/ photoshop**.
 

@@ -13,7 +13,8 @@ description = "by Linalifox for week 4: Murky Silhouettes. Created using: Procre
 +++
 
 
-{{< fancybox path="../static/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.
 

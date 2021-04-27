@@ -13,7 +13,8 @@ description = "by chari for week 9: Bold Strokes. Created using: Digital, Clip S
 +++
 
 
-{{< fancybox path="../static/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110-thumbnail-w720px.png
+{{< fancybox path="../static/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110-thumbnail-w720px.png" file="../static/img/chari/2021-03-05+8bb33677cd75e1b33eefa309fd55f110.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital, Clip Studio Paint**.
 

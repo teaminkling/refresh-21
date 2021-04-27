@@ -13,7 +13,8 @@ description = "by vectorong for week 9: Bold Strokes. Created using: Suminagashi
 +++
 
 
-{{< fancybox path="../static/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1-thumbnail-w720px.jpg" file="../static/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 {{< youtube wdwzLaljOzw >}}
 
 

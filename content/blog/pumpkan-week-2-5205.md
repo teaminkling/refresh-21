@@ -13,7 +13,8 @@ description = "by Pumpkan for week 2: Deep Ocean. Created using: Procreate."
 +++
 
 
-{{< fancybox path="../static/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04-thumbnail-w720px.png
+{{< fancybox path="../static/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04-thumbnail-w720px.png" file="../static/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
 

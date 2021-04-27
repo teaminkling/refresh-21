@@ -13,7 +13,8 @@ description = "by Goblet for week 10: Folds and Folds. Created using: ibispaint 
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12-thumbnail-w720px.png
+{{< fancybox path="../static/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12-thumbnail-w720px.png" file="../static/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ibispaint x**.
 

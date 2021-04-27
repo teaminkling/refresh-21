@@ -13,7 +13,8 @@ description = "by TrixyNetex for week 6: Simple Love. Created using: Sketchbook 
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4-thumbnail-w720px.png
+{{< fancybox path="../static/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4-thumbnail-w720px.png" file="../static/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 6: **Simple Love**. This art was lovingly created using: **Sketchbook Pro**.
 

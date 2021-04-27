@@ -13,7 +13,8 @@ description = "by jonasw for week 10: Folds and Folds. Created using: Colored Pe
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg" file="../static/img/jonasw/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Colored Pencils**.
 

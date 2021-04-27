@@ -13,7 +13,8 @@ description = "by a1ewanrichards for week 7: Disturbed Desert. Created using: Di
 +++
 
 
-{{< fancybox path="../static/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg" file="../static/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 

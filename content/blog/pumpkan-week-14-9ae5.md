@@ -13,7 +13,8 @@ description = "by Pumpkan for week 14: Absolute Fire. Created using: Procreate."
 +++
 
 
-{{< fancybox path="../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png
+{{< fancybox path="../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="../static/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.
 

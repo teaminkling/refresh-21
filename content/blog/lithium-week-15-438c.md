@@ -13,7 +13,8 @@ description = "by Lithium for week 15: Back to Basics. Created using: Clip Studi
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg" file="../static/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.
 

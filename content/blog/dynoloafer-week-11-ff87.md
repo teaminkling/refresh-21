@@ -13,7 +13,8 @@ description = "by DynoLoafer for week 11: Atmosphere Spectrum. Created using: Pa
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a-thumbnail-w720px.png
+{{< fancybox path="../static/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-03-18+0a4281adff710cdc4cb55bed68d3d48a.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Paint Tool SAI**.
 

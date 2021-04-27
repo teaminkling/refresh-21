@@ -13,7 +13,8 @@ description = "by Kami for week 4: Murky Silhouettes. Created using: Pencil , sk
 +++
 
 
-{{< fancybox path="../static/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094-thumbnail-w720px.jpg" file="../static/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Pencil , sketch pens**.
 

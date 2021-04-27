@@ -13,7 +13,8 @@ description = "by Goblet for week 15: Back to Basics. Created using: Paper, perm
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119-thumbnail-w720px.jpg" file="../static/img/goblet/2021-04-16+a0626a3c31268e3dae8da6cd26b25119.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paper, permanent marker.**.
 

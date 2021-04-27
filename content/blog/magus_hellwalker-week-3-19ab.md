@@ -13,7 +13,8 @@ description = "by Magus_Hellwalker for week 3: Red Circle. Created using: 3D Dig
 +++
 
 
-{{< fancybox path="../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png
+{{< fancybox path="../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png" file="../static/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **3D Digital**.
 

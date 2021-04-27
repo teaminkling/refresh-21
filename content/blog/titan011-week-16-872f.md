@@ -13,7 +13,8 @@ description = "by TITAN011 for week 16: Scaling Giants. Created using: Clip Stud
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg" file="../static/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip Studio**.
 

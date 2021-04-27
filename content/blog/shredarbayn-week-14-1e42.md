@@ -13,7 +13,8 @@ description = "by Shredarbayn for week 14: Absolute Fire. Created using: Charcoa
 +++
 
 
-{{< fancybox path="../static/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95-thumbnail-w720px.jpg" file="../static/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 {{< youtube l-7cvM7f3Ps >}}
 
 

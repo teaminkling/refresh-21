@@ -13,7 +13,8 @@ description = "by Scimister for week 6: Simple Love. Created using: Paint Tool S
 +++
 
 
-{{< fancybox path="../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png
+{{< fancybox path="../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png" file="../static/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 6: **Simple Love**. This art was lovingly created using: **Paint Tool SAI**.
 

@@ -13,7 +13,8 @@ description = "by Lithium for week 16: Scaling Giants. Created using: Clip Studi
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a-thumbnail-w720px.jpg" file="../static/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip Studio Paint**.
 

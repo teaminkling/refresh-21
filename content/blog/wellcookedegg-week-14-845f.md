@@ -13,8 +13,10 @@ description = "by WellCookedEgg for week 14: Absolute Fire. Created using: Clip 
 +++
 
 
-{{< fancybox path="../static/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0-thumbnail-w720px.jpg
-{{< fancybox path="../static/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0-thumbnail-w720px.jpg" file="../static/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f-thumbnail-w720px.jpg" file="../static/img/wellcookedegg/2021-04-10+321ac32806de548b7a46602982ae040f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Clip Studio Paint**.
 

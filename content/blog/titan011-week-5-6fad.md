@@ -13,7 +13,8 @@ description = "by TITAN011 for week 5: Royal Green. Created using: ClipStudio."
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4-thumbnail-w720px.jpg" file="../static/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 5: **Royal Green**. This art was lovingly created using: **ClipStudio**.
 

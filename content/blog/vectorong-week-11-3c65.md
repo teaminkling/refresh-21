@@ -13,7 +13,8 @@ description = "by vectorong for week 11: Atmosphere Spectrum. Created using: Rel
 +++
 
 
-{{< fancybox path="../static/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485-thumbnail-w720px.jpg" file="../static/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Relief printing**.
 

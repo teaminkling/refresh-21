@@ -13,8 +13,10 @@ description = "by Goblet for week 13: Look At Me. Created using: Krita."
 +++
 
 
-{{< fancybox path="../static/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693-thumbnail-w720px.png
-{{< fancybox path="../static/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81-thumbnail-w720px.png
+{{< fancybox path="../static/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693-thumbnail-w720px.png" file="../static/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693.png" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81-thumbnail-w720px.png" file="../static/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 13: **Look At Me**. This art was lovingly created using: **Krita**.
 

@@ -13,7 +13,8 @@ description = "by TITAN011 for week 2: Deep Ocean. Created using: Clipstudio."
 +++
 
 
-{{< fancybox path="../static/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5-thumbnail-w720px.jpg" file="../static/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Clipstudio**.
 

@@ -13,8 +13,10 @@ description = "by arancil for week 16: Scaling Giants. Created using: Fineliner 
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679-thumbnail-w720px.jpg
-{{< fancybox path="../static/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679-thumbnail-w720px.jpg" file="../static/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e-thumbnail-w720px.jpg" file="../static/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Fineliner 0.05 mm yay**.
 

@@ -13,7 +13,8 @@ description = "by Zat for week 3: Red Circle. Created using: Photographs/Krita."
 +++
 
 
-{{< fancybox path="../static/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c-thumbnail-w720px.png
+{{< fancybox path="../static/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c-thumbnail-w720px.png" file="../static/img/zat/2021-01-21+e74cb0e6d9f8c2757132082aa464bc6c.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photographs/Krita**.
 

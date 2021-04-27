@@ -13,7 +13,8 @@ description = "by jonasw for week 7: Disturbed Desert. Created using: Ballpoint 
 +++
 
 
-{{< fancybox path="../static/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64-thumbnail-w720px.png
+{{< fancybox path="../static/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64-thumbnail-w720px.png" file="../static/img/jonasw/2021-02-19+340e8384b02502eab923d8725af52f64.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ballpoint and hand smudge**.
 

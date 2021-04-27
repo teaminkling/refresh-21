@@ -13,7 +13,8 @@ description = "by Lithium for week 3: Red Circle. Created using: Digital (Clip S
 +++
 
 
-{{< fancybox path="../static/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9-thumbnail-w720px.jpg" file="../static/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 

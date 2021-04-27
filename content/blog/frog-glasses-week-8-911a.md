@@ -13,7 +13,8 @@ description = "by Frog Glasses for week 8: High Sheen. Created using: procreate.
 +++
 
 
-{{< fancybox path="../static/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 8: **High Sheen**. This art was lovingly created using: **procreate**.
 

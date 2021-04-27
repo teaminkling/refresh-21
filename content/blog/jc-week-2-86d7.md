@@ -13,7 +13,8 @@ description = "by jc for week 2: Deep Ocean. Created using: csp & lasso tool."
 +++
 
 
-{{< fancybox path="../static/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f-thumbnail-w720px.png
+{{< fancybox path="../static/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f-thumbnail-w720px.png" file="../static/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **csp & lasso tool**.
 

@@ -13,7 +13,8 @@ description = "by TrixyNetex for week 2: Deep Ocean. Created using: SketchBook."
 +++
 
 
-{{< fancybox path="../static/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902-thumbnail-w720px.png
+{{< fancybox path="../static/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902-thumbnail-w720px.png" file="../static/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **SketchBook**.
 

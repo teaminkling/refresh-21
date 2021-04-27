@@ -13,7 +13,8 @@ description = "by soleilboo for week 7: Disturbed Desert. Created using: Procrea
 +++
 
 
-{{< fancybox path="../static/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.
 

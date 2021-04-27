@@ -13,7 +13,8 @@ description = "by DynoLoafer for week 15: Back to Basics. Created using: Paint T
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png
+{{< fancybox path="../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paint Tool SAI**.
 

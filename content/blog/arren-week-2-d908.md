@@ -13,7 +13,8 @@ description = "by arren for week 2: Deep Ocean. Created using: photoshop."
 +++
 
 
-{{< fancybox path="../static/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282-thumbnail-w720px.jpg" file="../static/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **photoshop**.
 

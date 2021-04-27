@@ -13,7 +13,8 @@ description = "by gianhet for week 10: Folds and Folds. Created using: : CSP."
 +++
 
 
-{{< fancybox path="../static/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829-thumbnail-w720px.png
+{{< fancybox path="../static/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829-thumbnail-w720px.png" file="../static/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **: CSP**.
 

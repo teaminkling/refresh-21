@@ -13,7 +13,8 @@ description = "by arancil for week 14: Absolute Fire. Created using: Watercolor.
 +++
 
 
-{{< fancybox path="../static/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg" file="../static/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Watercolor**.
 

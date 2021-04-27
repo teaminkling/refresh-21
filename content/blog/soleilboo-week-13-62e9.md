@@ -13,7 +13,8 @@ description = "by soleilboo for week 13: Look At Me. Created using: digital,phot
 +++
 
 
-{{< fancybox path="../static/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="../static/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 13: **Look At Me**. This art was lovingly created using: **digital,photoshop+procreate**.
 

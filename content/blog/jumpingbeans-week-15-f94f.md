@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 15: Back to Basics. Created using: chine
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c-thumbnail-w720px.jpg" file="../static/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 15: **Back to Basics**. This art was lovingly created using: **chinese calligraphy**.
 

@@ -13,7 +13,8 @@ description = "by D3m0n_Msc for week 14: Absolute Fire. Created using: phone."
 +++
 
 
-{{< fancybox path="../static/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb-thumbnail-w720px.png
+{{< fancybox path="../static/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb-thumbnail-w720px.png" file="../static/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **phone**.
 

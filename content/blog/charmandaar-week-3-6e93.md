@@ -13,7 +13,8 @@ description = "by Charmandaar for week 3: Red Circle. Created using: photography
 +++
 
 
-{{< fancybox path="../static/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg" file="../static/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **photography/photoshop**.
 

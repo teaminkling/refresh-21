@@ -13,7 +13,8 @@ description = "by meplaysgamez for week 14: Absolute Fire. Created using: Photog
 +++
 
 
-{{< fancybox path="../static/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg" file="../static/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Photograph/Free Photo Editing Thingymajig**.
 

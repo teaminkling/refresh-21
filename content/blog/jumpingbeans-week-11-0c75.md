@@ -13,7 +13,8 @@ description = "by jumpingbeans for week 11: Atmosphere Spectrum. Created using: 
 +++
 
 
-{{< fancybox path="../static/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea-thumbnail-w720px.png
+{{< fancybox path="../static/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea-thumbnail-w720px.png" file="../static/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Krita**.
 

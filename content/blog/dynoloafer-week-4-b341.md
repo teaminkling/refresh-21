@@ -13,7 +13,8 @@ description = "by DynoLoafer for week 4: Murky Silhouettes. Created using: Paint
 +++
 
 
-{{< fancybox path="../static/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3-thumbnail-w720px.png
+{{< fancybox path="../static/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3-thumbnail-w720px.png" file="../static/img/dynoloafer/2021-01-29+8326f5ebd6119110d98053616ca8f5e3.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Paint Tool SAI**.
 

@@ -13,7 +13,8 @@ description = "by Space Warfare Development for week 4: Murky Silhouettes. Creat
 +++
 
 
-{{< fancybox path="../static/img/space_warfare_development/2021-01-30+06af067c1545eae7560c664404dba321-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/space_warfare_development/2021-01-30+06af067c1545eae7560c664404dba321-thumbnail-w720px.jpg" file="../static/img/space_warfare_development/2021-01-30+06af067c1545eae7560c664404dba321.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Traditional, Copic markers**.
 

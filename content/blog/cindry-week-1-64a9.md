@@ -13,7 +13,8 @@ description = "by cindry for week 1: Yellow Lines. Created using: Digital, Paint
 +++
 
 
-{{< fancybox path="../static/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681-thumbnail-w720px.png
+{{< fancybox path="../static/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681-thumbnail-w720px.png" file="../static/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Paint Tool SAI**.
 

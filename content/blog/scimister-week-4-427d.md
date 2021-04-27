@@ -13,7 +13,8 @@ description = "by Scimister for week 4: Murky Silhouettes. Created using: PaintT
 +++
 
 
-{{< fancybox path="../static/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4-thumbnail-w720px.png
+{{< fancybox path="../static/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4-thumbnail-w720px.png" file="../static/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PaintToolSAI**.
 

@@ -13,8 +13,10 @@ description = "by paintsepsi for week 11: Atmosphere Spectrum. Created using: Ph
 +++
 
 
-{{< fancybox path="../static/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4-thumbnail-w720px.png
-{{< fancybox path="../static/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224-thumbnail-w720px.png
+{{< fancybox path="../static/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4-thumbnail-w720px.png" file="../static/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4.png" caption="Placeholder thumbnail for a visual work." >}}
+
+{{< fancybox path="../static/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224-thumbnail-w720px.png" file="../static/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.
 

@@ -13,7 +13,8 @@ description = "by Ichika for week 3: Red Circle. Created using: unknown medium."
 +++
 
 
-{{< fancybox path="../static/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206-thumbnail-w720px.jpg
+{{< fancybox path="../static/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206-thumbnail-w720px.jpg" file="../static/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg" caption="Placeholder thumbnail for a visual work." >}}
+
 
 Week 3: **Red Circle**. This art was lovingly created using: **unknown medium**.
 
