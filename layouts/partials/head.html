@@ -2,7 +2,7 @@
   {{ partial "meta" . }}
   {{- hugo.Generator -}}
 
-  <meta property="description" content="{{ .Description | default .Site.Params.meta.description }}">
+  <meta name="description" content="{{ .Description | default .Site.Params.meta.description }}">
   <meta property="og:description" content="{{ .Description | default .Site.Params.meta.description }}">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.meta.description }}">
 
