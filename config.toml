@@ -54,10 +54,16 @@ hideWhenSingleColumn  = false
 alwaysOnHomepage      = true
 
 [params.intro.pic]
+src                 = "img/refresh-social.png"
+shape               = "square"
+width               = "100%"
+alt                 = "The 2021 Design Refresh logo superimposed on a blurred background."
+
+[params.intro.logo]
 src                 = "img/logo.png"
 shape               = "square"
 width               = "100%"
-alt                 = "Logo of the 2021 Design Refresh."
+alt                 = "The 2021 Design Refresh Logo, as-is with typography."
 
 [params.sidebar]
 about               = ""
