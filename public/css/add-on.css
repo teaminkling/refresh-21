@@ -1,0 +1,37 @@
+.image {
+    padding-bottom: 100%;
+}
+
+#site-intro {
+    padding: 3em;
+    padding-top: 4em;
+    padding-bottom: 2em;
+}
+
+@media (min-width: 1024px) {
+    #site-main {
+        margin-left: 0;
+    }
+
+    #wrapper {
+        grid-template-columns: 25em 1fr;
+    }
+}
+
+#site-sidebar {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#site-sidebar ul {
+    font-size: 0.75em;
+    text-transform: none;
+}
+
+#wrapper {
+    max-width: 82em;
+}
+
+#categories ul li {
+    line-height: 2.1em;
+}

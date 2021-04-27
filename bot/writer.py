@@ -150,7 +150,7 @@ def create_all_posts():
 
                         attachment_text += (
                             '\n{{< fancybox path="'
-                            + provided_thumbnail or attachment
+                            + (provided_thumbnail or attachment)
                             + '" file="'
                             + attachment
                             + '" caption="Placeholder thumbnail for a visual work." >}}\n'
