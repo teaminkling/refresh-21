@@ -59,6 +59,8 @@ def do_dump_all_messages():
 
     client: Client = discord.Client()
 
+    # Initialise raw data JSON-like mapping.
+
     data: dict = {
         "message_count": 0,
         "attachment_count": 0,
@@ -74,135 +76,36 @@ def do_dump_all_messages():
         As soon as the bot is ready, retrieve all messages.
         """
 
-        # Find a channel named "submissions" in the connected guild(s):
-
-        LOGGER.info("Connecting to channel...")
-
+        LOGGER.info("Connecting to [%s] channel...", SUBMISSIONS_CHANNEL)
         channel: Optional[Any] = discord.utils.get(
-            client.get_all_channels(), name=SUBMISSIONS_CHANNEL
+            client.get_all_channels(), name=SUBMISSIONS_CHANNEL,
         )
 
         if not channel:
             raise RuntimeError(f"No channel named: [{SUBMISSIONS_CHANNEL}].")
 
-        # Iterate through all messages in that channel and add to a JSON output.
+        # Iterate through all messages in that channel.
 
         all_messages: List[Message] = await channel.history(
-            limit=MESSAGE_HISTORY_UPPER_LIMIT
+            limit=MESSAGE_HISTORY_UPPER_LIMIT,
         ).flatten()
 
-        LOGGER.info("Writing attachments and messages...")
+        LOGGER.info("Starting iteration through all messages...")
 
         message: Message
         for message in all_messages:
             created_timestamp: str = message.created_at.isoformat()
+
+            # Add user to the user set, remembering their name. This name may contain unicode or
+            # difficult-to-parse symbols and should be cleaned in the parser.
+
             author_with_discriminator: str = get_name_with_discriminator(message.author)
 
             data["users"].add(author_with_discriminator)
 
-            # Save all attachments to disk and then reference it.
+            # Save all attachments to disk and generate a thumbnail.
 
-            LOGGER.debug(
-                "Writing attachments for user: [%s]...",
-                author_with_discriminator,
-            )
-
-            attachments: List[Dict[str, str]] = []
-            for attachment in message.attachments:
-                author_directory: str = os.path.join(
-                    "../static/img",
-                    message.author.name.encode("ascii", "ignore")
-                    .decode()
-                    .lower()
-                    .replace(" ", "_")
-                    .replace("(", "")
-                    .replace(")", ""),
-                )
-
-                # Dynamic directory generation.
-
-                if not os.path.exists(author_directory):
-                    os.makedirs(author_directory)
-
-                # Save the file locally. If it already exists, skip.
-
-                filename: str = (
-                    f"{message.created_at.date().isoformat()}+"
-                    f"{md5(attachment.filename.encode()).hexdigest()}"
-                )
-
-                extension: str = attachment.filename.split(".")[-1].lower()
-
-                local_path: str = os.path.join(
-                    author_directory, f"{filename}.{extension}"
-                )
-
-                local_thumb_path: str = os.path.join(
-                    author_directory,
-                    f"{filename}-thumbnail-w{THUMBNAIL_MAX_WIDTH}px.{extension}",
-                )
-
-                if not os.path.exists(local_path):
-                    with open(local_path, "wb") as attachment_file:
-                        LOGGER.info("Writing: [%s]...", local_path)
-
-                        await attachment.save(attachment_file)
-                else:
-                    LOGGER.debug("Exists, skipping: [%s]...", local_path)
-
-                if (
-                    not os.path.exists(local_thumb_path) or FORCE_THUMBNAIL_REGENERATION
-                ) and extension in (
-                    "png",
-                    "jpg",
-                    "jpeg",
-                    "gif",
-                ):
-                    LOGGER.info("Writing thumbnail: [%s]...", local_thumb_path)
-
-                    image: Image = Image.open(local_path)
-
-                    width_percent: float = THUMBNAIL_MAX_WIDTH / float(image.size[0])
-                    height: int = int(1.0 * image.size[1] / width_percent)
-
-                    if extension == "gif":
-                        frames: List[Image] = []
-                        for frame in ImageSequence.Iterator(image):
-                            gif_thumbnail: Image = frame.copy()
-                            gif_thumbnail.thumbnail(
-                                (THUMBNAIL_MAX_WIDTH, height), Image.ANTIALIAS
-                            )
-
-                            frames.append(gif_thumbnail)
-
-                        # Save output.
-
-                        output_gif: Image = frames[0]
-                        output_gif.info = image.info
-                        output_gif.save(
-                            local_thumb_path,
-                            save_all=True,
-                            append_images=list(frames),
-                        )
-                    else:
-                        image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
-                        image.save(local_thumb_path)
-
-                local_thumb_path = (
-                    local_thumb_path if os.path.exists(local_thumb_path) else None
-                )
-
-                attachments_map: dict = {
-                    "id": attachment.id,
-                    "cloud_url": attachment.url,
-                    "url": local_path,
-                    "thumbnail_url": local_thumb_path,
-                    "filename": attachment.filename,
-                    "type": attachment.content_type,
-                }
-
-                attachments.append(attachments_map)
-                data["attachments"].append(attachments_map)
+            attachments = await extract_media(author_with_discriminator, created_timestamp, message)
 
             # Replace mentions with direct @Username references.
 
@@ -255,6 +158,111 @@ def do_dump_all_messages():
         LOGGER.info("Done with Discord, closing client!")
 
         await client.close()
+
+    async def extract_media(author_with_discriminator, created_timestamp, message):
+        LOGGER.debug(
+            "Writing attachments for user: [%s] with post created at [%s]...",
+            author_with_discriminator,
+            created_timestamp,
+        )
+
+        attachments: List[Dict[str, str]] = []
+        for attachment in message.attachments:
+            author_directory: str = os.path.join(
+                "../static/img",
+                message.author.name.encode("ascii", "ignore")
+                    .decode()
+                    .lower()
+                    .replace(" ", "_")
+                    .replace("(", "")
+                    .replace(")", ""),
+            )
+
+            # Dynamic directory generation.
+
+            if not os.path.exists(author_directory):
+                os.makedirs(author_directory)
+
+            # Save the file locally. If it already exists, skip.
+
+            filename: str = (
+                f"{message.created_at.date().isoformat()}+"
+                f"{md5(attachment.filename.encode()).hexdigest()}"
+            )
+
+            extension: str = attachment.filename.split(".")[-1].lower()
+
+            local_path: str = os.path.join(
+                author_directory, f"{filename}.{extension}"
+            )
+
+            local_thumb_path: str = os.path.join(
+                author_directory,
+                f"{filename}-thumbnail-w{THUMBNAIL_MAX_WIDTH}px.{extension}",
+            )
+
+            if not os.path.exists(local_path):
+                with open(local_path, "wb") as attachment_file:
+                    LOGGER.info("Writing: [%s]...", local_path)
+
+                    await attachment.save(attachment_file)
+            else:
+                LOGGER.debug("Exists, skipping: [%s]...", local_path)
+
+            if (
+                    not os.path.exists(local_thumb_path) or FORCE_THUMBNAIL_REGENERATION
+            ) and extension in (
+                    "png",
+                    "jpg",
+                    "jpeg",
+                    "gif",
+            ):
+                LOGGER.info("Writing thumbnail: [%s]...", local_thumb_path)
+
+                image: Image = Image.open(local_path)
+
+                width_percent: float = THUMBNAIL_MAX_WIDTH / float(image.size[0])
+                height: int = int(1.0 * image.size[1] / width_percent)
+
+                if extension == "gif":
+                    frames: List[Image] = []
+                    for frame in ImageSequence.Iterator(image):
+                        gif_thumbnail: Image = frame.copy()
+                        gif_thumbnail.thumbnail(
+                            (THUMBNAIL_MAX_WIDTH, height), Image.ANTIALIAS
+                        )
+
+                        frames.append(gif_thumbnail)
+
+                    # Save output.
+
+                    output_gif: Image = frames[0]
+                    output_gif.info = image.info
+                    output_gif.save(
+                        local_thumb_path,
+                        save_all=True,
+                        append_images=list(frames),
+                    )
+                else:
+                    image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
+                    image.save(local_thumb_path)
+
+            local_thumb_path = (
+                local_thumb_path if os.path.exists(local_thumb_path) else None
+            )
+
+            attachments_map: dict = {
+                "id": attachment.id,
+                "cloud_url": attachment.url,
+                "url": local_path,
+                "thumbnail_url": local_thumb_path,
+                "filename": attachment.filename,
+                "type": attachment.content_type,
+            }
+
+            attachments.append(attachments_map)
+            data["attachments"].append(attachments_map)
+        return attachments
 
     client.run(os.environ.get(CLIENT_SECRET_KEY))
 
