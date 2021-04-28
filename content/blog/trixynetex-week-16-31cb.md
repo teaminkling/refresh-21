@@ -9,7 +9,7 @@ description = "by TrixyNetex for week 16: Scaling Giants. Created using: Clip st
       src = "https://swebtoon-phinf.pstatic.net/20210421_156/1618998280915z5thP_PNG/thumbnail.jpg"
       href = "/blog/trixynetex-week-16-31cb"
       alt = "Ozymandias"
-      caption = "This submission contains a link. Please view the <a href=\"/blog/trixynetex-week-16-31cb\">full post</a> to see it!"
+      caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

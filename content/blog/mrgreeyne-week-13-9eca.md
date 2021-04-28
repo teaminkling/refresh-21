@@ -9,7 +9,7 @@ description = "by MrGreeyne for week 13: Look At Me. Created using: Keyboard, an
       src = "img/audio-placeholder.png"
       href = "/blog/mrgreeyne-week-13-9eca"
       alt = "Introspection"
-      caption = "This submission contains audio. Please view the <a href=\"/blog/mrgreeyne-week-13-9eca\">full post</a> to hear it!"
+      caption = "This submission contains audio. Please view the full post to hear it!"
       stretch = "cover"
 +++
 

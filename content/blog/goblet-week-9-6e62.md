@@ -9,7 +9,7 @@ description = "by Goblet for week 9: Bold Strokes. Created using: survival Minec
       src = "https://lh3.googleusercontent.com/1gTLvTGH5YJR-HCZVPsqqFtvuOGw0Hy2c_Gx1WwQkUAMtqOuiyX3Dl_MWeI5uB3Nfd_VG6DjrlDvtw=w1200-h630-p"
       href = "/blog/goblet-week-9-6e62"
       alt = "Color factory"
-      caption = "This submission contains a link. Please view the <a href=\"/blog/goblet-week-9-6e62\">full post</a> to see it!"
+      caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

@@ -9,7 +9,7 @@ description = "by jumpingbeans for week 13: Look At Me. Created using: MS paint 
       src = "img/video-placeholder.png"
       href = "/blog/jumpingbeans-week-13-0c7e"
       alt = "Things you use to see yourself with"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/jumpingbeans-week-13-0c7e\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

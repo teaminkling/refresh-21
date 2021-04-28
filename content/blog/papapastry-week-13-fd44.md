@@ -9,7 +9,7 @@ description = "by papapastry for week 13: Look At Me. Created using: Procreate, 
       src = "/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/papapastry-week-13-fd44"
       alt = "Fuck"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-13-fd44\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

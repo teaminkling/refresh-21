@@ -9,7 +9,7 @@ description = "by papapastry for week 7: Disturbed Desert. Created using: Ableto
       src = "https://img.youtube.com/vi/X6Q_C0MF0WE/maxresdefault.jpg"
       href = "/blog/papapastry-week-7-9d88"
       alt = "Footprints"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-7-9d88\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

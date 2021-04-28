@@ -9,7 +9,7 @@ description = "by meplaysgamez for week 15: Back to Basics. Created using: gw ac
       src = "img/video-placeholder.png"
       href = "/blog/meplaysgamez-week-15-0547"
       alt = "tomatoes are the potatoes of fruit"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/meplaysgamez-week-15-0547\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

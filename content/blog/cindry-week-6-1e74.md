@@ -9,7 +9,7 @@ description = "by cindry for week 6: Simple Love. Created using: Digital, and pu
       src = "/img/cindry/2021-02-11+43bfc6b38f0311f4f73e8d67166836fd-thumbnail-w720px.jpg"
       href = "/blog/cindry-week-6-1e74"
       alt = "Simple Love"
-      caption = "This submission contains a file. Please view the <a href=\"/blog/cindry-week-6-1e74\">full post</a> to see it!"
+      caption = "This submission contains a file. Please view the full post to see it!"
       stretch = "cover"
 +++
 

@@ -9,7 +9,7 @@ description = "by papapastry for week 14: Absolute Fire. Created using: Music/Ab
       src = "https://img.youtube.com/vi/3D31aBLn-bs/maxresdefault.jpg"
       href = "/blog/papapastry-week-14-92c3"
       alt = "Cindy Should Pay Me to Moderate"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-14-92c3\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

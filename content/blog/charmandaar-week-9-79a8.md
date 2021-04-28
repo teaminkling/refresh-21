@@ -9,7 +9,7 @@ description = "by Charmandaar for week 9: Bold Strokes. Created using: video/pho
       src = "https://img.youtube.com/vi/_rGs-0-vHBw/maxresdefault.jpg"
       href = "/blog/charmandaar-week-9-79a8"
       alt = "POV you find another VHS tape, and your sleep deprived self slots it in the player…"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/charmandaar-week-9-79a8\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

@@ -9,7 +9,7 @@ description = "by Charmandaar for week 6: Simple Love. Created using: Ableton Li
       src = "img/audio-placeholder.png"
       href = "/blog/charmandaar-week-6-7344"
       alt = "Paper Aeroplanes demo.mp3, collab with @papapastry"
-      caption = "This submission contains an audio link. Please view the <a href=\"/blog/charmandaar-week-6-7344\">full post</a> to hear it!"
+      caption = "This submission contains an audio link. Please view the full post to hear it!"
       stretch = "cover"
 +++
 

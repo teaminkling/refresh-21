@@ -9,7 +9,7 @@ description = "by DynoLoafer for week 16: Scaling Giants. Created using: Paint T
       src = "/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a-thumbnail-w720px.png"
       href = "/blog/dynoloafer-week-16-e690"
       alt = "The ~~Diving~~ Maternal Legendary"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/dynoloafer-week-16-e690\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

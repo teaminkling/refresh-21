@@ -9,7 +9,7 @@ description = "by Magus_Hellwalker for week 1: Yellow Lines. Created using: 3D D
       src = "img/video-placeholder.png"
       href = "/blog/magus_hellwalker-week-1-d71e"
       alt = "It Spins"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/magus_hellwalker-week-1-d71e\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

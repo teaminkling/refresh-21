@@ -9,7 +9,7 @@ description = "by papapastry for week 5: Royal Green. Created using: Music/Ablet
       src = "https://img.youtube.com/vi/DTR0npqq0c4/maxresdefault.jpg"
       href = "/blog/papapastry-week-5-1d3c"
       alt = "Big Green Dragon Kingdom"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-5-1d3c\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

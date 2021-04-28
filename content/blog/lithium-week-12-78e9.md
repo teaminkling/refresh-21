@@ -9,7 +9,7 @@ description = "by Lithium for week 12: Visual Words. Created using: Digital (Cli
       src = "/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-12-78e9"
       alt = "RELAX"
-      caption = "This submission contains a file. Please view the <a href=\"/blog/lithium-week-12-78e9\">full post</a> to see it!"
+      caption = "This submission contains a file. Please view the full post to see it!"
       stretch = "cover"
 +++
 

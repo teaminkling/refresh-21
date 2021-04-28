@@ -9,7 +9,7 @@ description = "by jumpingbeans for week 17: The 4 R's: Finale. Created using: vi
       src = "img/video-placeholder.png"
       href = "/blog/jumpingbeans-week-17-5412"
       alt = "ThankEgg"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/jumpingbeans-week-17-5412\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

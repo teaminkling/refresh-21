@@ -9,7 +9,7 @@ description = "by Shredarbayn for week 14: Absolute Fire. Created using: Charcoa
       src = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95-thumbnail-w720px.jpg"
       href = "/blog/shredarbayn-week-14-1e42"
       alt = "Fiery heart"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/shredarbayn-week-14-1e42\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

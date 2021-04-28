@@ -9,7 +9,7 @@ description = "by Magus_Hellwalker for week 2: Deep Ocean. Created using: 3D Dig
       src = "img/video-placeholder.png"
       href = "/blog/magus_hellwalker-week-2-9ff9"
       alt = "Temple discovery"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/magus_hellwalker-week-2-9ff9\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

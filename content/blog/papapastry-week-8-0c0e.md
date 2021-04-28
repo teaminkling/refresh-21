@@ -9,7 +9,7 @@ description = "by papapastry for week 8: High Sheen. Created using: Audio/Ableto
       src = "https://img.youtube.com/vi/KXirUI5JGVU/maxresdefault.jpg"
       href = "/blog/papapastry-week-8-0c0e"
       alt = "One Drug Please"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-8-0c0e\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

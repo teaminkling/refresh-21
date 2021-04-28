@@ -9,7 +9,7 @@ description = "by papapastry for week 16: Scaling Giants. Created using: Music/A
       src = "img/audio-placeholder.png"
       href = "/blog/papapastry-week-16-1985"
       alt = "Pain"
-      caption = "This submission contains an audio link. Please view the <a href=\"/blog/papapastry-week-16-1985\">full post</a> to hear it!"
+      caption = "This submission contains an audio link. Please view the full post to hear it!"
       stretch = "cover"
 +++
 

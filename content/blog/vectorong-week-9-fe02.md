@@ -9,7 +9,7 @@ description = "by vectorong for week 9: Bold Strokes. Created using: Suminagashi
       src = "/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-9-fe02"
       alt = "Repetition, Reminisce, Reflection"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/vectorong-week-9-fe02\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

@@ -9,7 +9,7 @@ description = "by DoughYeast for week 4: Murky Silhouettes. Created using: Procr
       src = "/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/doughyeast-week-4-cdf9"
       alt = "Bog"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/doughyeast-week-4-cdf9\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

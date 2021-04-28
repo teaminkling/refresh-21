@@ -9,7 +9,7 @@ description = "by SuaveStrawberry for week 13: Look At Me. Created using: procre
       src = "https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg"
       href = "/blog/suavestrawberry-week-13-0fde"
       alt = "Fragments of Remembrance"
-      caption = "This submission contains a link. Please view the <a href=\"/blog/suavestrawberry-week-13-0fde\">full post</a> to see it!"
+      caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

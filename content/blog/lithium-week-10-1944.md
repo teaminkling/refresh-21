@@ -9,7 +9,7 @@ description = "by Lithium for week 10: Folds and Folds. Created using: Clip Stud
       src = "/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-10-1944"
       alt = "Pulling Back From The Edge"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/lithium-week-10-1944\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

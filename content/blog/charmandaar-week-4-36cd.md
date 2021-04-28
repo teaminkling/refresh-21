@@ -9,7 +9,7 @@ description = "by Charmandaar for week 4: Murky Silhouettes. Created using: vide
       src = "img/video-placeholder.png"
       href = "/blog/charmandaar-week-4-36cd"
       alt = "POV you dust off an old VHS tape and slot it in the player…"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/charmandaar-week-4-36cd\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

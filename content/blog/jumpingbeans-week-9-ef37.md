@@ -9,7 +9,7 @@ description = "by jumpingbeans for week 9: Bold Strokes. Created using: video."
       src = "https://i.vimeocdn.com/video/1074068974_640.jpg"
       href = "/blog/jumpingbeans-week-9-ef37"
       alt = "This is the literal worst shit i have created, i think my parent think im weird."
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/jumpingbeans-week-9-ef37\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

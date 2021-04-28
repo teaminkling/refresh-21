@@ -9,7 +9,7 @@ description = "by jumpingbeans for week 2: Deep Ocean. Created using: pErForMaNc
       src = "https://img.youtube.com/vi/3imOd-rOjr8/maxresdefault.jpg"
       href = "/blog/jumpingbeans-week-2-73ac"
       alt = "the movement of water in two cups multiplicative of volumetric estimated measurement of water"
-      caption = "This submission contains a video link. Please view the <a href=\"/blog/jumpingbeans-week-2-73ac\">full post</a> to see it!"
+      caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 

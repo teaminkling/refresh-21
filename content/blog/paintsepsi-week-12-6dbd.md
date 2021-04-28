@@ -9,7 +9,7 @@ description = "by paintsepsi for week 12: Visual Words. Created using: Photoshop
       src = "/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/paintsepsi-week-12-6dbd"
       alt = "Lorem Ipsum"
-      caption = "This submission contains a video. Please view the <a href=\"/blog/paintsepsi-week-12-6dbd\">full post</a> to see it!"
+      caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 

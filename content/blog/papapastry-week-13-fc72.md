@@ -9,7 +9,7 @@ description = "by papapastry for week 13: Look At Me. Created using: Music/Ablet
       src = "img/audio-placeholder.png"
       href = "/blog/papapastry-week-13-fc72"
       alt = "Coming Up Spades"
-      caption = "This submission contains an audio link. Please view the <a href=\"/blog/papapastry-week-13-fc72\">full post</a> to hear it!"
+      caption = "This submission contains an audio link. Please view the full post to hear it!"
       stretch = "cover"
 +++
 
