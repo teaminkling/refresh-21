@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 10: Folds and Folds. Created using: Appl
       src = "/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714-thumbnail-w720px.jpg"
       href = "/blog/jumpingbeans-week-10-0414"
       alt = "Apple 16"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by Dylan for week 7: Disturbed Desert. Created using: blender."
       src = "/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg"
       href = "/blog/dylan-week-7-384d"
       alt = "Desert heat"
+      caption = ""
       stretch = "cover"
 +++
 

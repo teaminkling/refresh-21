@@ -9,6 +9,7 @@ description = "by arren for week 1: Yellow Lines. Created using: photoshop."
       src = "/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3-thumbnail-w720px.gif"
       href = "/blog/arren-week-1-9c0e"
       alt = "sparkly mandrake"
+      caption = ""
       stretch = "cover"
 +++
 

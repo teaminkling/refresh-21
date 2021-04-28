@@ -9,6 +9,7 @@ description = "by D3m0n_Msc for week 9: Bold Strokes. Created using: phone."
       src = "/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a-thumbnail-w720px.png"
       href = "/blog/d3m0n_msc-week-9-3785"
       alt = "Judgement"
+      caption = ""
       stretch = "cover"
 +++
 

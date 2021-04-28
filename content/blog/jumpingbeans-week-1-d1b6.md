@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 1: Yellow Lines. Created using: MS Paint
       src = "/img/jumpingbeans/2021-01-02+872bdb6cf285d8343a388fafcc7090ba-thumbnail-w720px.png"
       href = "/blog/jumpingbeans-week-1-d1b6"
       alt = "Bowl"
+      caption = ""
       stretch = "cover"
 +++
 

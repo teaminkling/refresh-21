@@ -9,6 +9,7 @@ description = "by eggyolk for week 6: Simple Love. Created using: Procreate."
       src = "/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png"
       href = "/blog/eggyolk-week-6-ca60"
       alt = "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>"
+      caption = ""
       stretch = "cover"
 +++
 

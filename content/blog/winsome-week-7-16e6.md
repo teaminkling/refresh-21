@@ -9,6 +9,7 @@ description = "by winsome for week 7: Disturbed Desert. Created using: Photograp
       src = "/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595-thumbnail-w720px.jpg"
       href = "/blog/winsome-week-7-16e6"
       alt = "Three Celebrations (Change)"
+      caption = ""
       stretch = "cover"
 +++
 

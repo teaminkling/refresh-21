@@ -2,11 +2,14 @@
   {{- $src := "" -}}
   {{- $href := "" -}}
   {{- $alt := "" -}}
+  {{- $caption := "" -}}
+
   {{- if .Params.images -}}
     {{- range first 1 .Params.images -}}
       {{- $src = .src | absURL -}}
       {{- $href = .href | absURL -}}
       {{- $alt = .alt -}}
+      {{- $caption = .caption -}}
     {{- end -}}
   {{- end -}}
 
@@ -15,5 +18,8 @@
       <img src="{{ $src }}" alt="{{ $alt }}"/>
     </a>
   </figure>
+  {{- if $caption -}}
+    <p style="text-align: center"><i>{{ $caption }}</i></p>
+  {{- end -}}
 
 {{- end -}}

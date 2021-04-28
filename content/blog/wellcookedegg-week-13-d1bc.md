@@ -9,6 +9,7 @@ description = "by WellCookedEgg for week 13: Look At Me. Created using: Clip Stu
       src = "/img/wellcookedegg/2021-04-10+7e92e7fcbfd5bd52d278ce6d9c4287b0-thumbnail-w720px.jpg"
       href = "/blog/wellcookedegg-week-13-d1bc"
       alt = "😳"
+      caption = ""
       stretch = "cover"
 +++
 

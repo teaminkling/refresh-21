@@ -9,6 +9,7 @@ description = "by Lithium for week 4: Murky Silhouettes. Created using: Digital 
       src = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-4-c9e7"
       alt = "Dancing Cloud"
+      caption = ""
       stretch = "cover"
 +++
 

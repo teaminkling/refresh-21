@@ -9,6 +9,7 @@ description = "by cindry for week 11: Atmosphere Spectrum. Created using: Digita
       src = "/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74-thumbnail-w720px.png"
       href = "/blog/cindry-week-11-1d65"
       alt = "Rolling Lonely Star"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by TheLagExpert for week 3: Red Circle. Created using: Affinity P
       src = "/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg"
       href = "/blog/thelagexpert-week-3-8cfa"
       alt = "Lonely in the Quartz desert"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by papapastry for week 17: The 4 R's: Finale. Created using: Gola
       src = "img/other-placeholder.png"
       href = "/blog/papapastry-week-17-09eb"
       alt = "refresh.fiveclawd.com"
+      caption = "Please view the <a href=\"/blog/papapastry-week-17-09eb\">full post</a> to see the submission!"
       stretch = "cover"
 +++
 

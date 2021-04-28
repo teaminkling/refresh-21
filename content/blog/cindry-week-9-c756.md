@@ -9,6 +9,7 @@ description = "by cindry for week 9: Bold Strokes. Created using: digital painti
       src = "/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10-thumbnail-w720px.png"
       href = "/blog/cindry-week-9-c756"
       alt = "ANIME AM I RIGHT"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,12 +9,13 @@ description = "by rainydaze for week 14: Absolute Fire. Created using: Procreate
       src = "img/video-placeholder.png"
       href = "/blog/rainydaze-week-14-c8c8"
       alt = "Anarchy Loves Fire"
+      caption = "This submission contains a video. Please view the <a href=\"/blog/rainydaze-week-14-c8c8\">full post</a> to see it!"
       stretch = "cover"
 +++
 
 
 {{< fancybox path="img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" file="img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" caption="Placeholder thumbnail for a video work." >}}
-
+<p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate (and DaVinci Resolve)**.
 

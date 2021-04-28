@@ -9,6 +9,7 @@ description = "by MalorBaker for week 1: Yellow Lines. Created using: ms paint."
       src = "/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png"
       href = "/blog/malorbaker-week-1-86f3"
       alt = "flush"
+      caption = ""
       stretch = "cover"
 +++
 

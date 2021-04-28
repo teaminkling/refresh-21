@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 11: Atmosphere Spectrum. Created using: 
       src = "/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea-thumbnail-w720px.png"
       href = "/blog/jumpingbeans-week-11-0c75"
       alt = "Are we at the weekends yet?"
+      caption = ""
       stretch = "cover"
 +++
 

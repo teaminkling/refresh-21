@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 4: Murky Silhouettes. Created using: Gam
       src = "img/other-placeholder.png"
       href = "/blog/jumpingbeans-week-4-43e3"
       alt = "Stress"
+      caption = "This submission contains a web link. Please view the <a href=\"/blog/jumpingbeans-week-4-43e3\">full post</a> to see it!"
       stretch = "cover"
 +++
 

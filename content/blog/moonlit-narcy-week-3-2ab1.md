@@ -9,6 +9,7 @@ description = "by Moonlit Narcy for week 3: Red Circle. Created using: Procreate
       src = "/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/moonlit-narcy-week-3-2ab1"
       alt = "compassionate eye"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by Scimister for week 6: Simple Love. Created using: Paint Tool S
       src = "/img/scimister/2021-02-12+4c3ffd4e2c912137636ec459e47d8e57-thumbnail-w720px.png"
       href = "/blog/scimister-week-6-9323"
       alt = "Perspectives of Love"
+      caption = ""
       stretch = "cover"
 +++
 

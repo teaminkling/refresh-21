@@ -9,6 +9,7 @@ description = "by Goblet for week 13: Look At Me. Created using: Krita."
       src = "/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693-thumbnail-w720px.png"
       href = "/blog/goblet-week-13-40e8"
       alt = "<:cuporiGun:825806539918278686>"
+      caption = ""
       stretch = "cover"
 +++
 

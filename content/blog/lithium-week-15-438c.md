@@ -9,6 +9,7 @@ description = "by Lithium for week 15: Back to Basics. Created using: Clip Studi
       src = "/img/lithium/2021-04-13+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-15-438c"
       alt = "Still Life Succulents"
+      caption = ""
       stretch = "cover"
 +++
 

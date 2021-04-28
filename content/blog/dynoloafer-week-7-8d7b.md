@@ -9,6 +9,7 @@ description = "by DynoLoafer for week 7: Disturbed Desert. Created using: Paint 
       src = "/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c-thumbnail-w720px.png"
       href = "/blog/dynoloafer-week-7-8d7b"
       alt = "The Sandstorm"
+      caption = ""
       stretch = "cover"
 +++
 

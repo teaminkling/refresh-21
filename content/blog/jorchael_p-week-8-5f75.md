@@ -9,6 +9,7 @@ description = "by jorchael_p for week 8: High Sheen. Created using: Photoshop."
       src = "/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9-thumbnail-w720px.png"
       href = "/blog/jorchael_p-week-8-5f75"
       alt = "Out of Touch Tuesday"
+      caption = ""
       stretch = "cover"
 +++
 

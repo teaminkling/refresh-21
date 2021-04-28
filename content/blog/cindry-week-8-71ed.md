@@ -9,6 +9,7 @@ description = "by cindry for week 8: High Sheen. Created using: graphic, Illustr
       src = "/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27-thumbnail-w720px.png"
       href = "/blog/cindry-week-8-71ed"
       alt = "Foish"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by cindry for week 13: Look At Me. Created using: digital, CSP an
       src = "/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3-thumbnail-w720px.png"
       href = "/blog/cindry-week-13-4534"
       alt = "im dying btw"
+      caption = ""
       stretch = "cover"
 +++
 

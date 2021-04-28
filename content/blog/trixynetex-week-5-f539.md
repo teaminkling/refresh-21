@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 5: Royal Green. Created using: Sketchbook 
       src = "/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-5-f539"
       alt = "Flawless"
+      caption = ""
       stretch = "cover"
 +++
 

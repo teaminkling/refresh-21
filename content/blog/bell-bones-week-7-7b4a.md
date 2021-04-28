@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 7: Disturbed Desert. Created using: FireAl
       src = "img/other-placeholder.png"
       href = "/blog/bell-bones-week-7-7b4a"
       alt = "Hey you! Yeah, up here!"
+      caption = "This submission contains a gallery link. Please view the <a href=\"/blog/bell-bones-week-7-7b4a\">full post</a> to see it!"
       stretch = "cover"
 +++
 

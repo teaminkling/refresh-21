@@ -9,6 +9,7 @@ description = "by cindry for week 14: Absolute Fire. Created using: paper cuttin
       src = "/img/cindry/2021-04-09+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png"
       href = "/blog/cindry-week-14-8305"
       alt = "burnout"
+      caption = ""
       stretch = "cover"
 +++
 

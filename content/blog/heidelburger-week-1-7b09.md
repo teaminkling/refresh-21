@@ -9,6 +9,7 @@ description = "by Heidelburger for week 1: Yellow Lines. Created using: Switch H
       src = "/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/heidelburger-week-1-7b09"
       alt = "Yellow Ice Bar"
+      caption = ""
       stretch = "cover"
 +++
 

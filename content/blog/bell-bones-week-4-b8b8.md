@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 4: Murky Silhouettes. Created using: FireA
       src = "/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-4-b8b8"
       alt = "Family Portrait"
+      caption = ""
       stretch = "cover"
 +++
 

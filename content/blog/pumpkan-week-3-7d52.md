@@ -9,6 +9,7 @@ description = "by Pumpkan for week 3: Red Circle. Created using: Rubber stamp bl
       src = "/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-3-7d52"
       alt = "The Forest King"
+      caption = ""
       stretch = "cover"
 +++
 

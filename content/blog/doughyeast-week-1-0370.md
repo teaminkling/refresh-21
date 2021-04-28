@@ -9,6 +9,7 @@ description = "by DoughYeast for week 1: Yellow Lines. Created using: Procreate.
       src = "/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1-thumbnail-w720px.png"
       href = "/blog/doughyeast-week-1-0370"
       alt = "Noodle Dancer"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by askpatt for week 3: Red Circle. Created using: illustrator."
       src = "/img/askpatt/2021-01-17+083d9f31174948b4c8783dc789d93697-thumbnail-w720px.png"
       href = "/blog/askpatt-week-3-e80d"
       alt = "Circle and flow"
+      caption = ""
       stretch = "cover"
 +++
 

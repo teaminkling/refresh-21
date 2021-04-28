@@ -9,6 +9,7 @@ description = "by ocean for week 5: Royal Green. Created using: soapstone carvin
       src = "/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/ocean-week-5-cdf0"
       alt = "Seal soapstone carving"
+      caption = ""
       stretch = "cover"
 +++
 

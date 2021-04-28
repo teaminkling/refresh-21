@@ -9,6 +9,7 @@ description = "by Magus_Hellwalker for week 5: Royal Green. Created using: Digit
       src = "/img/magus_hellwalker/2021-02-05+dd17d16d25479345b411d360b77934be-thumbnail-w720px.png"
       href = "/blog/magus_hellwalker-week-5-8cfe"
       alt = "Jade Dragon on plinth"
+      caption = ""
       stretch = "cover"
 +++
 

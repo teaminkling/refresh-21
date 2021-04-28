@@ -9,6 +9,7 @@ description = "by eggyolk for week 2: Deep Ocean. Created using: Procreate."
       src = "/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/eggyolk-week-2-b1aa"
       alt = "Jormungandr"
+      caption = ""
       stretch = "cover"
 +++
 

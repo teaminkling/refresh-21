@@ -9,6 +9,7 @@ description = "by vectorong for week 4: Murky Silhouettes. Created using: ink + 
       src = "/img/vectorong/2021-01-28+e26c578eeddc050f34a793febc84b2d8-thumbnail-w720px.png"
       href = "/blog/vectorong-week-4-b82c"
       alt = "Façade"
+      caption = ""
       stretch = "cover"
 +++
 

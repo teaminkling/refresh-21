@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 6: Simple Love. Created using: Ink on 
       src = "/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-6-634a"
       alt = "Amalgamation: Smile and Smile"
+      caption = ""
       stretch = "cover"
 +++
 

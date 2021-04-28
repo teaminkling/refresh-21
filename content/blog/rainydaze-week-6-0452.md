@@ -9,6 +9,7 @@ description = "by rainydaze for week 6: Simple Love. Created using: Procreate, w
       src = "/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4-thumbnail-w720px.png"
       href = "/blog/rainydaze-week-6-0452"
       alt = "inanimate objects that give me comfort"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
       src = "/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png"
       href = "/blog/fonz-week-4-f2ce"
       alt = "mask"
+      caption = ""
       stretch = "cover"
 +++
 

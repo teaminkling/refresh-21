@@ -9,6 +9,7 @@ description = "by eggyolk for week 3: Red Circle. Created using: Procreate."
       src = "/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/eggyolk-week-3-7fa8"
       alt = "Week 3 Submission <:eyeleft:800396950012035081> 👄 <:eyeright:800396965551538186>"
+      caption = ""
       stretch = "cover"
 +++
 

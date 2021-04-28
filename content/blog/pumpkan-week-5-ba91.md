@@ -9,6 +9,7 @@ description = "by Pumpkan for week 5: Royal Green. Created using: Procreate."
       src = "/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-5-ba91"
       alt = "Prosperity"
+      caption = ""
       stretch = "cover"
 +++
 

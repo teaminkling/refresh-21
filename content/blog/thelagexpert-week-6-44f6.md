@@ -9,6 +9,7 @@ description = "by TheLagExpert for week 6: Simple Love. Created using: Affinity 
       src = "/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f-thumbnail-w720px.png"
       href = "/blog/thelagexpert-week-6-44f6"
       alt = "Cyber Love"
+      caption = ""
       stretch = "cover"
 +++
 

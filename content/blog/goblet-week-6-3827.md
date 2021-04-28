@@ -9,6 +9,7 @@ description = "by Goblet for week 6: Simple Love. Created using: Krita with mous
       src = "/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad-thumbnail-w720px.png"
       href = "/blog/goblet-week-6-3827"
       alt = "Ducks by docks"
+      caption = ""
       stretch = "cover"
 +++
 

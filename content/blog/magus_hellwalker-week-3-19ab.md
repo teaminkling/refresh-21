@@ -9,6 +9,7 @@ description = "by Magus_Hellwalker for week 3: Red Circle. Created using: 3D Dig
       src = "/img/magus_hellwalker/2021-01-18+63a5ea3e729038ba0297135dcbaf5ced-thumbnail-w720px.png"
       href = "/blog/magus_hellwalker-week-3-19ab"
       alt = "A circle in abstractness"
+      caption = ""
       stretch = "cover"
 +++
 

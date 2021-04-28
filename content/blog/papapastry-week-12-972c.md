@@ -9,6 +9,7 @@ description = "by papapastry for week 12: Visual Words. Created using: Music/Abl
       src = "https://img.youtube.com/vi/Co70PhYuGBI/maxresdefault.jpg"
       href = "/blog/papapastry-week-12-972c"
       alt = "Noodle Bar"
+      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-12-972c\">full post</a> to see it!"
       stretch = "cover"
 +++
 

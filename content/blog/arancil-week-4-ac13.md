@@ -9,6 +9,7 @@ description = "by arancil for week 4: Murky Silhouettes. Created using: Acrylic 
       src = "/img/arancil/2021-01-27+e69e024aefcf695bcc5eb2d811971577-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-4-ac13"
       alt = "1:21 AM"
+      caption = ""
       stretch = "cover"
 +++
 

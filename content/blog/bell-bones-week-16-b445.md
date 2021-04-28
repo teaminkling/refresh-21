@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 16: Scaling Giants. Created using: FireAlp
       src = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-16-b445"
       alt = "oof"
+      caption = ""
       stretch = "cover"
 +++
 

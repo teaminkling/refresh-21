@@ -9,6 +9,7 @@ description = "by cindry for week 15: Back to Basics. Created using: relief prin
       src = "/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg"
       href = "/blog/cindry-week-15-8495"
       alt = "leeeeemons"
+      caption = ""
       stretch = "cover"
 +++
 

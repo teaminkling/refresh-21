@@ -9,6 +9,7 @@ description = "by Frog Glasses for week 8: High Sheen. Created using: procreate.
       src = "/img/frog_glasses/2021-02-26+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/frog-glasses-week-8-911a"
       alt = "Untitled"
+      caption = ""
       stretch = "cover"
 +++
 

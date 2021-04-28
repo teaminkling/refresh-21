@@ -9,6 +9,7 @@ description = "by vectorong for week 7: Disturbed Desert. Created using: Photogr
       src = "/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-7-7f38"
       alt = "Seconds in Sand"
+      caption = ""
       stretch = "cover"
 +++
 

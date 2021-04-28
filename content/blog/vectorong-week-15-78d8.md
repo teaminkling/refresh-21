@@ -9,6 +9,7 @@ description = "by vectorong for week 15: Back to Basics. Created using: Food."
       src = "/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-15-78d8"
       alt = "Bread, Butter, Boysenberry"
+      caption = ""
       stretch = "cover"
 +++
 

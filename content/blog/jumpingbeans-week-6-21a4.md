@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 6: Simple Love. Created using: Video of 
       src = "https://img.youtube.com/vi/MDxUzRfvYf4/maxresdefault.jpg"
       href = "/blog/jumpingbeans-week-6-21a4"
       alt = "The introspection of self, the different facades of life and embrace of the multifaceted appearences"
+      caption = "This submission contains a video link. Please view the <a href=\"/blog/jumpingbeans-week-6-21a4\">full post</a> to see it!"
       stretch = "cover"
 +++
 

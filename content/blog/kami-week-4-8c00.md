@@ -9,6 +9,7 @@ description = "by Kami for week 4: Murky Silhouettes. Created using: Pencil , sk
       src = "/img/kami/2021-01-26+a2425a3a3dfd84ee042bfb229cad5094-thumbnail-w720px.jpg"
       href = "/blog/kami-week-4-8c00"
       alt = "Practice"
+      caption = ""
       stretch = "cover"
 +++
 

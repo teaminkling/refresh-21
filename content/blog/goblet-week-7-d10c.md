@@ -9,6 +9,7 @@ description = "by Goblet for week 7: Disturbed Desert. Created using: ibispaint 
       src = "/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png"
       href = "/blog/goblet-week-7-d10c"
       alt = "Welcome to Sandy Point! Population: me"
+      caption = ""
       stretch = "cover"
 +++
 

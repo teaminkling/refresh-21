@@ -9,6 +9,7 @@ description = "by arancil for week 7: Disturbed Desert. Created using: Ink, trad
       src = "/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-7-c2c0"
       alt = "placeholder edit later"
+      caption = ""
       stretch = "cover"
 +++
 

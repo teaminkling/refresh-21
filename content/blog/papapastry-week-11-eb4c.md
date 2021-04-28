@@ -9,6 +9,7 @@ description = "by papapastry for week 11: Atmosphere Spectrum. Created using: Mu
       src = "img/audio-placeholder.png"
       href = "/blog/papapastry-week-11-eb4c"
       alt = "The Island"
+      caption = "This submission contains an audio link. Please view the <a href=\"/blog/papapastry-week-11-eb4c\">full post</a> to hear it!"
       stretch = "cover"
 +++
 

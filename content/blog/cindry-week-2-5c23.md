@@ -9,6 +9,7 @@ description = "by cindry for week 2: Deep Ocean. Created using: 2 page comic, In
       src = "/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545-thumbnail-w720px.jpg"
       href = "/blog/cindry-week-2-5c23"
       alt = "Deep Discovery"
+      caption = ""
       stretch = "cover"
 +++
 

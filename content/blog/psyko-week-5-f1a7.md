@@ -9,6 +9,7 @@ description = "by Psyko for week 5: Royal Green. Created using: Acrylics."
       src = "/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903-thumbnail-w720px.jpg"
       href = "/blog/psyko-week-5-f1a7"
       alt = "Flow"
+      caption = ""
       stretch = "cover"
 +++
 

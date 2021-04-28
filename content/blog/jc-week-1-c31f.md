@@ -9,6 +9,7 @@ description = "by jc for week 1: Yellow Lines. Created using: csp."
       src = "/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png"
       href = "/blog/jc-week-1-c31f"
       alt = "egg galaxy"
+      caption = ""
       stretch = "cover"
 +++
 

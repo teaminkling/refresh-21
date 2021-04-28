@@ -9,6 +9,7 @@ description = "by D3m0n_Msc for week 6: Simple Love. Created using: : Ibis paint
       src = "/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c-thumbnail-w720px.png"
       href = "/blog/d3m0n_msc-week-6-834b"
       alt = "Love in the air"
+      caption = ""
       stretch = "cover"
 +++
 

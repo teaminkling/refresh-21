@@ -9,6 +9,7 @@ description = "by Pumpkan for week 9: Bold Strokes. Created using: Procreate."
       src = "/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-9-1267"
       alt = "wikipedia"
+      caption = ""
       stretch = "cover"
 +++
 

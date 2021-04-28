@@ -9,6 +9,7 @@ description = "by Pumpkan for week 16: Scaling Giants. Created using: Photo + Pr
       src = "/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-16-ca58"
       alt = "It'sssss Smelbourne!"
+      caption = ""
       stretch = "cover"
 +++
 

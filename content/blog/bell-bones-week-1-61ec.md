@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 1: Yellow Lines. Created using: FireAlpaca
       src = "/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-1-61ec"
       alt = "Honey, I'm Home!"
+      caption = ""
       stretch = "cover"
 +++
 

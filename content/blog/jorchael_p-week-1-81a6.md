@@ -9,6 +9,7 @@ description = "by jorchael_p for week 1: Yellow Lines. Created using: Digital, P
       src = "/img/jorchael_p/2021-01-07+d798934f38eed5f51029974ba843390d-thumbnail-w720px.png"
       href = "/blog/jorchael_p-week-1-81a6"
       alt = "sunny day, pouring rain"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 6: Simple Love. Created using: Sketchbook 
       src = "/img/trixynetex/2021-02-11+c69da936d9639ba400548843dd7c44b4-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-6-af98"
       alt = "Midnight Magic Musings"
+      caption = ""
       stretch = "cover"
 +++
 

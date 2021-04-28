@@ -9,6 +9,7 @@ description = "by Boyf for week 1: Yellow Lines. Created using: FireAlpaca64."
       src = "/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png"
       href = "/blog/boyf-week-1-b79d"
       alt = "Just a Peep"
+      caption = ""
       stretch = "cover"
 +++
 

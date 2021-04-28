@@ -9,6 +9,7 @@ description = "by D3m0n_Msc for week 12: Visual Words. Created using: phone."
       src = "/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716-thumbnail-w720px.png"
       href = "/blog/d3m0n_msc-week-12-2f81"
       alt = "Trust"
+      caption = ""
       stretch = "cover"
 +++
 

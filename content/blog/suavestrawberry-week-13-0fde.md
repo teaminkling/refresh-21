@@ -9,15 +9,11 @@ description = "by SuaveStrawberry for week 13: Look At Me. Created using: procre
       src = "https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg"
       href = "/blog/suavestrawberry-week-13-0fde"
       alt = "Fragments of Remembrance"
+      caption = "This submission contains a link. Please view the <a href=\"/blog/suavestrawberry-week-13-0fde\">full post</a> to see it!"
       stretch = "cover"
 +++
 
-
-                <a href="https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599" target="_blank">
-                  <img src="https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg"
-                       alt="External link image preview for generic website." />
-                </a>
-                
+<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599" target="_blank"><img src="https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a><p><i>The image above leads to an external website.</i></p></div>
 
 Week 13: **Look At Me**. This art was lovingly created using: **procreate**.
 

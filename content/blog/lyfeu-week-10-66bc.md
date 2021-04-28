@@ -9,6 +9,7 @@ description = "by Lyfeu for week 10: Folds and Folds. Created using: Photoshop."
       src = "/img/lyfeu/2021-03-10+7b436b3be6494c0aa3ecb4254a18e6f6-thumbnail-w720px.jpg"
       href = "/blog/lyfeu-week-10-66bc"
       alt = "Folds"
+      caption = ""
       stretch = "cover"
 +++
 

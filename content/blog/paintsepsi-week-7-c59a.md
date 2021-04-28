@@ -9,6 +9,7 @@ description = "by paintsepsi for week 7: Disturbed Desert. Created using: Procre
       src = "/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/paintsepsi-week-7-c59a"
       alt = "Skull"
+      caption = ""
       stretch = "cover"
 +++
 

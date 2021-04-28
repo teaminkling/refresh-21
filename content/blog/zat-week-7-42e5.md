@@ -9,6 +9,7 @@ description = "by Zat for week 7: Disturbed Desert. Created using: Photography."
       src = "/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg"
       href = "/blog/zat-week-7-42e5"
       alt = "Rain Over the Desert"
+      caption = ""
       stretch = "cover"
 +++
 

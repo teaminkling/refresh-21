@@ -9,6 +9,7 @@ description = "by Moonlit Narcy for week 4: Murky Silhouettes. Created using: Pr
       src = "/img/moonlit_narcy/2021-01-30+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/moonlit-narcy-week-4-3b95"
       alt = "Just Smile & Smell the Flowers"
+      caption = ""
       stretch = "cover"
 +++
 

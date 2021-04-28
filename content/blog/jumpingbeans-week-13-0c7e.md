@@ -9,12 +9,13 @@ description = "by jumpingbeans for week 13: Look At Me. Created using: MS paint 
       src = "img/video-placeholder.png"
       href = "/blog/jumpingbeans-week-13-0c7e"
       alt = "Things you use to see yourself with"
+      caption = "This submission contains a video. Please view the <a href=\"/blog/jumpingbeans-week-13-0c7e\">full post</a> to see it!"
       stretch = "cover"
 +++
 
 
 {{< fancybox path="img/jumpingbeans/2021-03-29+83503df741b0a25054f4e0aca1ec0685.mp4" file="img/jumpingbeans/2021-03-29+83503df741b0a25054f4e0aca1ec0685.mp4" caption="Placeholder thumbnail for a video work." >}}
-
+<p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 Week 13: **Look At Me**. This art was lovingly created using: **MS paint /some online video compiler**.
 

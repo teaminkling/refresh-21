@@ -9,6 +9,7 @@ description = "by Charmandaar for week 2: Deep Ocean. Created using: traditional
       src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png"
       href = "/blog/charmandaar-week-2-210a"
       alt = "felix, the jellyfish"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 4: Murky Silhouettes. Created using: F
       src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-4-759c"
       alt = "Bloody Fields"
+      caption = ""
       stretch = "cover"
 +++
 

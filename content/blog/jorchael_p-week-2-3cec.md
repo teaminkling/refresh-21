@@ -9,6 +9,7 @@ description = "by jorchael_p for week 2: Deep Ocean. Created using: Photoshop."
       src = "/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964-thumbnail-w720px.png"
       href = "/blog/jorchael_p-week-2-3cec"
       alt = "Ah, Bright Light"
+      caption = ""
       stretch = "cover"
 +++
 

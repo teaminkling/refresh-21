@@ -9,6 +9,7 @@ description = "by soleilboo for week 8: High Sheen. Created using: Photoshop."
       src = "/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3-thumbnail-w720px.jpg"
       href = "/blog/soleilboo-week-8-fde4"
       alt = "Wall- E fan Art"
+      caption = ""
       stretch = "cover"
 +++
 

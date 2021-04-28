@@ -9,6 +9,7 @@ description = "by TheLagExpert for week 12: Visual Words. Created using: Affinit
       src = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2-thumbnail-w720px.jpeg"
       href = "/blog/thelagexpert-week-12-f76f"
       alt = "Glass House"
+      caption = ""
       stretch = "cover"
 +++
 

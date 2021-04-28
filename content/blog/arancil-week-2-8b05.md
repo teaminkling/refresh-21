@@ -9,6 +9,7 @@ description = "by arancil for week 2: Deep Ocean. Created using: Watercolor (Arc
       src = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-2-8b05"
       alt = "This is why I drink"
+      caption = ""
       stretch = "cover"
 +++
 

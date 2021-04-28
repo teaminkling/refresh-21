@@ -9,6 +9,7 @@ description = "by Goblet for week 4: Murky Silhouettes. Created using: Krita wit
       src = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg"
       href = "/blog/goblet-week-4-6b80"
       alt = "Orange jump"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by Jzann for week 4: Murky Silhouettes. Created using: Clip Studi
       src = "/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567-thumbnail-w720px.png"
       href = "/blog/jzann-week-4-222a"
       alt = "Current"
+      caption = ""
       stretch = "cover"
 +++
 

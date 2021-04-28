@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 10: Folds and Folds. Created using: FireAl
       src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-10-a407"
       alt = "Prince Backey"
+      caption = ""
       stretch = "cover"
 +++
 

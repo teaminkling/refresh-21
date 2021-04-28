@@ -9,6 +9,7 @@ description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
       src = "/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8-thumbnail-w720px.png"
       href = "/blog/fonz-week-4-ad79"
       alt = "green eyed girl"
+      caption = ""
       stretch = "cover"
 +++
 

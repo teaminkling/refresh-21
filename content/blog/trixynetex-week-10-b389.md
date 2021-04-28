@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 10: Folds and Folds. Created using: Sketch
       src = "/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-10-b389"
       alt = "Sunset Vibes, aka it was 30° degrees today"
+      caption = ""
       stretch = "cover"
 +++
 

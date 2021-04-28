@@ -9,6 +9,7 @@ description = "by winsome for week 16: Scaling Giants. Created using: Photo + CL
       src = "/img/winsome/2021-04-23+53ef0c44d40053101c4ef3cfc9f82f2a-thumbnail-w720px.png"
       href = "/blog/winsome-week-16-aef1"
       alt = "Broccaiju"
+      caption = ""
       stretch = "cover"
 +++
 

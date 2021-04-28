@@ -9,6 +9,7 @@ description = "by Psyko for week 6: Simple Love. Created using: Krita."
       src = "/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867-thumbnail-w720px.jpg"
       href = "/blog/psyko-week-6-f17c"
       alt = "Dreams in TechieLand"
+      caption = ""
       stretch = "cover"
 +++
 

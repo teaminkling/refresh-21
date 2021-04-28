@@ -9,6 +9,7 @@ description = "by papapastry for week 3: Red Circle. Created using: Audio (Ablet
       src = "img/audio-placeholder.png"
       href = "/blog/papapastry-week-3-31f0"
       alt = "Tamago Tama"
+      caption = "This submission contains an audio link. Please view the <a href=\"/blog/papapastry-week-3-31f0\">full post</a> to hear it!"
       stretch = "cover"
 +++
 

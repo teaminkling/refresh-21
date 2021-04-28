@@ -9,6 +9,7 @@ description = "by TITAN011 for week 10: Folds and Folds. Created using: Clip Stu
       src = "/img/titan011/2021-03-08+ab65a0bb06ac190fdbc3ebc87c5326ef-thumbnail-w720px.jpg"
       href = "/blog/titan011-week-10-66bc"
       alt = "Folds"
+      caption = ""
       stretch = "cover"
 +++
 

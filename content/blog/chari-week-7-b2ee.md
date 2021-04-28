@@ -9,6 +9,7 @@ description = "by chari for week 7: Disturbed Desert. Created using: Digital, Cl
       src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg"
       href = "/blog/chari-week-7-b2ee"
       alt = "Academy, Disrepair"
+      caption = ""
       stretch = "cover"
 +++
 

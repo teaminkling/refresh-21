@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 12: Visual Words. Created using: Felt 
       src = "/img/a1ewanrichards/2021-03-26+e247eb8f1accb33a5efdc61ad9160455-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-12-8990"
       alt = "Amalgamation - The Body Keeps The Score"
+      caption = ""
       stretch = "cover"
 +++
 

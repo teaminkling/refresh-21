@@ -9,6 +9,7 @@ description = "by DynoLoafer for week 12: Visual Words. Created using: Paint Too
       src = "/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3-thumbnail-w720px.png"
       href = "/blog/dynoloafer-week-12-6b6a"
       alt = "Crazy Bird"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 12: Visual Words. Created using: gif."
       src = "/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7-thumbnail-w720px.gif"
       href = "/blog/jumpingbeans-week-12-215e"
       alt = "wrod"
+      caption = ""
       stretch = "cover"
 +++
 

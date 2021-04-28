@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 15: Back to Basics. Created using: Cli
       src = "/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-15-4b55"
       alt = "Resistance 4 - Sometimes, The Heart Yearns For Mangoes"
+      caption = ""
       stretch = "cover"
 +++
 

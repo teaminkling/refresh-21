@@ -9,6 +9,7 @@ description = "by arancil for week 8: High Sheen. Created using: Oil sticks & oi
       src = "/img/arancil/2021-02-23+7810d09503af275f75f37da867f7aaab-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-8-fb4e"
       alt = "1:43:51 (PB)"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by cindry for week 12: Visual Words. Created using: Photography a
       src = "/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065-thumbnail-w720px.png"
       href = "/blog/cindry-week-12-713c"
       alt = "Just a normal day as an asian girl online"
+      caption = ""
       stretch = "cover"
 +++
 

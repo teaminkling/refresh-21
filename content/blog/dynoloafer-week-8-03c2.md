@@ -9,6 +9,7 @@ description = "by DynoLoafer for week 8: High Sheen. Created using: Paint Tool S
       src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c-thumbnail-w720px.png"
       href = "/blog/dynoloafer-week-8-03c2"
       alt = "Pretty, Ain't It?"
+      caption = ""
       stretch = "cover"
 +++
 

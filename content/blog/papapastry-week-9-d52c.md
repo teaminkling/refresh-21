@@ -9,6 +9,7 @@ description = "by papapastry for week 9: Bold Strokes. Created using: Audio/Able
       src = "https://img.youtube.com/vi/0hrJOksPNdI/maxresdefault.jpg"
       href = "/blog/papapastry-week-9-d52c"
       alt = "7/11 Burrito"
+      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-9-d52c\">full post</a> to see it!"
       stretch = "cover"
 +++
 

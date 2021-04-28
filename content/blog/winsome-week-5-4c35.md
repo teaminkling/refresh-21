@@ -9,6 +9,7 @@ description = "by winsome for week 5: Royal Green. Created using: unknown medium
       src = "/img/winsome/2021-02-05+b0a6188ac92802831e3e89ddd092282a-thumbnail-w720px.png"
       href = "/blog/winsome-week-5-4c35"
       alt = "Queen of the Skies"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by D3m0n_Msc for week 5: Royal Green. Created using: Digital - Ib
       src = "/img/d3m0n_msc/2021-02-04+8caac85d9b704ed3e9633d742ae5eab4-thumbnail-w720px.png"
       href = "/blog/d3m0n_msc-week-5-1b42"
       alt = "Jade scales"
+      caption = ""
       stretch = "cover"
 +++
 

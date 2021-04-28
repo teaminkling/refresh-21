@@ -9,6 +9,7 @@ description = "by arancil for week 3: Red Circle. Created using: Ink (+watercolo
       src = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-3-5f20"
       alt = "Behold my stand - [BRIGHT EYES!!]"
+      caption = ""
       stretch = "cover"
 +++
 

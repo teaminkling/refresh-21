@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 11: Atmosphere Spectrum. Created using: Sk
       src = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-11-ca4c"
       alt = "Liminal Sky"
+      caption = ""
       stretch = "cover"
 +++
 

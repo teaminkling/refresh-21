@@ -9,6 +9,7 @@ description = "by MrGreeyne for week 11: Atmosphere Spectrum. Created using: Few
       src = "img/other-placeholder.png"
       href = "/blog/mrgreeyne-week-11-ebfe"
       alt = "Yesterday"
+      caption = "Please view the <a href=\"/blog/mrgreeyne-week-11-ebfe\">full post</a> to see the submission!"
       stretch = "cover"
 +++
 

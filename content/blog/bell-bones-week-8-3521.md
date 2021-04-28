@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 8: High Sheen. Created using: FireAlpaca."
       src = "/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-8-3521"
       alt = "Brooke Rivers"
+      caption = ""
       stretch = "cover"
 +++
 

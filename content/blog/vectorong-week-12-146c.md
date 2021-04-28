@@ -9,6 +9,7 @@ description = "by vectorong for week 12: Visual Words. Created using: Ink + Mark
       src = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-12-146c"
       alt = "The Comfy Chair"
+      caption = ""
       stretch = "cover"
 +++
 

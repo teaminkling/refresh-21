@@ -9,6 +9,7 @@ description = "by vectorong for week 10: Folds and Folds. Created using: Fabric 
       src = "/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-10-c07e"
       alt = "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
+      caption = ""
       stretch = "cover"
 +++
 

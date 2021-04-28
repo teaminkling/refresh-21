@@ -9,6 +9,7 @@ description = "by arancil for week 14: Absolute Fire. Created using: Watercolor.
       src = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-14-911a"
       alt = "Untitled"
+      caption = ""
       stretch = "cover"
 +++
 

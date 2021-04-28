@@ -9,6 +9,7 @@ description = "by Mrop2000 for week 13: Look At Me. Created using: Watercolor, G
       src = "/img/mrop2000/2021-04-08+b910ea183eb803fda3c77906e1f6fea1-thumbnail-w720px.jpg"
       href = "/blog/mrop2000-week-13-2bfa"
       alt = "Look behind you, they're the Captain now"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by arancil for week 16: Scaling Giants. Created using: Fineliner 
       src = "/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-16-911a"
       alt = "Untitled"
+      caption = ""
       stretch = "cover"
 +++
 

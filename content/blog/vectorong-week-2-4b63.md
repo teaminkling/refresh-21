@@ -9,6 +9,7 @@ description = "by vectorong for week 2: Deep Ocean. Created using: Gyotaku (trad
       src = "/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-2-4b63"
       alt = "Little Dragons"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by paintsepsi for week 8: High Sheen. Created using: Procreate."
       src = "/img/paintsepsi/2021-02-23+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/paintsepsi-week-8-41d3"
       alt = "High Sheen from Jimmy Neutron"
+      caption = ""
       stretch = "cover"
 +++
 

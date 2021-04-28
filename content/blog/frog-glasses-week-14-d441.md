@@ -9,6 +9,7 @@ description = "by Frog Glasses for week 14: Absolute Fire. Created using: procra
       src = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/frog-glasses-week-14-d441"
       alt = "hey girl bites lip"
+      caption = ""
       stretch = "cover"
 +++
 

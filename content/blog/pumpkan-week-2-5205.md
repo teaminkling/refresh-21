@@ -9,6 +9,7 @@ description = "by Pumpkan for week 2: Deep Ocean. Created using: Procreate."
       src = "/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-2-5205"
       alt = "You have new text message! High five!"
+      caption = ""
       stretch = "cover"
 +++
 

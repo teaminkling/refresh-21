@@ -9,6 +9,7 @@ description = "by vectorong for week 13: Look At Me. Created using: Mixed media 
       src = "/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-13-04d1"
       alt = "Then She Fell”"
+      caption = "This submission contains a video link. Please view the <a href=\"/blog/vectorong-week-13-04d1\">full post</a> to see it!"
       stretch = "cover"
 +++
 

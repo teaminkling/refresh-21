@@ -9,6 +9,7 @@ description = "by paintsepsi for week 13: Look At Me. Created using: Procreate."
       src = "/img/paintsepsi/2021-04-02+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/paintsepsi-week-13-3864"
       alt = "Selfie"
+      caption = ""
       stretch = "cover"
 +++
 

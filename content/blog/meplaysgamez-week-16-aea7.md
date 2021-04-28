@@ -9,6 +9,7 @@ description = "by meplaysgamez for week 16: Scaling Giants. Created using: Photo
       src = "/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/meplaysgamez-week-16-aea7"
       alt = "Dynames"
+      caption = ""
       stretch = "cover"
 +++
 

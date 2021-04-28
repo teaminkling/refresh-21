@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 14: Absolute Fire. Created using: Sketchbo
       src = "/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-14-6ff8"
       alt = "Flames of Phlegethos"
+      caption = ""
       stretch = "cover"
 +++
 

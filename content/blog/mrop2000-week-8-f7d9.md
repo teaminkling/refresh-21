@@ -9,6 +9,7 @@ description = "by Mrop2000 for week 8: High Sheen. Created using: Pencil on Pape
       src = "/img/mrop2000/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg"
       href = "/blog/mrop2000-week-8-f7d9"
       alt = "Swim for the Ball"
+      caption = ""
       stretch = "cover"
 +++
 

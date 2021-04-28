@@ -9,6 +9,7 @@ description = "by cindry for week 10: Folds and Folds. Created using: Digital, I
       src = "/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png"
       href = "/blog/cindry-week-10-43db"
       alt = "Implied emotion??"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by poru for week 5: Royal Green. Created using: Digital - Clip St
       src = "/img/poru/2021-02-04+22ade31b7c02e8ee602749306b2a406c-thumbnail-w720px.png"
       href = "/blog/poru-week-5-5cd3"
       alt = "Jadeite"
+      caption = ""
       stretch = "cover"
 +++
 

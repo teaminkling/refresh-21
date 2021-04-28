@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 15: Back to Basics. Created using: chine
       src = "/img/jumpingbeans/2021-04-10+c488d3eb5b1bd6bf41108c30b831f79c-thumbnail-w720px.jpg"
       href = "/blog/jumpingbeans-week-15-f94f"
       alt = "illiteracy"
+      caption = ""
       stretch = "cover"
 +++
 

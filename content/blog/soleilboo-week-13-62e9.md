@@ -9,6 +9,7 @@ description = "by soleilboo for week 13: Look At Me. Created using: digital,phot
       src = "/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/soleilboo-week-13-62e9"
       alt = "“uhmmm Mine!!! It’s mine”"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by winsome for week 9: Bold Strokes. Created using: Photography (
       src = "/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5-thumbnail-w720px.jpeg"
       href = "/blog/winsome-week-9-ca4a"
       alt = "Hi! I like shorts! They're comfy and easy to wear!"
+      caption = ""
       stretch = "cover"
 +++
 

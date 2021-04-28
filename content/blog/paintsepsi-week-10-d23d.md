@@ -9,6 +9,7 @@ description = "by paintsepsi for week 10: Folds and Folds. Created using: Procre
       src = "/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/paintsepsi-week-10-d23d"
       alt = "Sitting"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by Pumpkan for week 1: Yellow Lines. Created using: procreate."
       src = "/img/pumpkan/2021-01-08+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-1-e8d5"
       alt = "Four of Pumpkins"
+      caption = ""
       stretch = "cover"
 +++
 

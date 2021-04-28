@@ -9,6 +9,7 @@ description = "by askpatt for week 4: Murky Silhouettes. Created using: PS."
       src = "/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4-thumbnail-w720px.png"
       href = "/blog/askpatt-week-4-54e5"
       alt = "Green mOon"
+      caption = ""
       stretch = "cover"
 +++
 

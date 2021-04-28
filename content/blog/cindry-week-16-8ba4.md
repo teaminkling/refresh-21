@@ -9,6 +9,7 @@ description = "by cindry for week 16: Scaling Giants. Created using: digital pai
       src = "/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e-thumbnail-w720px.jpg"
       href = "/blog/cindry-week-16-8ba4"
       alt = "ooh shit"
+      caption = ""
       stretch = "cover"
 +++
 

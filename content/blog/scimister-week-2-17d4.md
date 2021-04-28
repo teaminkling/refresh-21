@@ -9,6 +9,7 @@ description = "by Scimister for week 2: Deep Ocean. Created using: PaintToolSAI.
       src = "/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9-thumbnail-w720px.png"
       href = "/blog/scimister-week-2-17d4"
       alt = "Ascend"
+      caption = ""
       stretch = "cover"
 +++
 

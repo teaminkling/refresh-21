@@ -9,6 +9,7 @@ description = "by Charmandaar for week 12: Visual Words. Created using: procreat
       src = "/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png"
       href = "/blog/charmandaar-week-12-9763"
       alt = "unspoken words of affirmation"
+      caption = ""
       stretch = "cover"
 +++
 

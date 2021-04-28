@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 13: Look At Me. Created using: FireAlpaca.
       src = "/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-13-335d"
       alt = "OMORI AU"
+      caption = ""
       stretch = "cover"
 +++
 

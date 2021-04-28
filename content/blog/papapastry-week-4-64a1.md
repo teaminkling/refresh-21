@@ -9,6 +9,7 @@ description = "by papapastry for week 4: Murky Silhouettes. Created using: Ablet
       src = "img/audio-placeholder.png"
       href = "/blog/papapastry-week-4-64a1"
       alt = "MURKE SHADOES"
+      caption = "This submission contains an audio link. Please view the <a href=\"/blog/papapastry-week-4-64a1\">full post</a> to hear it!"
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by poru for week 7: Disturbed Desert. Created using: Clip Studio 
       src = "/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671-thumbnail-w720px.png"
       href = "/blog/poru-week-7-a9a8"
       alt = "Desert Plains"
+      caption = ""
       stretch = "cover"
 +++
 

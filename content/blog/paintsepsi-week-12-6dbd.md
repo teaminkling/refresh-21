@@ -9,6 +9,7 @@ description = "by paintsepsi for week 12: Visual Words. Created using: Photoshop
       src = "/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/paintsepsi-week-12-6dbd"
       alt = "Lorem Ipsum"
+      caption = "This submission contains a video. Please view the <a href=\"/blog/paintsepsi-week-12-6dbd\">full post</a> to see it!"
       stretch = "cover"
 +++
 
@@ -16,7 +17,7 @@ description = "by paintsepsi for week 12: Visual Words. Created using: Photoshop
 {{< fancybox path="/img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/paintsepsi/2021-03-30+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< fancybox path="img/paintsepsi/2021-03-30+ef4ac246226cf2f9896c0d978c71541f.mp4" file="img/paintsepsi/2021-03-30+ef4ac246226cf2f9896c0d978c71541f.mp4" caption="Placeholder thumbnail for a video work." >}}
-
+<p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 Week 12: **Visual Words**. This art was lovingly created using: **Photoshop/Premiere Pro**.
 

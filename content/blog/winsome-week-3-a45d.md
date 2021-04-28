@@ -9,6 +9,7 @@ description = "by winsome for week 3: Red Circle. Created using: Digital (Photop
       src = "/img/winsome/2021-01-22+71b5ce4884f09b5c23548be0aa89f260-thumbnail-w720px.png"
       href = "/blog/winsome-week-3-a45d"
       alt = "Out of Your Depth"
+      caption = ""
       stretch = "cover"
 +++
 

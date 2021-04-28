@@ -9,6 +9,7 @@ description = "by soleilboo for week 15: Back to Basics. Created using: watercol
       src = "/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/soleilboo-week-15-1453"
       alt = "still life"
+      caption = ""
       stretch = "cover"
 +++
 

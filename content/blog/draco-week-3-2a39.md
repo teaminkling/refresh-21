@@ -9,6 +9,7 @@ description = "by Draco for week 3: Red Circle. Created using: Krita."
       src = "/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png"
       href = "/blog/draco-week-3-2a39"
       alt = "神人"
+      caption = ""
       stretch = "cover"
 +++
 

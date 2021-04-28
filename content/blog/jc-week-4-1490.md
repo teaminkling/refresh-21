@@ -9,6 +9,7 @@ description = "by jc for week 4: Murky Silhouettes. Created using: csp!."
       src = "/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580-thumbnail-w720px.png"
       href = "/blog/jc-week-4-1490"
       alt = "costume change"
+      caption = ""
       stretch = "cover"
 +++
 

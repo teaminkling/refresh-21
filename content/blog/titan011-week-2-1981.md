@@ -9,6 +9,7 @@ description = "by TITAN011 for week 2: Deep Ocean. Created using: Clipstudio."
       src = "/img/titan011/2021-01-12+ac6fe5a75bf95f128781c11e378277a5-thumbnail-w720px.jpg"
       href = "/blog/titan011-week-2-1981"
       alt = "King of the Sea"
+      caption = ""
       stretch = "cover"
 +++
 

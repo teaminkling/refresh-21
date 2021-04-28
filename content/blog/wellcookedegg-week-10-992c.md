@@ -9,6 +9,7 @@ description = "by WellCookedEgg for week 10: Folds and Folds. Created using: Cli
       src = "/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392-thumbnail-w720px.jpg"
       href = "/blog/wellcookedegg-week-10-992c"
       alt = "The Bat Man"
+      caption = ""
       stretch = "cover"
 +++
 

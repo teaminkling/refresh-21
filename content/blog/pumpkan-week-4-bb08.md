@@ -9,6 +9,7 @@ description = "by Pumpkan for week 4: Murky Silhouettes. Created using: procreat
       src = "/img/pumpkan/2021-01-28+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-4-bb08"
       alt = "Assimilation"
+      caption = ""
       stretch = "cover"
 +++
 

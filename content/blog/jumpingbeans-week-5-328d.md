@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 5: Royal Green. Created using: Installat
       src = "/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144-thumbnail-w720px.jpg"
       href = "/blog/jumpingbeans-week-5-328d"
       alt = "Here we go again"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by cindry for week 3: Red Circle. Created using: Digital, SAI."
       src = "/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8-thumbnail-w720px.png"
       href = "/blog/cindry-week-3-6fd7"
       alt = "Fire Fist Ace"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by Lithium for week 11: Atmosphere Spectrum. Created using: Photo
       src = "/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-11-b3a9"
       alt = "Impressionable Sky"
+      caption = ""
       stretch = "cover"
 +++
 

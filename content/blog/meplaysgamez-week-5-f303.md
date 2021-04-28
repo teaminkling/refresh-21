@@ -9,6 +9,7 @@ description = "by meplaysgamez for week 5: Royal Green. Created using: i love ai
       src = "/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362-thumbnail-w720px.jpg"
       href = "/blog/meplaysgamez-week-5-f303"
       alt = "Jade Possessions"
+      caption = ""
       stretch = "cover"
 +++
 

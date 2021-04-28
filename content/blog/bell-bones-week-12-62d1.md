@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpac
       src = "/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-12-62d1"
       alt = "Exhaustion"
+      caption = ""
       stretch = "cover"
 +++
 

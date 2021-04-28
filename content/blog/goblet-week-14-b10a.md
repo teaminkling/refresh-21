@@ -9,6 +9,7 @@ description = "by Goblet for week 14: Absolute Fire. Created using: Krita."
       src = "/img/goblet/2021-04-08+bad9d64e853cdbf093a24477fdaa71d3-thumbnail-w720px.png"
       href = "/blog/goblet-week-14-b10a"
       alt = "My cat is on fire"
+      caption = ""
       stretch = "cover"
 +++
 

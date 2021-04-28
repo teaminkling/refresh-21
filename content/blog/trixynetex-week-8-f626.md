@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 8: High Sheen. Created using: Sketchbook P
       src = "/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-8-f626"
       alt = "The Herald"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 7: Disturbed Desert. Created using: Di
       src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-7-d4f0"
       alt = "Resistance 3: When The Lands Become Graveyards"
+      caption = ""
       stretch = "cover"
 +++
 

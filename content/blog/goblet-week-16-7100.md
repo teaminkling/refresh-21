@@ -9,6 +9,7 @@ description = "by Goblet for week 16: Scaling Giants. Created using: Krita (stil
       src = "/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7-thumbnail-w720px.png"
       href = "/blog/goblet-week-16-7100"
       alt = "Mechanics love their jobs sometimes"
+      caption = ""
       stretch = "cover"
 +++
 

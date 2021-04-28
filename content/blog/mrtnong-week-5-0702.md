@@ -9,6 +9,7 @@ description = "by mrtnong for week 5: Royal Green. Created using: Digital (Procr
       src = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/mrtnong-week-5-0702"
       alt = "Jade Temple"
+      caption = ""
       stretch = "cover"
 +++
 

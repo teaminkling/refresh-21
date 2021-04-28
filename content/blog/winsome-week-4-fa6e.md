@@ -9,6 +9,7 @@ description = "by winsome for week 4: Murky Silhouettes. Created using: Digital 
       src = "/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png"
       href = "/blog/winsome-week-4-fa6e"
       alt = "Dead Squats"
+      caption = ""
       stretch = "cover"
 +++
 

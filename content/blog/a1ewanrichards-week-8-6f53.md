@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 8: High Sheen. Created using: Adobe Ph
       src = "/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-8-6f53"
       alt = "Amalagamation: Vague Memory"
+      caption = ""
       stretch = "cover"
 +++
 

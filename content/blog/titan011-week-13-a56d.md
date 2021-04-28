@@ -9,6 +9,7 @@ description = "by TITAN011 for week 13: Look At Me. Created using: Clip studio."
       src = "/img/titan011/2021-03-29+d2e08926bd4915a3ecc32c72e56ea662-thumbnail-w720px.jpg"
       href = "/blog/titan011-week-13-a56d"
       alt = "Spicy Expressions"
+      caption = ""
       stretch = "cover"
 +++
 

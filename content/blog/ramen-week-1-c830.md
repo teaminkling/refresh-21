@@ -9,6 +9,7 @@ description = "by Ramen for week 1: Yellow Lines. Created using: Clip Studio Pai
       src = "/img/ramen/2021-01-03+3d5c4e0db5b36e9ff47d2ad0ec7ac1b8-thumbnail-w720px.jpg"
       href = "/blog/ramen-week-1-c830"
       alt = "Objects"
+      caption = ""
       stretch = "cover"
 +++
 

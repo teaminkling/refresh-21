@@ -9,6 +9,7 @@ description = "by jorchael_p for week 3: Red Circle. Created using: Photoshop."
       src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d-thumbnail-w720px.png"
       href = "/blog/jorchael_p-week-3-292d"
       alt = "'0"
+      caption = ""
       stretch = "cover"
 +++
 

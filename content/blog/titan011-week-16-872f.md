@@ -9,6 +9,7 @@ description = "by TITAN011 for week 16: Scaling Giants. Created using: Clip Stud
       src = "/img/titan011/2021-04-20+f986c293075256ecb98c6c575311e62f-thumbnail-w720px.jpg"
       href = "/blog/titan011-week-16-872f"
       alt = "A Titan's Journey"
+      caption = ""
       stretch = "cover"
 +++
 

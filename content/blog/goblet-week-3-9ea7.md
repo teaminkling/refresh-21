@@ -9,6 +9,7 @@ description = "by Goblet for week 3: Red Circle. Created using: ibispaint and ph
       src = "/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg"
       href = "/blog/goblet-week-3-9ea7"
       alt = "cold inside"
+      caption = ""
       stretch = "cover"
 +++
 

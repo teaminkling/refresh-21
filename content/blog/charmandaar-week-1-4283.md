@@ -9,6 +9,7 @@ description = "by Charmandaar for week 1: Yellow Lines. Created using: digital, 
       src = "/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png"
       href = "/blog/charmandaar-week-1-4283"
       alt = "upon sunflowers"
+      caption = ""
       stretch = "cover"
 +++
 

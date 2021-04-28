@@ -9,6 +9,7 @@ description = "by Charmandaar for week 3: Red Circle. Created using: photography
       src = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg"
       href = "/blog/charmandaar-week-3-6e93"
       alt = "cirque of monkeys except it's me. i am the monkey"
+      caption = ""
       stretch = "cover"
 +++
 

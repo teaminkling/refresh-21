@@ -9,6 +9,7 @@ description = "by DynoLoafer for week 15: Back to Basics. Created using: Paint T
       src = "/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b-thumbnail-w720px.png"
       href = "/blog/dynoloafer-week-15-4f6d"
       alt = "Red Delicious with a Red Delicious"
+      caption = ""
       stretch = "cover"
 +++
 

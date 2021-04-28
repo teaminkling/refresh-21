@@ -9,6 +9,7 @@ description = "by soleilboo for week 16: Scaling Giants. Created using: digital 
       src = "/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/soleilboo-week-16-39f7"
       alt = "Dobby and me"
+      caption = ""
       stretch = "cover"
 +++
 

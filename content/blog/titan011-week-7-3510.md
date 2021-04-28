@@ -9,6 +9,7 @@ description = "by TITAN011 for week 7: Disturbed Desert. Created using: clip stu
       src = "/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351-thumbnail-w720px.jpg"
       href = "/blog/titan011-week-7-3510"
       alt = "Dune Surfing"
+      caption = ""
       stretch = "cover"
 +++
 

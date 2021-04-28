@@ -9,6 +9,7 @@ description = "by papapastry for week 15: Back to Basics. Created using: Music/F
       src = "img/audio-placeholder.png"
       href = "/blog/papapastry-week-15-a473"
       alt = "Hades"
+      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-15-a473\">full post</a> to see it!"
       stretch = "cover"
 +++
 

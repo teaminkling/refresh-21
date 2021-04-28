@@ -9,6 +9,7 @@ description = "by jumpingbeans for week 16: Scaling Giants. Created using: krita
       src = "/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989-thumbnail-w720px.png"
       href = "/blog/jumpingbeans-week-16-2be7"
       alt = "what is bigger, a giant bidoof or an individual's life?"
+      caption = ""
       stretch = "cover"
 +++
 

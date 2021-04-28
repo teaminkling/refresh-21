@@ -9,6 +9,7 @@ description = "by Dylan for week 5: Royal Green. Created using: Digital (PhotoSh
       src = "/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/dylan-week-5-7bf8"
       alt = "Behind The Doors"
+      caption = ""
       stretch = "cover"
 +++
 

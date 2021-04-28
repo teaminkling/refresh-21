@@ -9,6 +9,7 @@ description = "by gianhet for week 10: Folds and Folds. Created using: : CSP."
       src = "/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829-thumbnail-w720px.png"
       href = "/blog/gianhet-week-10-5339"
       alt = "silk"
+      caption = ""
       stretch = "cover"
 +++
 

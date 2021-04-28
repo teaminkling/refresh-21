@@ -9,6 +9,7 @@ description = "by vectorong for week 16: Scaling Giants. Created using: Graphite
       src = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-16-eca9"
       alt = "Rat Race"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by Scimister for week 3: Red Circle. Created using: PaintToolSAI.
       src = "/img/scimister/2021-01-22+f6f745a22d1c621fd665d7ffb4532080-thumbnail-w720px.png"
       href = "/blog/scimister-week-3-c664"
       alt = "Blood Moon"
+      caption = ""
       stretch = "cover"
 +++
 

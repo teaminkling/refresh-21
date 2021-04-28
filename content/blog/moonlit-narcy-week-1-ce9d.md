@@ -9,6 +9,7 @@ description = "by Moonlit Narcy for week 1: Yellow Lines. Created using: Procrea
       src = "/img/moonlit_narcy/2021-01-10+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/moonlit-narcy-week-1-ce9d"
       alt = "Luminated Darkness"
+      caption = ""
       stretch = "cover"
 +++
 

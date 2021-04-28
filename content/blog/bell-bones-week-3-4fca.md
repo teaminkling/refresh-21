@@ -9,6 +9,7 @@ description = "by Bell-Bones for week 3: Red Circle. Created using: FireAlpaca."
       src = "/img/bell-bones/2021-01-22+156a1b73db9a4f24aac2b768cc25c8ef-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-3-4fca"
       alt = "A Shining Star"
+      caption = ""
       stretch = "cover"
 +++
 

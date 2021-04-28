@@ -9,6 +9,7 @@ description = "by Goblet for week 2: Deep Ocean. Created using: ibispaint x."
       src = "/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5-thumbnail-w720px.png"
       href = "/blog/goblet-week-2-d6f4"
       alt = "simple angler pog"
+      caption = ""
       stretch = "cover"
 +++
 

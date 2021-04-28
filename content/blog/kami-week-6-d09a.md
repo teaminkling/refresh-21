@@ -9,6 +9,7 @@ description = "by Kami for week 6: Simple Love. Created using: Photoshop."
       src = "/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg"
       href = "/blog/kami-week-6-d09a"
       alt = "Everlasting Hope"
+      caption = ""
       stretch = "cover"
 +++
 

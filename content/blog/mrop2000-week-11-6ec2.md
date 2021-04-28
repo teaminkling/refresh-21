@@ -9,6 +9,7 @@ description = "by Mrop2000 for week 11: Atmosphere Spectrum. Created using: Wate
       src = "/img/mrop2000/2021-03-24+080950c79e54bdb2d46271da3968b9d4-thumbnail-w720px.jpg"
       href = "/blog/mrop2000-week-11-6ec2"
       alt = "Six Pix Mix"
+      caption = ""
       stretch = "cover"
 +++
 

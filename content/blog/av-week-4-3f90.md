@@ -9,6 +9,7 @@ description = "by av for week 4: Murky Silhouettes. Created using: Clip Studio P
       src = "/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg"
       href = "/blog/av-week-4-3f90"
       alt = "Snap Shot 1"
+      caption = ""
       stretch = "cover"
 +++
 

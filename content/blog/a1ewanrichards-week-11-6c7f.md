@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 11: Atmosphere Spectrum. Created using
       src = "/img/a1ewanrichards/2021-03-16+223acfbced0843ede40f7403831b3aa0-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-11-6c7f"
       alt = "Undercooled 1: Please Return The Moon To Us"
+      caption = ""
       stretch = "cover"
 +++
 

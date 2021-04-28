@@ -9,6 +9,7 @@ description = "by D3m0n_Msc for week 14: Absolute Fire. Created using: phone."
       src = "/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb-thumbnail-w720px.png"
       href = "/blog/d3m0n_msc-week-14-d670"
       alt = "idk"
+      caption = ""
       stretch = "cover"
 +++
 

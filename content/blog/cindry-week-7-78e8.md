@@ -9,6 +9,7 @@ description = "by cindry for week 7: Disturbed Desert. Created using: ink on pap
       src = "/img/cindry/2021-02-19+6db735e657caf6f76ef182c111b3af96-thumbnail-w720px.png"
       href = "/blog/cindry-week-7-78e8"
       alt = "Strange Sands"
+      caption = ""
       stretch = "cover"
 +++
 

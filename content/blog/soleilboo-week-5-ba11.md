@@ -9,6 +9,7 @@ description = "by soleilboo for week 5: Royal Green. Created using: digital/ pho
       src = "/img/soleilboo/2021-02-05+383b0f8c3a53a02f45d861fb0fac9956-thumbnail-w720px.jpg"
       href = "/blog/soleilboo-week-5-ba11"
       alt = "for this portrait. Can someone name it?I just took on the meaning of Jade Stone which bring good luck, peace and harmony just like a smile did."
+      caption = ""
       stretch = "cover"
 +++
 

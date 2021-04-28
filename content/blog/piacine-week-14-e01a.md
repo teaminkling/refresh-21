@@ -9,6 +9,7 @@ description = "by Piacine for week 14: Absolute Fire. Created using: Procreate."
       src = "/img/piacine/2021-04-07+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif"
       href = "/blog/piacine-week-14-e01a"
       alt = "comfy spot"
+      caption = ""
       stretch = "cover"
 +++
 

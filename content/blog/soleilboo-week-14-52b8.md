@@ -9,6 +9,7 @@ description = "by soleilboo for week 14: Absolute Fire. Created using: procreate
       src = "/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif"
       href = "/blog/soleilboo-week-14-52b8"
       alt = "Once in a while"
+      caption = ""
       stretch = "cover"
 +++
 

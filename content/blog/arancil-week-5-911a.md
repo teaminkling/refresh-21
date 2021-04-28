@@ -9,6 +9,7 @@ description = "by arancil for week 5: Royal Green. Created using: A3 watercolor,
       src = "img/other-placeholder.png"
       href = "/blog/arancil-week-5-911a"
       alt = "Untitled"
+      caption = "This submission contains a gallery link. Please view the <a href=\"/blog/arancil-week-5-911a\">full post</a> to see it!"
       stretch = "cover"
 +++
 

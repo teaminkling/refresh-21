@@ -9,6 +9,7 @@ description = "by Lyfeu for week 9: Bold Strokes. Created using: Photoshop."
       src = "/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d-thumbnail-w720px.jpg"
       href = "/blog/lyfeu-week-9-0514"
       alt = "Flame Soul spirit"
+      caption = ""
       stretch = "cover"
 +++
 

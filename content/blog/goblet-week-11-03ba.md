@@ -9,6 +9,7 @@ description = "by Goblet for week 11: Atmosphere Spectrum. Created using: ibispa
       src = "/img/goblet/2021-03-13+dd563fe72557c834496c7e1cbf30c9a0-thumbnail-w720px.jpg"
       href = "/blog/goblet-week-11-03ba"
       alt = "Passive smoking"
+      caption = ""
       stretch = "cover"
 +++
 

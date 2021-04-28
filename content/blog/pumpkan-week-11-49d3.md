@@ -9,6 +9,7 @@ description = "by Pumpkan for week 11: Atmosphere Spectrum. Created using: paper
       src = "/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f-thumbnail-w720px.jpg"
       href = "/blog/pumpkan-week-11-49d3"
       alt = "He RUINED my DREAM JOURNAL"
+      caption = ""
       stretch = "cover"
 +++
 

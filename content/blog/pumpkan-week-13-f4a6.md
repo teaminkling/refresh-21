@@ -9,6 +9,7 @@ description = "by Pumpkan for week 13: Look At Me. Created using: procreate."
       src = "/img/pumpkan/2021-04-02+88d60618a2525143451f9da4f4a058bd-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-13-f4a6"
       alt = "i suffer"
+      caption = ""
       stretch = "cover"
 +++
 

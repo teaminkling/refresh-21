@@ -9,6 +9,7 @@ description = "by okie.dokie.enoki for week 6: Simple Love. Created using: procr
       src = "/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/okie.dokie.enoki-week-6-42f0"
       alt = "solemn night"
+      caption = ""
       stretch = "cover"
 +++
 

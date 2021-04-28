@@ -9,6 +9,7 @@ description = "by PhoebeCreates for week 10: Folds and Folds. Created using: ink
       src = "/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg"
       href = "/blog/phoebecreates-week-10-678c"
       alt = "cute outfits"
+      caption = ""
       stretch = "cover"
 +++
 

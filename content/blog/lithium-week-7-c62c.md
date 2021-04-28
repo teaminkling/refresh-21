@@ -9,6 +9,7 @@ description = "by Lithium for week 7: Disturbed Desert. Created using: Digital (
       src = "/img/lithium/2021-02-22+718516908bd914ea746a24756894c29b-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-7-c62c"
       alt = "Desert~~ (Creative I know)~~"
+      caption = ""
       stretch = "cover"
 +++
 

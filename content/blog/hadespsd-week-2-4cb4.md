@@ -9,6 +9,7 @@ description = "by HadesPsd for week 2: Deep Ocean. Created using: CSP."
       src = "/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg"
       href = "/blog/hadespsd-week-2-4cb4"
       alt = "Perspective is fun"
+      caption = ""
       stretch = "cover"
 +++
 

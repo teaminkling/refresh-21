@@ -9,6 +9,7 @@ description = "by mrtnong for week 4: Murky Silhouettes. Created using: Procreat
       src = "/img/mrtnong/2021-01-25+72289fa82faf783b709f2578498e7950-thumbnail-w720px.jpg"
       href = "/blog/mrtnong-week-4-4f54"
       alt = "cat<a:B8vibe:776693937498095637>  (cant think of a title xd)"
+      caption = ""
       stretch = "cover"
 +++
 

@@ -9,6 +9,7 @@ description = "by vectorong for week 14: Absolute Fire. Created using: Pyrograph
       src = "/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-14-de8e"
       alt = "The Five Virtues"
+      caption = ""
       stretch = "cover"
 +++
 

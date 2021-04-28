@@ -9,6 +9,7 @@ description = "by Pumpkan for week 14: Absolute Fire. Created using: Procreate."
       src = "/img/pumpkan/2021-04-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-14-9ae5"
       alt = "A contract for the vain, the price paid in pain"
+      caption = ""
       stretch = "cover"
 +++
 

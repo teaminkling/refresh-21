@@ -9,6 +9,7 @@ description = "by jc for week 2: Deep Ocean. Created using: csp & lasso tool."
       src = "/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f-thumbnail-w720px.png"
       href = "/blog/jc-week-2-86d7"
       alt = "oarfish"
+      caption = ""
       stretch = "cover"
 +++
 

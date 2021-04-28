@@ -9,6 +9,7 @@ description = "by zja2damax for week 3: Red Circle. Created using: Charcoal, Acr
       src = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/zja2damax-week-3-f85c"
       alt = "The Red Circle"
+      caption = ""
       stretch = "cover"
 +++
 

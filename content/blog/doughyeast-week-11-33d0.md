@@ -9,6 +9,7 @@ description = "by DoughYeast for week 11: Atmosphere Spectrum. Created using: Pr
       src = "/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
       href = "/blog/doughyeast-week-11-33d0"
       alt = "“you would make the sky a gijinka” - enoki"
+      caption = ""
       stretch = "cover"
 +++
 

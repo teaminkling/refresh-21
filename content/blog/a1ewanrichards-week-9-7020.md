@@ -9,6 +9,7 @@ description = "by a1ewanrichards for week 9: Bold Strokes. Created using: Clip S
       src = "/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-9-7020"
       alt = "Amalgamation - Welcome To Hell"
+      caption = ""
       stretch = "cover"
 +++
 

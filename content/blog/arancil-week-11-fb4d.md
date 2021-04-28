@@ -9,6 +9,7 @@ description = "by arancil for week 11: Atmosphere Spectrum. Created using: Water
       src = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-11-fb4d"
       alt = "This is where I live now"
+      caption = ""
       stretch = "cover"
 +++
 

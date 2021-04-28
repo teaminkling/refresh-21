@@ -9,6 +9,7 @@ description = "by eggyolk for week 15: Back to Basics. Created using: Procreate.
       src = "/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png"
       href = "/blog/eggyolk-week-15-69ac"
       alt = "hEhE LEmon bUTt but also strawberry and coffee is kinda vibes"
+      caption = ""
       stretch = "cover"
 +++
 

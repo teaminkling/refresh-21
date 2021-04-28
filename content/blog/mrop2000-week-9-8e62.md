@@ -9,6 +9,7 @@ description = "by Mrop2000 for week 9: Bold Strokes. Created using: Color Pencil
       src = "/img/mrop2000/2021-03-02+6217655045fbf9f1f051c53d2c92cb48-thumbnail-w720px.jpg"
       href = "/blog/mrop2000-week-9-8e62"
       alt = "Important Dream"
+      caption = ""
       stretch = "cover"
 +++
 

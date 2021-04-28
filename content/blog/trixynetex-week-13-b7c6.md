@@ -9,6 +9,7 @@ description = "by TrixyNetex for week 13: Look At Me. Created using: Sketchbook 
       src = "/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-13-b7c6"
       alt = "Fake Animu Screenshot"
+      caption = ""
       stretch = "cover"
 +++
 

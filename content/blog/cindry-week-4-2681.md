@@ -9,6 +9,7 @@ description = "by cindry for week 4: Murky Silhouettes. Created using: Animation
       src = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55-thumbnail-w720px.gif"
       href = "/blog/cindry-week-4-2681"
       alt = "Morning Breeze"
+      caption = ""
       stretch = "cover"
 +++
 

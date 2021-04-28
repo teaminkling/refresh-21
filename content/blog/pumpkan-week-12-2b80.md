@@ -9,6 +9,7 @@ description = "by Pumpkan for week 12: Visual Words. Created using: Indesign (if
       src = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-12-2b80"
       alt = "Are You Listening?"
+      caption = ""
       stretch = "cover"
 +++
 

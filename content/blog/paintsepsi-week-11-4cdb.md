@@ -9,6 +9,7 @@ description = "by paintsepsi for week 11: Atmosphere Spectrum. Created using: Ph
       src = "/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4-thumbnail-w720px.png"
       href = "/blog/paintsepsi-week-11-4cdb"
       alt = "Bruh"
+      caption = ""
       stretch = "cover"
 +++
 

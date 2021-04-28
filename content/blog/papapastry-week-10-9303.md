@@ -9,6 +9,7 @@ description = "by papapastry for week 10: Folds and Folds. Created using: Audio/
       src = "https://img.youtube.com/vi/KwACnHlAEmY/maxresdefault.jpg"
       href = "/blog/papapastry-week-10-9303"
       alt = "Good Clothes"
+      caption = "This submission contains a video link. Please view the <a href=\"/blog/papapastry-week-10-9303\">full post</a> to see it!"
       stretch = "cover"
 +++
 
