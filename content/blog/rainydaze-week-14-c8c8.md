@@ -14,7 +14,7 @@ description = "by rainydaze for week 14: Absolute Fire. Created using: Procreate
 +++
 
 
-{{< fancybox path="/img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" file="/img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/video-placeholder.png" file="/img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate (and DaVinci Resolve)**.
