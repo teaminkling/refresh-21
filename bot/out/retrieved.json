@@ -1,8 +1,20 @@
 {
-  "message_count": 429,
+  "message_count": 430,
   "attachment_count": 373,
   "user_count": 68,
   "messages": [
+    {
+      "id": 837077896912306217,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/837077896912306217",
+      "created_at": "2021-04-28T21:28:42.779000",
+      "author": {
+        "id": 142176660731592704,
+        "display_name": "vectorong",
+        "mention_name": "vectorong#7566"
+      },
+      "content": "Week: 17\nTitle: #2021DesignRefresh Portfolio\nMedium: E-portfolio (flipbook made on https://fliphtml5.com)\nDescription: I find it's always nice to look back whenever you complete a series / project and celebrate, so this is my way of doing so - creating a book with all the pieces I've submitted. I've really enjoyed this challenge and trying all these new mediums, even when I felt like my brain might explode. Also feel free to quickly flip thru this during the showcase, but would love if the artist note at the end could be read - it's a bit sentimental but just wanted to say a small word of appreciation to everyone (book may take a bit to load all the pages, so a warning in advance).\n\nLink to book: https://online.fliphtml5.com/gqjmo/mufs",
+      "attachments": []
+    },
     {
       "id": 836716482507309096,
       "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/836716482507309096",
@@ -2747,7 +2759,7 @@
       "author": {
         "id": 724562135941644348,
         "display_name": "Dylan\u00ae",
-        "mention_name": "Dylan\u00ae#0666"
+        "mention_name": "Dylan\u00ae#0999"
       },
       "content": "Week: 11\nTitle:  Cloudy Night\nMedium: Photoshop \nDescription: I usually draw night scenes all the time so this time I tried adding some more colours then your basic black and white added some purple and blue clouds and a heart",
       "attachments": []
@@ -2759,7 +2771,7 @@
       "author": {
         "id": 724562135941644348,
         "display_name": "Dylan\u00ae",
-        "mention_name": "Dylan\u00ae#0666"
+        "mention_name": "Dylan\u00ae#0999"
       },
       "content": "",
       "attachments": [
@@ -4805,7 +4817,7 @@
       "author": {
         "id": 724562135941644348,
         "display_name": "Dylan\u00ae",
-        "mention_name": "Dylan\u00ae#0666"
+        "mention_name": "Dylan\u00ae#0999"
       },
       "content": "Week: 7\nTitle:  Desert heat\nMedium:  blender\nDescription:  i wanted to try a new something new so instead of photoshop i used blender this is my first time using the program and i think it came out pretty good i dont really have a description but i hope I did a ok job \ud83d\ude0a",
       "attachments": [
@@ -6052,7 +6064,7 @@
       "author": {
         "id": 724562135941644348,
         "display_name": "Dylan\u00ae",
-        "mention_name": "Dylan\u00ae#0666"
+        "mention_name": "Dylan\u00ae#0999"
       },
       "content": "Week: 5\nTitle: Behind The Doors\nMedium: Digital (PhotoShop)\nDescription: I wanted to make something that has a backstory so basically i had a friend that loved ninjas and they passed away a few years back so i wanted to do something not just for me but for them so i used the green (jade) as a representation of harmony/peace i hope you like it \ud83d\ude0a",
       "attachments": [
@@ -8510,7 +8522,7 @@
     "D3m0n_Msc#9927",
     "DoughYeast#7521",
     "Draco#3625",
-    "Dylan\u00ae#0666",
+    "Dylan\u00ae#0999",
     "DynoLoafer#7070",
     "EyYoJimbo#7595",
     "Frog Glasses#1940",

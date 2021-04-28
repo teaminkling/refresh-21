@@ -124,7 +124,9 @@ CONTENT_LINK_REGEX: Pattern = re.compile(
         r"(?:docs\.google\.com)|"
         r"(?:imgur\.com/a/\S)|"
         r"(?:vimeo\.com)|"
-        r"(?:webtoons\.com)"
+        r"(?:webtoons\.com)|"
+        r"(?:refresh\.fiveclawd\.com)|"
+        r"(?:fliphtml5\.com)"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
 )

@@ -1,19 +1,19 @@
 +++
 title =       "refresh.fiveclawd.com"
 author =      "papapastry"
-date =        "2021-04-27"
+date =        "2021-04-28"
 themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["papapastry"]
 description = "by papapastry for week 17: The 4 R's: Finale. Created using: Golang, Hugo, Python/Programming.."
 [[images]]
-      src = "img/other-placeholder.png"
+      src = "https://refresh.fiveclawd.com/img/refresh-social.png"
       href = "/blog/papapastry-week-17-09eb"
       alt = "refresh.fiveclawd.com"
-      caption = "Please view the full post to see the submission!"
+      caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-
+<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://refresh.fiveclawd.com/" target="_blank"><img src="https://refresh.fiveclawd.com/img/refresh-social.png" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Golang, Hugo, Python/Programming.**.
 

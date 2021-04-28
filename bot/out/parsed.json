@@ -2,19 +2,19 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Everywhere",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
-        "provider": "Instagram",
+        "provider": "Everywhere",
         "username": "paintsepsi"
       },
       {
         "provider": "Twitch",
+        "username": "paintsepsi"
+      },
+      {
+        "provider": "Instagram",
         "username": "paintsepsi"
       }
     ],
@@ -44,12 +44,12 @@
     ],
     "vectorong#7566": [
       {
-        "provider": "Instagram",
-        "username": "karen_tsugawa"
-      },
-      {
         "provider": "Twitch",
         "username": "vectorong"
+      },
+      {
+        "provider": "Instagram",
+        "username": "karen_tsugawa"
       }
     ],
     "Boyf#4064": [
@@ -70,16 +70,16 @@
     ],
     "Charmandaar#3357": [
       {
-        "provider": "Twitter",
-        "username": "charmandaar_"
-      },
-      {
         "provider": "Instagram",
         "username": "charmandaar_"
       },
       {
         "provider": "Twitch",
         "username": "charmandaar"
+      },
+      {
+        "provider": "Twitter",
+        "username": "charmandaar_"
       }
     ],
     "arancil#8622": [
@@ -88,22 +88,22 @@
         "username": "arancil"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "arancil"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "arancil"
       }
     ],
     "jorchael_p#2534": [
       {
-        "provider": "Twitter",
-        "username": "jorchaelp"
-      },
-      {
         "provider": "Instagram",
         "username": "jrchlp.png"
+      },
+      {
+        "provider": "Twitter",
+        "username": "jorchaelp"
       }
     ],
     "Pumpkan#2447": [
@@ -158,12 +158,12 @@
     ],
     "papapastry#8888": [
       {
-        "provider": "Twitter",
-        "username": "papapastry_"
-      },
-      {
         "provider": "Twitch",
         "username": "papapastry"
+      },
+      {
+        "provider": "Twitter",
+        "username": "papapastry_"
       }
     ],
     "HadesPsd#6683": [
@@ -174,20 +174,20 @@
     ],
     "cindry#4068": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "cindrytuna"
       },
       {
         "provider": "Twitter",
         "username": "fiveclawd"
+      },
+      {
+        "provider": "Twitter",
+        "username": "cindrytuna"
       },
       {
         "provider": "Instagram",
         "username": "fiveclawd"
-      },
-      {
-        "provider": "Twitch",
-        "username": "cindrytuna"
       }
     ],
     "rainydaze#5604": [
@@ -198,14 +198,6 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Instagram",
-        "username": "and"
-      },
-      {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
-      },
-      {
         "provider": "Twitter",
         "username": "rjmendoza444"
       },
@@ -215,11 +207,19 @@
       },
       {
         "provider": "Instagram",
-        "username": "rjmmendoza444"
+        "username": "and"
       },
       {
         "provider": "Twitch",
         "username": "a1ewanrichards#0881"
+      },
+      {
+        "provider": "Instagram",
+        "username": "rjmmendoza444"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
       }
     ],
     "soggyissoggy#7277": [
@@ -240,11 +240,11 @@
     ],
     "mrtnong#3026": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       }
     ],
@@ -272,16 +272,16 @@
     ],
     "poru#3659": [
       {
-        "provider": "Instagram",
-        "username": "poruchan_920"
+        "provider": "Twitter",
+        "username": "poruchan09"
       },
       {
         "provider": "Twitch",
         "username": "poru_chan"
       },
       {
-        "provider": "Twitter",
-        "username": "poruchan09"
+        "provider": "Instagram",
+        "username": "poruchan_920"
       }
     ],
     "D3m0n_Msc#9927": [
@@ -308,12 +308,12 @@
     ],
     "soleilboo#1662": [
       {
-        "provider": "Instagram",
-        "username": "soleil.boo"
-      },
-      {
         "provider": "Twitch",
         "username": "soleilboo"
+      },
+      {
+        "provider": "Instagram",
+        "username": "soleil.boo"
       }
     ],
     "jumpingbeans#6967": [
@@ -344,11 +344,11 @@
     ],
     "winsome#5621": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       }
     ],
@@ -2790,7 +2790,7 @@
     },
     {
       "id": "dylan-week-5-7bf8",
-      "author": "Dylan#0666",
+      "author": "Dylan#0999",
       "created_at": "2021-02-01",
       "week": 5,
       "title": "Behind The Doors",
@@ -3903,7 +3903,7 @@
     },
     {
       "id": "dylan-week-7-384d",
-      "author": "Dylan#0666",
+      "author": "Dylan#0999",
       "created_at": "2021-02-14",
       "week": 7,
       "title": "Desert heat",
@@ -5973,7 +5973,7 @@
     },
     {
       "id": "dylan-week-11-d4a7",
-      "author": "Dylan#0666",
+      "author": "Dylan#0999",
       "created_at": "2021-03-16",
       "week": 11,
       "title": "Cloudy Night",
@@ -8628,12 +8628,16 @@
     {
       "id": "papapastry-week-17-09eb",
       "author": "papapastry#8888",
-      "created_at": "2021-04-27",
+      "created_at": "2021-04-28",
       "week": 17,
       "title": "refresh.fiveclawd.com",
       "medium": "Golang, Hugo, Python/Programming.",
       "description": "Yeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/",
-      "attachments": [],
+      "attachments": [
+        {
+          "url": "https://refresh.fiveclawd.com/"
+        }
+      ],
       "socials": [
         {
           "Twitter": "papapastry_"
@@ -8644,8 +8648,28 @@
       "raw_hyperlinks": [
         "https://refresh.fiveclawd.com/"
       ]
+    },
+    {
+      "id": "vectorong-week-17-85ff",
+      "author": "vectorong#7566",
+      "created_at": "2021-04-28",
+      "week": 17,
+      "title": "#2021DesignRefresh Portfolio",
+      "medium": "E-portfolio (flipbook made on https://fliphtml5.com)",
+      "description": "I find it's always nice to look back whenever you complete a series / project and celebrate, so this is my way of doing so - creating a book with all the pieces I've submitted. I've really enjoyed this challenge and trying all these new mediums, even when I felt like my brain might explode. Also feel free to quickly flip thru this during the showcase, but would love if the artist note at the end could be read - it's a bit sentimental but just wanted to say a small word of appreciation to everyone (book may take a bit to load all the pages, so a warning in advance).\n\nLink to book: https://online.fliphtml5.com/gqjmo/mufs",
+      "attachments": [
+        {
+          "url": "https://online.fliphtml5.com/gqjmo/mufs"
+        }
+      ],
+      "socials": [],
+      "raw_content": "Week: 17\nTitle: #2021DesignRefresh Portfolio\nMedium: E-portfolio (flipbook made on https://fliphtml5.com)\nDescription: I find it's always nice to look back whenever you complete a series / project and celebrate, so this is my way of doing so - creating a book with all the pieces I've submitted. I've really enjoyed this challenge and trying all these new mediums, even when I felt like my brain might explode. Also feel free to quickly flip thru this during the showcase, but would love if the artist note at the end could be read - it's a bit sentimental but just wanted to say a small word of appreciation to everyone (book may take a bit to load all the pages, so a warning in advance).\n\nLink to book: https://online.fliphtml5.com/gqjmo/mufs",
+      "raw_socials": "",
+      "raw_hyperlinks": [
+        "https://online.fliphtml5.com/gqjmo/mufs"
+      ]
     }
   ],
   "user_count": 68,
-  "submission_count": 362
+  "submission_count": 363
 }
