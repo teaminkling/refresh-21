@@ -13,8 +13,7 @@ description = "by okie.dokie.enoki for week 6: Simple Love. Created using: procr
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **procreate**.

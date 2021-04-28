@@ -13,8 +13,7 @@ description = "by Lithium for week 2: Deep Ocean. Created using: Digital (Clip S
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9-thumbnail-w720px.jpg" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9-thumbnail-w720px.jpg" file="/img/lithium/2021-01-15+785a742e763f0ffe2e5a944e34994ed9.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

@@ -13,8 +13,7 @@ description = "by Goblet for week 6: Simple Love. Created using: Krita with mous
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad-thumbnail-w720px.png" file="/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad-thumbnail-w720px.png" file="/img/goblet/2021-02-06+54f92261e0bac546a96a3714eefcb2ad.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Krita with mouse**.

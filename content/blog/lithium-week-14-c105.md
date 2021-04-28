@@ -13,8 +13,7 @@ description = "by Lithium for week 14: Absolute Fire. Created using: Digital/Cli
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652-thumbnail-w720px.jpg" file="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652-thumbnail-w720px.jpg" file="/img/lithium/2021-04-09+4fe3caf1ae2310705cb4978a69cf2652.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Digital/Clip Studio Paint**.

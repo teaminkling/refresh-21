@@ -13,8 +13,7 @@ description = "by arancil for week 11: Atmosphere Spectrum. Created using: Water
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.

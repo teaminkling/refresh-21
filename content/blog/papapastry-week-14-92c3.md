@@ -13,8 +13,7 @@ description = "by papapastry for week 14: Absolute Fire. Created using: Music/Ab
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/3D31aBLn-bs/maxresdefault.jpg" file="https://www.youtube.com/watch?v=3D31aBLn-bs" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/3D31aBLn-bs/maxresdefault.jpg" file="https://www.youtube.com/watch?v=3D31aBLn-bs" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Music/Ableton Live 11 Suite**.

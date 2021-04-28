@@ -13,8 +13,7 @@ description = "by DynoLoafer for week 12: Visual Words. Created using: Paint Too
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3-thumbnail-w720px.png" file="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3-thumbnail-w720px.png" file="/img/dynoloafer/2021-03-26+6125234981f26506da7a4f9f334c6fb3.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Paint Tool SAI**.

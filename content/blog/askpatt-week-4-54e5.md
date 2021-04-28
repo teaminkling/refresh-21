@@ -13,8 +13,7 @@ description = "by askpatt for week 4: Murky Silhouettes. Created using: PS."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4-thumbnail-w720px.png" file="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4-thumbnail-w720px.png" file="/img/askpatt/2021-01-29+a59c257548f11102795b32c1732561a4.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PS**.

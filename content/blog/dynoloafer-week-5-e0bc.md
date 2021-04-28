@@ -13,8 +13,7 @@ description = "by DynoLoafer for week 5: Royal Green. Created using: Paint Tool 
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d-thumbnail-w720px.png" file="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d-thumbnail-w720px.png" file="/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Paint Tool SAI**.

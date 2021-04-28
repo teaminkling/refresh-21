@@ -13,8 +13,7 @@ description = "by TITAN011 for week 11: Atmosphere Spectrum. Created using: Clip
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040-thumbnail-w720px.jpg" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040-thumbnail-w720px.jpg" file="/img/titan011/2021-03-16+58d120b44ff3a973a562b8c9c4c32040.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio**.

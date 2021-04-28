@@ -13,8 +13,7 @@ description = "by Bell-Bones for week 10: Folds and Folds. Created using: FireAl
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png" file="/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **FireAlpaca**.

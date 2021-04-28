@@ -13,8 +13,7 @@ description = "by jumpingbeans for week 2: Deep Ocean. Created using: pErForMaNc
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/3imOd-rOjr8/maxresdefault.jpg" file="https://youtu.be/3imOd-rOjr8" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/3imOd-rOjr8/maxresdefault.jpg" file="https://youtu.be/3imOd-rOjr8" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **pErForMaNcE aRT in video form / video**.

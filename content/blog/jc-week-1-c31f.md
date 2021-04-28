@@ -13,8 +13,7 @@ description = "by jc for week 1: Yellow Lines. Created using: csp."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6-thumbnail-w720px.png" file="/img/jc/2021-01-07+c537affc00283773692c52a5812537d6.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **csp**.

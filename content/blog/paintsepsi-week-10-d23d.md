@@ -13,8 +13,7 @@ description = "by paintsepsi for week 10: Folds and Folds. Created using: Procre
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-09+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.

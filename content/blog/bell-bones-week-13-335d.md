@@ -13,10 +13,8 @@ description = "by Bell-Bones for week 13: Look At Me. Created using: FireAlpaca.
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855-thumbnail-w720px.png" file="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7-thumbnail-w720px.png" file="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855-thumbnail-w720px.png" file="/img/bell-bones/2021-04-02+5967f3f7f5cd5a6e037cab28449ef855.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7-thumbnail-w720px.png" file="/img/bell-bones/2021-04-02+b4c1949776ee35dfc14cf85e1858dbd7.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **FireAlpaca**.

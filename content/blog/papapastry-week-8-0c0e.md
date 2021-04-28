@@ -13,8 +13,7 @@ description = "by papapastry for week 8: High Sheen. Created using: Audio/Ableto
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/KXirUI5JGVU/maxresdefault.jpg" file="https://youtu.be/KXirUI5JGVU" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/KXirUI5JGVU/maxresdefault.jpg" file="https://youtu.be/KXirUI5JGVU" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.

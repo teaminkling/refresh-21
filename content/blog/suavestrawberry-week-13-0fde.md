@@ -13,7 +13,7 @@ description = "by SuaveStrawberry for week 13: Look At Me. Created using: procre
       stretch = "cover"
 +++
 
-<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599" target="_blank"><img src="https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a><p><i>The image above leads to an external website.</i></p></div>
+<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599" target="_blank"><img src="https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 13: **Look At Me**. This art was lovingly created using: **procreate**.
 

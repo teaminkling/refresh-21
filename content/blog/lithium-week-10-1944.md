@@ -13,10 +13,8 @@ description = "by Lithium for week 10: Folds and Folds. Created using: Clip Stud
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75-thumbnail-w720px.jpg" file="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="https://img.youtube.com/vi/XFUyeYrCcN0/maxresdefault.jpg" file="https://youtu.be/XFUyeYrCcN0?t=280" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75-thumbnail-w720px.jpg" file="/img/lithium/2021-03-10+6beff865e35cf9448ec839d932366b75.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="https://img.youtube.com/vi/XFUyeYrCcN0/maxresdefault.jpg" file="https://youtu.be/XFUyeYrCcN0?t=280" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.

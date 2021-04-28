@@ -13,8 +13,7 @@ description = "by Moonlit Narcy for week 3: Red Circle. Created using: Procreate
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/moonlit_narcy/2021-01-19+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.

@@ -13,8 +13,7 @@ description = "by papapastry for week 9: Bold Strokes. Created using: Audio/Able
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/0hrJOksPNdI/maxresdefault.jpg" file="https://youtu.be/0hrJOksPNdI" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/0hrJOksPNdI/maxresdefault.jpg" file="https://youtu.be/0hrJOksPNdI" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.

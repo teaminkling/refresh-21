@@ -13,8 +13,7 @@ description = "by winsome for week 8: High Sheen. Created using: Digital collage
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd-thumbnail-w720px.png" file="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd-thumbnail-w720px.png" file="/img/winsome/2021-02-26+bf2e0d7804f13921332a49f8a2b02afd.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital collage (photopea)**.

@@ -13,8 +13,7 @@ description = "by jumpingbeans for week 6: Simple Love. Created using: Video of 
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/MDxUzRfvYf4/maxresdefault.jpg" file="https://youtu.be/MDxUzRfvYf4" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/MDxUzRfvYf4/maxresdefault.jpg" file="https://youtu.be/MDxUzRfvYf4" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Video of beansz wearing clothing (aka i ran out of mediums, time to recycle)**.

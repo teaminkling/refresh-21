@@ -13,8 +13,7 @@ description = "by Charmandaar for week 9: Bold Strokes. Created using: video/pho
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/_rGs-0-vHBw/maxresdefault.jpg" file="https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/_rGs-0-vHBw/maxresdefault.jpg" file="https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **video/photoshop**.

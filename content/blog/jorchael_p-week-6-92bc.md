@@ -13,8 +13,7 @@ description = "by jorchael_p for week 6: Simple Love. Created using: photoshop."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593-thumbnail-w720px.png" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593-thumbnail-w720px.png" file="/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **photoshop**.

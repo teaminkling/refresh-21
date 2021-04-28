@@ -13,8 +13,7 @@ description = "by Mrop2000 for week 7: Disturbed Desert. Created using: Ballpoin
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/mrop2000/2021-02-19+340e8384b02502eab923d8725af52f64-thumbnail-w720px.png" file="/img/mrop2000/2021-02-19+340e8384b02502eab923d8725af52f64.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/mrop2000/2021-02-19+340e8384b02502eab923d8725af52f64-thumbnail-w720px.png" file="/img/mrop2000/2021-02-19+340e8384b02502eab923d8725af52f64.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ballpoint and hand smudge**.

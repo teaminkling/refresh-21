@@ -13,8 +13,7 @@ description = "by rainydaze for week 6: Simple Love. Created using: Procreate, w
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4-thumbnail-w720px.png" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4-thumbnail-w720px.png" file="/img/rainydaze/2021-02-10+9f067fbd1806d138e3f0d543ee60f8b4.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate, with the Narinder Pencil**.

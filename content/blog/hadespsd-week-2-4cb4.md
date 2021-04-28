@@ -13,8 +13,7 @@ description = "by HadesPsd for week 2: Deep Ocean. Created using: CSP."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg" file="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed-thumbnail-w720px.jpg" file="/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **CSP**.

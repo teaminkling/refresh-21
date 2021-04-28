@@ -13,8 +13,7 @@ description = "by Jzann for week 4: Murky Silhouettes. Created using: Clip Studi
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567-thumbnail-w720px.png" file="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567-thumbnail-w720px.png" file="/img/jzann/2021-01-29+1665f7c800111b283cf4e25c804b0567.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.

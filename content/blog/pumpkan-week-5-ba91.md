@@ -13,8 +13,7 @@ description = "by Pumpkan for week 5: Royal Green. Created using: Procreate."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0-thumbnail-w720px.png" file="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0-thumbnail-w720px.png" file="/img/pumpkan/2021-02-05+2ac9fdcb6629c74435a97d0349fd8dc0.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Procreate**.

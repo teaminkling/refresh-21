@@ -13,8 +13,7 @@ description = "by Bell-Bones for week 8: High Sheen. Created using: FireAlpaca."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68-thumbnail-w720px.png" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68-thumbnail-w720px.png" file="/img/bell-bones/2021-02-26+1dfb2e2130ce9da6ec25b18ae2945a68.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **FireAlpaca**.

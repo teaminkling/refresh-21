@@ -13,8 +13,7 @@ description = "by Mrop2000 for week 8: High Sheen. Created using: Pencil on Pape
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/mrop2000/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg" file="/img/mrop2000/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/mrop2000/2021-02-25+39da7a453c0ae4eb4979d31333d02d11-thumbnail-w720px.jpg" file="/img/mrop2000/2021-02-25+39da7a453c0ae4eb4979d31333d02d11.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Pencil on Paper**.

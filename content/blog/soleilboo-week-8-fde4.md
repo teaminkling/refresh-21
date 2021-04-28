@@ -13,8 +13,7 @@ description = "by soleilboo for week 8: High Sheen. Created using: Photoshop."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3-thumbnail-w720px.jpg" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3-thumbnail-w720px.jpg" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.

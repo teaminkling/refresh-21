@@ -13,8 +13,7 @@ description = "by MalorBaker for week 1: Yellow Lines. Created using: ms paint."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png" file="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393-thumbnail-w720px.png" file="/img/malorbaker/2021-01-04+8bc7029ca8c503e348d91c7e291ef393.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **ms paint**.

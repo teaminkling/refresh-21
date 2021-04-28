@@ -13,8 +13,7 @@ description = "by Goblet for week 2: Deep Ocean. Created using: ibispaint x."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5-thumbnail-w720px.png" file="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5-thumbnail-w720px.png" file="/img/goblet/2021-01-10+d547baa6a2cd47a8f4aa86b0523d89f5.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **ibispaint x**.

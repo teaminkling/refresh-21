@@ -13,8 +13,7 @@ description = "by Charmandaar for week 2: Deep Ocean. Created using: traditional
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png" file="/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **traditional, embroidery on tulle**.

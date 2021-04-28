@@ -13,8 +13,7 @@ description = "by Linalifox for week 4: Murky Silhouettes. Created using: Procre
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/linalifox/2021-01-29+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.

@@ -13,8 +13,7 @@ description = "by soleilboo for week 14: Absolute Fire. Created using: procreate
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif" file="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif" file="/img/soleilboo/2021-04-09+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **procreate pocket**.

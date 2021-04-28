@@ -13,8 +13,7 @@ description = "by arancil for week 6: Simple Love. Created using: Trad art, wate
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439-thumbnail-w720px.jpg" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439-thumbnail-w720px.jpg" file="/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Trad art, watercolor**.

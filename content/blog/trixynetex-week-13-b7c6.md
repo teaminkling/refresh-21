@@ -13,8 +13,7 @@ description = "by TrixyNetex for week 13: Look At Me. Created using: Sketchbook 
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21-thumbnail-w720px.png" file="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21-thumbnail-w720px.png" file="/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Sketchbook pro & paint.net**.

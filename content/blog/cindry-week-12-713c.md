@@ -13,12 +13,9 @@ description = "by cindry for week 12: Visual Words. Created using: Photography a
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065-thumbnail-w720px.png" file="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5-thumbnail-w720px.png" file="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778-thumbnail-w720px.png" file="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065-thumbnail-w720px.png" file="/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5-thumbnail-w720px.png" file="/img/cindry/2021-03-26+3454888230224abdd0ded120ec5e14e5.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778-thumbnail-w720px.png" file="/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Photography and Digital Editing**.

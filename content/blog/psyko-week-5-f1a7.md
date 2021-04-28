@@ -13,8 +13,7 @@ description = "by Psyko for week 5: Royal Green. Created using: Acrylics."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903-thumbnail-w720px.jpg" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903-thumbnail-w720px.jpg" file="/img/psyko/2021-02-05+bd7b94d3f7c966937bc51be20952c903.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Acrylics**.

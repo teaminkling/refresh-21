@@ -13,8 +13,7 @@ description = "by Bell-Bones for week 9: Bold Strokes. Created using: FireAlpaca
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b-thumbnail-w720px.png" file="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b-thumbnail-w720px.png" file="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **FireAlpaca**.

@@ -13,8 +13,7 @@ description = "by poru for week 7: Disturbed Desert. Created using: Clip Studio 
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671-thumbnail-w720px.png" file="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671-thumbnail-w720px.png" file="/img/poru/2021-02-19+1a0d116d1f92b7b7e331c075e3eb3671.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Clip Studio Paint**.

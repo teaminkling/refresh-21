@@ -13,8 +13,7 @@ description = "by a1ewanrichards for week 10: Folds and Folds. Created using: Fe
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Felt marker on paper, 9x12in**.

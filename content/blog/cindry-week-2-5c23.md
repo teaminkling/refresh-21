@@ -13,10 +13,8 @@ description = "by cindry for week 2: Deep Ocean. Created using: 2 page comic, In
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545-thumbnail-w720px.jpg" file="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407-thumbnail-w720px.jpg" file="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545-thumbnail-w720px.jpg" file="/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407-thumbnail-w720px.jpg" file="/img/cindry/2021-01-15+11d60b32b9875743dee477c6419ce407.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **2 page comic, Ink on Paper**.

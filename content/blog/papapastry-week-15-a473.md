@@ -13,8 +13,7 @@ description = "by papapastry for week 15: Back to Basics. Created using: Music/F
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/yxPwiVmq5PM/maxresdefault.jpg" file="https://www.youtube.com/watch?v=yxPwiVmq5PM" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/yxPwiVmq5PM/maxresdefault.jpg" file="https://www.youtube.com/watch?v=yxPwiVmq5PM" caption="Placeholder thumbnail for a visual still work." >}}
 
 [View on SoundCloud.](https://soundcloud.com/papapastry/hades-album-version)
 

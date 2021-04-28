@@ -13,8 +13,7 @@ description = "by Heidelburger for week 1: Yellow Lines. Created using: Switch H
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Switch Harv's Island**.

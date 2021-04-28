@@ -13,8 +13,7 @@ description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpac
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636-thumbnail-w720px.png" file="/img/bell-bones/2021-03-25+9fef949cd59590964920f9faae84b636.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **FireAlpaca**.

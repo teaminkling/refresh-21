@@ -13,8 +13,7 @@ description = "by vectorong for week 15: Back to Basics. Created using: Food."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-15+3abf0adc69d3dd540b98eefe208fd6ad.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Food**.

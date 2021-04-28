@@ -13,9 +13,9 @@ description = "by MrGreeyne for week 13: Look At Me. Created using: Keyboard, an
       stretch = "cover"
 +++
 
-<audio controls>
-<source src="/img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wavtype="audio/wav"> Your browser does not support the audio element.</audio><audio controls>
-<source src="/img/mrgreeyne/2021-04-03+cff95c6de0cbf581d6f2d1fc33a71444.wavtype="audio/wav"> Your browser does not support the audio element.</audio>
+<div style="padding: 1.5em; text-align: center"><audio controls>
+<source src="/img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wav" type="audio/wav"> Your browser does not support the audio element.</audio></div><div style="padding: 1.5em; text-align: center"><audio controls>
+<source src="/img/mrgreeyne/2021-04-03+cff95c6de0cbf581d6f2d1fc33a71444.wav" type="audio/wav"> Your browser does not support the audio element.</audio></div>
 
 Week 13: **Look At Me**. This art was lovingly created using: **Keyboard, and some words.**.
 

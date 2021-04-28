@@ -13,8 +13,7 @@ description = "by TITAN011 for week 6: Simple Love. Created using: Clip studio."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa-thumbnail-w720px.jpg" file="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa-thumbnail-w720px.jpg" file="/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Clip studio**.

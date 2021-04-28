@@ -13,8 +13,7 @@ description = "by Goblet for week 7: Disturbed Desert. Created using: ibispaint 
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996-thumbnail-w720px.png" file="/img/goblet/2021-02-17+ef1c1ceea32e3360309eba9a7c3d5996.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ibispaint x**.

@@ -13,8 +13,7 @@ description = "by rainydaze for week 11: Atmosphere Spectrum. Created using: Pro
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688-thumbnail-w720px.png" file="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688-thumbnail-w720px.png" file="/img/rainydaze/2021-03-18+08ca2a8054927b493cdea030f30b9688.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.

@@ -13,8 +13,7 @@ description = "by jumpingbeans for week 9: Bold Strokes. Created using: video."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://i.vimeocdn.com/video/1074068974_640.jpg" file="https://vimeo.com/518609738" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://i.vimeocdn.com/video/1074068974_640.jpg" file="https://vimeo.com/518609738" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **video**.

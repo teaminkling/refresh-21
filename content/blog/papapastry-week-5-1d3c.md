@@ -13,8 +13,7 @@ description = "by papapastry for week 5: Royal Green. Created using: Music/Ablet
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/DTR0npqq0c4/maxresdefault.jpg" file="https://www.youtube.com/watch?v=DTR0npqq0c4" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/DTR0npqq0c4/maxresdefault.jpg" file="https://www.youtube.com/watch?v=DTR0npqq0c4" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Music/Ableton Live 10 Suite**.

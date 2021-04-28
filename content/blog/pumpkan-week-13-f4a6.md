@@ -13,8 +13,7 @@ description = "by Pumpkan for week 13: Look At Me. Created using: procreate."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/pumpkan/2021-04-02+88d60618a2525143451f9da4f4a058bd-thumbnail-w720px.png" file="/img/pumpkan/2021-04-02+88d60618a2525143451f9da4f4a058bd.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-04-02+88d60618a2525143451f9da4f4a058bd-thumbnail-w720px.png" file="/img/pumpkan/2021-04-02+88d60618a2525143451f9da4f4a058bd.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **procreate**.

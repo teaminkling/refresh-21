@@ -13,8 +13,7 @@ description = "by papapastry for week 7: Disturbed Desert. Created using: Ableto
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/X6Q_C0MF0WE/maxresdefault.jpg" file="https://youtu.be/X6Q_C0MF0WE" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/X6Q_C0MF0WE/maxresdefault.jpg" file="https://youtu.be/X6Q_C0MF0WE" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ableton Live 10 Suite**.

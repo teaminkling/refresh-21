@@ -13,8 +13,7 @@ description = "by paintsepsi for week 7: Disturbed Desert. Created using: Procre
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/paintsepsi/2021-02-18+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.

@@ -13,8 +13,7 @@ description = "by Mrop2000 for week 9: Bold Strokes. Created using: Color Pencil
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/mrop2000/2021-03-02+6217655045fbf9f1f051c53d2c92cb48-thumbnail-w720px.jpg" file="/img/mrop2000/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/mrop2000/2021-03-02+6217655045fbf9f1f051c53d2c92cb48-thumbnail-w720px.jpg" file="/img/mrop2000/2021-03-02+6217655045fbf9f1f051c53d2c92cb48.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)**.

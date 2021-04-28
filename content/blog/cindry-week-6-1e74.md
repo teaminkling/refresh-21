@@ -13,10 +13,8 @@ description = "by cindry for week 6: Simple Love. Created using: Digital, and pu
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/cindry/2021-02-11+43bfc6b38f0311f4f73e8d67166836fd-thumbnail-w720px.jpg" file="/img/cindry/2021-02-11+43bfc6b38f0311f4f73e8d67166836fd.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/cindry/2021-02-11+e6ddbaa40e957c007050197603a7048a-thumbnail-w720px.jpg" file="/img/cindry/2021-02-11+e6ddbaa40e957c007050197603a7048a.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/cindry/2021-02-11+43bfc6b38f0311f4f73e8d67166836fd-thumbnail-w720px.jpg" file="/img/cindry/2021-02-11+43bfc6b38f0311f4f73e8d67166836fd.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-11+e6ddbaa40e957c007050197603a7048a-thumbnail-w720px.jpg" file="/img/cindry/2021-02-11+e6ddbaa40e957c007050197603a7048a.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 <a href="/img/cindry/2021-02-11+eca3451c11afdb1d75dd12df52439255.pdf" target="_blank">Direct link to a .pdf file.</a>
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital, and publication**.

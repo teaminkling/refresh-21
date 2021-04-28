@@ -13,8 +13,7 @@ description = "by papapastry for week 12: Visual Words. Created using: Music/Abl
       stretch = "cover"
 +++
 
-
-{{< fancybox path="https://img.youtube.com/vi/Co70PhYuGBI/maxresdefault.jpg" file="https://youtu.be/Co70PhYuGBI" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="https://img.youtube.com/vi/Co70PhYuGBI/maxresdefault.jpg" file="https://youtu.be/Co70PhYuGBI" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Music/Ableton Live 11 Suite**.

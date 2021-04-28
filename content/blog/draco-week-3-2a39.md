@@ -13,8 +13,7 @@ description = "by Draco for week 3: Red Circle. Created using: Krita."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png" file="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png" file="/img/draco/2021-01-21+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Krita**.

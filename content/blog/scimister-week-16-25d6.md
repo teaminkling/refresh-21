@@ -13,8 +13,7 @@ description = "by Scimister for week 16: Scaling Giants. Created using: Paint To
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a-thumbnail-w720px.png" file="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a-thumbnail-w720px.png" file="/img/scimister/2021-04-23+3346ec6520b4c26ba9bbe0b37666e50a.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Paint Tool SAI**.

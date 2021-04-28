@@ -13,8 +13,7 @@ description = "by Lithium for week 7: Disturbed Desert. Created using: Digital (
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/lithium/2021-02-22+718516908bd914ea746a24756894c29b-thumbnail-w720px.jpg" file="/img/lithium/2021-02-22+718516908bd914ea746a24756894c29b.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-02-22+718516908bd914ea746a24756894c29b-thumbnail-w720px.jpg" file="/img/lithium/2021-02-22+718516908bd914ea746a24756894c29b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

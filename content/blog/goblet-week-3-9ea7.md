@@ -13,8 +13,7 @@ description = "by Goblet for week 3: Red Circle. Created using: ibispaint and ph
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg" file="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d-thumbnail-w720px.jpg" file="/img/goblet/2021-01-17+b4dd9de9b4dc30ddde1ae89d10e8fc5d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **ibispaint and phone photos**.

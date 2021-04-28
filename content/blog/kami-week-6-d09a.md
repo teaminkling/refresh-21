@@ -13,8 +13,7 @@ description = "by Kami for week 6: Simple Love. Created using: Photoshop."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12-thumbnail-w720px.jpg" file="/img/kami/2021-02-06+8556d0003394096a546e14150ac5ad12.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.

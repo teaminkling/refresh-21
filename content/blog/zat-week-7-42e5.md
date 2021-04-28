@@ -13,8 +13,7 @@ description = "by Zat for week 7: Disturbed Desert. Created using: Photography."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268-thumbnail-w720px.jpg" file="/img/zat/2021-02-18+e6084fb86a3bc38aee3405fb5aa32268.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography**.

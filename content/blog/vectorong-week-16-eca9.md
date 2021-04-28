@@ -13,8 +13,7 @@ description = "by vectorong for week 16: Scaling Giants. Created using: Graphite
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Graphite**.

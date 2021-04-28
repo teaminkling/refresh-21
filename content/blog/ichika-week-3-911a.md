@@ -13,8 +13,7 @@ description = "by Ichika for week 3: Red Circle. Created using: unknown medium."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206-thumbnail-w720px.jpg" file="/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206-thumbnail-w720px.jpg" file="/img/ichika/2021-01-21+7eba4afba028b9075ee946cc527fa206.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **unknown medium**.

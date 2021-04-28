@@ -13,8 +13,7 @@ description = "by Boyf for week 1: Yellow Lines. Created using: FireAlpaca64."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef-thumbnail-w720px.png" file="/img/boyf/2021-01-05+4c144e254fbd6a11599913db2e64aaef.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **FireAlpaca64**.

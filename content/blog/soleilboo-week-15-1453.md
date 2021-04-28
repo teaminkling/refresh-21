@@ -13,10 +13,8 @@ description = "by soleilboo for week 15: Back to Basics. Created using: watercol
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png" file="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/soleilboo/2021-04-16+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168-thumbnail-w720px.png" file="/img/soleilboo/2021-04-16+8d1e713769d527db2e65870145893168.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **watercolour**.

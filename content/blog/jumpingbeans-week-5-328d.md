@@ -13,8 +13,7 @@ description = "by jumpingbeans for week 5: Royal Green. Created using: Installat
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Installation**.

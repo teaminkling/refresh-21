@@ -13,8 +13,7 @@ description = "by av for week 4: Murky Silhouettes. Created using: Clip Studio P
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2-thumbnail-w720px.jpg" file="/img/av/2021-01-29+599b42a34ddf070871cac14a2d347af2.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.

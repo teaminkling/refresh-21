@@ -13,8 +13,7 @@ description = "by Lithium for week 13: Look At Me. Created using: Digital (Clip 
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32-thumbnail-w720px.jpg" file="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32-thumbnail-w720px.jpg" file="/img/lithium/2021-04-02+4e7ac957fb05c45727c5cfb3ceae8a32.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

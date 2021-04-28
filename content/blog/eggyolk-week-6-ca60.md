@@ -13,8 +13,7 @@ description = "by eggyolk for week 6: Simple Love. Created using: Procreate."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png" file="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png" file="/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.

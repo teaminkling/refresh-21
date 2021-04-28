@@ -13,8 +13,7 @@ description = "by Scimister for week 2: Deep Ocean. Created using: PaintToolSAI.
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9-thumbnail-w720px.png" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9-thumbnail-w720px.png" file="/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **PaintToolSAI**.

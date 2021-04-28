@@ -13,8 +13,7 @@ description = "by eggyolk for week 12: Visual Words. Created using: Procreate."
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf-thumbnail-w720px.gif" file="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf-thumbnail-w720px.gif" file="/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Procreate**.

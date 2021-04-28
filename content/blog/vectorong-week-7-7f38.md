@@ -13,8 +13,7 @@ description = "by vectorong for week 7: Disturbed Desert. Created using: Photogr
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-18+3d056436d134a63f7c44334438444138.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Photography (shot w/ a Canon 40D)**.

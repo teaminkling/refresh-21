@@ -13,8 +13,7 @@ description = "by vectorong for week 2: Deep Ocean. Created using: Gyotaku (trad
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Gyotaku (traditional jp printmaking method using ink on fish, tho I used shrimp for this so I guess ebitaku lol) + dyed paper napkin**.

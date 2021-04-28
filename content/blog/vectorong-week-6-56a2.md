@@ -13,10 +13,8 @@ description = "by vectorong for week 6: Simple Love. Created using: Origami + in
       stretch = "cover"
 +++
 
-
-{{< fancybox path="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Origami + ink**.
