@@ -301,7 +301,7 @@ def determine_media_and_submission_thumbnail(submission):
         elif "soundcloud" in attachment_url:
             # TODO: Soundcloud gallery embed.
 
-            submission_thumbnail_url = "/img/audio-placeholder.png"
+            submission_thumbnail_url = submission_thumbnail_url or "/img/audio-placeholder.png"
             media_content_html += f"\n[View on SoundCloud.]({attachment_url})\n"
 
             if not list_item_caption:
