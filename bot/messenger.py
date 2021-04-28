@@ -222,8 +222,13 @@ def do_dump_all_messages():
 
                 image: Image = Image.open(local_path)
 
+                # If the image is big enough, don't compress the size.
+
                 width_percent: float = THUMBNAIL_MAX_WIDTH / float(image.size[0])
-                height: int = int(1.0 * image.size[1] / width_percent)
+                if image.size[0] <= THUMBNAIL_MAX_WIDTH:
+                    width_percent = 1.0
+
+                height: int = int(image.size[1] * width_percent)
 
                 if extension == "gif":
                     frames: List[Image] = []
@@ -243,6 +248,7 @@ def do_dump_all_messages():
                         local_thumb_path,
                         save_all=True,
                         append_images=list(frames),
+                        loop=True,
                     )
                 else:
                     image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
