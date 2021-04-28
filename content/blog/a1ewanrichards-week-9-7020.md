@@ -6,10 +6,10 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 9: Bold Strokes. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-9-7020"
-              alt = "Amalgamation - Welcome To Hell"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-03-03+749dd307b910989da2d77a14e3bae850-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-9-7020"
+      alt = "Amalgamation - Welcome To Hell"
+      stretch = "cover"
 +++
 
 

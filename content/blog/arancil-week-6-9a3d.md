@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["arancil"]
 description = "by arancil for week 6: Simple Love. Created using: Trad art, watercolor."
 [[images]]
-              src = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439-thumbnail-w720px.jpg"
-              href = "/blog/arancil-week-6-9a3d"
-              alt = "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of."
-              stretch = "cover"
+      src = "/img/arancil/2021-02-12+9f91cc89e3137006512b0aa6e6cc0439-thumbnail-w720px.jpg"
+      href = "/blog/arancil-week-6-9a3d"
+      alt = "It's just a painting why does it have to have a title? But fine, the title as a noise, like horses neigh kind of."
+      stretch = "cover"
 +++
 
 

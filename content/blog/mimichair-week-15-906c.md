@@ -6,10 +6,10 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["MimiChair"]
 description = "by MimiChair for week 15: Back to Basics. Created using: Adobe Photoshop."
 [[images]]
-              src = "/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31-thumbnail-w720px.png"
-              href = "/blog/mimichair-week-15-906c"
-              alt = "#1 Sour Lemon"
-              stretch = "cover"
+      src = "/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31-thumbnail-w720px.png"
+      href = "/blog/mimichair-week-15-906c"
+      alt = "#1 Sour Lemon"
+      stretch = "cover"
 +++
 
 

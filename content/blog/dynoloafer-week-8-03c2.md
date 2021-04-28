@@ -6,10 +6,10 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 8: High Sheen. Created using: Paint Tool SAI."
 [[images]]
-              src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c-thumbnail-w720px.png"
-              href = "/blog/dynoloafer-week-8-03c2"
-              alt = "Pretty, Ain't It?"
-              stretch = "cover"
+      src = "/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c-thumbnail-w720px.png"
+      href = "/blog/dynoloafer-week-8-03c2"
+      alt = "Pretty, Ain't It?"
+      stretch = "cover"
 +++
 
 

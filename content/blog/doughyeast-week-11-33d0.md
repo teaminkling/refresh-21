@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 11: Atmosphere Spectrum. Created using: Procreate."
 [[images]]
-              src = "/img/doughyeast/2021-03-19+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg"
-              href = "/blog/doughyeast-week-11-33d0"
-              alt = "“you would make the sky a gijinka” - enoki"
-              stretch = "cover"
+      src = "/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      href = "/blog/doughyeast-week-11-33d0"
+      alt = "“you would make the sky a gijinka” - enoki"
+      stretch = "cover"
 +++
 
 

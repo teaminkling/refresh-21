@@ -6,10 +6,10 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Goblet"]
 description = "by Goblet for week 16: Scaling Giants. Created using: Krita (still mouse)."
 [[images]]
-              src = "/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7-thumbnail-w720px.png"
-              href = "/blog/goblet-week-16-7100"
-              alt = "Mechanics love their jobs sometimes"
-              stretch = "cover"
+      src = "/img/goblet/2021-04-22+b45ee1654f198423ecc1d8d381c65be7-thumbnail-w720px.png"
+      href = "/blog/goblet-week-16-7100"
+      alt = "Mechanics love their jobs sometimes"
+      stretch = "cover"
 +++
 
 

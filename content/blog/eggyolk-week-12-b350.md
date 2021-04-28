@@ -6,10 +6,10 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 12: Visual Words. Created using: Procreate."
 [[images]]
-              src = "/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf-thumbnail-w720px.gif"
-              href = "/blog/eggyolk-week-12-b350"
-              alt = "Reach"
-              stretch = "cover"
+      src = "/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf-thumbnail-w720px.gif"
+      href = "/blog/eggyolk-week-12-b350"
+      alt = "Reach"
+      stretch = "cover"
 +++
 
 

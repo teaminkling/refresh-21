@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 3: Red Circle. Created using: autodesk sketchbook (mobile)."
 [[images]]
-              src = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e-thumbnail-w720px.png"
-              href = "/blog/jumpingbeans-week-3-e514"
-              alt = "Untitled (society)"
-              stretch = "cover"
+      src = "/img/jumpingbeans/2021-01-17+f95388ddc25c6df2d56dbdbac5be9d6e-thumbnail-w720px.png"
+      href = "/blog/jumpingbeans-week-3-e514"
+      alt = "Untitled (society)"
+      stretch = "cover"
 +++
 
 

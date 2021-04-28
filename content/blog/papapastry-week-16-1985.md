@@ -6,10 +6,10 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["papapastry"]
 description = "by papapastry for week 16: Scaling Giants. Created using: Music/Ableton Live Studio 11."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-16-1985"
-              alt = "Pain"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-16-1985"
+      alt = "Pain"
+      stretch = "cover"
 +++
 
 

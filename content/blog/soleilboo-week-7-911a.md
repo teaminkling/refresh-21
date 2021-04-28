@@ -6,10 +6,10 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-              src = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/soleilboo-week-7-911a"
-              alt = "Untitled"
-              stretch = "cover"
+      src = "/img/soleilboo/2021-02-19+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      href = "/blog/soleilboo-week-7-911a"
+      alt = "Untitled"
+      stretch = "cover"
 +++
 
 

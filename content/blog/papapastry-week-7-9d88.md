@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["papapastry"]
 description = "by papapastry for week 7: Disturbed Desert. Created using: Ableton Live 10 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-7-9d88"
-              alt = "Footprints"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/X6Q_C0MF0WE/maxresdefault.jpg"
+      href = "/blog/papapastry-week-7-9d88"
+      alt = "Footprints"
+      stretch = "cover"
 +++
 
 
-{{< youtube X6Q_C0MF0WE >}}
+{{< fancybox path="https://img.youtube.com/vi/X6Q_C0MF0WE/maxresdefault.jpg" file="https://youtu.be/X6Q_C0MF0WE" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ableton Live 10 Suite**.

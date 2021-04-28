@@ -6,10 +6,10 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Digital - Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-16-dcab"
-              alt = "Amalgamation: At A Time Like This, Will Someone Be There For You?"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-16-dcab"
+      alt = "Amalgamation: At A Time Like This, Will Someone Be There For You?"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 1: Yellow Lines. Created using: digital, procreate."
 [[images]]
-              src = "/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png"
-              href = "/blog/charmandaar-week-1-4283"
-              alt = "upon sunflowers"
-              stretch = "cover"
+      src = "/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1-thumbnail-w720px.png"
+      href = "/blog/charmandaar-week-1-4283"
+      alt = "upon sunflowers"
+      stretch = "cover"
 +++
 
 

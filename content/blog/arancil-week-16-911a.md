@@ -6,10 +6,10 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["arancil"]
 description = "by arancil for week 16: Scaling Giants. Created using: Fineliner 0.05 mm yay."
 [[images]]
-              src = "/img/arancil/2021-04-23+50e871e3c04bb39c7e2232414ad92b8e-thumbnail-w720px.jpg"
-              href = "/blog/arancil-week-16-911a"
-              alt = "Untitled"
-              stretch = "cover"
+      src = "/img/arancil/2021-04-23+d215cbc13532b6358c86f6ea64563679-thumbnail-w720px.jpg"
+      href = "/blog/arancil-week-16-911a"
+      alt = "Untitled"
+      stretch = "cover"
 +++
 
 

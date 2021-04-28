@@ -6,10 +6,10 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 14: Absolute Fire. Created using: LMFAO HELP."
 [[images]]
-              src = "/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png"
-              href = "/blog/eggyolk-week-14-762c"
-              alt = "OH SHIT DID I MAKE IT ON TIME? (actual title: extinguished)"
-              stretch = "cover"
+      src = "/img/eggyolk/2021-04-09+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png"
+      href = "/blog/eggyolk-week-14-762c"
+      alt = "OH SHIT DID I MAKE IT ON TIME? (actual title: extinguished)"
+      stretch = "cover"
 +++
 
 

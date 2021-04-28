@@ -6,10 +6,10 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["Goblet"]
 description = "by Goblet for week 13: Look At Me. Created using: Krita."
 [[images]]
-              src = "/img/goblet/2021-03-27+1e13f569967126c8f26c585e4155ca81-thumbnail-w720px.png"
-              href = "/blog/goblet-week-13-40e8"
-              alt = "<:cuporiGun:825806539918278686>"
-              stretch = "cover"
+      src = "/img/goblet/2021-03-27+9225bd666db2b24726d17045d0eb9693-thumbnail-w720px.png"
+      href = "/blog/goblet-week-13-40e8"
+      alt = "<:cuporiGun:825806539918278686>"
+      stretch = "cover"
 +++
 
 

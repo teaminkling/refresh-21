@@ -6,10 +6,10 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 4: Murky Silhouettes. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4-thumbnail-w720px.png"
-              href = "/blog/bell-bones-week-4-b8b8"
-              alt = "Family Portrait"
-              stretch = "cover"
+      src = "/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247-thumbnail-w720px.png"
+      href = "/blog/bell-bones-week-4-b8b8"
+      alt = "Family Portrait"
+      stretch = "cover"
 +++
 
 

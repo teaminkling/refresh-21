@@ -6,10 +6,10 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 7: Disturbed Desert. Created using: Procreate."
 [[images]]
-              src = "/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078-thumbnail-w720px.png"
-              href = "/blog/pumpkan-week-7-cd92"
-              alt = "Sunset at Calico Desert"
-              stretch = "cover"
+      src = "/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078-thumbnail-w720px.png"
+      href = "/blog/pumpkan-week-7-cd92"
+      alt = "Sunset at Calico Desert"
+      stretch = "cover"
 +++
 
 

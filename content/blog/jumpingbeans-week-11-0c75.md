@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 11: Atmosphere Spectrum. Created using: Krita."
 [[images]]
-              src = "/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea-thumbnail-w720px.png"
-              href = "/blog/jumpingbeans-week-11-0c75"
-              alt = "Are we at the weekends yet?"
-              stretch = "cover"
+      src = "/img/jumpingbeans/2021-03-13+3c96027fd2aa43266c9eab4c232118ea-thumbnail-w720px.png"
+      href = "/blog/jumpingbeans-week-11-0c75"
+      alt = "Are we at the weekends yet?"
+      stretch = "cover"
 +++
 
 

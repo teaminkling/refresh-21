@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["papapastry"]
 description = "by papapastry for week 10: Folds and Folds. Created using: Audio/Ableton Live 11 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-10-9303"
-              alt = "Good Clothes"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/KwACnHlAEmY/maxresdefault.jpg"
+      href = "/blog/papapastry-week-10-9303"
+      alt = "Good Clothes"
+      stretch = "cover"
 +++
 
 
-{{< youtube KwACnHlAEmY >}}
+{{< fancybox path="https://img.youtube.com/vi/KwACnHlAEmY/maxresdefault.jpg" file="https://youtu.be/KwACnHlAEmY" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.

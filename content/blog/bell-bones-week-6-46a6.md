@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 6: Simple Love. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb-thumbnail-w720px.png"
-              href = "/blog/bell-bones-week-6-46a6"
-              alt = "Roleplay! (and a puppet show I suppose)"
-              stretch = "cover"
+      src = "/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb-thumbnail-w720px.png"
+      href = "/blog/bell-bones-week-6-46a6"
+      alt = "Roleplay! (and a puppet show I suppose)"
+      stretch = "cover"
 +++
 
 

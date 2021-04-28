@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["Lithium"]
 description = "by Lithium for week 11: Atmosphere Spectrum. Created using: Photomanipulation."
 [[images]]
-              src = "/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11-thumbnail-w720px.jpg"
-              href = "/blog/lithium-week-11-b3a9"
-              alt = "Impressionable Sky"
-              stretch = "cover"
+      src = "/img/lithium/2021-03-18+8fa563ef0d9c701174c042c94bd6fb11-thumbnail-w720px.jpg"
+      href = "/blog/lithium-week-11-b3a9"
+      alt = "Impressionable Sky"
+      stretch = "cover"
 +++
 
 

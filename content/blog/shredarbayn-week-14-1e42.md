@@ -6,16 +6,16 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["Shredarbayn"]
 description = "by Shredarbayn for week 14: Absolute Fire. Created using: Charcoal & Watercolour on 110gsm Dollar-store Paper."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/shredarbayn-week-14-1e42"
-              alt = "Fiery heart"
-              stretch = "cover"
+      src = "/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95-thumbnail-w720px.jpg"
+      href = "/blog/shredarbayn-week-14-1e42"
+      alt = "Fiery heart"
+      stretch = "cover"
 +++
 
 
 {{< fancybox path="/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95-thumbnail-w720px.jpg" file="img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< youtube l-7cvM7f3Ps >}}
+{{< fancybox path="https://img.youtube.com/vi/l-7cvM7f3Ps/maxresdefault.jpg" file="https://www.youtube.com/watch?v=l-7cvM7f3Ps" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Charcoal & Watercolour on 110gsm Dollar-store Paper**.

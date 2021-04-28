@@ -6,10 +6,10 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["arancil"]
 description = "by arancil for week 5: Royal Green. Created using: A3 watercolor, some fine liners, autumn gold ink, a color pencil from a dusty box."
 [[images]]
-              src = "img/other-placeholder.png"
-              href = "/blog/arancil-week-5-911a"
-              alt = "Untitled"
-              stretch = "cover"
+      src = "img/other-placeholder.png"
+      href = "/blog/arancil-week-5-911a"
+      alt = "Untitled"
+      stretch = "cover"
 +++
 
 

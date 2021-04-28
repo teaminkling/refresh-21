@@ -6,10 +6,10 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["winsome"]
 description = "by winsome for week 9: Bold Strokes. Created using: Photography (Photo set)."
 [[images]]
-              src = "/img/winsome/2021-03-05+fafe83eca330bd3af9d7c67e70a1cf9d-thumbnail-w720px.jpeg"
-              href = "/blog/winsome-week-9-ca4a"
-              alt = "Hi! I like shorts! They're comfy and easy to wear!"
-              stretch = "cover"
+      src = "/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5-thumbnail-w720px.jpeg"
+      href = "/blog/winsome-week-9-ca4a"
+      alt = "Hi! I like shorts! They're comfy and easy to wear!"
+      stretch = "cover"
 +++
 
 

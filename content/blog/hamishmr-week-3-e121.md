@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["hamishmr"]
 description = "by hamishmr for week 3: Red Circle. Created using: Ps."
 [[images]]
-              src = "/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334-thumbnail-w720px.jpg"
-              href = "/blog/hamishmr-week-3-e121"
-              alt = "koi 🙂"
-              stretch = "cover"
+      src = "/img/hamishmr/2021-01-22+6313bff80fea34636d77033af9f6e334-thumbnail-w720px.jpg"
+      href = "/blog/hamishmr-week-3-e121"
+      alt = "koi 🙂"
+      stretch = "cover"
 +++
 
 

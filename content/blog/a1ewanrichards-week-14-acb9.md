@@ -6,10 +6,10 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 14: Absolute Fire. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-14-acb9"
-              alt = "The End of Zeno's Paradox"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-04-09+e31ce07b15b93a2c9174b0f841fdc9cd-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-14-acb9"
+      alt = "The End of Zeno's Paradox"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 4: Murky Silhouettes. Created using: Felt pen on paper."
 [[images]]
-              src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-4-759c"
-              alt = "Bloody Fields"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-01-29+e8d48beb465a3cb90e476066eb598ed7-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-4-759c"
+      alt = "Bloody Fields"
+      stretch = "cover"
 +++
 
 

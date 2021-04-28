@@ -6,10 +6,10 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 5: Royal Green. Created using: ClipStudio."
 [[images]]
-              src = "/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4-thumbnail-w720px.jpg"
-              href = "/blog/titan011-week-5-6fad"
-              alt = "Green Emerald"
-              stretch = "cover"
+      src = "/img/titan011/2021-02-01+6aa7a38d2365555982621f58fad136f4-thumbnail-w720px.jpg"
+      href = "/blog/titan011-week-5-6fad"
+      alt = "Green Emerald"
+      stretch = "cover"
 +++
 
 

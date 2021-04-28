@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 11: Atmosphere Spectrum. Created using: Watercolour."
 [[images]]
-              src = "/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343-thumbnail-w720px.jpg"
-              href = "/blog/soleilboo-week-11-b79c"
-              alt = "Hydrangea Star Gazer"
-              stretch = "cover"
+      src = "/img/soleilboo/2021-03-19+a0bed09beb24ec4354bf5a15125e9343-thumbnail-w720px.jpg"
+      href = "/blog/soleilboo-week-11-b79c"
+      alt = "Hydrangea Star Gazer"
+      stretch = "cover"
 +++
 
 

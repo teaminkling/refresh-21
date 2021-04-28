@@ -78,7 +78,8 @@ def do_dump_all_messages():
 
         LOGGER.info("Connecting to [%s] channel...", SUBMISSIONS_CHANNEL)
         channel: Optional[Any] = discord.utils.get(
-            client.get_all_channels(), name=SUBMISSIONS_CHANNEL,
+            client.get_all_channels(),
+            name=SUBMISSIONS_CHANNEL,
         )
 
         if not channel:
@@ -105,7 +106,9 @@ def do_dump_all_messages():
 
             # Save all attachments to disk and generate a thumbnail.
 
-            attachments = await extract_media(author_with_discriminator, created_timestamp, message)
+            attachments = await extract_media(
+                author_with_discriminator, created_timestamp, message
+            )
 
             # Replace mentions with direct @Username references.
 
@@ -171,11 +174,11 @@ def do_dump_all_messages():
             author_directory: str = os.path.join(
                 "../static/img",
                 message.author.name.encode("ascii", "ignore")
-                    .decode()
-                    .lower()
-                    .replace(" ", "_")
-                    .replace("(", "")
-                    .replace(")", ""),
+                .decode()
+                .lower()
+                .replace(" ", "_")
+                .replace("(", "")
+                .replace(")", ""),
             )
 
             # Dynamic directory generation.
@@ -192,9 +195,7 @@ def do_dump_all_messages():
 
             extension: str = attachment.filename.split(".")[-1].lower()
 
-            local_path: str = os.path.join(
-                author_directory, f"{filename}.{extension}"
-            )
+            local_path: str = os.path.join(author_directory, f"{filename}.{extension}")
 
             local_thumb_path: str = os.path.join(
                 author_directory,
@@ -210,12 +211,12 @@ def do_dump_all_messages():
                 LOGGER.debug("Exists, skipping: [%s]...", local_path)
 
             if (
-                    not os.path.exists(local_thumb_path) or FORCE_THUMBNAIL_REGENERATION
+                not os.path.exists(local_thumb_path) or FORCE_THUMBNAIL_REGENERATION
             ) and extension in (
-                    "png",
-                    "jpg",
-                    "jpeg",
-                    "gif",
+                "png",
+                "jpg",
+                "jpeg",
+                "gif",
             ):
                 LOGGER.info("Writing thumbnail: [%s]...", local_thumb_path)
 

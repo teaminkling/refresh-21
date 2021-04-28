@@ -6,10 +6,10 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["TheLagExpert"]
 description = "by TheLagExpert for week 12: Visual Words. Created using: Affinity Photo."
 [[images]]
-              src = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2-thumbnail-w720px.jpeg"
-              href = "/blog/thelagexpert-week-12-f76f"
-              alt = "Glass House"
-              stretch = "cover"
+      src = "/img/thelagexpert/2021-03-26+6725f3a8259b4e247d39111e180e34d2-thumbnail-w720px.jpeg"
+      href = "/blog/thelagexpert-week-12-f76f"
+      alt = "Glass House"
+      stretch = "cover"
 +++
 
 

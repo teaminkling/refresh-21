@@ -6,10 +6,10 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["jc"]
 description = "by jc for week 2: Deep Ocean. Created using: csp & lasso tool."
 [[images]]
-              src = "/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f-thumbnail-w720px.png"
-              href = "/blog/jc-week-2-86d7"
-              alt = "oarfish"
-              stretch = "cover"
+      src = "/img/jc/2021-01-15+782bda61bbb8728c681e1d09671be71f-thumbnail-w720px.png"
+      href = "/blog/jc-week-2-86d7"
+      alt = "oarfish"
+      stretch = "cover"
 +++
 
 

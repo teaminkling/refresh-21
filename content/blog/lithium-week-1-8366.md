@@ -6,10 +6,10 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Lithium"]
 description = "by Lithium for week 1: Yellow Lines. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b-thumbnail-w720px.jpg"
-              href = "/blog/lithium-week-1-8366"
-              alt = "New Year's Compass"
-              stretch = "cover"
+      src = "/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b-thumbnail-w720px.jpg"
+      href = "/blog/lithium-week-1-8366"
+      alt = "New Year's Compass"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["meplaysgamez"]
 description = "by meplaysgamez for week 14: Absolute Fire. Created using: Photograph/Free Photo Editing Thingymajig."
 [[images]]
-              src = "/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg"
-              href = "/blog/meplaysgamez-week-14-2f2a"
-              alt = "Burnt Out"
-              stretch = "cover"
+      src = "/img/meplaysgamez/2021-04-09+88657803b1e7af787dc8df3c6c034451-thumbnail-w720px.jpg"
+      href = "/blog/meplaysgamez-week-14-2f2a"
+      alt = "Burnt Out"
+      stretch = "cover"
 +++
 
 

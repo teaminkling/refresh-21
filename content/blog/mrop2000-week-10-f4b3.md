@@ -6,10 +6,10 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Mrop2000"]
 description = "by Mrop2000 for week 10: Folds and Folds. Created using: Colored Pencils."
 [[images]]
-              src = "/img/mrop2000/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg"
-              href = "/blog/mrop2000-week-10-f4b3"
-              alt = "Harlem '33/'83"
-              stretch = "cover"
+      src = "/img/mrop2000/2021-03-11+519e3735b23bd7a96e6b39562b10862f-thumbnail-w720px.jpg"
+      href = "/blog/mrop2000-week-10-f4b3"
+      alt = "Harlem '33/'83"
+      stretch = "cover"
 +++
 
 

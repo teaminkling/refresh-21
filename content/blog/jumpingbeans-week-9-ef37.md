@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 9: Bold Strokes. Created using: video."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/jumpingbeans-week-9-ef37"
-              alt = "This is the literal worst shit i have created, i think my parent think im weird."
-              stretch = "cover"
+      src = "https://i.vimeocdn.com/video/1074068974_640.jpg"
+      href = "/blog/jumpingbeans-week-9-ef37"
+      alt = "This is the literal worst shit i have created, i think my parent think im weird."
+      stretch = "cover"
 +++
 
 
-{{< vimeo 518609738 >}}
+{{< fancybox path="https://i.vimeocdn.com/video/1074068974_640.jpg" file="https://vimeo.com/518609738" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **video**.

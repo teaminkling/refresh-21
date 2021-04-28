@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 6: Simple Love. Created using: Video of beansz wearing clothing (aka i ran out of mediums, time to recycle)."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/jumpingbeans-week-6-21a4"
-              alt = "The introspection of self, the different facades of life and embrace of the multifaceted appearences"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/MDxUzRfvYf4/maxresdefault.jpg"
+      href = "/blog/jumpingbeans-week-6-21a4"
+      alt = "The introspection of self, the different facades of life and embrace of the multifaceted appearences"
+      stretch = "cover"
 +++
 
 
-{{< youtube MDxUzRfvYf4 >}}
+{{< fancybox path="https://img.youtube.com/vi/MDxUzRfvYf4/maxresdefault.jpg" file="https://youtu.be/MDxUzRfvYf4" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Video of beansz wearing clothing (aka i ran out of mediums, time to recycle)**.

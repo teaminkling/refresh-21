@@ -6,10 +6,10 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 12: Visual Words. Created using: Indesign (if you prefer illustrator you can fight me)."
 [[images]]
-              src = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e-thumbnail-w720px.png"
-              href = "/blog/pumpkan-week-12-2b80"
-              alt = "Are You Listening?"
-              stretch = "cover"
+      src = "/img/pumpkan/2021-03-25+d7147c6512143dc8c895eba73ef1f37e-thumbnail-w720px.png"
+      href = "/blog/pumpkan-week-12-2b80"
+      alt = "Are You Listening?"
+      stretch = "cover"
 +++
 
 

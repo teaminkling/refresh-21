@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 6: Simple Love. Created using: digital/ photoshop."
 [[images]]
-              src = "/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a-thumbnail-w720px.jpg"
-              href = "/blog/soleilboo-week-6-eb83"
-              alt = "Self portrait"
-              stretch = "cover"
+      src = "/img/soleilboo/2021-02-12+fc6528016c0d43a5e64a8251d547f43a-thumbnail-w720px.jpg"
+      href = "/blog/soleilboo-week-6-eb83"
+      alt = "Self portrait"
+      stretch = "cover"
 +++
 
 

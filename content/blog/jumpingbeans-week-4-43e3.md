@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 4: Murky Silhouettes. Created using: Game."
 [[images]]
-              src = "img/other-placeholder.png"
-              href = "/blog/jumpingbeans-week-4-43e3"
-              alt = "Stress"
-              stretch = "cover"
+      src = "img/other-placeholder.png"
+      href = "/blog/jumpingbeans-week-4-43e3"
+      alt = "Stress"
+      stretch = "cover"
 +++
 
 
-[View on Itch.](https://jumpingbeans.itch.io/week4)
+[View on External Website.](https://jumpingbeans.itch.io/week4)
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Game**.

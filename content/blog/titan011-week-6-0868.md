@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 6: Simple Love. Created using: Clip studio."
 [[images]]
-              src = "/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa-thumbnail-w720px.jpg"
-              href = "/blog/titan011-week-6-0868"
-              alt = "Do what make you happy"
-              stretch = "cover"
+      src = "/img/titan011/2021-02-24+995dd0c5acd0f6d7a494f89e52e5d6aa-thumbnail-w720px.jpg"
+      href = "/blog/titan011-week-6-0868"
+      alt = "Do what make you happy"
+      stretch = "cover"
 +++
 
 

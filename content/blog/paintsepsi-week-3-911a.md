@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 3: Red Circle. Created using: Procreate."
 [[images]]
-              src = "/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
-              href = "/blog/paintsepsi-week-3-911a"
-              alt = "Untitled"
-              stretch = "cover"
+      src = "/img/paintsepsi/2021-01-21+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+      href = "/blog/paintsepsi-week-3-911a"
+      alt = "Untitled"
+      stretch = "cover"
 +++
 
 

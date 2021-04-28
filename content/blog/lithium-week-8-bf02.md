@@ -6,10 +6,10 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Lithium"]
 description = "by Lithium for week 8: High Sheen. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500-thumbnail-w720px.jpg"
-              href = "/blog/lithium-week-8-bf02"
-              alt = "Jupiter Falling"
-              stretch = "cover"
+      src = "/img/lithium/2021-02-25+31d3cdecd09b716e29dcdaaf34f16500-thumbnail-w720px.jpg"
+      href = "/blog/lithium-week-8-bf02"
+      alt = "Jupiter Falling"
+      stretch = "cover"
 +++
 
 

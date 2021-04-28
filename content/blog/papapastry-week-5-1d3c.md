@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["papapastry"]
 description = "by papapastry for week 5: Royal Green. Created using: Music/Ableton Live 10 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-5-1d3c"
-              alt = "Big Green Dragon Kingdom"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/DTR0npqq0c4/maxresdefault.jpg"
+      href = "/blog/papapastry-week-5-1d3c"
+      alt = "Big Green Dragon Kingdom"
+      stretch = "cover"
 +++
 
 
-{{< youtube DTR0npqq0c4 >}}
+{{< fancybox path="https://img.youtube.com/vi/DTR0npqq0c4/maxresdefault.jpg" file="https://www.youtube.com/watch?v=DTR0npqq0c4" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Music/Ableton Live 10 Suite**.

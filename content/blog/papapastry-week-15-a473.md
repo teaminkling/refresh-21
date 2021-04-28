@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["papapastry"]
 description = "by papapastry for week 15: Back to Basics. Created using: Music/Fruity Loops Studio 20."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-15-a473"
-              alt = "Hades"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-15-a473"
+      alt = "Hades"
+      stretch = "cover"
 +++
 
 
-{{< youtube yxPwiVmq5PM >}}
+{{< fancybox path="https://img.youtube.com/vi/yxPwiVmq5PM/maxresdefault.jpg" file="https://www.youtube.com/watch?v=yxPwiVmq5PM" caption="Placeholder thumbnail for a visual work." >}}
 
 [View on SoundCloud.](https://soundcloud.com/papapastry/hades-album-version)
 

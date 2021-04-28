@@ -6,16 +6,16 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["papapastry"]
 description = "by papapastry for week 13: Look At Me. Created using: Procreate, Audio/Ableton Live 10 Suite, Adoble Premiere Pro CC."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-13-fd44"
-              alt = "Fuck"
-              stretch = "cover"
+      src = "/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+      href = "/blog/papapastry-week-13-fd44"
+      alt = "Fuck"
+      stretch = "cover"
 +++
 
 
 {{< fancybox path="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< youtube s2bUtKo88HQ >}}
+{{< fancybox path="https://img.youtube.com/vi/s2bUtKo88HQ/maxresdefault.jpg" file="https://www.youtube.com/watch?v=s2bUtKo88HQ" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Procreate, Audio/Ableton Live 10 Suite, Adoble Premiere Pro CC**.

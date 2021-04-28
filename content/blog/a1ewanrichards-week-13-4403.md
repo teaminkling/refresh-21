@@ -6,10 +6,10 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 13: Look At Me. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-13-4403"
-              alt = "Portrait 7: Ruminations"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-13-4403"
+      alt = "Portrait 7: Ruminations"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["HadesPsd"]
 description = "by HadesPsd for week 10: Folds and Folds. Created using: CSP with Basic Brushes."
 [[images]]
-              src = "/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8-thumbnail-w720px.jpg"
-              href = "/blog/hadespsd-week-10-04b4"
-              alt = "Zelda Study"
-              stretch = "cover"
+      src = "/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8-thumbnail-w720px.jpg"
+      href = "/blog/hadespsd-week-10-04b4"
+      alt = "Zelda Study"
+      stretch = "cover"
 +++
 
 

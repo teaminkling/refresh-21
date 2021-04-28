@@ -6,10 +6,10 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-              src = "/img/doughyeast/2021-01-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
-              href = "/blog/doughyeast-week-2-20a3"
-              alt = "The Deep End"
-              stretch = "cover"
+      src = "/img/doughyeast/2021-01-16+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+      href = "/blog/doughyeast-week-2-20a3"
+      alt = "The Deep End"
+      stretch = "cover"
 +++
 
 

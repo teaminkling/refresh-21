@@ -6,10 +6,10 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["Frog Glasses"]
 description = "by Frog Glasses for week 14: Absolute Fire. Created using: procrate."
 [[images]]
-              src = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/frog-glasses-week-14-d441"
-              alt = "hey girl bites lip"
-              stretch = "cover"
+      src = "/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      href = "/blog/frog-glasses-week-14-d441"
+      alt = "hey girl bites lip"
+      stretch = "cover"
 +++
 
 

@@ -6,17 +6,20 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 6: Simple Love. Created using: Ableton Live 10 Suite."
 [[images]]
-              src = "img/other-placeholder.png"
-              href = "/blog/charmandaar-week-6-7344"
-              alt = "Paper Aeroplanes demo.mp3, collab with @papapastry"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/charmandaar-week-6-7344"
+      alt = "Paper Aeroplanes demo.mp3, collab with @papapastry"
+      stretch = "cover"
 +++
 
 
 [View on SoundCloud.](https://soundcloud.com/papapastry/fuck-so-late-god-fucking-damnit)
 
-[View on Google Docs.](https://docs.google.com/document/d/1v7MNRHeg6fDwUsURPJAf1XSptglTolwA1KtohM_4Rbk/edit?usp=sharing)
-
+                <a href="https://docs.google.com/document/d/1v7MNRHeg6fDwUsURPJAf1XSptglTolwA1KtohM_4Rbk/edit?usp=sharing" target="_blank">
+                  <img src="https://lh3.googleusercontent.com/DzStfDmiFSHCKCch-gREcsborTcl4f1HQagguSE9Jlm9flwfPjFpq4w2C6VW5_KVyXIZQ5YM_maGPw=w1200-h630-p"
+                       alt="External link image preview for generic website." />
+                </a>
+                
 
 Week 6: **Simple Love**. This art was lovingly created using: **Ableton Live 10 Suite**.
 

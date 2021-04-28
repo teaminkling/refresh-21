@@ -6,10 +6,10 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Lithium"]
 description = "by Lithium for week 16: Scaling Giants. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a-thumbnail-w720px.jpg"
-              href = "/blog/lithium-week-16-fc95"
-              alt = "It's acting weird!"
-              stretch = "cover"
+      src = "/img/lithium/2021-04-21+e4c27c3822bc6e0fcca75d4b50d2122a-thumbnail-w720px.jpg"
+      href = "/blog/lithium-week-16-fc95"
+      alt = "It's acting weird!"
+      stretch = "cover"
 +++
 
 

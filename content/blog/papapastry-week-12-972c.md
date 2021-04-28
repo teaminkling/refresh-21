@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["papapastry"]
 description = "by papapastry for week 12: Visual Words. Created using: Music/Ableton Live 11 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-12-972c"
-              alt = "Noodle Bar"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/Co70PhYuGBI/maxresdefault.jpg"
+      href = "/blog/papapastry-week-12-972c"
+      alt = "Noodle Bar"
+      stretch = "cover"
 +++
 
 
-{{< youtube Co70PhYuGBI >}}
+{{< fancybox path="https://img.youtube.com/vi/Co70PhYuGBI/maxresdefault.jpg" file="https://youtu.be/Co70PhYuGBI" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Music/Ableton Live 11 Suite**.

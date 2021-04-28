@@ -6,17 +6,15 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Lithium"]
 description = "by Lithium for week 12: Visual Words. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "img/other-placeholder.png"
-              href = "/blog/lithium-week-12-78e9"
-              alt = "RELAX"
-              stretch = "cover"
+      src = "/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e-thumbnail-w720px.jpg"
+      href = "/blog/lithium-week-12-78e9"
+      alt = "RELAX"
+      stretch = "cover"
 +++
 
 
 {{< fancybox path="/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e-thumbnail-w720px.jpg" file="img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e.jpg" caption="Placeholder thumbnail for a visual work." >}}
-
-{{< fancybox path="img/other-placeholder.png" file="img/lithium/2021-03-23+0779b2c02590c9267cf40308a1e15fd3.zip" caption="Placeholder thumbnail for a special work." >}}
-
+<a href="img/lithium/2021-03-23+0779b2c02590c9267cf40308a1e15fd3.zip" target="_blank">Direct link to a .zip file.</a>
 
 Week 12: **Visual Words**. This art was lovingly created using: **Digital (Clip Studio Paint)**.
 

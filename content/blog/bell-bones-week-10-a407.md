@@ -6,10 +6,10 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 10: Folds and Folds. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png"
-              href = "/blog/bell-bones-week-10-a407"
-              alt = "Prince Backey"
-              stretch = "cover"
+      src = "/img/bell-bones/2021-03-12+a0e7a4a59782e4a6eff82c6d4deafefe-thumbnail-w720px.png"
+      href = "/blog/bell-bones-week-10-a407"
+      alt = "Prince Backey"
+      stretch = "cover"
 +++
 
 

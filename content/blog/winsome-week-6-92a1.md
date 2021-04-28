@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["winsome"]
 description = "by winsome for week 6: Simple Love. Created using: Modelling Clay (Sculpey)."
 [[images]]
-              src = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af-thumbnail-w720px.jpg"
-              href = "/blog/winsome-week-6-92a1"
-              alt = "Sweet Nothings"
-              stretch = "cover"
+      src = "/img/winsome/2021-02-12+7b5ab4b776234429a425181f2fa015af-thumbnail-w720px.jpg"
+      href = "/blog/winsome-week-6-92a1"
+      alt = "Sweet Nothings"
+      stretch = "cover"
 +++
 
 

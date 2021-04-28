@@ -6,10 +6,10 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 9: Bold Strokes. Created using: Paint Tool SAI."
 [[images]]
-              src = "/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef-thumbnail-w720px.png"
-              href = "/blog/dynoloafer-week-9-09aa"
-              alt = "Dragon Collage"
-              stretch = "cover"
+      src = "/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef-thumbnail-w720px.png"
+      href = "/blog/dynoloafer-week-9-09aa"
+      alt = "Dragon Collage"
+      stretch = "cover"
 +++
 
 

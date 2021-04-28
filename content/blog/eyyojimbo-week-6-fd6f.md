@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["EyYoJimbo"]
 description = "by EyYoJimbo for week 6: Simple Love. Created using: Procreate."
 [[images]]
-              src = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/eyyojimbo-week-6-fd6f"
-              alt = "Tenacity (Year of the Ox)"
-              stretch = "cover"
+      src = "/img/eyyojimbo/2021-02-13+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      href = "/blog/eyyojimbo-week-6-fd6f"
+      alt = "Tenacity (Year of the Ox)"
+      stretch = "cover"
 +++
 
 

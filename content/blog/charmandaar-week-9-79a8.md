@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 9: Bold Strokes. Created using: video/photoshop."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/charmandaar-week-9-79a8"
-              alt = "POV you find another VHS tape, and your sleep deprived self slots it in the player…"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/_rGs-0-vHBw/maxresdefault.jpg"
+      href = "/blog/charmandaar-week-9-79a8"
+      alt = "POV you find another VHS tape, and your sleep deprived self slots it in the player…"
+      stretch = "cover"
 +++
 
 
-{{< youtube charmandaar >}}
+{{< fancybox path="https://img.youtube.com/vi/_rGs-0-vHBw/maxresdefault.jpg" file="https://www.youtube.com/watch?v=_rGs-0-vHBw&ab_channel=charmandaar" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **video/photoshop**.

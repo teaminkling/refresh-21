@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["jc"]
 description = "by jc for week 3: Red Circle. Created using: csp."
 [[images]]
-              src = "/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867-thumbnail-w720px.png"
-              href = "/blog/jc-week-3-c968"
-              alt = "am i coming outta left field"
-              stretch = "cover"
+      src = "/img/jc/2021-01-22+fb5c81ed3a220004b71069645f112867-thumbnail-w720px.png"
+      href = "/blog/jc-week-3-c968"
+      alt = "am i coming outta left field"
+      stretch = "cover"
 +++
 
 

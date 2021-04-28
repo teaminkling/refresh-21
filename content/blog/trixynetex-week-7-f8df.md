@@ -6,10 +6,10 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 7: Disturbed Desert. Created using: Sketchbook Pro."
 [[images]]
-              src = "/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94-thumbnail-w720px.png"
-              href = "/blog/trixynetex-week-7-f8df"
-              alt = "SOL 0"
-              stretch = "cover"
+      src = "/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94-thumbnail-w720px.png"
+      href = "/blog/trixynetex-week-7-f8df"
+      alt = "SOL 0"
+      stretch = "cover"
 +++
 
 

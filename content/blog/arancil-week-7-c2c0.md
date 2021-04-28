@@ -6,10 +6,10 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["arancil"]
 description = "by arancil for week 7: Disturbed Desert. Created using: Ink, traditional."
 [[images]]
-              src = "/img/arancil/2021-02-19+4fea16d14717f41fe6c814d39deb65cb-thumbnail-w720px.jpg"
-              href = "/blog/arancil-week-7-c2c0"
-              alt = "placeholder edit later"
-              stretch = "cover"
+      src = "/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c-thumbnail-w720px.jpg"
+      href = "/blog/arancil-week-7-c2c0"
+      alt = "placeholder edit later"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 14: Absolute Fire. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524-thumbnail-w720px.png"
-              href = "/blog/bell-bones-week-14-aee4"
-              alt = "That's gotta hurt"
-              stretch = "cover"
+      src = "/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524-thumbnail-w720px.png"
+      href = "/blog/bell-bones-week-14-aee4"
+      alt = "That's gotta hurt"
+      stretch = "cover"
 +++
 
 

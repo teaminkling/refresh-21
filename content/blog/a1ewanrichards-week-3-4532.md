@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 3: Red Circle. Created using: Felt and ink on paper."
 [[images]]
-              src = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-3-4532"
-              alt = "Gui"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-01-23+d8b0daf18747600cfc8a59134ef17735-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-3-4532"
+      alt = "Gui"
+      stretch = "cover"
 +++
 
 

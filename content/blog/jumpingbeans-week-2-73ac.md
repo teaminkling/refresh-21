@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 2: Deep Ocean. Created using: pErForMaNcE aRT in video form / video."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/jumpingbeans-week-2-73ac"
-              alt = "the movement of water in two cups multiplicative of volumetric estimated measurement of water"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/3imOd-rOjr8/maxresdefault.jpg"
+      href = "/blog/jumpingbeans-week-2-73ac"
+      alt = "the movement of water in two cups multiplicative of volumetric estimated measurement of water"
+      stretch = "cover"
 +++
 
 
-{{< youtube 3imOd-rOjr8 >}}
+{{< fancybox path="https://img.youtube.com/vi/3imOd-rOjr8/maxresdefault.jpg" file="https://youtu.be/3imOd-rOjr8" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **pErForMaNcE aRT in video form / video**.

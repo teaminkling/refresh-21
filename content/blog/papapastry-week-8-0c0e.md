@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["papapastry"]
 description = "by papapastry for week 8: High Sheen. Created using: Audio/Ableton Live 11 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-8-0c0e"
-              alt = "One Drug Please"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/KXirUI5JGVU/maxresdefault.jpg"
+      href = "/blog/papapastry-week-8-0c0e"
+      alt = "One Drug Please"
+      stretch = "cover"
 +++
 
 
-{{< youtube KXirUI5JGVU >}}
+{{< fancybox path="https://img.youtube.com/vi/KXirUI5JGVU/maxresdefault.jpg" file="https://youtu.be/KXirUI5JGVU" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.

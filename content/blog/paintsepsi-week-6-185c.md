@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 6: Simple Love. Created using: Photoshop."
 [[images]]
-              src = "/img/paintsepsi/2021-02-06+ff32b948b7b12dcd93b12a217d05c7c0-thumbnail-w720px.png"
-              href = "/blog/paintsepsi-week-6-185c"
-              alt = "It's Not Living (If It's Not With You)"
-              stretch = "cover"
+      src = "/img/paintsepsi/2021-02-06+ba138d86a90d99b22277dc87673db8ab-thumbnail-w720px.png"
+      href = "/blog/paintsepsi-week-6-185c"
+      alt = "It's Not Living (If It's Not With You)"
+      stretch = "cover"
 +++
 
 

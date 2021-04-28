@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["zja2damax"]
 description = "by zja2damax for week 3: Red Circle. Created using: Charcoal, Acrylic, and Watercolor on paper."
 [[images]]
-              src = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/zja2damax-week-3-f85c"
-              alt = "The Red Circle"
-              stretch = "cover"
+      src = "/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      href = "/blog/zja2damax-week-3-f85c"
+      alt = "The Red Circle"
+      stretch = "cover"
 +++
 
 

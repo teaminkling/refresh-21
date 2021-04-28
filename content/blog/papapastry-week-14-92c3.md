@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["papapastry"]
 description = "by papapastry for week 14: Absolute Fire. Created using: Music/Ableton Live 11 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-14-92c3"
-              alt = "Cindy Should Pay Me to Moderate"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/3D31aBLn-bs/maxresdefault.jpg"
+      href = "/blog/papapastry-week-14-92c3"
+      alt = "Cindy Should Pay Me to Moderate"
+      stretch = "cover"
 +++
 
 
-{{< youtube 3D31aBLn-bs >}}
+{{< fancybox path="https://img.youtube.com/vi/3D31aBLn-bs/maxresdefault.jpg" file="https://www.youtube.com/watch?v=3D31aBLn-bs" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Music/Ableton Live 11 Suite**.

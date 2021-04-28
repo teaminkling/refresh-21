@@ -6,10 +6,10 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["chari"]
 description = "by chari for week 7: Disturbed Desert. Created using: Digital, Clip Studio Paint."
 [[images]]
-              src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg"
-              href = "/blog/chari-week-7-b2ee"
-              alt = "Academy, Disrepair"
-              stretch = "cover"
+      src = "/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg"
+      href = "/blog/chari-week-7-b2ee"
+      alt = "Academy, Disrepair"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Space Warfare Development"]
 description = "by Space Warfare Development for week 8: High Sheen. Created using: Traditional art.  Copic markers and pens, gell pen.."
 [[images]]
-              src = "/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465-thumbnail-w720px.jpg"
-              href = "/blog/space-warfare-development-week-8-6a17"
-              alt = "Spicy Tuna"
-              stretch = "cover"
+      src = "/img/space_warfare_development/2021-02-24+d5cd8741f052d596d962aa05d7fcc465-thumbnail-w720px.jpg"
+      href = "/blog/space-warfare-development-week-8-6a17"
+      alt = "Spicy Tuna"
+      stretch = "cover"
 +++
 
 

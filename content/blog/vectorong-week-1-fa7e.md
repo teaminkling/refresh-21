@@ -6,10 +6,10 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["vectorong"]
 description = "by vectorong for week 1: Yellow Lines. Created using: Processing (program) + Java."
 [[images]]
-              src = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337-thumbnail-w720px.jpg"
-              href = "/blog/vectorong-week-1-fa7e"
-              alt = "Origin Point"
-              stretch = "cover"
+      src = "/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337-thumbnail-w720px.jpg"
+      href = "/blog/vectorong-week-1-fa7e"
+      alt = "Origin Point"
+      stretch = "cover"
 +++
 
 

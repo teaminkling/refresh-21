@@ -6,10 +6,10 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["papapastry"]
 description = "by papapastry for week 13: Look At Me. Created using: Music/Ableton Live 11 Suite."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-13-fc72"
-              alt = "Coming Up Spades"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-13-fc72"
+      alt = "Coming Up Spades"
+      stretch = "cover"
 +++
 
 

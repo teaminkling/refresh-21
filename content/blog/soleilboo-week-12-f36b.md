@@ -6,10 +6,10 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 12: Visual Words. Created using: Procreate."
 [[images]]
-              src = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif"
-              href = "/blog/soleilboo-week-12-f36b"
-              alt = "Disappear"
-              stretch = "cover"
+      src = "/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif"
+      href = "/blog/soleilboo-week-12-f36b"
+      alt = "Disappear"
+      stretch = "cover"
 +++
 
 

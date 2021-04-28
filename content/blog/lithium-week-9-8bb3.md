@@ -6,10 +6,10 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Lithium"]
 description = "by Lithium for week 9: Bold Strokes. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1-thumbnail-w720px.jpg"
-              href = "/blog/lithium-week-9-8bb3"
-              alt = "Berry Dragon"
-              stretch = "cover"
+      src = "/img/lithium/2021-03-03+9d8f68ae33bf979b8e1b5c94a9dca5c1-thumbnail-w720px.jpg"
+      href = "/blog/lithium-week-9-8bb3"
+      alt = "Berry Dragon"
+      stretch = "cover"
 +++
 
 

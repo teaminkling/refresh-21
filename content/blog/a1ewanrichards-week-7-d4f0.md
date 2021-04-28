@@ -6,10 +6,10 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 7: Disturbed Desert. Created using: Digital (Clip Studio Paint)."
 [[images]]
-              src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-7-d4f0"
-              alt = "Resistance 3: When The Lands Become Graveyards"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-7-d4f0"
+      alt = "Resistance 3: When The Lands Become Graveyards"
+      stretch = "cover"
 +++
 
 

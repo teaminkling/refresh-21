@@ -6,10 +6,10 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-              src = "/img/paintsepsi/2021-01-11+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
-              href = "/blog/paintsepsi-week-2-a425"
-              alt = "Atlantis"
-              stretch = "cover"
+      src = "/img/paintsepsi/2021-01-11+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+      href = "/blog/paintsepsi-week-2-a425"
+      alt = "Atlantis"
+      stretch = "cover"
 +++
 
 

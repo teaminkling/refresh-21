@@ -6,10 +6,10 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 10: Folds and Folds. Created using: Felt marker on paper, 9x12in."
 [[images]]
-              src = "/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c-thumbnail-w720px.jpg"
-              href = "/blog/a1ewanrichards-week-10-aaa2"
-              alt = "Portrait 6: Get Together"
-              stretch = "cover"
+      src = "/img/a1ewanrichards/2021-03-12+451b939a970cfbee0c47aeaf0892876c-thumbnail-w720px.jpg"
+      href = "/blog/a1ewanrichards-week-10-aaa2"
+      alt = "Portrait 6: Get Together"
+      stretch = "cover"
 +++
 
 

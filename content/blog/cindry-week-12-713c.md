@@ -6,10 +6,10 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["cindry"]
 description = "by cindry for week 12: Visual Words. Created using: Photography and Digital Editing."
 [[images]]
-              src = "/img/cindry/2021-03-26+3e9369da1b8e448bc0b319ca906f5778-thumbnail-w720px.png"
-              href = "/blog/cindry-week-12-713c"
-              alt = "Just a normal day as an asian girl online"
-              stretch = "cover"
+      src = "/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065-thumbnail-w720px.png"
+      href = "/blog/cindry-week-12-713c"
+      alt = "Just a normal day as an asian girl online"
+      stretch = "cover"
 +++
 
 

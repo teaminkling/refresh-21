@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Jzann"]
 description = "by Jzann for week 3: Red Circle. Created using: Clip Studio Paint."
 [[images]]
-              src = "/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff-thumbnail-w720px.png"
-              href = "/blog/jzann-week-3-4d1b"
-              alt = "Bat Cave"
-              stretch = "cover"
+      src = "/img/jzann/2021-01-22+9b23f0420910b8c1ce88a287f5aca2ff-thumbnail-w720px.png"
+      href = "/blog/jzann-week-3-4d1b"
+      alt = "Bat Cave"
+      stretch = "cover"
 +++
 
 

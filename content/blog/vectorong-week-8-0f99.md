@@ -6,10 +6,10 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["vectorong"]
 description = "by vectorong for week 8: High Sheen. Created using: Photoshop."
 [[images]]
-              src = "/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34-thumbnail-w720px.jpg"
-              href = "/blog/vectorong-week-8-0f99"
-              alt = "Fixation"
-              stretch = "cover"
+      src = "/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34-thumbnail-w720px.jpg"
+      href = "/blog/vectorong-week-8-0f99"
+      alt = "Fixation"
+      stretch = "cover"
 +++
 
 

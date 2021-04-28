@@ -6,10 +6,10 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 2: Deep Ocean. Created using: traditional, embroidery on tulle."
 [[images]]
-              src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png"
-              href = "/blog/charmandaar-week-2-210a"
-              alt = "felix, the jellyfish"
-              stretch = "cover"
+      src = "/img/charmandaar/2021-01-15+5d20df72f3f6e3761d6718a2df81f42e-thumbnail-w720px.png"
+      href = "/blog/charmandaar-week-2-210a"
+      alt = "felix, the jellyfish"
+      stretch = "cover"
 +++
 
 

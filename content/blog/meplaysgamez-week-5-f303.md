@@ -6,10 +6,10 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["meplaysgamez"]
 description = "by meplaysgamez for week 5: Royal Green. Created using: i love airbrushes."
 [[images]]
-              src = "/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/meplaysgamez-week-5-f303"
-              alt = "Jade Possessions"
-              stretch = "cover"
+      src = "/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362-thumbnail-w720px.jpg"
+      href = "/blog/meplaysgamez-week-5-f303"
+      alt = "Jade Possessions"
+      stretch = "cover"
 +++
 
 

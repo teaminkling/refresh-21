@@ -6,10 +6,10 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Scimister"]
 description = "by Scimister for week 4: Murky Silhouettes. Created using: PaintToolSAI."
 [[images]]
-              src = "/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4-thumbnail-w720px.png"
-              href = "/blog/scimister-week-4-427d"
-              alt = "Giraffe"
-              stretch = "cover"
+      src = "/img/scimister/2021-01-29+eb076653465367e251c8bcb6a4540ae4-thumbnail-w720px.png"
+      href = "/blog/scimister-week-4-427d"
+      alt = "Giraffe"
+      stretch = "cover"
 +++
 
 

@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["papapastry"]
 description = "by papapastry for week 9: Bold Strokes. Created using: Audio/Ableton Live 11 Suite."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/papapastry-week-9-d52c"
-              alt = "7/11 Burrito"
-              stretch = "cover"
+      src = "https://img.youtube.com/vi/0hrJOksPNdI/maxresdefault.jpg"
+      href = "/blog/papapastry-week-9-d52c"
+      alt = "7/11 Burrito"
+      stretch = "cover"
 +++
 
 
-{{< youtube 0hrJOksPNdI >}}
+{{< fancybox path="https://img.youtube.com/vi/0hrJOksPNdI/maxresdefault.jpg" file="https://youtu.be/0hrJOksPNdI" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Audio/Ableton Live 11 Suite**.

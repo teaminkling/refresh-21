@@ -2,43 +2,43 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Twitter",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
-        "provider": "Everywhere",
+        "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
         "provider": "Twitch",
         "username": "paintsepsi"
+      },
+      {
+        "provider": "Everywhere",
+        "username": "paintsepsi"
       }
     ],
     "Bell-Bones#0091": [
       {
-        "provider": "Twitter",
-        "username": "bbart1207"
-      },
-      {
         "provider": "Tumblr",
         "username": "bellbones1207"
+      },
+      {
+        "provider": "Twitter",
+        "username": "bbart1207"
       }
     ],
     "Lithium#7468": [
-      {
-        "provider": "Tumblr",
-        "username": "lithiumreflections"
-      },
       {
         "provider": "Twitter",
         "username": "jaimeskelton"
       },
       {
         "provider": "Instagram",
+        "username": "lithiumreflections"
+      },
+      {
+        "provider": "Tumblr",
         "username": "lithiumreflections"
       }
     ],
@@ -70,16 +70,16 @@
     ],
     "Charmandaar#3357": [
       {
-        "provider": "Twitch",
-        "username": "charmandaar"
-      },
-      {
         "provider": "Twitter",
         "username": "charmandaar_"
       },
       {
         "provider": "Instagram",
         "username": "charmandaar_"
+      },
+      {
+        "provider": "Twitch",
+        "username": "charmandaar"
       }
     ],
     "arancil#8622": [
@@ -108,21 +108,21 @@
     ],
     "Pumpkan#2447": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "pumpkanart"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "pumpkanart"
       }
     ],
     "Moonlit Narcy#0961": [
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "moonlit_narcy"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "moonlit_narcy"
       }
     ],
@@ -174,11 +174,11 @@
     ],
     "cindry#4068": [
       {
-        "provider": "Twitter",
-        "username": "cindrytuna"
+        "provider": "Instagram",
+        "username": "fiveclawd"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "fiveclawd"
       },
       {
@@ -187,7 +187,7 @@
       },
       {
         "provider": "Twitter",
-        "username": "fiveclawd"
+        "username": "cindrytuna"
       }
     ],
     "rainydaze#5604": [
@@ -199,11 +199,15 @@
     "a1ewanrichards#0881": [
       {
         "provider": "Twitter",
-        "username": "rjmendoza444"
+        "username": "rjmmendoza444"
       },
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
+        "provider": "Instagram",
+        "username": "and"
+      },
+      {
+        "provider": "Twitter",
+        "username": "rjmendoza444"
       },
       {
         "provider": "Instagram",
@@ -214,12 +218,8 @@
         "username": "a1ewanrichards#0881"
       },
       {
-        "provider": "Twitter",
-        "username": "rjmmendoza444"
-      },
-      {
-        "provider": "Instagram",
-        "username": "and"
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
       }
     ],
     "soggyissoggy#7277": [
@@ -240,11 +240,11 @@
     ],
     "mrtnong#3026": [
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       }
     ],
@@ -256,11 +256,11 @@
     ],
     "Linalifox#4145": [
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "linalifox"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "linalifox"
       }
     ],
@@ -272,16 +272,16 @@
     ],
     "poru#3659": [
       {
+        "provider": "Instagram",
+        "username": "poruchan_920"
+      },
+      {
         "provider": "Twitch",
         "username": "poru_chan"
       },
       {
         "provider": "Twitter",
         "username": "poruchan09"
-      },
-      {
-        "provider": "Instagram",
-        "username": "poruchan_920"
       }
     ],
     "D3m0n_Msc#9927": [
@@ -318,11 +318,11 @@
     ],
     "jumpingbeans#6967": [
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "jumpingbeansz"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "jumpingbeansz"
       }
     ],

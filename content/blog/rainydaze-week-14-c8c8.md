@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 14: Absolute Fire. Created using: Procreate (and DaVinci Resolve)."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/rainydaze-week-14-c8c8"
-              alt = "Anarchy Loves Fire"
-              stretch = "cover"
+      src = "img/video-placeholder.png"
+      href = "/blog/rainydaze-week-14-c8c8"
+      alt = "Anarchy Loves Fire"
+      stretch = "cover"
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" file="img/rainydaze/2021-04-09+383e0bd6c4d6696d74dbd52a0e1d59ce.mov" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate (and DaVinci Resolve)**.

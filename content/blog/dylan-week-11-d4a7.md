@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["Dylan"]
 description = "by Dylan for week 11: Atmosphere Spectrum. Created using: Photoshop."
 [[images]]
-              src = "/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/dylan-week-11-d4a7"
-              alt = "Cloudy Night"
-              stretch = "cover"
+      src = "/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      href = "/blog/dylan-week-11-d4a7"
+      alt = "Cloudy Night"
+      stretch = "cover"
 +++
 
 

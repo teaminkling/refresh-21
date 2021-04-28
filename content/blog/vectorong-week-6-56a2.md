@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["vectorong"]
 description = "by vectorong for week 6: Simple Love. Created using: Origami + ink."
 [[images]]
-              src = "/img/vectorong/2021-02-12+47b0f6ee79c711f0416fe981b04cc75d-thumbnail-w720px.jpg"
-              href = "/blog/vectorong-week-6-56a2"
-              alt = "Paper Pond"
-              stretch = "cover"
+      src = "/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d-thumbnail-w720px.jpg"
+      href = "/blog/vectorong-week-6-56a2"
+      alt = "Paper Pond"
+      stretch = "cover"
 +++
 
 

@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 11: Atmosphere Spectrum. Created using: Sketchbook Pro."
 [[images]]
-              src = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5-thumbnail-w720px.png"
-              href = "/blog/trixynetex-week-11-ca4c"
-              alt = "Liminal Sky"
-              stretch = "cover"
+      src = "/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5-thumbnail-w720px.png"
+      href = "/blog/trixynetex-week-11-ca4c"
+      alt = "Liminal Sky"
+      stretch = "cover"
 +++
 
 

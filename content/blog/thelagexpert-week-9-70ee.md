@@ -6,10 +6,10 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["TheLagExpert"]
 description = "by TheLagExpert for week 9: Bold Strokes. Created using: Affinity photo."
 [[images]]
-              src = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a-thumbnail-w720px.jpg"
-              href = "/blog/thelagexpert-week-9-70ee"
-              alt = "Welcome to the brave new world of me"
-              stretch = "cover"
+      src = "/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a-thumbnail-w720px.jpg"
+      href = "/blog/thelagexpert-week-9-70ee"
+      alt = "Welcome to the brave new world of me"
+      stretch = "cover"
 +++
 
 

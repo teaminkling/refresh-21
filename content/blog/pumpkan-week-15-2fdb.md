@@ -6,10 +6,10 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 15: Back to Basics. Created using: markers + paper in gif."
 [[images]]
-              src = "/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd-thumbnail-w720px.gif"
-              href = "/blog/pumpkan-week-15-2fdb"
-              alt = "Whats Left : Left handed Leftovers, vol. 1"
-              stretch = "cover"
+      src = "/img/pumpkan/2021-04-16+a556fc98cfc82ef90179c9388f46b3fd-thumbnail-w720px.gif"
+      href = "/blog/pumpkan-week-15-2fdb"
+      alt = "Whats Left : Left handed Leftovers, vol. 1"
+      stretch = "cover"
 +++
 
 

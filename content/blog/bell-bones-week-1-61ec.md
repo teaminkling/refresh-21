@@ -6,10 +6,10 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 1: Yellow Lines. Created using: FireAlpaca."
 [[images]]
-              src = "/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f-thumbnail-w720px.png"
-              href = "/blog/bell-bones-week-1-61ec"
-              alt = "Honey, I'm Home!"
-              stretch = "cover"
+      src = "/img/bell-bones/2021-01-04+3e923c01f401d41d9b9653ea4b6b383f-thumbnail-w720px.png"
+      href = "/blog/bell-bones-week-1-61ec"
+      alt = "Honey, I'm Home!"
+      stretch = "cover"
 +++
 
 

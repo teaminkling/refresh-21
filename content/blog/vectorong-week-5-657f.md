@@ -6,10 +6,10 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["vectorong"]
 description = "by vectorong for week 5: Royal Green. Created using: colored pencils + ink."
 [[images]]
-              src = "/img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b-thumbnail-w720px.jpg"
-              href = "/blog/vectorong-week-5-657f"
-              alt = "Decay"
-              stretch = "cover"
+      src = "/img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b-thumbnail-w720px.jpg"
+      href = "/blog/vectorong-week-5-657f"
+      alt = "Decay"
+      stretch = "cover"
 +++
 
 

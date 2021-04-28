@@ -6,10 +6,10 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["chari"]
 description = "by chari for week 6: Simple Love. Created using: Digital, Clip Studio Paint."
 [[images]]
-              src = "/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a-thumbnail-w720px.png"
-              href = "/blog/chari-week-6-3bfe"
-              alt = "Ghosties"
-              stretch = "cover"
+      src = "/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a-thumbnail-w720px.png"
+      href = "/blog/chari-week-6-3bfe"
+      alt = "Ghosties"
+      stretch = "cover"
 +++
 
 

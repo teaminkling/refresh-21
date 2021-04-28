@@ -6,10 +6,10 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["papapastry"]
 description = "by papapastry for week 11: Atmosphere Spectrum. Created using: Music."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-11-eb4c"
-              alt = "The Island"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-11-eb4c"
+      alt = "The Island"
+      stretch = "cover"
 +++
 
 

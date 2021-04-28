@@ -6,10 +6,10 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 2: Deep Ocean. Created using: SketchBook."
 [[images]]
-              src = "/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902-thumbnail-w720px.png"
-              href = "/blog/trixynetex-week-2-f7ac"
-              alt = "Engulf"
-              stretch = "cover"
+      src = "/img/trixynetex/2021-01-11+0921f41ad4715e604eec744e8b6ca902-thumbnail-w720px.png"
+      href = "/blog/trixynetex-week-2-f7ac"
+      alt = "Engulf"
+      stretch = "cover"
 +++
 
 

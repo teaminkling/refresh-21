@@ -6,10 +6,10 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["vectorong"]
 description = "by vectorong for week 14: Absolute Fire. Created using: Pyrography (woodburning)."
 [[images]]
-              src = "/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834-thumbnail-w720px.jpg"
-              href = "/blog/vectorong-week-14-de8e"
-              alt = "The Five Virtues"
-              stretch = "cover"
+      src = "/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg"
+      href = "/blog/vectorong-week-14-de8e"
+      alt = "The Five Virtues"
+      stretch = "cover"
 +++
 
 

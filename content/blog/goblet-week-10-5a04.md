@@ -6,10 +6,10 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Goblet"]
 description = "by Goblet for week 10: Folds and Folds. Created using: ibispaint x."
 [[images]]
-              src = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12-thumbnail-w720px.png"
-              href = "/blog/goblet-week-10-5a04"
-              alt = "textile grook"
-              stretch = "cover"
+      src = "/img/goblet/2021-03-12+8b2329cf305a672a2c617cf7d66dca12-thumbnail-w720px.png"
+      href = "/blog/goblet-week-10-5a04"
+      alt = "textile grook"
+      stretch = "cover"
 +++
 
 

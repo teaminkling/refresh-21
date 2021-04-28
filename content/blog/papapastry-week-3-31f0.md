@@ -6,10 +6,10 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["papapastry"]
 description = "by papapastry for week 3: Red Circle. Created using: Audio (Ableton Live 10)."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-3-31f0"
-              alt = "Tamago Tama"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-3-31f0"
+      alt = "Tamago Tama"
+      stretch = "cover"
 +++
 
 

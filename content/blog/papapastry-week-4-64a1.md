@@ -6,10 +6,10 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["papapastry"]
 description = "by papapastry for week 4: Murky Silhouettes. Created using: Ableton Live 10."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-4-64a1"
-              alt = "MURKE SHADOES"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-4-64a1"
+      alt = "MURKE SHADOES"
+      stretch = "cover"
 +++
 
 

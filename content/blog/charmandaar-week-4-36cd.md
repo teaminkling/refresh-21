@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 4: Murky Silhouettes. Created using: video/photoshop."
 [[images]]
-              src = "img/video-placeholder.png"
-              href = "/blog/charmandaar-week-4-36cd"
-              alt = "POV you dust off an old VHS tape and slot it in the player…"
-              stretch = "cover"
+      src = "img/video-placeholder.png"
+      href = "/blog/charmandaar-week-4-36cd"
+      alt = "POV you dust off an old VHS tape and slot it in the player…"
+      stretch = "cover"
 +++
 
 
-{{< fancybox path="img/video-placeholder.png" file="img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" file="img/charmandaar/2021-01-29+22b9ee6f12d87a741172fa7b452042fa.mp4" caption="Placeholder thumbnail for a video work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **video/photoshop**.

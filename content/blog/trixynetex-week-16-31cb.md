@@ -6,15 +6,18 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 16: Scaling Giants. Created using: Clip studio paint."
 [[images]]
-              src = "img/other-placeholder.png"
-              href = "/blog/trixynetex-week-16-31cb"
-              alt = "Ozymandias"
-              stretch = "cover"
+      src = "https://swebtoon-phinf.pstatic.net/20210421_156/1618998280915z5thP_PNG/thumbnail.jpg"
+      href = "/blog/trixynetex-week-16-31cb"
+      alt = "Ozymandias"
+      stretch = "cover"
 +++
 
 
-[View on Webtoons.](https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1)
-
+                <a href="https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1" target="_blank">
+                  <img src="https://swebtoon-phinf.pstatic.net/20210421_156/1618998280915z5thP_PNG/thumbnail.jpg"
+                       alt="External link image preview for generic website." />
+                </a>
+                
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip studio paint**.
 

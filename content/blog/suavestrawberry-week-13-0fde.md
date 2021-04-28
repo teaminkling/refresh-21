@@ -6,15 +6,18 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["SuaveStrawberry"]
 description = "by SuaveStrawberry for week 13: Look At Me. Created using: procreate."
 [[images]]
-              src = "img/other-placeholder.png"
-              href = "/blog/suavestrawberry-week-13-0fde"
-              alt = "Fragments of Remembrance"
-              stretch = "cover"
+      src = "https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg"
+      href = "/blog/suavestrawberry-week-13-0fde"
+      alt = "Fragments of Remembrance"
+      stretch = "cover"
 +++
 
 
-[View on Webtoons.](https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599)
-
+                <a href="https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599" target="_blank">
+                  <img src="https://swebtoon-phinf.pstatic.net/20200729_2/1595998212927yI10r_JPEG/thumbnail.jpg"
+                       alt="External link image preview for generic website." />
+                </a>
+                
 
 Week 13: **Look At Me**. This art was lovingly created using: **procreate**.
 

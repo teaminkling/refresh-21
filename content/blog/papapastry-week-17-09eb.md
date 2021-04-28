@@ -6,19 +6,13 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["papapastry"]
 description = "by papapastry for week 17: The 4 R's: Finale. Created using: Golang, Hugo, Python/Programming.."
 [[images]]
-              src = "/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
-              href = "/blog/papapastry-week-17-09eb"
-              alt = "refresh.fiveclawd.com"
-              stretch = "cover"
+      src = "img/other-placeholder.png"
+      href = "/blog/papapastry-week-17-09eb"
+      alt = "refresh.fiveclawd.com"
+      stretch = "cover"
 +++
 
-## Poetry/Prose
 
-{{< highlight txt >}}
-Yeah, this totally counts. This isn't all I'm doing, of course.
-
-https://refresh.fiveclawd.com/
-{{< /highlight >}}
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Golang, Hugo, Python/Programming.**.
 

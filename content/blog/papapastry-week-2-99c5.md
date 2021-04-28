@@ -6,10 +6,10 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["papapastry"]
 description = "by papapastry for week 2: Deep Ocean. Created using: Audio (Ableton Live 10) and a Fender Stratocaster."
 [[images]]
-              src = "img/audio-placeholder.png"
-              href = "/blog/papapastry-week-2-99c5"
-              alt = "b̴͆͘e̸̲͌w̵͑͘ả̴̀r̶̾̎ȅ̷̌ ̶̃̎t̸͋̈́h̵̎̇e̴͑͂ ̸͑̇d̶̈́͝ě̵̤e̶͊͘p̵̒̀"
-              stretch = "cover"
+      src = "img/audio-placeholder.png"
+      href = "/blog/papapastry-week-2-99c5"
+      alt = "b̴͆͘e̸̲͌w̵͑͘ả̴̀r̶̾̎ȅ̷̌ ̶̃̎t̸͋̈́h̵̎̇e̴͑͂ ̸͑̇d̶̈́͝ě̵̤e̶͊͘p̵̒̀"
+      stretch = "cover"
 +++
 
 
