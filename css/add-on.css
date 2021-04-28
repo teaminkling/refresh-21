@@ -55,3 +55,7 @@ textarea {
 #content ul {
     padding-right: 32px;
 }
+
+#search {
+    display: none;
+}
