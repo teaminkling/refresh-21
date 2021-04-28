@@ -244,7 +244,8 @@ def determine_media_and_submission_thumbnail(submission):
                 )
 
                 media_content_html += (
-                    f'\n{{{{< fancybox path="{generated_thumbnail_url or attachment_url}" file='
+                    f'\n{{{{< fancybox '
+                    f'path="{generated_thumbnail_url or "/img/video-placeholder.png"}" file='
                     f'"{attachment_url}" caption="Placeholder thumbnail for a video work." >}}}}\n'
                     f'<p style="text-align: center">The above is an MP4 video link. Please click '
                     f'it to view the video!</p>'
