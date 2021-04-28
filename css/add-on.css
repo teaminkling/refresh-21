@@ -46,3 +46,12 @@ textarea {
 .copyright {
     color: #000000 !important;
 }
+
+.left,
+.right span {
+    display: block;
+}
+
+#content ul {
+    padding-right: 32px;
+}
