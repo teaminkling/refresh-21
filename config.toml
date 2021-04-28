@@ -32,8 +32,8 @@ hideEmptyStats        = false
 [params.meta]
 description         = "A weekly design/art/creative challenge hosted on Twitch.TV by @CindryTuna AKA FiveClawD."
 author              = "FiveClawD"
-favicon             = false
-svg                 = true
+favicon             = true
+svg                 = false
 faviconVersion      = "1"
 msColor             = "#ffffff"
 iOSColor            = "#ffffff"
@@ -60,7 +60,7 @@ width               = "100%"
 alt                 = "The 2021 Design Refresh logo superimposed on a blurred background."
 
 [params.intro.logo]
-src                 = "img/logo.png"
+src                 = "img/logo.svg"
 shape               = "square"
 width               = "100%"
 alt                 = "The 2021 Design Refresh Logo, as-is with typography."
