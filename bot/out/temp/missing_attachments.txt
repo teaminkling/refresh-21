@@ -27,3 +27,19 @@ Magnificent, glorious
 Twinkling far away
 
 =======================================================================================================================
+
+ENTRY 2
+=======================================================================================================================
+
+**Week**: 17
+**Title:** refresh.fiveclawd.com
+**Medium:** Golang, Hugo, Python/Programming.
+**Description:**
+
+Yeah, this totally counts. This isn't all I'm doing, of course.
+
+https://refresh.fiveclawd.com/
+
+**Social Media:** papapastry_ on Twitter
+
+=======================================================================================================================

@@ -109,6 +109,12 @@ url               = "/artists/"
 pre               = "<i class='fas fa-paint-brush'></i>"
 weight            = 5
 
+[[menu.main]]
+name              = "FiveClawD"
+identifier        = "fiveclawd"
+url               = "https://fiveclawd.com"
+pre               = "<i class='fas fa-external-link-alt'></i>"
+weight            = 6
 
 [Languages]
 

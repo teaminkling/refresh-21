@@ -2,15 +2,15 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Everywhere",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
         "provider": "Instagram",
+        "username": "paintsepsi"
+      },
+      {
+        "provider": "Everywhere",
         "username": "paintsepsi"
       },
       {
@@ -20,15 +20,19 @@
     ],
     "Bell-Bones#0091": [
       {
-        "provider": "Tumblr",
-        "username": "bellbones1207"
-      },
-      {
         "provider": "Twitter",
         "username": "bbart1207"
+      },
+      {
+        "provider": "Tumblr",
+        "username": "bellbones1207"
       }
     ],
     "Lithium#7468": [
+      {
+        "provider": "Tumblr",
+        "username": "lithiumreflections"
+      },
       {
         "provider": "Twitter",
         "username": "jaimeskelton"
@@ -36,20 +40,16 @@
       {
         "provider": "Instagram",
         "username": "lithiumreflections"
-      },
-      {
-        "provider": "Tumblr",
-        "username": "lithiumreflections"
       }
     ],
     "vectorong#7566": [
       {
-        "provider": "Twitch",
-        "username": "vectorong"
-      },
-      {
         "provider": "Instagram",
         "username": "karen_tsugawa"
+      },
+      {
+        "provider": "Twitch",
+        "username": "vectorong"
       }
     ],
     "Boyf#4064": [
@@ -70,29 +70,29 @@
     ],
     "Charmandaar#3357": [
       {
-        "provider": "Instagram",
-        "username": "charmandaar_"
+        "provider": "Twitch",
+        "username": "charmandaar"
       },
       {
         "provider": "Twitter",
         "username": "charmandaar_"
       },
       {
-        "provider": "Twitch",
-        "username": "charmandaar"
+        "provider": "Instagram",
+        "username": "charmandaar_"
       }
     ],
     "arancil#8622": [
       {
-        "provider": "Instagram",
-        "username": "arancil"
-      },
-      {
         "provider": "Twitch",
         "username": "arancil"
       },
       {
         "provider": "Twitter",
+        "username": "arancil"
+      },
+      {
+        "provider": "Instagram",
         "username": "arancil"
       }
     ],
@@ -108,21 +108,21 @@
     ],
     "Pumpkan#2447": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "pumpkanart"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "pumpkanart"
       }
     ],
     "Moonlit Narcy#0961": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "moonlit_narcy"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "moonlit_narcy"
       }
     ],
@@ -138,15 +138,15 @@
     ],
     "jc#3609": [
       {
-        "provider": "Tumblr",
-        "username": "rybaris"
-      },
-      {
         "provider": "Twitter",
         "username": "rybaris"
       },
       {
         "provider": "Instagram",
+        "username": "rybaris"
+      },
+      {
+        "provider": "Tumblr",
         "username": "rybaris"
       }
     ],
@@ -175,10 +175,6 @@
     "cindry#4068": [
       {
         "provider": "Twitter",
-        "username": "fiveclawd"
-      },
-      {
-        "provider": "Twitter",
         "username": "cindrytuna"
       },
       {
@@ -188,6 +184,10 @@
       {
         "provider": "Twitch",
         "username": "cindrytuna"
+      },
+      {
+        "provider": "Twitter",
+        "username": "fiveclawd"
       }
     ],
     "rainydaze#5604": [
@@ -199,6 +199,14 @@
     "a1ewanrichards#0881": [
       {
         "provider": "Twitter",
+        "username": "rjmendoza444"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
+      },
+      {
+        "provider": "Instagram",
         "username": "rjmmendoza444"
       },
       {
@@ -206,20 +214,12 @@
         "username": "a1ewanrichards#0881"
       },
       {
-        "provider": "Instagram",
-        "username": "and"
-      },
-      {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "rjmmendoza444"
       },
       {
-        "provider": "Twitter",
-        "username": "rjmendoza444"
-      },
-      {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
+        "provider": "Instagram",
+        "username": "and"
       }
     ],
     "soggyissoggy#7277": [
@@ -230,11 +230,11 @@
     ],
     "Goblet#7026": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "cup_o_rice"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "cup_o_rice"
       }
     ],
@@ -256,11 +256,11 @@
     ],
     "Linalifox#4145": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "linalifox"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "linalifox"
       }
     ],
@@ -272,12 +272,12 @@
     ],
     "poru#3659": [
       {
-        "provider": "Twitter",
-        "username": "poruchan09"
-      },
-      {
         "provider": "Twitch",
         "username": "poru_chan"
+      },
+      {
+        "provider": "Twitter",
+        "username": "poruchan09"
       },
       {
         "provider": "Instagram",
@@ -292,12 +292,12 @@
     ],
     "Psyko#9587": [
       {
-        "provider": "Instagram",
-        "username": "austeezus"
-      },
-      {
         "provider": "Twitter",
         "username": "psykoframe"
+      },
+      {
+        "provider": "Instagram",
+        "username": "austeezus"
       }
     ],
     "Magus_Hellwalker#9661": [
@@ -318,11 +318,11 @@
     ],
     "jumpingbeans#6967": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "jumpingbeansz"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "jumpingbeansz"
       }
     ],
@@ -344,11 +344,11 @@
     ],
     "winsome#5621": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       }
     ],
@@ -390,16 +390,16 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Twitch",
-        "username": "mimichair"
+        "provider": "Twitter",
+        "username": "mimikuchan"
       },
       {
         "provider": "Instagram",
         "username": "mimichair.art"
       },
       {
-        "provider": "Twitter",
-        "username": "mimikuchan"
+        "provider": "Twitch",
+        "username": "mimichair"
       }
     ]
   },
@@ -8624,8 +8624,28 @@
       "raw_content": "Week: 2\nTitle: Under the Sea \nMedium: Game, Animal Crossing\nDescription: (I didn\u2019t actually post at the time so here we are...)",
       "raw_socials": "",
       "raw_hyperlinks": []
+    },
+    {
+      "id": "papapastry-week-17-09eb",
+      "author": "papapastry#8888",
+      "created_at": "2021-04-27",
+      "week": 17,
+      "title": "refresh.fiveclawd.com",
+      "medium": "Golang, Hugo, Python/Programming.",
+      "description": "Yeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/",
+      "attachments": [],
+      "socials": [
+        {
+          "Twitter": "papapastry_"
+        }
+      ],
+      "raw_content": "**Week**: 17\n**Title:** refresh.fiveclawd.com\n**Medium:** Golang, Hugo, Python/Programming.\n**Description:**\n\nYeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/\n\n**Social Media:** papapastry_ on Twitter",
+      "raw_socials": "papapastry_ on Twitter",
+      "raw_hyperlinks": [
+        "https://refresh.fiveclawd.com/"
+      ]
     }
   ],
   "user_count": 68,
-  "submission_count": 361
+  "submission_count": 362
 }
