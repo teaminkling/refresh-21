@@ -14,7 +14,7 @@ description = "by TheLagExpert for week 6: Simple Love. Created using: Affinity 
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f-thumbnail-w720px.png" file="img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f-thumbnail-w720px.png" file="/img/thelagexpert/2021-02-08+75ac0c875823c78f3353e5db08b02b0f.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Affinity Photo**.

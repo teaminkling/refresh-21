@@ -14,7 +14,7 @@ description = "by soleilboo for week 10: Folds and Folds. Created using: Photosh
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19-thumbnail-w720px.jpg" file="img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19-thumbnail-w720px.jpg" file="/img/soleilboo/2021-03-12+dc6aed05fdee446fd2f20fd221f28a19.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.

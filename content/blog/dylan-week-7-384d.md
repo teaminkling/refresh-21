@@ -14,7 +14,7 @@ description = "by Dylan for week 7: Disturbed Desert. Created using: blender."
 +++
 
 
-{{< fancybox path="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg" file="img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg" file="/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **blender**.

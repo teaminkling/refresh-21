@@ -14,7 +14,7 @@ description = "by TrixyNetex for week 7: Disturbed Desert. Created using: Sketch
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94-thumbnail-w720px.png" file="img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94-thumbnail-w720px.png" file="/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Sketchbook Pro**.

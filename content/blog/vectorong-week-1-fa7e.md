@@ -14,7 +14,7 @@ description = "by vectorong for week 1: Yellow Lines. Created using: Processing 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337-thumbnail-w720px.jpg" file="img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-05+4acfecac6f337f5ba4bfd8787eb37337.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Processing (program) + Java**.

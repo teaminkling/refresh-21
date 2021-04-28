@@ -14,7 +14,7 @@ description = "by Bell-Bones for week 2: Deep Ocean. Created using: FireAlpaca."
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png" file="img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png" file="/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **FireAlpaca**.

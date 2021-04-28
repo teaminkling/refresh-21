@@ -14,7 +14,7 @@ description = "by cindry for week 15: Back to Basics. Created using: relief prin
 +++
 
 
-{{< fancybox path="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg" file="img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37-thumbnail-w720px.jpg" file="/img/cindry/2021-04-16+2d88694573b558ac0470bc82a258ff37.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **relief printing on note books**.

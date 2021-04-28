@@ -14,7 +14,7 @@ description = "by Pumpkan for week 11: Atmosphere Spectrum. Created using: paper
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f-thumbnail-w720px.jpg" file="img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f-thumbnail-w720px.jpg" file="/img/pumpkan/2021-03-19+2a3d2a3b445461b35afd54a0a87c6f4f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **paper and gold thread and glue and stuff**.

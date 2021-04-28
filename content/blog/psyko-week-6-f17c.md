@@ -14,7 +14,7 @@ description = "by Psyko for week 6: Simple Love. Created using: Krita."
 +++
 
 
-{{< fancybox path="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867-thumbnail-w720px.jpg" file="img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867-thumbnail-w720px.jpg" file="/img/psyko/2021-02-10+8689fffd6ca2d40514bcfd8d9e114867.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Krita**.

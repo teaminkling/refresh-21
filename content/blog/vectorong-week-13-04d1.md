@@ -14,9 +14,9 @@ description = "by vectorong for week 13: Look At Me. Created using: Mixed media 
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg" file="img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455-thumbnail-w720px.jpg" file="img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< fancybox path="https://img.youtube.com/vi/lkYeBXXHgY4/maxresdefault.jpg" file="https://www.youtube.com/watch?v=lkYeBXXHgY4" caption="Placeholder thumbnail for a visual work." >}}
 

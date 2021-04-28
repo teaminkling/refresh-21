@@ -14,7 +14,7 @@ description = "by Pumpkan for week 9: Bold Strokes. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71-thumbnail-w720px.png" file="img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71-thumbnail-w720px.png" file="/img/pumpkan/2021-03-05+99e5818b22343d6a302465f277e7aa71.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Procreate**.

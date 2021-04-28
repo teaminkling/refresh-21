@@ -14,7 +14,7 @@ description = "by TheLagExpert for week 3: Red Circle. Created using: Affinity P
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg" file="img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066-thumbnail-w720px.jpeg" file="/img/thelagexpert/2021-01-22+77bacb84342861766c1c127c485c9066.jpeg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Affinity Photo**.

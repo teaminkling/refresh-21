@@ -6,7 +6,7 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 6: Simple Love. Created using: Ableton Live 10 Suite."
 [[images]]
-      src = "img/audio-placeholder.png"
+      src = "/img/audio-placeholder.png"
       href = "/blog/charmandaar-week-6-7344"
       alt = "Paper Aeroplanes demo.mp3, collab with @papapastry"
       caption = "This submission contains an audio link. Please view the full post to hear it!"

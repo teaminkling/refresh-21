@@ -14,7 +14,7 @@ description = "by arren for week 1: Yellow Lines. Created using: photoshop."
 +++
 
 
-{{< fancybox path="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3-thumbnail-w720px.gif" file="img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3-thumbnail-w720px.gif" file="/img/arren/2021-01-05+3e589b3da00fe4d34cd967db86e964a3.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **photoshop**.

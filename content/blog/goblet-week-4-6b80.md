@@ -14,7 +14,7 @@ description = "by Goblet for week 4: Murky Silhouettes. Created using: Krita wit
 +++
 
 
-{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg" file="img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Krita with mouse**.

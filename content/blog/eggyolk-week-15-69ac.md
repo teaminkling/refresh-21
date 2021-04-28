@@ -14,7 +14,7 @@ description = "by eggyolk for week 15: Back to Basics. Created using: Procreate.
 +++
 
 
-{{< fancybox path="/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png" file="img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4-thumbnail-w720px.png" file="/img/eggyolk/2021-04-16+1c86201798ce9e595e147d8efd4ecfd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Procreate**.

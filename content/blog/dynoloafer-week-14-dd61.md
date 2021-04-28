@@ -14,7 +14,7 @@ description = "by DynoLoafer for week 14: Absolute Fire. Created using: Paint To
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc-thumbnail-w720px.png" file="img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc-thumbnail-w720px.png" file="/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Paint Tool SAI**.

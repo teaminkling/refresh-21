@@ -14,7 +14,7 @@ description = "by Charmandaar for week 12: Visual Words. Created using: procreat
 +++
 
 
-{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png" file="img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d-thumbnail-w720px.png" file="/img/charmandaar/2021-03-25+7ffb2d65ead69c1178bb0e10d67d9d3d.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **procreate**.

@@ -14,7 +14,7 @@ description = "by Lithium for week 1: Yellow Lines. Created using: Digital (Clip
 +++
 
 
-{{< fancybox path="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b-thumbnail-w720px.jpg" file="img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b-thumbnail-w720px.jpg" file="/img/lithium/2021-01-05+db5eaae7546a380ce0f24474db5fc36b.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

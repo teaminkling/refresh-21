@@ -14,7 +14,7 @@ description = "by D3m0n_Msc for week 6: Simple Love. Created using: : Ibis paint
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c-thumbnail-w720px.png" file="img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c-thumbnail-w720px.png" file="/img/d3m0n_msc/2021-02-12+d1bf1a7af440f543476d02a035bea81c.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **: Ibis paint x**.

@@ -6,7 +6,7 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 7: Disturbed Desert. Created using: FireAlpaca."
 [[images]]
-      src = "img/other-placeholder.png"
+      src = "/img/other-placeholder.png"
       href = "/blog/bell-bones-week-7-7b4a"
       alt = "Hey you! Yeah, up here!"
       caption = "This submission contains a gallery link. Please view the full post to see it!"

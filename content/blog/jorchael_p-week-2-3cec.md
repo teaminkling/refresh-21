@@ -14,7 +14,7 @@ description = "by jorchael_p for week 2: Deep Ocean. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964-thumbnail-w720px.png" file="img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964-thumbnail-w720px.png" file="/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Photoshop**.

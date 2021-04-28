@@ -14,7 +14,7 @@ description = "by Bell-Bones for week 14: Absolute Fire. Created using: FireAlpa
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524-thumbnail-w720px.png" file="img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524-thumbnail-w720px.png" file="/img/bell-bones/2021-04-08+973e5515ec5f89221a955db69f651524.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **FireAlpaca**.

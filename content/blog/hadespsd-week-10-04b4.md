@@ -14,7 +14,7 @@ description = "by HadesPsd for week 10: Folds and Folds. Created using: CSP with
 +++
 
 
-{{< fancybox path="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8-thumbnail-w720px.jpg" file="img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8-thumbnail-w720px.jpg" file="/img/hadespsd/2021-03-11+de9ed7c2bfb120ba8a26727d5bc03ff8.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **CSP with Basic Brushes**.

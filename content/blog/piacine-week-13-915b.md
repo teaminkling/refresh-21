@@ -14,7 +14,7 @@ description = "by Piacine for week 13: Look At Me. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif" file="img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif" file="/img/piacine/2021-03-29+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Procreate**.

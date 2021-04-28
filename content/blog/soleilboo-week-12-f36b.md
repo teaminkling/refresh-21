@@ -14,7 +14,7 @@ description = "by soleilboo for week 12: Visual Words. Created using: Procreate.
 +++
 
 
-{{< fancybox path="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif" file="img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7-thumbnail-w720px.gif" file="/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Procreate**.

@@ -14,7 +14,7 @@ description = "by a1ewanrichards for week 8: High Sheen. Created using: Adobe Ph
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db-thumbnail-w720px.jpg" file="img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-02-26+0538395a01603e3d6df49343985f43db.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Adobe Photoshop**.

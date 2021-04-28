@@ -6,7 +6,7 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["papapastry"]
 description = "by papapastry for week 11: Atmosphere Spectrum. Created using: Music."
 [[images]]
-      src = "img/audio-placeholder.png"
+      src = "/img/audio-placeholder.png"
       href = "/blog/papapastry-week-11-eb4c"
       alt = "The Island"
       caption = "This submission contains an audio link. Please view the full post to hear it!"

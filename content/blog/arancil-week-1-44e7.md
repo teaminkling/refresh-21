@@ -14,7 +14,7 @@ description = "by arancil for week 1: Yellow Lines. Created using: Ink, watercol
 +++
 
 
-{{< fancybox path="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233-thumbnail-w720px.jpg" file="img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233-thumbnail-w720px.jpg" file="/img/arancil/2021-01-07+e73038165e6feffeadccde86e13b6233.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Ink, watercolour**.

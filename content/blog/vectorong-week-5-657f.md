@@ -14,7 +14,7 @@ description = "by vectorong for week 5: Royal Green. Created using: colored penc
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b-thumbnail-w720px.jpg" file="img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-04+a8f15c56afd1debb1e6f5dce092b894b.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **colored pencils + ink**.

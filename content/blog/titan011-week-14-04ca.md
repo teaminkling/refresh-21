@@ -14,7 +14,7 @@ description = "by TITAN011 for week 14: Absolute Fire. Created using: Clip studi
 +++
 
 
-{{< fancybox path="/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a-thumbnail-w720px.jpg" file="img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a-thumbnail-w720px.jpg" file="/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Clip studio**.

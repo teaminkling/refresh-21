@@ -14,7 +14,7 @@ description = "by D3m0n_Msc for week 12: Visual Words. Created using: phone."
 +++
 
 
-{{< fancybox path="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716-thumbnail-w720px.png" file="img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716-thumbnail-w720px.png" file="/img/d3m0n_msc/2021-03-26+7276949964729e76da382b5f46527716.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **phone**.

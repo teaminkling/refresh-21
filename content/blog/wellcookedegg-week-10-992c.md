@@ -14,7 +14,7 @@ description = "by WellCookedEgg for week 10: Folds and Folds. Created using: Cli
 +++
 
 
-{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392-thumbnail-w720px.jpg" file="img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392-thumbnail-w720px.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f9fb034aebed33f492435d392.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.

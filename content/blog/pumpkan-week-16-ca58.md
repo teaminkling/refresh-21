@@ -14,7 +14,7 @@ description = "by Pumpkan for week 16: Scaling Giants. Created using: Photo + Pr
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png" file="img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76-thumbnail-w720px.png" file="/img/pumpkan/2021-04-23+85c86f1a0dd0725bea94bb9e64333d76.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photo + Procreate**.

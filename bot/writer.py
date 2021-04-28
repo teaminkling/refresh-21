@@ -208,6 +208,14 @@ def determine_media_and_submission_thumbnail(submission):
         attachment_extension: str = attachment_url.split(".")[-1].lower()
         is_locally_hosted: bool = "img/" in attachment_url
 
+        # Ensure both URLs start with a "/"
+
+        if not attachment_url.startswith("/") and not attachment_url.startswith("http"):
+            attachment_url = f"/{attachment_url}"
+
+        if generated_thumbnail_url and not generated_thumbnail_url.startswith("/"):
+            generated_thumbnail_url = f"/{generated_thumbnail_url}"
+
         # Start to determine the media content and ensure correct thumbnail for this post.
 
         if is_locally_hosted:
@@ -232,7 +240,7 @@ def determine_media_and_submission_thumbnail(submission):
                 )
             elif attachment_extension in VIDEO_FILE_EXTENSIONS:
                 submission_thumbnail_url = (
-                    submission_thumbnail_url or "img/video-placeholder.png"
+                    submission_thumbnail_url or "/img/video-placeholder.png"
                 )
 
                 media_content_html += (
@@ -248,7 +256,7 @@ def determine_media_and_submission_thumbnail(submission):
                     )
             elif attachment_extension in AUDIO_FILE_EXTENSIONS:
                 submission_thumbnail_url = (
-                    submission_thumbnail_url or "img/audio-placeholder.png"
+                    submission_thumbnail_url or "/img/audio-placeholder.png"
                 )
 
                 media_content_html += (
@@ -263,7 +271,7 @@ def determine_media_and_submission_thumbnail(submission):
                     )
             else:
                 submission_thumbnail_url = (
-                    submission_thumbnail_url or "img/other-placeholder.png"
+                    submission_thumbnail_url or "/img/other-placeholder.png"
                 )
 
                 media_content_html += (
@@ -293,7 +301,7 @@ def determine_media_and_submission_thumbnail(submission):
         elif "soundcloud" in attachment_url:
             # TODO: Soundcloud gallery embed.
 
-            submission_thumbnail_url = "img/audio-placeholder.png"
+            submission_thumbnail_url = "/img/audio-placeholder.png"
             media_content_html += f"\n[View on SoundCloud.]({attachment_url})\n"
 
             if not list_item_caption:
@@ -304,7 +312,7 @@ def determine_media_and_submission_thumbnail(submission):
             # TODO: Imgur gallery embed.
             # TODO: Imgur thumbnail.
 
-            submission_thumbnail_url = "img/other-placeholder.png"
+            submission_thumbnail_url = "/img/other-placeholder.png"
             media_content_html += f"\n[View on Imgur.]({attachment_url})\n"
 
             if not list_item_caption:

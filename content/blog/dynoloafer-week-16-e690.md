@@ -14,7 +14,7 @@ description = "by DynoLoafer for week 16: Scaling Giants. Created using: Paint T
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a-thumbnail-w720px.png" file="img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a-thumbnail-w720px.png" file="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< fancybox path="https://img.youtube.com/vi/TQbKwNmsTes/maxresdefault.jpg" file="https://www.youtube.com/watch?v=TQbKwNmsTes" caption="Placeholder thumbnail for a visual work." >}}
 

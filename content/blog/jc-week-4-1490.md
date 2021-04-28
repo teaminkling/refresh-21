@@ -14,7 +14,7 @@ description = "by jc for week 4: Murky Silhouettes. Created using: csp!."
 +++
 
 
-{{< fancybox path="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580-thumbnail-w720px.png" file="img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580-thumbnail-w720px.png" file="/img/jc/2021-01-28+09dd8c2662b96ce14928333f055c5580.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp!**.

@@ -14,7 +14,7 @@ description = "by papapastry for week 13: Look At Me. Created using: Procreate, 
 +++
 
 
-{{< fancybox path="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/papapastry/2021-04-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual work." >}}
 
 {{< fancybox path="https://img.youtube.com/vi/s2bUtKo88HQ/maxresdefault.jpg" file="https://www.youtube.com/watch?v=s2bUtKo88HQ" caption="Placeholder thumbnail for a visual work." >}}
 

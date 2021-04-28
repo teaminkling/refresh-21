@@ -14,7 +14,7 @@ description = "by DynoLoafer for week 9: Bold Strokes. Created using: Paint Tool
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef-thumbnail-w720px.png" file="img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef-thumbnail-w720px.png" file="/img/dynoloafer/2021-03-01+d9326d51a8e5da99468030dbc6e767ef.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Paint Tool SAI**.

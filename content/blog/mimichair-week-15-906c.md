@@ -14,7 +14,7 @@ description = "by MimiChair for week 15: Back to Basics. Created using: Adobe Ph
 +++
 
 
-{{< fancybox path="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31-thumbnail-w720px.png" file="img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31-thumbnail-w720px.png" file="/img/mimichair/2021-04-12+d251cf487f4eb69c23bc4cdc3cd8aa31.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Adobe Photoshop**.

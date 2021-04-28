@@ -14,7 +14,7 @@ description = "by winsome for week 4: Murky Silhouettes. Created using: Digital 
 +++
 
 
-{{< fancybox path="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png" file="img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61-thumbnail-w720px.png" file="/img/winsome/2021-01-29+a1b1723937de6d5448439559f6e14b61.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Photopea)**.

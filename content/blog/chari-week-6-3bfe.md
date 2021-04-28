@@ -14,7 +14,7 @@ description = "by chari for week 6: Simple Love. Created using: Digital, Clip St
 +++
 
 
-{{< fancybox path="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a-thumbnail-w720px.png" file="img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a-thumbnail-w720px.png" file="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital, Clip Studio Paint**.

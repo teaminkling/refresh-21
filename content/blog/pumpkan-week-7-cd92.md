@@ -14,7 +14,7 @@ description = "by Pumpkan for week 7: Disturbed Desert. Created using: Procreate
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078-thumbnail-w720px.png" file="img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078-thumbnail-w720px.png" file="/img/pumpkan/2021-02-18+5aef4b403c502e6f47867490c7cbd078.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Procreate**.

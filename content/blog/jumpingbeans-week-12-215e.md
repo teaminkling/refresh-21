@@ -14,7 +14,7 @@ description = "by jumpingbeans for week 12: Visual Words. Created using: gif."
 +++
 
 
-{{< fancybox path="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7-thumbnail-w720px.gif" file="img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7-thumbnail-w720px.gif" file="/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **gif**.

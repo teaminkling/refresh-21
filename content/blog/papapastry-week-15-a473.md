@@ -6,7 +6,7 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["papapastry"]
 description = "by papapastry for week 15: Back to Basics. Created using: Music/Fruity Loops Studio 20."
 [[images]]
-      src = "img/audio-placeholder.png"
+      src = "/img/audio-placeholder.png"
       href = "/blog/papapastry-week-15-a473"
       alt = "Hades"
       caption = "This submission contains a video link. Please view the full post to see it!"

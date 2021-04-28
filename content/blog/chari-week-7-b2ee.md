@@ -14,7 +14,7 @@ description = "by chari for week 7: Disturbed Desert. Created using: Digital, Cl
 +++
 
 
-{{< fancybox path="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg" file="img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4-thumbnail-w720px.jpg" file="/img/chari/2021-02-19+f7f52c08eea242064a4329ecedf717f4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Digital, Clip Studio Paint**.

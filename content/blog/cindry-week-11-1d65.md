@@ -14,7 +14,7 @@ description = "by cindry for week 11: Atmosphere Spectrum. Created using: Digita
 +++
 
 
-{{< fancybox path="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74-thumbnail-w720px.png" file="img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74-thumbnail-w720px.png" file="/img/cindry/2021-03-19+6ee21eae4e8e2d1bb2bc9d0e58dbda74.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Digital, CSP**.

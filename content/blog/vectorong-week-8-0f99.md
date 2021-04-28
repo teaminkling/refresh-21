@@ -14,7 +14,7 @@ description = "by vectorong for week 8: High Sheen. Created using: Photoshop."
 +++
 
 
-{{< fancybox path="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34-thumbnail-w720px.jpg" file="img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34-thumbnail-w720px.jpg" file="/img/vectorong/2021-02-26+be6bef0624c26d46a2a10aaaf4949d34.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.

@@ -14,7 +14,7 @@ description = "by TrixyNetex for week 4: Murky Silhouettes. Created using: Sketc
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817-thumbnail-w720px.png" file="img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817-thumbnail-w720px.png" file="/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Sketchbook Pro**.

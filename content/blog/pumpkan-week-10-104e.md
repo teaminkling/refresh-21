@@ -14,7 +14,7 @@ description = "by Pumpkan for week 10: Folds and Folds. Created using: Procreate
 +++
 
 
-{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b-thumbnail-w720px.png" file="img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b-thumbnail-w720px.png" file="/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.

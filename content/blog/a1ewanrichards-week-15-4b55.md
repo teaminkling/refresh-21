@@ -14,7 +14,7 @@ description = "by a1ewanrichards for week 15: Back to Basics. Created using: Cli
 +++
 
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718-thumbnail-w720px.jpg" file="img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-04-15+328434b819e239cd4eed13aae48a0718.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.

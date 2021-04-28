@@ -14,7 +14,7 @@ description = "by meplaysgamez for week 16: Scaling Giants. Created using: Photo
 +++
 
 
-{{< fancybox path="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/meplaysgamez/2021-04-23+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photography + free photo edit thing again lmao**.

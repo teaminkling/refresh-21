@@ -14,7 +14,7 @@ description = "by DoughYeast for week 3: Red Circle. Created using: Procreate."
 +++
 
 
-{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.

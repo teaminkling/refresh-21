@@ -14,7 +14,7 @@ description = "by Heidelburger for week 2: Deep Ocean. Created using: Game, Anim
 +++
 
 
-{{< fancybox path="/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Game, Animal Crossing**.

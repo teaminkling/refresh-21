@@ -14,7 +14,7 @@ description = "by cindry for week 8: High Sheen. Created using: graphic, Illustr
 +++
 
 
-{{< fancybox path="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27-thumbnail-w720px.png" file="img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27-thumbnail-w720px.png" file="/img/cindry/2021-02-26+d0cd0c641864dda4073c4b53761d2f27.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **graphic, Illustrator**.

@@ -6,7 +6,7 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["MrGreeyne"]
 description = "by MrGreeyne for week 13: Look At Me. Created using: Keyboard, and some words.."
 [[images]]
-      src = "img/audio-placeholder.png"
+      src = "/img/audio-placeholder.png"
       href = "/blog/mrgreeyne-week-13-9eca"
       alt = "Introspection"
       caption = "This submission contains audio. Please view the full post to hear it!"
@@ -14,8 +14,8 @@ description = "by MrGreeyne for week 13: Look At Me. Created using: Keyboard, an
 +++
 
 <audio controls>
-<source src="img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wavtype="audio/wav"> Your browser does not support the audio element.</audio><audio controls>
-<source src="img/mrgreeyne/2021-04-03+cff95c6de0cbf581d6f2d1fc33a71444.wavtype="audio/wav"> Your browser does not support the audio element.</audio>
+<source src="/img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wavtype="audio/wav"> Your browser does not support the audio element.</audio><audio controls>
+<source src="/img/mrgreeyne/2021-04-03+cff95c6de0cbf581d6f2d1fc33a71444.wavtype="audio/wav"> Your browser does not support the audio element.</audio>
 
 Week 13: **Look At Me**. This art was lovingly created using: **Keyboard, and some words.**.
 

@@ -14,9 +14,9 @@ description = "by Bell-Bones for week 4: Murky Silhouettes. Created using: FireA
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247-thumbnail-w720px.png" file="img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247-thumbnail-w720px.png" file="/img/bell-bones/2021-01-29+194148c72dad5fb105859ac49035e247.png" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4-thumbnail-w720px.png" file="img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4-thumbnail-w720px.png" file="/img/bell-bones/2021-01-29+321565ef221819a82a790fe8ba100fd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **FireAlpaca**.

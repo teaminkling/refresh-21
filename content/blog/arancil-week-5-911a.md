@@ -6,7 +6,7 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["arancil"]
 description = "by arancil for week 5: Royal Green. Created using: A3 watercolor, some fine liners, autumn gold ink, a color pencil from a dusty box."
 [[images]]
-      src = "img/other-placeholder.png"
+      src = "/img/other-placeholder.png"
       href = "/blog/arancil-week-5-911a"
       alt = "Untitled"
       caption = "This submission contains a gallery link. Please view the full post to see it!"
@@ -14,7 +14,7 @@ description = "by arancil for week 5: Royal Green. Created using: A3 watercolor,
 +++
 
 
-{{< fancybox path="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4-thumbnail-w720px.jpg" file="img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4-thumbnail-w720px.jpg" file="/img/arancil/2021-02-05+b2297c650f551837490e33131b31e2b4.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 [View on Imgur.](https://imgur.com/a/4UO7n4s)
 

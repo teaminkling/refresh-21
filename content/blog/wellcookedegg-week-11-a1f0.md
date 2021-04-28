@@ -14,7 +14,7 @@ description = "by WellCookedEgg for week 11: Atmosphere Spectrum. Created using:
 +++
 
 
-{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca-thumbnail-w720px.jpg" file="img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca-thumbnail-w720px.jpg" file="/img/wellcookedegg/2021-03-14+9e816de5b71242285d9040af311cf3ca.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio paint**.

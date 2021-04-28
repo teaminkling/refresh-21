@@ -14,7 +14,7 @@ description = "by Bell-Bones for week 15: Back to Basics. Created using: FireAlp
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png" file="img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8-thumbnail-w720px.png" file="/img/bell-bones/2021-04-19+6250c08a8a296d1dab68799207db58b8.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **FireAlpaca**.

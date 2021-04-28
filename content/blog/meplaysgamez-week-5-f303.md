@@ -14,9 +14,9 @@ description = "by meplaysgamez for week 5: Royal Green. Created using: i love ai
 +++
 
 
-{{< fancybox path="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362-thumbnail-w720px.jpg" file="img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362-thumbnail-w720px.jpg" file="/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/meplaysgamez/2021-02-04+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **i love airbrushes**.

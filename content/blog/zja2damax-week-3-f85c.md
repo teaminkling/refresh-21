@@ -14,7 +14,7 @@ description = "by zja2damax for week 3: Red Circle. Created using: Charcoal, Acr
 +++
 
 
-{{< fancybox path="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/zja2damax/2021-01-22+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Charcoal, Acrylic, and Watercolor on paper**.

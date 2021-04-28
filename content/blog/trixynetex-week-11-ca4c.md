@@ -14,7 +14,7 @@ description = "by TrixyNetex for week 11: Atmosphere Spectrum. Created using: Sk
 +++
 
 
-{{< fancybox path="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5-thumbnail-w720px.png" file="img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5-thumbnail-w720px.png" file="/img/trixynetex/2021-03-18+bbdf6a70cab34a793dbfc861620905f5.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Sketchbook Pro**.

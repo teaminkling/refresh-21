@@ -14,7 +14,7 @@ description = "by Bell-Bones for week 6: Simple Love. Created using: FireAlpaca.
 +++
 
 
-{{< fancybox path="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb-thumbnail-w720px.png" file="img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb-thumbnail-w720px.png" file="/img/bell-bones/2021-02-12+e44ccb1f70c4c757360eccfc6b28e5eb.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **FireAlpaca**.

@@ -14,7 +14,7 @@ description = "by fonz for week 4: Murky Silhouettes. Created using: csp."
 +++
 
 
-{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png" file="img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4-thumbnail-w720px.png" file="/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.

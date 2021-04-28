@@ -14,9 +14,9 @@ description = "by ocean for week 5: Royal Green. Created using: soapstone carvin
 +++
 
 
-{{< fancybox path="/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
-{{< fancybox path="/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg" file="img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg" file="/img/ocean/2021-02-05+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **soapstone carving**.

@@ -14,7 +14,7 @@ description = "by DynoLoafer for week 10: Folds and Folds. Created using: Paint 
 +++
 
 
-{{< fancybox path="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616-thumbnail-w720px.png" file="img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616-thumbnail-w720px.png" file="/img/dynoloafer/2021-03-12+7bbba091866f98c2c2ed59ed3e7bc616.png" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Paint Tool SAI**.

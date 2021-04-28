@@ -14,7 +14,7 @@ description = "by TITAN011 for week 4: Murky Silhouettes. Created using: ClipStu
 +++
 
 
-{{< fancybox path="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab-thumbnail-w720px.jpg" file="img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab-thumbnail-w720px.jpg" file="/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **ClipStudio**.

@@ -14,7 +14,7 @@ description = "by Dylan for week 11: Atmosphere Spectrum. Created using: Photosh
 +++
 
 
-{{< fancybox path="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.

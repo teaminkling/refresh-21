@@ -14,7 +14,7 @@ description = "by TheLagExpert for week 9: Bold Strokes. Created using: Affinity
 +++
 
 
-{{< fancybox path="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a-thumbnail-w720px.jpg" file="img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" caption="Placeholder thumbnail for a visual work." >}}
+{{< fancybox path="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a-thumbnail-w720px.jpg" file="/img/thelagexpert/2021-03-05+ce937771ea450459e84bbd1b824ed08a.jpg" caption="Placeholder thumbnail for a visual work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Affinity photo**.
