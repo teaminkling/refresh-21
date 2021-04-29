@@ -59,3 +59,7 @@ textarea {
 #search {
     display: none;
 }
+
+blockquote p {
+    margin: 0;
+}
