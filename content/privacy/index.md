@@ -1,6 +1,6 @@
 +++
-title = "Privacy"
-description = "Because even the 2021 Design Refresh needs boring legalese sometimes."
+title = "Privacy Policy"
+description = "We care about and protect your internet privacy."
 author = "FiveClawD"
 date = "2021-04-28"
 layout = "about"
@@ -20,8 +20,7 @@ function. For example:
 
 1. You are encouraged to use a Virtual Private Network (VPN) of your choice to mask your Wide Area Network (WAN) 
    Internet Protocol (IP) address.
-2. You are encouraged to use a pseudonym or alias whenever we ask for a username.
-3. We do not use Google Analytic* or any user-specific analytics software. If there are exceptions, data will be 
+2. We do not use Google Analytics* or any user-specific analytics software. If there are exceptions, data will be 
    anonymised, and you must opt-in to send telemetry. On top of this, we do whatever we can to comply with the General
    Data Protection Regulation (GDPR) of the European Union.
 
@@ -32,9 +31,6 @@ data such as general hits from a certain country or browser.
 
 We will never share our users' information with or without their permission unless legally required. Even if legally
 required, we don't hold data we don't need to have to run our stuff.
-
-If you buy a game by us from a third party, they may have additional information from us, but we do not store anything
-we are not legally required to retain.
 
 ## Security
 
