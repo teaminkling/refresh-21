@@ -8,7 +8,7 @@ $(document).on("click", function(e) {
   }
 });
 
-var deadline = new Date("2021-05-02T23:59:59.000+10:00");
+var deadline = new Date("2021-05-06T23:59:59.000+10:00");
 var timeUntilDeadline = countdown(deadline).toString();
 
 var timerId = countdown(
