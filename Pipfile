@@ -7,6 +7,8 @@ name = "pypi"
 discord = "*"
 pillow = "*"
 webpreview = "*"
+mypy = "*"
+"discord.py-stubs" = "*"
 
 [dev-packages]
 

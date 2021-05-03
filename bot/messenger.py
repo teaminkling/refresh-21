@@ -9,10 +9,10 @@ import logging
 import os
 from hashlib import md5
 from logging import Logger
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Union
 
 import discord
-from discord import Client, Message, User
+from discord import Client, ClientUser, Member, Message, User
 from PIL import Image, ImageSequence
 
 # Initialise logging and include Discord SDK logs.
@@ -114,7 +114,7 @@ def do_dump_all_messages():
 
             content: str = message.content
 
-            mention: User
+            mention: Union[User, Member, ClientUser]
             for mention in message.mentions:
                 content = content.replace(f"<@!{mention.id}>", f"@{mention.name}")
                 content = content.replace(mention.mention, f"@{mention.name}")
@@ -274,14 +274,14 @@ def do_dump_all_messages():
     client.run(os.environ.get(CLIENT_SECRET_KEY))
 
 
-def get_name_with_discriminator(user: User) -> str:
+def get_name_with_discriminator(user: Union[User, Member]) -> str:
     """
     Retrieve a name with discriminator from a user.
 
     Parameters
     ----------
-    user : `User`
-        The `User` whose name we want.
+    user : `Union[User, Member]`
+        The `User` or `Member` whose name will be extracted.
 
     Returns
     -------

@@ -375,7 +375,7 @@ def extract_socials_text(
     submission: Dict[str, Any], users: Dict[str, List[Dict[str, str]]]
 ) -> str:
     # TODO: Don't do this here. Have it pre-parsed.
-    user_socials: List[dict] = users.get(submission["author"], [])
+    user_socials: List[dict] = list(users.get(submission["author"], []))
 
     socials_list: List[str] = []
     for social in sorted(

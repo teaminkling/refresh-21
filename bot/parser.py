@@ -381,6 +381,11 @@ def write_missing_meta_file(submissions: List[dict], parse_type: str) -> None:
             value: Union[str, list] = submission[parse_type]
 
             if parse_type == "description":
+                if isinstance(value, list):
+                    raise RuntimeError(
+                        "Parse type cannot be [description] if the parsed element is not text.",
+                    )
+
                 value = value.strip()
 
             if parse_type == "title" and value == "Untitled":
@@ -422,7 +427,7 @@ def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
     last_seen_date: str = ""
 
     for message in reversed(retrieved_data["messages"]):
-        author: str = message["author"]["mention_name"]
+        author = message["author"]["mention_name"]
         attachments: List[Dict[str, str]] = [
             {
                 "url": attachment["url"],
@@ -552,10 +557,6 @@ def extract_all_content(
         medium: str
         description: str
 
-        # Socials are special: list of provider to URL/username.
-
-        socials: List[Tuple[str, str]] = []
-
         # Weeks may have an exception where a week is written as "one" instead of "1".
 
         if match[1].lower() == "one":
@@ -629,6 +630,7 @@ def extract_all_content(
             parse_type="raw_socials",
         )
 
+        socials: List[Dict[str, str]] = []
         if raw_socials:
             # Set the raw socials to be saved as meta-information later.
 
