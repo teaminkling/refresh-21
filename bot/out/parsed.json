@@ -2,7 +2,7 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
@@ -10,11 +10,11 @@
         "username": "paintsepsi"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "paintsepsi"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "paintsepsi"
       }
     ],
@@ -44,12 +44,12 @@
     ],
     "vectorong#7566": [
       {
-        "provider": "Instagram",
-        "username": "karen_tsugawa"
-      },
-      {
         "provider": "Twitch",
         "username": "vectorong"
+      },
+      {
+        "provider": "Instagram",
+        "username": "karen_tsugawa"
       }
     ],
     "Boyf#4064": [
@@ -70,12 +70,12 @@
     ],
     "Charmandaar#3357": [
       {
-        "provider": "Twitter",
-        "username": "charmandaar_"
-      },
-      {
         "provider": "Twitch",
         "username": "charmandaar"
+      },
+      {
+        "provider": "Twitter",
+        "username": "charmandaar_"
       },
       {
         "provider": "Instagram",
@@ -84,35 +84,35 @@
     ],
     "arancil#8622": [
       {
-        "provider": "Twitter",
-        "username": "arancil"
-      },
-      {
         "provider": "Twitch",
         "username": "arancil"
       },
       {
         "provider": "Instagram",
+        "username": "arancil"
+      },
+      {
+        "provider": "Twitter",
         "username": "arancil"
       }
     ],
     "jorchael_p#2534": [
       {
-        "provider": "Twitter",
-        "username": "jorchaelp"
-      },
-      {
         "provider": "Instagram",
         "username": "jrchlp.png"
+      },
+      {
+        "provider": "Twitter",
+        "username": "jorchaelp"
       }
     ],
     "Pumpkan#2447": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "pumpkanart"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "pumpkanart"
       }
     ],
@@ -128,12 +128,12 @@
     ],
     "CapoKey#0003": [
       {
-        "provider": "Twitter",
-        "username": "capokeyt"
-      },
-      {
         "provider": "Instagram",
         "username": "caposketch"
+      },
+      {
+        "provider": "Twitter",
+        "username": "capokeyt"
       }
     ],
     "jc#3609": [
@@ -158,12 +158,12 @@
     ],
     "papapastry#8888": [
       {
-        "provider": "Twitch",
-        "username": "papapastry"
-      },
-      {
         "provider": "Twitter",
         "username": "papapastry_"
+      },
+      {
+        "provider": "Twitch",
+        "username": "papapastry"
       }
     ],
     "HadesPsd#6683": [
@@ -175,19 +175,19 @@
     "cindry#4068": [
       {
         "provider": "Twitter",
-        "username": "fiveclawd"
-      },
-      {
-        "provider": "Instagram",
-        "username": "fiveclawd"
+        "username": "cindrytuna"
       },
       {
         "provider": "Twitter",
-        "username": "cindrytuna"
+        "username": "fiveclawd"
       },
       {
         "provider": "Twitch",
         "username": "cindrytuna"
+      },
+      {
+        "provider": "Instagram",
+        "username": "fiveclawd"
       }
     ],
     "rainydaze#5604": [
@@ -198,14 +198,6 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
-      },
-      {
-        "provider": "Twitch",
-        "username": "a1ewanrichards#0881"
-      },
-      {
         "provider": "Instagram",
         "username": "rjmmendoza444"
       },
@@ -215,11 +207,19 @@
       },
       {
         "provider": "Twitter",
-        "username": "rjmendoza444"
+        "username": "rjmmendoza444"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
+      },
+      {
+        "provider": "Twitch",
+        "username": "a1ewanrichards#0881"
       },
       {
         "provider": "Twitter",
-        "username": "rjmmendoza444"
+        "username": "rjmendoza444"
       }
     ],
     "soggyissoggy#7277": [
@@ -256,11 +256,11 @@
     ],
     "Linalifox#4145": [
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "linalifox"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "linalifox"
       }
     ],
@@ -272,12 +272,12 @@
     ],
     "poru#3659": [
       {
-        "provider": "Twitter",
-        "username": "poruchan09"
-      },
-      {
         "provider": "Instagram",
         "username": "poruchan_920"
+      },
+      {
+        "provider": "Twitter",
+        "username": "poruchan09"
       },
       {
         "provider": "Twitch",
@@ -308,12 +308,12 @@
     ],
     "soleilboo#1662": [
       {
-        "provider": "Instagram",
-        "username": "soleil.boo"
-      },
-      {
         "provider": "Twitch",
         "username": "soleilboo"
+      },
+      {
+        "provider": "Instagram",
+        "username": "soleil.boo"
       }
     ],
     "jumpingbeans#6967": [
@@ -334,12 +334,12 @@
     ],
     "okie.dokie.enoki#0233": [
       {
-        "provider": "Twitch",
-        "username": "okie_dokie_enoki"
-      },
-      {
         "provider": "Instagram",
         "username": "okie.dokie.enoki"
+      },
+      {
+        "provider": "Twitch",
+        "username": "okie_dokie_enoki"
       }
     ],
     "winsome#5621": [
@@ -390,16 +390,16 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Twitch",
-        "username": "mimichair"
+        "provider": "Instagram",
+        "username": "mimichair.art"
       },
       {
         "provider": "Twitter",
         "username": "mimikuchan"
       },
       {
-        "provider": "Instagram",
-        "username": "mimichair.art"
+        "provider": "Twitch",
+        "username": "mimichair"
       }
     ]
   },
@@ -8738,7 +8738,7 @@
     {
       "id": "bell-bones-week-17-b157",
       "author": "Bell-Bones#0091",
-      "created_at": "2021-05-02",
+      "created_at": "2021-05-05",
       "week": 17,
       "title": "Part of Your World",
       "medium": "FireAlpaca",
@@ -8760,8 +8760,32 @@
       "raw_content": "Week: 17\nTitle: Part of Your World\nMedium: FireAlpaca\nDescription: Waaaa, week 17,,, it's here,, and I actually come with a piece of quality (thanks to the extensions lmao). This piece was inspired by @Linalifox's submission for week 4, titled \"Blue\". Their piece reminded me of mermaids, which reminded me of *The Little Mermaid* and my merman AU that I have for Backey,,, so I drew him and took the pose from the \"Part of Your World\" scene in *The Little Mermaid*. Also, I just wanted to sincerely thank Cindry for the design refresh, it has been stressful but I probably wouldn't have made nearly as much art this year so far if I hadn't participated! Much love to everyone for the feedback on my art over these past few months, it has been a pleasure to hear. I may or may not submit another piece because of the new extension? I'll just have to see I suppose lol\nSocial Media: https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/\n\n",
       "raw_socials": "https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/",
       "raw_hyperlinks": []
+    },
+    {
+      "id": "a1ewanrichards-week-17-bff1",
+      "author": "a1ewanrichards#0881",
+      "created_at": "2021-05-05",
+      "week": 17,
+      "title": "Ewan's Summer - Season's End",
+      "medium": "Adobe Photoshop and E-portfolio (Flip Book made on https://fliphtml5.com/)",
+      "description": "This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 instead, especially the week 17 where I wrote something special, hopefully.\n\nA big up to vectorong and cindry for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/uuuj",
+      "attachments": [
+        {
+          "url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead.jpg",
+          "thumbnail_url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead-thumbnail-w720px.jpg"
+        },
+        {
+          "url": "https://online.fliphtml5.com/jdhob/uuuj"
+        }
+      ],
+      "socials": [],
+      "raw_content": "Week: 17\nTitle: Ewan's Summer - Season's End\nMedium: Adobe Photoshop and E-portfolio (Flip Book made on https://fliphtml5.com/)\n\nDescription: This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 description instead, especially the week 17 where I wrote something special, hopefully.\n\nA big up to vectorong and cindry for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/uuuj",
+      "raw_socials": "",
+      "raw_hyperlinks": [
+        "https://online.fliphtml5.com/jdhob/uuuj"
+      ]
     }
   ],
   "user_count": 68,
-  "submission_count": 367
+  "submission_count": 368
 }

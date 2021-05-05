@@ -1,8 +1,29 @@
 {
-  "message_count": 435,
-  "attachment_count": 376,
+  "message_count": 436,
+  "attachment_count": 377,
   "user_count": 68,
   "messages": [
+    {
+      "id": 839414070615605248,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/839414070615605248",
+      "created_at": "2021-05-05T08:11:49.994000",
+      "author": {
+        "id": 296603403784814592,
+        "display_name": "a1ewanrichards",
+        "mention_name": "a1ewanrichards#0881"
+      },
+      "content": "Week: 17\nTitle: Ewan's Summer - Season's End\nMedium: Adobe Photoshop and E-portfolio (Flip Book made on https://fliphtml5.com/)\n\nDescription: This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 description instead, especially the week 17 where I wrote something special, hopefully.\n\nA big up to vectorong and cindry for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/uuuj",
+      "attachments": [
+        {
+          "id": 839414070696083456,
+          "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839414070696083456/ZINE-1-COVER.jpg",
+          "url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead.jpg",
+          "thumbnail_url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead-thumbnail-w720px.jpg",
+          "filename": "ZINE-1-COVER.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
     {
       "id": 838212684079693875,
       "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/838212684079693875",
@@ -8672,6 +8693,14 @@
     "\ud83c\udf3aIchika\ud83c\udf3a(\u30df\u30b1\u30e9)#3160"
   ],
   "attachments": [
+    {
+      "id": 839414070696083456,
+      "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839414070696083456/ZINE-1-COVER.jpg",
+      "url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead.jpg",
+      "thumbnail_url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead-thumbnail-w720px.jpg",
+      "filename": "ZINE-1-COVER.jpg",
+      "type": "image/jpeg"
+    },
     {
       "id": 838212679869005824,
       "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/838212679869005824/back_the_e.png",
