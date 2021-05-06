@@ -25,7 +25,6 @@ Illustration based on the Fenghuang, a mythological bird whose body symbolizes t
 
 And what better way to honor my favorite mythological bird than to burn in directly into some wood with fire LOL
 
-|  
 detail shot since i have shaky hands
 
 ## Social Media

@@ -28,8 +28,6 @@ yet she is unable to see the silhouette beneath the water...
 
 [ I went for a “cover of a horror novel for teen readers” approach and did some video-editing to further portray rhythm and movement <a:JamCat:768213145008210012> ]
 
-+
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>

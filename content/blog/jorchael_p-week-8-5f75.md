@@ -22,9 +22,6 @@ Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.
 
 I saw the swirl of the image and straight away wanted to do something kind of surreal but still quick and readable. I won't lie, this probably took a bit over the 2 hour time limit, but I didn't really have a brainstorming session so I'm gonna count it as a work hour. Also I got the day wrong but shhh that adds to the out of touch-ness.
 
-https://mobile.
-/
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>

@@ -22,9 +22,7 @@ Week 3: **Red Circle**. This art was lovingly created using: **unknown medium**.
 
 Pretty late to the party but here we go.
 
-a reimagination of the classical story. I try to make use of circular composition to portray the relationship between the two figures. 
-
--
+a reimagination of the classical story. I try to make use of circular composition to portray the relationship between the two figures.
 
 ## Social Media
 

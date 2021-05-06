@@ -20,8 +20,6 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Colored Pen
 
 ## Artist's Notes
 
-?
-
 (Wanted to reupload to fix how dark it was, sorry!)
 
 ## Social Media

@@ -22,9 +22,6 @@ Week 6: **Simple Love**. This art was lovingly created using: **photoshop**.
 
 For this years cny my mom shared some old memories of her grandma making nian gao and having mom man the steamer for hours until it was done. We then made some ourselves as a way of passing on a tradition I never knew we had. My mom doesn't normally share fond memories of her childhood so this felt like something worth commemorating.
 
-https://mobile.
-/
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>

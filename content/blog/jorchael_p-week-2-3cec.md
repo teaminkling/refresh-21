@@ -24,9 +24,6 @@ At the end of a long twisty cavern a diver finds a little rabbit shrimp thing! H
 
 I wanted to design a creature for this week and accidentally made a kaiju looking thing. Space wise I think I messed up translating how deep the ocean is but we can pretend I wanted it to come accross as claustrophobic.
 
-https://mobile.
-/
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/jrchlp.png' target='_blank'>jrchlp.png</a>

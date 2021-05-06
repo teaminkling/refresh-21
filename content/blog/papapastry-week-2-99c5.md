@@ -21,12 +21,6 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Audio (Ableton Li
 
 ## Artist's Notes
 
-- 
-
-- 
-
-- 
-- 
 Not entirely an aesthetic adherence to the theme but more of a compositional one. A morphing of flowing chords with a watery bongo drum (ocean) moves into a Lydian (scale) section. The main focus of the track was about contrast to adhere to "space": the differences between the size of objects in the ocean. As such it's a bit avant garde.
 
 (yeah it's a bit demo/garage quality but i only decided to join the challenge today heh)

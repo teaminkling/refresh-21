@@ -31,6 +31,7 @@ LOGGER.addHandler(stream_handler)
 
 # Constants.
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
 WEEK_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)(?<!my )(?<!for )(?:week)(?!-)(?:.{0,16}?)(?P<week>[0-9]+|One)"
@@ -125,7 +126,6 @@ CONTENT_LINK_REGEX: Pattern = re.compile(
         r"(?:imgur\.com/a/\S)|"
         r"(?:vimeo\.com)|"
         r"(?:webtoons\.com)|"
-        r"(?:refresh\.fiveclawd\.com)|"
         r"(?:fliphtml5\.com)"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
@@ -170,7 +170,7 @@ SOCIAL_PATTERNS = [
         re.compile(
             r"(?P<link>(?:Twitter[: ,-]+)?"
             r"(?:https?://)?"
-            r"(?:www\.)?twitter\.com/"
+            r"(?:www\.)?(?:mobile\.)?twitter\.com/"
             r"(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
             flags=re.MULTILINE | re.IGNORECASE,
         ),
@@ -251,6 +251,17 @@ PLATFORM_MAP: Dict[str, str] = {
     "tumblr": "Tumblr",
 }
 """Mapping of names for platforms to formatted names."""
+
+PROBLEMATIC_CONTENT_FRAGMENTS: List[str] = [
+    "So this is it! This is finale of 17 weeks of Designrefesh!",
+    "liked the whale from the deep sea week (2)",
+    "So this week I am not submitting anything really",
+]
+"""
+Content fragments which will cause the system to simply take the entire post as one week.
+
+FIXME: Currently hardcoded for week 17 only.
+"""
 
 
 def parse_retrieved() -> None:
@@ -502,9 +513,23 @@ def extract_all_content(
     if TEMPLATE_FRAGMENT in content:
         return []
 
-    # Find all matches otherwise.
+    matches: List[Tuple[str, str, str]] = []
 
-    matches: List[Tuple[str, str, str]] = re.findall(WEEK_PARSING_REGEX, content)
+    # Find all matches via the week-seeking regex.
+
+    if len(matches) == 0:
+        matches = re.findall(WEEK_PARSING_REGEX, content)
+
+    # Handle some extremely headache-inducing submissions that may as well be manual.
+
+    if len(matches) > 1:
+        for problematic_fragment in PROBLEMATIC_CONTENT_FRAGMENTS:
+            if problematic_fragment in content:
+                matches = [("", "17", content)]  # FIXME: hardcoded
+
+                break
+
+    # If there are no weeks found via the regex, handle it.
 
     if not matches:
         is_handled: bool
@@ -607,6 +632,12 @@ def extract_all_content(
             parse_type="title",
         )
 
+        # Kill the title if it's too long.
+
+        title = title.strip()
+        if len(title) > 128:
+            title = "[Title Too Long]"
+
         preamble, medium, remainder = parse_content(
             text=f"{preamble}\n{remainder}",
             pattern=MEDIUM_PARSING_REGEX,
@@ -644,10 +675,18 @@ def extract_all_content(
         dynamic_content = re.sub(r"\n{3,}", "\n\n", dynamic_content)
         dynamic_content = re.sub(r"(?i:description)[: -]*", "", dynamic_content)
 
-        # Note that further processing may be done later in dedicated code for making things look
-        # better. It does not need to happen here but we partially clean it because we can.
+        # Partially clean the description by removing "social media" text from the description.
 
         description = re.sub(r"(?i:social[s]?(?: media)?)[: -]*", "", dynamic_content)
+
+        # Remove lines that are just single characters. Leaves whitespace.
+
+        temp_description: str = ""
+        for line in description.split("\n"):
+            if len(line.strip()) != 1:
+                temp_description += f"{line}\n"
+
+        description = temp_description
 
         # Form the hyperlinks and augment attachments if applicable.
 

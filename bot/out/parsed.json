@@ -6,7 +6,7 @@
         "username": "paintsepsi"
       },
       {
-        "provider": "Everywhere",
+        "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
@@ -14,7 +14,7 @@
         "username": "paintsepsi"
       },
       {
-        "provider": "Twitter",
+        "provider": "Everywhere",
         "username": "paintsepsi"
       }
     ],
@@ -30,26 +30,26 @@
     ],
     "Lithium#7468": [
       {
+        "provider": "Instagram",
+        "username": "lithiumreflections"
+      },
+      {
         "provider": "Tumblr",
         "username": "lithiumreflections"
       },
       {
         "provider": "Twitter",
         "username": "jaimeskelton"
-      },
-      {
-        "provider": "Instagram",
-        "username": "lithiumreflections"
       }
     ],
     "vectorong#7566": [
       {
-        "provider": "Twitch",
-        "username": "vectorong"
-      },
-      {
         "provider": "Instagram",
         "username": "karen_tsugawa"
+      },
+      {
+        "provider": "Twitch",
+        "username": "vectorong"
       }
     ],
     "Boyf#4064": [
@@ -60,12 +60,12 @@
     ],
     "DoughYeast#7521": [
       {
-        "provider": "Instagram",
-        "username": "dough.yeast"
-      },
-      {
         "provider": "Twitch",
         "username": "doughyeast"
+      },
+      {
+        "provider": "Instagram",
+        "username": "dough.yeast"
       }
     ],
     "Charmandaar#3357": [
@@ -88,11 +88,11 @@
         "username": "arancil"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "arancil"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "arancil"
       }
     ],
@@ -128,17 +128,17 @@
     ],
     "CapoKey#0003": [
       {
-        "provider": "Instagram",
-        "username": "caposketch"
-      },
-      {
         "provider": "Twitter",
         "username": "capokeyt"
+      },
+      {
+        "provider": "Instagram",
+        "username": "caposketch"
       }
     ],
     "jc#3609": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "rybaris"
       },
       {
@@ -146,7 +146,7 @@
         "username": "rybaris"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "rybaris"
       }
     ],
@@ -175,14 +175,14 @@
     "cindry#4068": [
       {
         "provider": "Twitter",
-        "username": "cindrytuna"
-      },
-      {
-        "provider": "Twitter",
         "username": "fiveclawd"
       },
       {
         "provider": "Twitch",
+        "username": "cindrytuna"
+      },
+      {
+        "provider": "Twitter",
         "username": "cindrytuna"
       },
       {
@@ -198,16 +198,12 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "rjmmendoza444"
       },
       {
         "provider": "Instagram",
         "username": "and"
-      },
-      {
-        "provider": "Twitter",
-        "username": "rjmmendoza444"
       },
       {
         "provider": "Twitch",
@@ -216,6 +212,10 @@
       {
         "provider": "Twitch",
         "username": "a1ewanrichards#0881"
+      },
+      {
+        "provider": "Instagram",
+        "username": "rjmmendoza444"
       },
       {
         "provider": "Twitter",
@@ -230,21 +230,21 @@
     ],
     "Goblet#7026": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "cup_o_rice"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "cup_o_rice"
       }
     ],
     "mrtnong#3026": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "mrtnong"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "mrtnong"
       }
     ],
@@ -256,11 +256,11 @@
     ],
     "Linalifox#4145": [
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "linalifox"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitch",
         "username": "linalifox"
       }
     ],
@@ -292,12 +292,12 @@
     ],
     "Psyko#9587": [
       {
-        "provider": "Twitter",
-        "username": "psykoframe"
-      },
-      {
         "provider": "Instagram",
         "username": "austeezus"
+      },
+      {
+        "provider": "Twitter",
+        "username": "psykoframe"
       }
     ],
     "Magus_Hellwalker#9661": [
@@ -308,12 +308,12 @@
     ],
     "soleilboo#1662": [
       {
-        "provider": "Twitch",
-        "username": "soleilboo"
-      },
-      {
         "provider": "Instagram",
         "username": "soleil.boo"
+      },
+      {
+        "provider": "Twitch",
+        "username": "soleilboo"
       }
     ],
     "jumpingbeans#6967": [
@@ -344,11 +344,11 @@
     ],
     "winsome#5621": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       }
     ],
@@ -390,16 +390,16 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Instagram",
-        "username": "mimichair.art"
-      },
-      {
         "provider": "Twitter",
         "username": "mimikuchan"
       },
       {
         "provider": "Twitch",
         "username": "mimichair"
+      },
+      {
+        "provider": "Instagram",
+        "username": "mimichair.art"
       }
     ]
   },
@@ -1135,7 +1135,7 @@
       "week": 2,
       "title": "b\u0334\u0358\u0346e\u0338\u034c\u0332w\u0335\u0358\u0351a\u0334\u0309\u0340r\u0336\u033e\u030ee\u0337\u030f\u030c \u0336\u0303\u030et\u0338\u034b\u0344h\u0335\u030e\u0307e\u0334\u0351\u0342 \u0338\u0351\u0307d\u0336\u0344\u035de\u0335\u030c\u0324e\u0336\u0358\u034ap\u0335\u0312\u0340",
       "medium": "Audio (Ableton Live 10) and a Fender Stratocaster",
-      "description": "- \n\n- \n\n- \n- \nNot entirely an aesthetic adherence to the theme but more of a compositional one. A morphing of flowing chords with a watery bongo drum (ocean) moves into a Lydian (scale) section. The main focus of the track was about contrast to adhere to \"space\": the differences between the size of objects in the ocean. As such it's a bit avant garde.\n\n(yeah it's a bit demo/garage quality but i only decided to join the challenge today heh)\n\nhttps://soundcloud.com/papapastry/beware-the-deep-week-2-2021designrefresh\n\nEDIT: I also have an early/meme version (I'll send it after you've seen the \"real\" version) cindy",
+      "description": "Not entirely an aesthetic adherence to the theme but more of a compositional one. A morphing of flowing chords with a watery bongo drum (ocean) moves into a Lydian (scale) section. The main focus of the track was about contrast to adhere to \"space\": the differences between the size of objects in the ocean. As such it's a bit avant garde.\n\n(yeah it's a bit demo/garage quality but i only decided to join the challenge today heh)\n\nhttps://soundcloud.com/papapastry/beware-the-deep-week-2-2021designrefresh\n\nEDIT: I also have an early/meme version (I'll send it after you've seen the \"real\" version) cindy",
       "attachments": [
         {
           "url": "https://soundcloud.com/papapastry/beware-the-deep-week-2-2021designrefresh"
@@ -1251,7 +1251,7 @@
       "week": 2,
       "title": "Ah, Bright Light",
       "medium": "Photoshop",
-      "description": "At the end of a long twisty cavern a diver finds a little rabbit shrimp thing! How cute and not at all dangerous.\n\nI wanted to design a creature for this week and accidentally made a kaiju looking thing. Space wise I think I messed up translating how deep the ocean is but we can pretend I wanted it to come accross as claustrophobic.\n\nhttps://mobile.\n/",
+      "description": "At the end of a long twisty cavern a diver finds a little rabbit shrimp thing! How cute and not at all dangerous.\n\nI wanted to design a creature for this week and accidentally made a kaiju looking thing. Space wise I think I messed up translating how deep the ocean is but we can pretend I wanted it to come accross as claustrophobic.",
       "attachments": [
         {
           "url": "../static/img/jorchael_p/2021-01-15+80ec58bd0edc4715925a4880bf5c5964.png",
@@ -1268,9 +1268,7 @@
       ],
       "raw_content": "Week: 2\nTitle: Ah, Bright Light\nMedium: Photoshop\nDescription: \nAt the end of a long twisty cavern a diver finds a little rabbit shrimp thing! How cute and not at all dangerous.\n\nI wanted to design a creature for this week and accidentally made a kaiju looking thing. Space wise I think I messed up translating how deep the ocean is but we can pretend I wanted it to come accross as claustrophobic.\n\nSocial media: https://mobile.twitter.com/jorchaelp\nhttps://www.instagram.com/jrchlp.png/",
       "raw_socials": "https://mobile.twitter.com/jorchaelp\nhttps://www.instagram.com/jrchlp.png/",
-      "raw_hyperlinks": [
-        "https://mobile."
-      ]
+      "raw_hyperlinks": []
     },
     {
       "id": "eggyolk-week-2-b1aa",
@@ -1710,7 +1708,7 @@
       "week": 3,
       "title": "Blood Moon_",
       "medium": "Paint Tool SAI",
-      "description": "_\n\nDesc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put into them, and I know a lot more about the Wild West than the average person might suspect. Basically the one on the left was an outlaw and the other was a bounty hunter who got him off of the hanging offenses and basically stuffed him into his house.\nDon't you worry, it's very gay",
+      "description": "Desc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put into them, and I know a lot more about the Wild West than the average person might suspect. Basically the one on the left was an outlaw and the other was a bounty hunter who got him off of the hanging offenses and basically stuffed him into his house.\nDon't you worry, it's very gay",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png",
@@ -1860,7 +1858,7 @@
       "week": 3,
       "title": "Week 3 Submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>",
       "medium": "Procreate",
-      "description": "... week 3 submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>tried to go for something a bit cleaner, simpler. \n\nurmom3.0\n\nHere's my second piece: \n\n\ud83d\udfe6 \n\nTitle: Red Circle\nMedium: Discord Emote\nContrast. \ud83d\ude4f",
+      "description": "... week 3 submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>tried to go for something a bit cleaner, simpler. \n\nurmom3.0\n\nHere's my second piece: \n\n\nTitle: Red Circle\nMedium: Discord Emote\nContrast. \ud83d\ude4f",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png",
@@ -2097,7 +2095,7 @@
       "week": 3,
       "title": "Icarus and the Sun",
       "medium": "",
-      "description": "Pretty late to the party but here we go.\n\na reimagination of the classical story. I try to make use of circular composition to portray the relationship between the two figures. \n\n-",
+      "description": "Pretty late to the party but here we go.\n\na reimagination of the classical story. I try to make use of circular composition to portray the relationship between the two figures.",
       "attachments": [
         {
           "url": "../static/img/soggyissoggy/2021-01-23+f134fb41fbe62dbf11697219214c2b45.png",
@@ -2556,7 +2554,7 @@
       "week": 4,
       "title": "Bog",
       "medium": "Procreate, Pixaloop",
-      "description": "At Camp Laywick, Raya\u2019s peers are unable to see the silhouette of her distress against the thick of the fog...\n\nyet she is unable to see the silhouette beneath the water...\n\n[ I went for a \u201ccover of a horror novel for teen readers\u201d approach and did some video-editing to further portray rhythm and movement <a:JamCat:768213145008210012> ]\n\n+",
+      "description": "At Camp Laywick, Raya\u2019s peers are unable to see the silhouette of her distress against the thick of the fog...\n\nyet she is unable to see the silhouette beneath the water...\n\n[ I went for a \u201ccover of a horror novel for teen readers\u201d approach and did some video-editing to further portray rhythm and movement <a:JamCat:768213145008210012> ]",
       "attachments": [
         {
           "url": "../static/img/doughyeast/2021-01-29+f134fb41fbe62dbf11697219214c2b45.png",
@@ -3185,11 +3183,11 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "soleilboo-week-5-ba11",
+      "id": "soleilboo-week-5-4a75",
       "author": "soleilboo#1662",
       "created_at": "2021-02-05",
       "week": 5,
-      "title": "for this portrait. Can someone name it?I just took on the meaning of Jade Stone which bring good luck, peace and harmony just like a smile did.",
+      "title": "[Title Too Long]",
       "medium": "digital/ photoshop",
       "description": "I don't have",
       "attachments": [
@@ -3950,7 +3948,7 @@
       "week": 6,
       "title": "Nian Gao, old and new",
       "medium": "photoshop",
-      "description": "For this years cny my mom shared some old memories of her grandma making nian gao and having mom man the steamer for hours until it was done. We then made some ourselves as a way of passing on a tradition I never knew we had. My mom doesn't normally share fond memories of her childhood so this felt like something worth commemorating.\n\nhttps://mobile.\n/",
+      "description": "For this years cny my mom shared some old memories of her grandma making nian gao and having mom man the steamer for hours until it was done. We then made some ourselves as a way of passing on a tradition I never knew we had. My mom doesn't normally share fond memories of her childhood so this felt like something worth commemorating.",
       "attachments": [
         {
           "url": "../static/img/jorchael_p/2021-02-17+a20aeba2e1c8122f26ff9845fc7dc593.png",
@@ -3967,9 +3965,7 @@
       ],
       "raw_content": "Week: 6\nTitle: Nian Gao, old and new\nMedium: photoshop\nDescription: For this years cny my mom shared some old memories of her grandma making nian gao and having mom man the steamer for hours until it was done. We then made some ourselves as a way of passing on a tradition I never knew we had. My mom doesn't normally share fond memories of her childhood so this felt like something worth commemorating.\nSocials: \nhttps://mobile.twitter.com/jorchaelp\nhttps://www.instagram.com/jrchlp.png/",
       "raw_socials": "https://mobile.twitter.com/jorchaelp\nhttps://www.instagram.com/jrchlp.png/",
-      "raw_hyperlinks": [
-        "https://mobile."
-      ]
+      "raw_hyperlinks": []
     },
     {
       "id": "goblet-week-7-d10c",
@@ -4877,7 +4873,7 @@
       "week": 8,
       "title": "Out of Touch Tuesday",
       "medium": "Photoshop",
-      "description": "I saw the swirl of the image and straight away wanted to do something kind of surreal but still quick and readable. I won't lie, this probably took a bit over the 2 hour time limit, but I didn't really have a brainstorming session so I'm gonna count it as a work hour. Also I got the day wrong but shhh that adds to the out of touch-ness.\n\nhttps://mobile.\n/",
+      "description": "I saw the swirl of the image and straight away wanted to do something kind of surreal but still quick and readable. I won't lie, this probably took a bit over the 2 hour time limit, but I didn't really have a brainstorming session so I'm gonna count it as a work hour. Also I got the day wrong but shhh that adds to the out of touch-ness.",
       "attachments": [
         {
           "url": "../static/img/jorchael_p/2021-02-26+897a5644d2078ce6366abb7e7f8cd4a9.png",
@@ -4894,9 +4890,7 @@
       ],
       "raw_content": "Week: 8\nTitle: Out of Touch Tuesday\nMedium: Photoshop\nDescription: I saw the swirl of the image and straight away wanted to do something kind of surreal but still quick and readable. I won't lie, this probably took a bit over the 2 hour time limit, but I didn't really have a brainstorming session so I'm gonna count it as a work hour. Also I got the day wrong but shhh that adds to the out of touch-ness.\nSocial media: \nhttps://mobile.twitter.com/jorchaelp\nhttps://www.instagram.com/jrchlp.png/",
       "raw_socials": "https://mobile.twitter.com/jorchaelp\nhttps://www.instagram.com/jrchlp.png/",
-      "raw_hyperlinks": [
-        "https://mobile."
-      ]
+      "raw_hyperlinks": []
     },
     {
       "id": "soleilboo-week-8-fde4",
@@ -4905,7 +4899,7 @@
       "week": 8,
       "title": "Wall- E fan Art",
       "medium": "Photoshop",
-      "description": "so as soon as I look at the photo the light caught my eyes immediately. I have been thinking about Wall-E a lot this week because of Do-E, and then I saw Jump in the bin submission which is \"trashbin\" and then my brain just blink and connect everything together....Here we go, my boy Wall-E using the photo supplied. and I keep it simple. Time finish 1h30mins included the time I make this tiktok little video timelapse below.\n\nhttps://vm.tiktok.com/ZSJdWxeBV/\n\n/",
+      "description": "so as soon as I look at the photo the light caught my eyes immediately. I have been thinking about Wall-E a lot this week because of Do-E, and then I saw Jump in the bin submission which is \"trashbin\" and then my brain just blink and connect everything together....Here we go, my boy Wall-E using the photo supplied. and I keep it simple. Time finish 1h30mins included the time I make this tiktok little video timelapse below.\n\nhttps://vm.tiktok.com/ZSJdWxeBV/",
       "attachments": [
         {
           "url": "../static/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg",
@@ -5626,7 +5620,7 @@
       "week": 10,
       "title": "Harlem '33/'83",
       "medium": "Colored Pencils",
-      "description": "?\n\n(Wanted to reupload to fix how dark it was, sorry!)",
+      "description": "(Wanted to reupload to fix how dark it was, sorry!)",
       "attachments": [
         {
           "url": "../static/img/mrop2000/2021-03-11+519e3735b23bd7a96e6b39562b10862f.jpg",
@@ -5645,7 +5639,7 @@
       "week": 10,
       "title": "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)",
       "medium": "Fabric / fashion (upcycled fabric, screenprinting, and sewing)",
-      "description": "|   \n\u30dc\u30ed\u30dc\u30ed (\"boroboro\") often refers to an item that is worn out to the point where it is in tatters. Rather than throw it out, I find it can be a very personal and relaxing process to repair it, following similar Japanese repairing idealogy where the fix / mend also becomes a point of beauty. The pattern is based on other traditional Japanese patterns - this is one focuses on the imagery of a bobbin and thread to create an almost water-like pattern, which was screenprinted with gold ink, a reference back to Kintsugi which is a pottery repair technique using gold lacquer.\n\nI also included a comparison image for fun and how you can use non-functionality in fast fashion to your advantage.",
+      "description": "\u30dc\u30ed\u30dc\u30ed (\"boroboro\") often refers to an item that is worn out to the point where it is in tatters. Rather than throw it out, I find it can be a very personal and relaxing process to repair it, following similar Japanese repairing idealogy where the fix / mend also becomes a point of beauty. The pattern is based on other traditional Japanese patterns - this is one focuses on the imagery of a bobbin and thread to create an almost water-like pattern, which was screenprinted with gold ink, a reference back to Kintsugi which is a pottery repair technique using gold lacquer.\n\nI also included a comparison image for fun and how you can use non-functionality in fast fashion to your advantage.",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3.jpg",
@@ -6905,7 +6899,7 @@
       "week": 13,
       "title": "Then She Fell\u201d",
       "medium": "Mixed media (plaster strips, paper clay, paint), Photoshop",
-      "description": "Inspired by the song Bad Dream by Tatsuya Kitani (https://www.youtube.com/watch?v=lkYeBXXHgY4)\n*I'm forced to live a meaningless and unreasonable tragedy\nWho the hell said \u201cafter rain comes fair weather\u201d\nI can't imagine this bad dream ending*\n\nThe mask is referencing a Hannya mask that's used in Noh theater, which is used in the performances to depict female demons that are filled with jealousy. The traditional mask, depending on the angle it is viewed, can show either a demonic or tortured expression. I've also been intrigued by the themes in Japanese horror stories, which often focus on building the suspense, and the duality of tragedy and anger in vengeful spirits.\n\n|  \nlol and here's the front of the mask since it's hard to see in the lighting of the photo",
+      "description": "Inspired by the song Bad Dream by Tatsuya Kitani (https://www.youtube.com/watch?v=lkYeBXXHgY4)\n*I'm forced to live a meaningless and unreasonable tragedy\nWho the hell said \u201cafter rain comes fair weather\u201d\nI can't imagine this bad dream ending*\n\nThe mask is referencing a Hannya mask that's used in Noh theater, which is used in the performances to depict female demons that are filled with jealousy. The traditional mask, depending on the angle it is viewed, can show either a demonic or tortured expression. I've also been intrigued by the themes in Japanese horror stories, which often focus on building the suspense, and the duality of tragedy and anger in vengeful spirits.\n\nlol and here's the front of the mask since it's hard to see in the lighting of the photo",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg",
@@ -7402,7 +7396,7 @@
       "week": 14,
       "title": "The Five Virtues",
       "medium": "Pyrography (woodburning)",
-      "description": "Illustration based on the Fenghuang, a mythological bird whose body symbolizes the celestial bodies and the five tail feathers representing the five virtues of Confucius. It is said that their appearance signals the coming of a new era.\n\nAnd what better way to honor my favorite mythological bird than to burn in directly into some wood with fire LOL\n\n|  \ndetail shot since i have shaky hands",
+      "description": "Illustration based on the Fenghuang, a mythological bird whose body symbolizes the celestial bodies and the five tail feathers representing the five virtues of Confucius. It is said that their appearance signals the coming of a new era.\n\nAnd what better way to honor my favorite mythological bird than to burn in directly into some wood with fire LOL\n\ndetail shot since i have shaky hands",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg",
@@ -8633,11 +8627,7 @@
       "title": "refresh.fiveclawd.com",
       "medium": "Golang, Hugo, Python/Programming.",
       "description": "Yeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/",
-      "attachments": [
-        {
-          "url": "https://refresh.fiveclawd.com/"
-        }
-      ],
+      "attachments": [],
       "socials": [
         {
           "Twitter": "papapastry_"
@@ -8742,7 +8732,7 @@
       "week": 17,
       "title": "Part of Your World",
       "medium": "FireAlpaca",
-      "description": "Waaaa, week 17,,, it's here,, and I actually come with a piece of quality (thanks to the extensions lmao). This piece was inspired by @Linalifox's submission for week 4, titled \"Blue\". Their piece reminded me of mermaids, which reminded me of The Little Mermaid and my merman AU that I have for Backey,,, so I drew him and took the pose from the \"Part of Your World\" scene in *The Little Mermaid*. Also, I just wanted to sincerely thank Cindry for the design refresh, it has been stressful but I probably wouldn't have made nearly as much art this year so far if I hadn't participated! Much love to everyone for the feedback on my art over these past few months, it has been a pleasure to hear. I may or may not submit another piece because of the new extension? I'll just have to see I suppose lol",
+      "description": "Waaaa, week 17,,, it's here,, and I actually come with a piece of quality (thanks to the extensions lmao). This piece was inspired by @Linalifox's submission for week 4, titled \"Blue\". Their piece reminded me of mermaids, which reminded me of The Little Mermaid and my merman AU that I have for Backey,,, so I drew him and took the pose from the \"Part of Your World\" scene in *The Little Mermaid*. Also, I just wanted to sincerely thank Cindry for the design refresh, it has been stressful but I probably wouldn't have made nearly as much art this year so far if I hadn't participated! Much love to everyone for the feedback on my art over these past few months, it has been a pleasure to hear.",
       "attachments": [
         {
           "url": "../static/img/bell-bones/2021-05-02+bdc2f3faa0ecb9ab70c3e5e58e42a54e.png",
@@ -8757,35 +8747,213 @@
           "Tumblr": "bellbones1207"
         }
       ],
-      "raw_content": "Week: 17\nTitle: Part of Your World\nMedium: FireAlpaca\nDescription: Waaaa, week 17,,, it's here,, and I actually come with a piece of quality (thanks to the extensions lmao). This piece was inspired by @Linalifox's submission for week 4, titled \"Blue\". Their piece reminded me of mermaids, which reminded me of *The Little Mermaid* and my merman AU that I have for Backey,,, so I drew him and took the pose from the \"Part of Your World\" scene in *The Little Mermaid*. Also, I just wanted to sincerely thank Cindry for the design refresh, it has been stressful but I probably wouldn't have made nearly as much art this year so far if I hadn't participated! Much love to everyone for the feedback on my art over these past few months, it has been a pleasure to hear. I may or may not submit another piece because of the new extension? I'll just have to see I suppose lol\nSocial Media: https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/\n\n",
+      "raw_content": "Week: 17\nTitle: Part of Your World\nMedium: FireAlpaca\nDescription: Waaaa, week 17,,, it's here,, and I actually come with a piece of quality (thanks to the extensions lmao). This piece was inspired by @Linalifox's submission for week 4, titled \"Blue\". Their piece reminded me of mermaids, which reminded me of *The Little Mermaid* and my merman AU that I have for Backey,,, so I drew him and took the pose from the \"Part of Your World\" scene in *The Little Mermaid*. Also, I just wanted to sincerely thank Cindry for the design refresh, it has been stressful but I probably wouldn't have made nearly as much art this year so far if I hadn't participated! Much love to everyone for the feedback on my art over these past few months, it has been a pleasure to hear.\nSocial Media: https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/\n\n",
       "raw_socials": "https://twitter.com/bbart1207; https://bellbones1207.tumblr.com/",
       "raw_hyperlinks": []
     },
     {
-      "id": "a1ewanrichards-week-17-bff1",
-      "author": "a1ewanrichards#0881",
-      "created_at": "2021-05-05",
+      "id": "goblet-week-17-05c2",
+      "author": "Goblet#7026",
+      "created_at": "2021-05-06",
       "week": 17,
-      "title": "Ewan's Summer - Season's End",
-      "medium": "Adobe Photoshop and E-portfolio (Flip Book made on https://fliphtml5.com/)",
-      "description": "This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 instead, especially the week 17 where I wrote something special, hopefully.\n\nA big up to vectorong and cindry for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/uuuj",
+      "title": "wittle whale",
+      "medium": "wood, knife",
+      "description": "Week: 17\n\nliked the whale from the deep sea week (2). Inspired by bright sea by arren. Made from spalted birch",
       "attachments": [
         {
-          "url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead.jpg",
-          "thumbnail_url": "../static/img/a1ewanrichards/2021-05-05+0f578d0c066538947aa514f332f0aead-thumbnail-w720px.jpg"
-        },
+          "url": "../static/img/goblet/2021-05-05+bb29dabf54c1d8b101c4a7944ddd4ed8.jpg",
+          "thumbnail_url": "../static/img/goblet/2021-05-05+bb29dabf54c1d8b101c4a7944ddd4ed8-thumbnail-w720px.jpg"
+        }
+      ],
+      "socials": [
         {
-          "url": "https://online.fliphtml5.com/jdhob/uuuj"
+          "Twitch": "cup_o_rice"
+        }
+      ],
+      "raw_content": "Week: 17\nTitle: wittle whale\nMedium: wood, knife\nDescription: liked the whale from the deep sea week (2). Inspired by bright sea by arren. Made from spalted birch\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice",
+      "raw_socials": "https://www.twitch.tv/cup_o_rice",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "pumpkan-week-17-3356",
+      "author": "Pumpkan#2447",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Peace is Dynamism",
+      "medium": "Digital, Procreate",
+      "description": "I took inspiration from @a1ewanrichards \"When the land becomes graveyards\" (https://refresh.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/) I loved this piece because it tapped into a vivid memory of playing soccer opposite sugarcane fields, watching them slowly disintegrate into flames and having the ash gently fall on us as we practiced. Life felt like it was so vividly coloured back then. The colours were inspired by @DynoLoafer's \"Dragon Collage\" (https://refresh.fiveclawd.com/blog/dynoloafer-week-9-09aa/), and the title is a line from Oscar A. Romero, some reading suggested from Ewan's original submission! \nI hope you can feel some of this dreamy warm memory with me by looking at this piece, smell the sweet smoke, feel the light gray ash in your hair, and the cool breeze on your skin as the sun gently sets",
+      "attachments": [
+        {
+          "url": "../static/img/pumpkan/2021-05-06+531c73950c1f72ec8ba1e3c20121b2ae.png",
+          "thumbnail_url": "../static/img/pumpkan/2021-05-06+531c73950c1f72ec8ba1e3c20121b2ae-thumbnail-w720px.png"
+        }
+      ],
+      "socials": [
+        {
+          "Twitter": "pumpkanart"
+        }
+      ],
+      "raw_content": "Week: 17\nTitle: Peace is Dynamism\nMedium: Digital, Procreate\nDescription: I took inspiration from @a1ewanrichards \"When the land becomes graveyards\" (https://refresh.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/) I loved this piece because it tapped into a vivid memory of playing soccer opposite sugarcane fields, watching them slowly disintegrate into flames and having the ash gently fall on us as we practiced. Life felt like it was so vividly coloured back then. The colours were inspired by @DynoLoafer's \"Dragon Collage\" (https://refresh.fiveclawd.com/blog/dynoloafer-week-9-09aa/), and the title is a line from Oscar A. Romero, some reading suggested from Ewan's original submission! \nI hope you can feel some of this dreamy warm memory with me by looking at this piece, smell the sweet smoke, feel the light gray ash in your hair, and the cool breeze on your skin as the sun gently sets \n\nSocial Media: https://twitter.com/pumpkanart",
+      "raw_socials": "https://twitter.com/pumpkanart",
+      "raw_hyperlinks": [
+        "https://refresh.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/",
+        "https://refresh.fiveclawd.com/blog/dynoloafer-week-9-09aa/"
+      ]
+    },
+    {
+      "id": "mrop2000-week-17-4a75",
+      "author": "Mrop2000#3087",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "[Title Too Long]",
+      "medium": "",
+      "description": "Week: 17\n\nI chose to base this week's drawing on a1ewanrichards's work. The subjects, the markers, the honesty of the strokes really amazes me.",
+      "attachments": [
+        {
+          "url": "../static/img/mrop2000/2021-05-06+2c75a4960dd5f857a56fb6806d896d92.png",
+          "thumbnail_url": "../static/img/mrop2000/2021-05-06+2c75a4960dd5f857a56fb6806d896d92-thumbnail-w720px.png"
         }
       ],
       "socials": [],
-      "raw_content": "Week: 17\nTitle: Ewan's Summer - Season's End\nMedium: Adobe Photoshop and E-portfolio (Flip Book made on https://fliphtml5.com/)\n\nDescription: This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 description instead, especially the week 17 where I wrote something special, hopefully.\n\nA big up to vectorong and cindry for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/uuuj",
+      "raw_content": "Week: 17\n\nTitle: So this week I am not submitting anything really, but I did draw something based on the prompt (attached image is more proof than anything else). I've been thinking about who one should make art for, the role of the audience, and so on. It made me feel weird. What do I draw that is only for me? What does good/bad/finished/unfinished mean? There are of course many contradictions in this, but let's ignore them!\n\nDescription: I chose to base this week's drawing on a1ewanrichards's work. The subjects, the markers, the honesty of the strokes really amazes me.",
+      "raw_socials": "",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "cindry-week-17-1b83",
+      "author": "cindry#4068",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Keep It Simple",
+      "medium": "Publication with InDesign",
+      "description": "I made a zine that is basically a doodling book where I included previous submissions to serve as inspiration. Thought this would be a fun thing that people can print off themselves and keep as a sketch book to fill out as something to do after the project is over.\n\nthere is a print ready copy, please print is double sided and flip on short edge so it's in the right order!",
+      "attachments": [
+        {
+          "url": "../static/img/cindry/2021-05-06+6020fa12ffd5c76384c27ad38c8eca92.png",
+          "thumbnail_url": "../static/img/cindry/2021-05-06+6020fa12ffd5c76384c27ad38c8eca92-thumbnail-w720px.png"
+        },
+        {
+          "url": "../static/img/cindry/2021-05-06+b215ce8b858904c38154bdcd877cd97a.pdf",
+          "thumbnail_url": null
+        },
+        {
+          "url": "../static/img/cindry/2021-05-06+925c0a2c379743fdf0866525ee64f115.pdf",
+          "thumbnail_url": null
+        }
+      ],
+      "socials": [
+        {
+          "Twitter": "cindrytuna"
+        },
+        {
+          "Twitch": "cindrytuna"
+        }
+      ],
+      "raw_content": "Week: 17\n**Title:  Keep It Simple**\nMedium: Publication with InDesign\nDescription: \nI made a zine that is basically a doodling book where I included previous submissions to serve as inspiration. Thought this would be a fun thing that people can print off themselves and keep as a sketch book to fill out as something to do after the project is over.\n\nthere is a print ready copy, please print is double sided and flip on short edge so it's in the right order!\n\nSocial Media: twitch.tv/cindrytuna twitter.com/cindrytuna\n\n\n\n",
+      "raw_socials": "twitch.tv/cindrytuna twitter.com/cindrytuna",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "soleilboo-week-17-7c5e",
+      "author": "soleilboo#1662",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "MUSE",
+      "medium": "Photoshop/ digital painting/ cover album",
+      "description": "So this is it! This is finale of 17 weeks of Designrefesh! I participated in this awesome community since week 5 and haven\u2019t dropped a single prompt! I\u2019m proud of myself for this commitment. Thank you @cindry for hosting and everyone who helping and participating! You all inspired me to stick to this all along. I\u2019m thankful for the opportunity to meet you all here! \nI come up with this submission with a lot of thoughts. My heart went way back to the 4 weeks that I missed out and how to capture them all in this piece (So I can finally say I did all 17 weeks haha)\nWeek 1: Yellow Line\nWeek 2: Deep Ocean\nWeek 3: Red Circle\nWeek 4: Murky Silhouettes\nSpecial thanks to @papapastry as the website had saving me time scrolling all the way back!\nSo here this is my work, and I hope you all enjoy as much as I did.\nWeek 17: combined of the above 4 prompts\n\n I love you all even we don\u2019t know each other \u2764\ufe0f\nAnd remember\n*\u201cthe light that's shining\nDeeper than the eyes can find it\u201d*\n\nEverythings @soleilboo",
+      "attachments": [
+        {
+          "url": "../static/img/soleilboo/2021-05-06+3277f97e011ed2731b5e8d063704a461.jpg",
+          "thumbnail_url": "../static/img/soleilboo/2021-05-06+3277f97e011ed2731b5e8d063704a461-thumbnail-w720px.jpg"
+        }
+      ],
+      "socials": [],
+      "raw_content": "So this is it! This is finale of 17 weeks of Designrefesh! I participated in this awesome community since week 5 and haven\u2019t dropped a single prompt! I\u2019m proud of myself for this commitment. Thank you @cindry for hosting and everyone who helping and participating! You all inspired me to stick to this all along. I\u2019m thankful for the opportunity to meet you all here! \nI come up with this submission with a lot of thoughts. My heart went way back to the 4 weeks that I missed out and how to capture them all in this piece (So I can finally say I did all 17 weeks haha)\nWeek 1: Yellow Line\nWeek 2: Deep Ocean\nWeek 3: Red Circle\nWeek 4: Murky Silhouettes\nSpecial thanks to @papapastry as the website had saving me time scrolling all the way back!\nSo here this is my work, and I hope you all enjoy as much as I did.\nWeek 17: combined of the above 4 prompts\nTitle : MUSE\nMedium: Photoshop/ digital painting/ cover album\n I love you all even we don\u2019t know each other \u2764\ufe0f\nAnd remember\n*\u201cthe light that's shining\nDeeper than the eyes can find it\u201d*\nSocials: Everythings @soleilboo",
+      "raw_socials": "Everythings @soleilboo",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "papapastry-week-17-342b",
+      "author": "papapastry#8888",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Lonely Light",
+      "medium": "Ableton Live 11 Studio",
+      "description": "Preamble:\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/watch?v=tUSsUgTB-b8"
+        },
+        {
+          "url": "https://soundcloud.com/papapastry/lonely-light-2021-design-refresh"
+        }
+      ],
+      "socials": [],
+      "raw_content": "**Week:** 17\n**Title:** _Lonely Light_\n**Medium:** Ableton Live 11 Studio\n\n**Preamble:**\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n**Description:**\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
       "raw_socials": "",
       "raw_hyperlinks": [
-        "https://online.fliphtml5.com/jdhob/uuuj"
+        "https://www.youtube.com/watch?v=tUSsUgTB-b8",
+        "https://soundcloud.com/papapastry/lonely-light-2021-design-refresh"
+      ]
+    },
+    {
+      "id": "paintsepsi-week-17-093b",
+      "author": "paintsepsi#6673",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Re:dux",
+      "medium": "Procreate",
+      "description": "Since I had more time than I initially thought, I decided to add a little more to the piece! I don't think I need to say more than I initially wrote in the original piece but I hope you enjoy the Directors Extended Cut of the piece haha",
+      "attachments": [
+        {
+          "url": "../static/img/paintsepsi/2021-05-06+2996beabc5e1b0ebe48942ca80805547.jpg",
+          "thumbnail_url": "../static/img/paintsepsi/2021-05-06+2996beabc5e1b0ebe48942ca80805547-thumbnail-w720px.jpg"
+        }
+      ],
+      "socials": [
+        {
+          "Everywhere": "paintsepsi"
+        }
+      ],
+      "raw_content": "Week: 17\nTitle: Re:dux\nMedium: Procreate\nDescription: Since I had more time than I initially thought, I decided to add a little more to the piece! I don't think I need to say more than I initially wrote in the original piece but I hope you enjoy the Directors Extended Cut of the piece haha\n\nSocials: @paintsepsi on everything!!",
+      "raw_socials": "@paintsepsi on everything!!",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "a1ewanrichards-week-17-eeb3",
+      "author": "a1ewanrichards#0881",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Amalgamation: Ewan's Summer - Season's End",
+      "medium": "Clip Studio Paint, Adobe Photoshop, and E-portfolio (Flip Book made on https://fliphtml5.com/)",
+      "description": "[REVISED, REUPLOAD] This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 instead, especially the finale where I wrote something special, hopefully.\n\nA big up to @vectorong  and @cindry  for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/sioh/",
+      "attachments": [
+        {
+          "url": "../static/img/a1ewanrichards/2021-05-06+a528181d7d327b15781ce295bb6d2d2c.jpg",
+          "thumbnail_url": "../static/img/a1ewanrichards/2021-05-06+a528181d7d327b15781ce295bb6d2d2c-thumbnail-w720px.jpg"
+        },
+        {
+          "url": "https://online.fliphtml5.com/jdhob/sioh/"
+        }
+      ],
+      "socials": [
+        {
+          "Twitch": "a1ewanrichards"
+        },
+        {
+          "Twitter": "rjmendoza444"
+        },
+        {
+          "Instagram": "rjmmendoza444"
+        }
+      ],
+      "raw_content": "Week: 17\nTitle: Amalgamation: Ewan's Summer - Season's End\nMedium: Clip Studio Paint, Adobe Photoshop, and E-portfolio (Flip Book made on https://fliphtml5.com/)\n\nDescription:\n[REVISED, REUPLOAD] This is my own refresh/summary of my past works, with in-depth elaboration for each work. Each entry is lengthy, so for the sake of the actual showcase, please read the foreword and the Week 17 description instead, especially the finale where I wrote something special, hopefully.\n\nA big up to @vectorong  and @cindry  for the zine inspiration, though mine looks more like a \"calen-zine\" than a book-type zine, but whatever. I'm going to have it printed, anyway.\n\nThank you for everything. Love you all. \ud83e\udd70 \n\nLink to book: https://online.fliphtml5.com/jdhob/sioh/\n\nSocials: Instagram: @rjmmendoza444 ||  ||Twitter: @rjmendoza444||  || Twitch: https://www.twitch.tv/a1ewanrichards",
+      "raw_socials": "Instagram: @rjmmendoza444 ||  ||Twitter: @rjmendoza444||  || Twitch: https://www.twitch.tv/a1ewanrichards",
+      "raw_hyperlinks": [
+        "https://online.fliphtml5.com/jdhob/sioh/"
       ]
     }
   ],
   "user_count": 68,
-  "submission_count": 368
+  "submission_count": 375
 }

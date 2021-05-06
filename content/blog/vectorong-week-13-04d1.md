@@ -29,7 +29,6 @@ I can't imagine this bad dream ending*
 
 The mask is referencing a Hannya mask that's used in Noh theater, which is used in the performances to depict female demons that are filled with jealousy. The traditional mask, depending on the angle it is viewed, can show either a demonic or tortured expression. I've also been intrigued by the themes in Japanese horror stories, which often focus on building the suspense, and the duality of tragedy and anger in vengeful spirits.
 
-|  
 lol and here's the front of the mask since it's hard to see in the lighting of the photo
 
 ## Social Media

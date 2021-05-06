@@ -24,8 +24,6 @@ so as soon as I look at the photo the light caught my eyes immediately. I have b
 
 https://vm.tiktok.com/ZSJdWxeBV/
 
-/
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/soleil.boo' target='_blank'>soleil.boo</a>
