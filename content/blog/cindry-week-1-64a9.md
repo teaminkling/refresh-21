@@ -21,6 +21,7 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Paint 
 ## Artist's Notes
 
 gay rat wedding
+
 I went a bit crazy on SAI which is a huge guilty pleasure. In the end it's a bit cute and a good mood so I'm happy with what I made. Looking forward definitely going to use more references since i should, this is a bit surreal.
 
 @fiveclawd

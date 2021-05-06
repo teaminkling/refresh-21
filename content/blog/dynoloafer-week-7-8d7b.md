@@ -21,7 +21,9 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **Paint Tool 
 ## Artist's Notes
 
 TW FOR "BLOOD" (just in case)
+
 This sandstorm is fogging up my judgement. I can't even see you. I can't even see my goddamn hand out in front of me... Please. Don't blame yourself, none of this is your fault. I was the one who killed them, can't you see the blood? Just.. let me save you. Let me do one more good thing before I get consumed by the storm.
+
 (I should've worked on this earlier in the week, lol.)
 
 ## Social Media

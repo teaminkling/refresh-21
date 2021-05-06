@@ -23,6 +23,7 @@ Week 12: **Visual Words**. This art was lovingly created using: **Photography an
 ## Artist's Notes
 
 TW: racism, sexism
+
 This is a response piece to the experience of being a female online. The quotes are all taken from real messages sent to me on my stream. The use of keycaps represents not only the digital nature of these messages but allude to how anonymous messages are written with magazine clippings. I hope you like i!
 
 ## Social Media

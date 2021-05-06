@@ -21,6 +21,7 @@ Week 6: **Simple Love**. This art was lovingly created using: **procreate**.
 ## Artist's Notes
 
 i didn’t want to study so i made this ❤️
+
 pov: you’re god but also a third wheel</3
 
 ## Social Media

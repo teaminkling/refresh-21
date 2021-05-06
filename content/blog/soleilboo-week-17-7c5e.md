@@ -22,17 +22,27 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Photoshop
 
 So this is it! This is finale of 17 weeks of Designrefesh! I participated in this awesome community since week 5 and haven’t dropped a single prompt! I’m proud of myself for this commitment. Thank you @cindry for hosting and everyone who helping and participating! You all inspired me to stick to this all along. I’m thankful for the opportunity to meet you all here! 
 I come up with this submission with a lot of thoughts. My heart went way back to the 4 weeks that I missed out and how to capture them all in this piece (So I can finally say I did all 17 weeks haha)
+
 Week 1: Yellow Line
+
 Week 2: Deep Ocean
+
 Week 3: Red Circle
+
 Week 4: Murky Silhouettes
+
 Special thanks to @papapastry as the website had saving me time scrolling all the way back!
+
 So here this is my work, and I hope you all enjoy as much as I did.
+
 Week 17: combined of the above 4 prompts
 
  I love you all even we don’t know each other ❤️
+
 And remember
+
 *“the light that's shining
+
 Deeper than the eyes can find it”*
 
 Everythings @soleilboo

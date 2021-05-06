@@ -21,6 +21,7 @@ Week 4: **Murky Silhouettes**. This art was lovingly created using: **Photo and 
 ## Artist's Notes
 
 this image was captured a few years ago on the southwest coast, at sunset as the sky cleared after a storm. it was already near monochrome, but i dropped the exposure to play with the value a bit
+
 edit: this came out a bit dim in discord yikes
 
 nah 🙂

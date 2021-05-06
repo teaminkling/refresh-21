@@ -26,9 +26,10 @@ urmom3.0
 
 Here's my second piece: 
 
-
 Title: Red Circle
+
 Medium: Discord Emote
+
 Contrast. 🙏
 
 ## Social Media

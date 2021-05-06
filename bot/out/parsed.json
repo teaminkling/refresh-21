@@ -2,30 +2,30 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Instagram",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Twitter",
         "username": "paintsepsi"
       },
       {
-        "provider": "Twitch",
+        "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
         "provider": "Everywhere",
         "username": "paintsepsi"
+      },
+      {
+        "provider": "Twitch",
+        "username": "paintsepsi"
       }
     ],
     "Bell-Bones#0091": [
       {
-        "provider": "Tumblr",
-        "username": "bellbones1207"
-      },
-      {
         "provider": "Twitter",
         "username": "bbart1207"
+      },
+      {
+        "provider": "Tumblr",
+        "username": "bellbones1207"
       }
     ],
     "Lithium#7468": [
@@ -34,22 +34,22 @@
         "username": "lithiumreflections"
       },
       {
-        "provider": "Tumblr",
-        "username": "lithiumreflections"
-      },
-      {
         "provider": "Twitter",
         "username": "jaimeskelton"
+      },
+      {
+        "provider": "Tumblr",
+        "username": "lithiumreflections"
       }
     ],
     "vectorong#7566": [
       {
-        "provider": "Instagram",
-        "username": "karen_tsugawa"
-      },
-      {
         "provider": "Twitch",
         "username": "vectorong"
+      },
+      {
+        "provider": "Instagram",
+        "username": "karen_tsugawa"
       }
     ],
     "Boyf#4064": [
@@ -60,12 +60,12 @@
     ],
     "DoughYeast#7521": [
       {
-        "provider": "Twitch",
-        "username": "doughyeast"
-      },
-      {
         "provider": "Instagram",
         "username": "dough.yeast"
+      },
+      {
+        "provider": "Twitch",
+        "username": "doughyeast"
       }
     ],
     "Charmandaar#3357": [
@@ -74,25 +74,25 @@
         "username": "charmandaar"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "charmandaar_"
       },
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "charmandaar_"
       }
     ],
     "arancil#8622": [
+      {
+        "provider": "Instagram",
+        "username": "arancil"
+      },
       {
         "provider": "Twitch",
         "username": "arancil"
       },
       {
         "provider": "Twitter",
-        "username": "arancil"
-      },
-      {
-        "provider": "Instagram",
         "username": "arancil"
       }
     ],
@@ -138,11 +138,11 @@
     ],
     "jc#3609": [
       {
-        "provider": "Twitter",
+        "provider": "Tumblr",
         "username": "rybaris"
       },
       {
-        "provider": "Tumblr",
+        "provider": "Twitter",
         "username": "rybaris"
       },
       {
@@ -182,12 +182,12 @@
         "username": "cindrytuna"
       },
       {
-        "provider": "Twitter",
-        "username": "cindrytuna"
-      },
-      {
         "provider": "Instagram",
         "username": "fiveclawd"
+      },
+      {
+        "provider": "Twitter",
+        "username": "cindrytuna"
       }
     ],
     "rainydaze#5604": [
@@ -198,28 +198,28 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Twitter",
-        "username": "rjmmendoza444"
+        "provider": "Twitch",
+        "username": "a1ewanrichards#0881"
       },
       {
         "provider": "Instagram",
         "username": "and"
       },
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards"
-      },
-      {
-        "provider": "Twitch",
-        "username": "a1ewanrichards#0881"
+        "provider": "Twitter",
+        "username": "rjmendoza444"
       },
       {
         "provider": "Instagram",
         "username": "rjmmendoza444"
       },
       {
+        "provider": "Twitch",
+        "username": "a1ewanrichards"
+      },
+      {
         "provider": "Twitter",
-        "username": "rjmendoza444"
+        "username": "rjmmendoza444"
       }
     ],
     "soggyissoggy#7277": [
@@ -308,12 +308,12 @@
     ],
     "soleilboo#1662": [
       {
-        "provider": "Instagram",
-        "username": "soleil.boo"
-      },
-      {
         "provider": "Twitch",
         "username": "soleilboo"
+      },
+      {
+        "provider": "Instagram",
+        "username": "soleil.boo"
       }
     ],
     "jumpingbeans#6967": [
@@ -334,21 +334,21 @@
     ],
     "okie.dokie.enoki#0233": [
       {
-        "provider": "Instagram",
-        "username": "okie.dokie.enoki"
-      },
-      {
         "provider": "Twitch",
         "username": "okie_dokie_enoki"
+      },
+      {
+        "provider": "Instagram",
+        "username": "okie.dokie.enoki"
       }
     ],
     "winsome#5621": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       }
     ],
@@ -390,12 +390,12 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Twitter",
-        "username": "mimikuchan"
-      },
-      {
         "provider": "Twitch",
         "username": "mimichair"
+      },
+      {
+        "provider": "Twitter",
+        "username": "mimikuchan"
       },
       {
         "provider": "Instagram",
@@ -704,7 +704,7 @@
       "week": 1,
       "title": "Rat 1 and Rat 2",
       "medium": "Digital, Paint Tool SAI",
-      "description": "gay rat wedding\nI went a bit crazy on SAI which is a huge guilty pleasure. In the end it's a bit cute and a good mood so I'm happy with what I made. Looking forward definitely going to use more references since i should, this is a bit surreal.\n\n@fiveclawd",
+      "description": "gay rat wedding\n\nI went a bit crazy on SAI which is a huge guilty pleasure. In the end it's a bit cute and a good mood so I'm happy with what I made. Looking forward definitely going to use more references since i should, this is a bit surreal.\n\n@fiveclawd",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png",
@@ -723,7 +723,7 @@
       "week": 1,
       "title": "upon sunflowers",
       "medium": "digital, procreate",
-      "description": "going for simple w line work + pantone yellow. i also really love sunflowers. like a lot.\n\nan accompanying haiku:\nlike the sunflowers / \ni look towards the sunlight / \n- to moving forwards /",
+      "description": "going for simple w line work + pantone yellow. i also really love sunflowers. like a lot.\n\nan accompanying haiku:\n\nlike the sunflowers / \ni look towards the sunlight / \n- to moving forwards /",
       "attachments": [
         {
           "url": "../static/img/charmandaar/2021-01-07+e5953fe96c1d58fe09bc0a8b5d877be1.png",
@@ -1159,7 +1159,7 @@
       "week": 2,
       "title": "Deep Discovery",
       "medium": "2 page comic, Ink on Paper",
-      "description": "Wouldn't it be weird to find light in a deep ocean dive? Kinda scary if you ask me.\nI love the idea of discovering something once lost, unsure if peaceful or dangerous waiting to be explored. \nReally just inspired by series like Made in Abyss and Jigokuraku!\n\n(thank you to everyone who joined the 11 hour stream crunch getting this done!! LOL)\n\n@fiveclawd on instagram/twitter | cindrytuna @ twitch",
+      "description": "Wouldn't it be weird to find light in a deep ocean dive? Kinda scary if you ask me.\n\nI love the idea of discovering something once lost, unsure if peaceful or dangerous waiting to be explored. \nReally just inspired by series like Made in Abyss and Jigokuraku!\n\n(thank you to everyone who joined the 11 hour stream crunch getting this done!! LOL)\n\n@fiveclawd on instagram/twitter | cindrytuna @ twitch",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-01-15+8172fe71c524f5d642ea4677adc7d545.jpg",
@@ -1182,7 +1182,7 @@
       "week": 2,
       "title": "This is why I drink",
       "medium": "Watercolor (Arches A5 rough)",
-      "description": "\"In the year 20XX\nEvery living being on Earth\nIs late for dinner\"\n\nHad to redo the whole thing after being unhappy with the first go at it - and I feel like the \"SPACE\" keyword wasn't given any justice. I have some ideas on how it could have been dealt with better, but alas, we'll just see that as part of the lesson and learning. Looking forward to getting a better camera & lighting opportunities.",
+      "description": "\"In the year 20XX\n\nEvery living being on Earth\n\nIs late for dinner\"\n\nHad to redo the whole thing after being unhappy with the first go at it - and I feel like the \"SPACE\" keyword wasn't given any justice. I have some ideas on how it could have been dealt with better, but alas, we'll just see that as part of the lesson and learning. Looking forward to getting a better camera & lighting opportunities.",
       "attachments": [
         {
           "url": "../static/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg",
@@ -1563,7 +1563,7 @@
       "week": 3,
       "title": "Fire Fist Ace",
       "medium": "Digital, SAI",
-      "description": "I read one piece, everyone read one piece.\nAlso ace is cool ace is really cool, tried to keep it simple and I really tried ;;;;",
+      "description": "I read one piece, everyone read one piece.\n\nAlso ace is cool ace is really cool, tried to keep it simple and I really tried ;;;;",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-01-21+47ac53be40441f72a3e4975556878bc8.png",
@@ -1708,7 +1708,7 @@
       "week": 3,
       "title": "Blood Moon_",
       "medium": "Paint Tool SAI",
-      "description": "Desc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put into them, and I know a lot more about the Wild West than the average person might suspect. Basically the one on the left was an outlaw and the other was a bounty hunter who got him off of the hanging offenses and basically stuffed him into his house.\nDon't you worry, it's very gay",
+      "description": "Desc: First week where I did stuff, hah! I hope I can start to follow the weeks more now that I exist here. You might recognize the character on the left, and if you do, then you'll know who my friend is lol. These two boyos have a lot of story put into them, and I know a lot more about the Wild West than the average person might suspect. Basically the one on the left was an outlaw and the other was a bounty hunter who got him off of the hanging offenses and basically stuffed him into his house.\n\nDon't you worry, it's very gay",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-01-22+9ca4efa4907df7b7426d6959eb25baed.png",
@@ -1746,7 +1746,7 @@
       "week": 3,
       "title": "Harbinger",
       "medium": "Traditional, Copic markers & pens",
-      "description": "I took a regular goldfinch, and jammed it full of steroids and heavy metal.\n\"Beware the red moonlight,\nAcross the Black Forest night,\nThe deathwings in the tree,\nKill everything they see.\"",
+      "description": "I took a regular goldfinch, and jammed it full of steroids and heavy metal.\n\"Beware the red moonlight,\n\nAcross the Black Forest night,\n\nThe deathwings in the tree,\n\nKill everything they see.\"",
       "attachments": [
         {
           "url": "../static/img/space_warfare_development/2021-01-22+b71048dd71afb39a109fdb29d76de5b1.jpg",
@@ -1858,7 +1858,7 @@
       "week": 3,
       "title": "Week 3 Submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>",
       "medium": "Procreate",
-      "description": "... week 3 submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>tried to go for something a bit cleaner, simpler. \n\nurmom3.0\n\nHere's my second piece: \n\n\nTitle: Red Circle\nMedium: Discord Emote\nContrast. \ud83d\ude4f",
+      "description": "... week 3 submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>tried to go for something a bit cleaner, simpler. \n\nurmom3.0\n\nHere's my second piece: \n\nTitle: Red Circle\n\nMedium: Discord Emote\n\nContrast. \ud83d\ude4f",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png",
@@ -2076,7 +2076,7 @@
       "week": 4,
       "title": "beach \ud83d\ude42",
       "medium": "Photo and Adobe Suite",
-      "description": "this image was captured a few years ago on the southwest coast, at sunset as the sky cleared after a storm. it was already near monochrome, but i dropped the exposure to play with the value a bit\nedit: this came out a bit dim in discord yikes\n\nnah \ud83d\ude42",
+      "description": "this image was captured a few years ago on the southwest coast, at sunset as the sky cleared after a storm. it was already near monochrome, but i dropped the exposure to play with the value a bit\n\nedit: this came out a bit dim in discord yikes\n\nnah \ud83d\ude42",
       "attachments": [
         {
           "url": "../static/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg",
@@ -2277,7 +2277,7 @@
       "week": 4,
       "title": "The Search",
       "medium": "Sketchbook Pro",
-      "description": "The Search \n\nMurky, silhouette... well, I must oblige! (It's like you want me to draw spoopy shit) \ud83d\ude1b\nDecided to contrast this with my last two pieces by using mainly lighter values. And since we're looking at movement, thought I'd try and pump in some more overt narrative stuff too.\nEnjoy!",
+      "description": "The Search \n\nMurky, silhouette... well, I must oblige! (It's like you want me to draw spoopy shit) \ud83d\ude1b\n\nDecided to contrast this with my last two pieces by using mainly lighter values. And since we're looking at movement, thought I'd try and pump in some more overt narrative stuff too.\n\nEnjoy!",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-01-27+0fd2c2238949e1d3ba4699bb0c335817.png",
@@ -2850,7 +2850,7 @@
       "week": 5,
       "title": "Flawless",
       "medium": "Sketchbook Pro",
-      "description": "Firstly;  if you haven't heard of \"Kintsugi\" before, you're welcome \ud83d\ude1b\nSecondly, rendering jade is a mood... cheers for that\nThis one took me a hot minute, but I think I'm starting to get the hang of digital painting somewhat \ud83d\ude05",
+      "description": "Firstly;  if you haven't heard of \"Kintsugi\" before, you're welcome \ud83d\ude1b\n\nSecondly, rendering jade is a mood... cheers for that\n\nThis one took me a hot minute, but I think I'm starting to get the hang of digital painting somewhat \ud83d\ude05",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-02-02+e862a954d81752b62af1368a85e16f0f.png",
@@ -2999,7 +2999,7 @@
       "week": 5,
       "title": "Jade Possessions",
       "medium": "i love airbrushes",
-      "description": "Master of possession by games workshop base layer chaos black, Mr surfacer 1200 for zenithal shading then vallejo green ink airbrushed. The head and any other skulls had badab black wash applied just before the vallejo green ink was sprayed on.\ni hate cleaning up after airbrushing.\na better angle",
+      "description": "Master of possession by games workshop base layer chaos black, Mr surfacer 1200 for zenithal shading then vallejo green ink airbrushed. The head and any other skulls had badab black wash applied just before the vallejo green ink was sprayed on.\n\ni hate cleaning up after airbrushing.\n\na better angle",
       "attachments": [
         {
           "url": "../static/img/meplaysgamez/2021-02-04+c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg",
@@ -3068,7 +3068,7 @@
       "week": 5,
       "title": "_Not My Forte_",
       "medium": "Paint Tool SAI",
-      "description": "Dragon shown (Astro): \"Erhm... are you sure all of this jade jewelry is considered attractive? There's so many piercings...\"\nDragon offscreen (Backey): \"Of course, your Highness! People will swoon for you and your glittery glory.\"\nAstro: \"How do you know?\"\nBackey: \"Uhm.. your Highness, word gets around eheh...\" (sweating)\n...Got this done without stress, yay! Decided to do a dragon design for one of my OC's, whose shown to not like all of the glittery stuff he's forced into as a prince! His assistant Backey says otherwise though... winks. Anyway, had fun with this!!",
+      "description": "Dragon shown (Astro): \"Erhm... are you sure all of this jade jewelry is considered attractive? There's so many piercings...\"\n\nDragon offscreen (Backey): \"Of course, your Highness! People will swoon for you and your glittery glory.\"\n\nAstro: \"How do you know?\"\n\nBackey: \"Uhm.. your Highness, word gets around eheh...\" (sweating)\n...Got this done without stress, yay! Decided to do a dragon design for one of my OC's, whose shown to not like all of the glittery stuff he's forced into as a prince! His assistant Backey says otherwise though... winks. Anyway, had fun with this!!",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-02-05+aa2a21cd22dff833cce7c55397caaf7d.png",
@@ -3279,7 +3279,7 @@
       "week": 5,
       "title": "Seal soapstone carving",
       "medium": "soapstone carving",
-      "description": "Although the prompt centres around green jade, I carved a piece of soapstone under the pretense of it as white jade. The design is influenced by a well known chinese poem: Quiet Night Thoughts by LiBai, it describes looking up at the moon and thinking of one\u2019s family at home.\nI have lightly inked the carving to contrast the details. I have left the seal face (bottom face that is used to stamp signatures) blank.",
+      "description": "Although the prompt centres around green jade, I carved a piece of soapstone under the pretense of it as white jade. The design is influenced by a well known chinese poem: Quiet Night Thoughts by LiBai, it describes looking up at the moon and thinking of one\u2019s family at home.\n\nI have lightly inked the carving to contrast the details. I have left the seal face (bottom face that is used to stamp signatures) blank.",
       "attachments": [
         {
           "url": "../static/img/ocean/2021-02-05+9e3450b11d8b1247ccf09972b1d964bf.jpg",
@@ -3528,7 +3528,7 @@
       "week": 6,
       "title": "Simple Love",
       "medium": "Digital, and publication",
-      "description": "I don't like Valentines Days but I wanted to talk about what I loved, pets!\nAnimals show love in such wonderful ways and I'm so happy!!!!\n\nThe main submission is a lil A6 zine you can fold yourself if you have a b+W a4 printer!\n\nCHECK DISCUSSIONS ON HOW TO PRINT",
+      "description": "I don't like Valentines Days but I wanted to talk about what I loved, pets!\n\nAnimals show love in such wonderful ways and I'm so happy!!!!\n\nThe main submission is a lil A6 zine you can fold yourself if you have a b+W a4 printer!\n\nCHECK DISCUSSIONS ON HOW TO PRINT",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-02-11+43bfc6b38f0311f4f73e8d67166836fd.jpg",
@@ -3578,7 +3578,7 @@
       "week": 6,
       "title": "Paper Pond",
       "medium": "Origami + ink",
-      "description": "Going back to my first art love - paper. I've always been surrounded by paper and origami ever since I was kid, and wanted to pay homage to both my roots and the medium that has so much potential. Also I've been wanting a piece to bring in the two parts of my heritage in one piece; my last name roughly translates to 'ferry across the river' and my chinese name means 'yellow love lotus'.\n\n, twitch - @vectorong\ndetail shot so you can see the paper better LOL",
+      "description": "Going back to my first art love - paper. I've always been surrounded by paper and origami ever since I was kid, and wanted to pay homage to both my roots and the medium that has so much potential. Also I've been wanting a piece to bring in the two parts of my heritage in one piece; my last name roughly translates to 'ferry across the river' and my chinese name means 'yellow love lotus'.\n\n, twitch - @vectorong\n\ndetail shot so you can see the paper better LOL",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-02-12+832087a85da2a7ae4fd03d676560c24d.jpg",
@@ -3696,7 +3696,7 @@
       "week": 6,
       "title": "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>",
       "medium": "Procreate",
-      "description": "The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. \n\nps. i forgot the fucking chimney godammit\npss. oh shit theres also no doorknob. everything is falling apart.\n\nurmom6.0",
+      "description": "The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. \n\nps. i forgot the fucking chimney godammit\n\npss. oh shit theres also no doorknob. everything is falling apart.\n\nurmom6.0",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-02-12+1c86201798ce9e595e147d8efd4ecfd4.png",
@@ -3715,7 +3715,7 @@
       "week": 6,
       "title": "Amalgamation: Smile and Smile",
       "medium": "Ink on paper, 9x12 inches.",
-      "description": "Ink on paper, 9x12 inches.\n\nAnother week, another rush job lol. I had an initial idea but I dumped it since I couldn't execute it. I made this just now.\n\nAnyway... I tried to recreate the moment I shared with friend and a crush from around 2015. I earlier sent her a message apologizing for \"being weird\" (not my words) after being scolded by someone for acting weird towards two girls. I sent both of them an apology message, unfriended one of them, but left the other to decide for herself. To my surprise, a week later (this exact moment), she said she wasn't mad at me, and we even embraced in the rain, much to my surprise. I held her shoulders and instinctively said, \"We're still friends, right?\"\n\nAnd we've remained friends ever since. Last year, I messaged her, short of spilling my feelings for her, while apologizing for all my awkward moments between me and her. She replied that I shouldn't have to be sorry for it, and even she has had her own realizations.\n\nRecently, she even told me maybe we'd work on a project someday and even referred me to her friend about building a community start up. She's been so kind to me, it actually disarms me.\n\nThe title is derived from a piece by Joe Hisaishi for the movie HANA-BI (Fireworks), directed by Takeshi Kitano.\n\nrjmmendoza444 (Twitter/IG)\nA1EwanRichards (Twitch)",
+      "description": "Ink on paper, 9x12 inches.\n\nAnother week, another rush job lol. I had an initial idea but I dumped it since I couldn't execute it. I made this just now.\n\nAnyway... I tried to recreate the moment I shared with friend and a crush from around 2015. I earlier sent her a message apologizing for \"being weird\" (not my words) after being scolded by someone for acting weird towards two girls. I sent both of them an apology message, unfriended one of them, but left the other to decide for herself. To my surprise, a week later (this exact moment), she said she wasn't mad at me, and we even embraced in the rain, much to my surprise. I held her shoulders and instinctively said, \"We're still friends, right?\"\n\nAnd we've remained friends ever since. Last year, I messaged her, short of spilling my feelings for her, while apologizing for all my awkward moments between me and her. She replied that I shouldn't have to be sorry for it, and even she has had her own realizations.\n\nRecently, she even told me maybe we'd work on a project someday and even referred me to her friend about building a community start up. She's been so kind to me, it actually disarms me.\n\nThe title is derived from a piece by Joe Hisaishi for the movie HANA-BI (Fireworks), directed by Takeshi Kitano.\n\nrjmmendoza444 (Twitter/IG)\n\nA1EwanRichards (Twitch)",
       "attachments": [
         {
           "url": "../static/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037.jpg",
@@ -3734,7 +3734,7 @@
       "week": 6,
       "title": "solemn night",
       "medium": "procreate",
-      "description": "i didn\u2019t want to study so i made this \u2764\ufe0f\npov: you\u2019re god but also a third wheel</3",
+      "description": "i didn\u2019t want to study so i made this \u2764\ufe0f\n\npov: you\u2019re god but also a third wheel</3",
       "attachments": [
         {
           "url": "../static/img/okie.dokie.enoki/2021-02-12+f134fb41fbe62dbf11697219214c2b45.png",
@@ -3835,7 +3835,7 @@
       "week": 6,
       "title": "Paper Aeroplanes demo.mp3, collab with @papapastry",
       "medium": "Ableton Live 10 Suite",
-      "description": "A demo track of our collab song 'Paper Aeroplanes', capturing an instance between two lovers and what their simple but gentle love brings. \n\npaper aeroplanes DEMO track: https://soundcloud.com/papapastry/fuck-so-late-god-fucking-damnit\nthe lyrics were based off poetry i wrote: https://docs.google.com/document/d/1v7MNRHeg6fDwUsURPJAf1XSptglTolwA1KtohM_4Rbk/edit?usp=sharing\n\ncharmandaar on twitch ()\npapapastry on yt (https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg/videos)",
+      "description": "A demo track of our collab song 'Paper Aeroplanes', capturing an instance between two lovers and what their simple but gentle love brings. \n\npaper aeroplanes DEMO track: https://soundcloud.com/papapastry/fuck-so-late-god-fucking-damnit\n\nthe lyrics were based off poetry i wrote: https://docs.google.com/document/d/1v7MNRHeg6fDwUsURPJAf1XSptglTolwA1KtohM_4Rbk/edit?usp=sharing\n\ncharmandaar on twitch ()\n\npapapastry on yt (https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg/videos)",
       "attachments": [
         {
           "url": "https://soundcloud.com/papapastry/fuck-so-late-god-fucking-damnit"
@@ -4116,7 +4116,7 @@
       "week": 7,
       "title": "Resistance 3: When The Lands Become Graveyards",
       "medium": "Digital (Clip Studio Paint)",
-      "description": "@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch\n\n\n\nIt's not a desert in the typical sense. It's an amalgam of sugar cane farms and the concept of \"peace of the cemetery,\" referring to a quote by St. Oscar Romero. The title is a rough translation of a poem by Filipino poet Axel Pinpin, originally titled \"Kung Puntod na ang Lupa\" (literal: If the Land is a Tomb\").",
+      "description": "@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch\n\nIt's not a desert in the typical sense. It's an amalgam of sugar cane farms and the concept of \"peace of the cemetery,\" referring to a quote by St. Oscar Romero. The title is a rough translation of a poem by Filipino poet Axel Pinpin, originally titled \"Kung Puntod na ang Lupa\" (literal: If the Land is a Tomb\").",
       "attachments": [
         {
           "url": "../static/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b.jpg",
@@ -4162,7 +4162,7 @@
       "week": 7,
       "title": "_The Sandstorm_",
       "medium": "Paint Tool SAI",
-      "description": "TW FOR \"BLOOD\" (just in case)\nThis sandstorm is fogging up my judgement. I can't even see you. I can't even see my goddamn hand out in front of me... Please. Don't blame yourself, none of this is your fault. I was the one who killed them, can't you see the blood? Just.. let me save you. Let me do one more good thing before I get consumed by the storm.\n(I should've worked on this earlier in the week, lol.)",
+      "description": "TW FOR \"BLOOD\" (just in case)\n\nThis sandstorm is fogging up my judgement. I can't even see you. I can't even see my goddamn hand out in front of me... Please. Don't blame yourself, none of this is your fault. I was the one who killed them, can't you see the blood? Just.. let me save you. Let me do one more good thing before I get consumed by the storm.\n\n(I should've worked on this earlier in the week, lol.)",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-02-19+90437e3c52cb1c4b9ee779e4d0f8774c.png",
@@ -4200,7 +4200,7 @@
       "week": 7,
       "title": "Strange Sands",
       "medium": "ink on paper,  a comic!",
-      "description": "I love alliteration lol!\nhey isn't is kinda mysterious? I got this idea from when crabs would dig holes at the beach and spit out the water. Finding that in the desert would be super creepy... also stippling is hard. I do really like this though and hope you do too!",
+      "description": "I love alliteration lol!\n\nhey isn't is kinda mysterious? I got this idea from when crabs would dig holes at the beach and spit out the water. Finding that in the desert would be super creepy... also stippling is hard. I do really like this though and hope you do too!",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-02-19+6db735e657caf6f76ef182c111b3af96.png",
@@ -4256,7 +4256,7 @@
       "week": 7,
       "title": "Three Celebrations (Change)",
       "medium": "Photography, Clay Figure & Cake",
-      "description": "3 white chocolate caramel souffle cakes to celebrate three different events.\n\nGrowth: 1st cake for Herschel's birthday, sadly we missed his birthday party due to lockdown.\nGoodbyes: 2nd cake for my roommate who decided his job wasn't worth his sanity anymore and quit.\nNew Beginnings: 3rd cake for my friend Pete who's moving to a new place!\n\nI originally wanted to make a pun on dessert/desert and made a few cakes to replicate the rolling sandy dunes. Then I decided to add the clay mandrake as a figure that was disturbing the landscape and came across the icing cacti at the shops while getting ingredients. I haven't really done much photography so trying to get the shot I wanted took a while but I think it turned out well.\n\nA little BTS of the photoshoot",
+      "description": "3 white chocolate caramel souffle cakes to celebrate three different events.\n\nGrowth: 1st cake for Herschel's birthday, sadly we missed his birthday party due to lockdown.\n\nGoodbyes: 2nd cake for my roommate who decided his job wasn't worth his sanity anymore and quit.\n\nNew Beginnings: 3rd cake for my friend Pete who's moving to a new place!\n\nI originally wanted to make a pun on dessert/desert and made a few cakes to replicate the rolling sandy dunes. Then I decided to add the clay mandrake as a figure that was disturbing the landscape and came across the icing cacti at the shops while getting ingredients. I haven't really done much photography so trying to get the shot I wanted took a while but I think it turned out well.\n\nA little BTS of the photoshoot",
       "attachments": [
         {
           "url": "../static/img/winsome/2021-02-19+d9dacc5a79731749a9be4fcd4978e595.jpg",
@@ -4283,7 +4283,7 @@
       "week": 7,
       "title": "SOL 0",
       "medium": "Sketchbook Pro",
-      "description": "This morning the Perseverance Rover landed safely in the Jezero Crater on Mars. It's NASA's fifth Rover to land on the red planet and, other than Curiosity, is the only thing 'alive' on the dusty world.\n\nArt wise, a bit of a quick and dirty one. (Was starting to run out of time \ud83d\ude05) \nI used the 3D model viewer of Perseverance to get the rover as accurate as possible. And then decided screw it, and just drew over it for sanity's sake (I am not proficient in drawing tech). Wanted to go for something a bit more graphic this week.\nAlso, drew this while listen to The Martian soundtrack, cause vibes",
+      "description": "This morning the Perseverance Rover landed safely in the Jezero Crater on Mars. It's NASA's fifth Rover to land on the red planet and, other than Curiosity, is the only thing 'alive' on the dusty world.\n\nArt wise, a bit of a quick and dirty one. (Was starting to run out of time \ud83d\ude05) \nI used the 3D model viewer of Perseverance to get the rover as accurate as possible. And then decided screw it, and just drew over it for sanity's sake (I am not proficient in drawing tech). Wanted to go for something a bit more graphic this week.\n\nAlso, drew this while listen to The Martian soundtrack, cause vibes",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-02-19+752dfb01f8a414432545cb392a933f94.png",
@@ -4325,7 +4325,7 @@
       "week": 7,
       "title": "Footprints",
       "medium": "Ableton Live 10 Suite",
-      "description": "<https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>\n\n\n(Headphones will benefit you for this song).\n\n\"Desert\" to me means the mixolydian mode (a tonal \"pattern\"). You know, like The Beatles (Norwegian Wood, I Feel Fine) and a lot of classic rock around that era. \"Space\" sounds like space emulation: reverb. The theme also influenced the lyrics greatly, which were written before the music.\n\nOh, and the video? Yeah, I dunno.\n\nLink: https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)",
+      "description": "<https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>\n\n(Headphones will benefit you for this song).\n\n\"Desert\" to me means the mixolydian mode (a tonal \"pattern\"). You know, like The Beatles (Norwegian Wood, I Feel Fine) and a lot of classic rock around that era. \"Space\" sounds like space emulation: reverb. The theme also influenced the lyrics greatly, which were written before the music.\n\nOh, and the video? Yeah, I dunno.\n\nLink: https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)",
       "attachments": [
         {
           "url": "https://youtu.be/X6Q_C0MF0WE"
@@ -4600,7 +4600,7 @@
       "week": 8,
       "title": "_Pretty, Ain't It?_",
       "medium": "Paint Tool SAI",
-      "description": "\"Someone had a mighty fine belt-buckle, so I.. borrowed it.\"\nThis was a very interesting challenge! Decided to go for a painting-like piece with the belt-buckle being the main focus! If it's hard to see, the texture from the resource is on the belt buckle! I timed myself and I had 7 minutes before the two hour mark!",
+      "description": "\"Someone had a mighty fine belt-buckle, so I.. borrowed it.\"\n\nThis was a very interesting challenge! Decided to go for a painting-like piece with the belt-buckle being the main focus! If it's hard to see, the texture from the resource is on the belt buckle! I timed myself and I had 7 minutes before the two hour mark!",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-02-24+6dd10f0d44c3b93bfe84845f09949b7c.png",
@@ -4638,7 +4638,7 @@
       "week": 8,
       "title": "One Drug Please",
       "medium": "Audio/Ableton Live 11 Suite",
-      "description": "Alternative title: playing around with Live 11's new cool features.\n\n\"High Sheen\" reminds me of a few things. Getting high (on life) in a club, shiny lights from the sun and from stage lights, bright, natural naive feelings. \"Sheen\" of youth, so to speak, and stuff I have nearly no experience with at all. Clubs aren't really clean, kids.\n\nThis was a speedrun. I composed, mixed, wrote lyrics, recorded, and mastered everything in 58 minutes. Composition could not haven taken any longer than 10 minutes.\n\nThe melody was written using nerd magic and code based on the image file Cindy posted.\n\nTwitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>\nLinks: https://youtu.be/KXirUI5JGVU [Closed Captions Available]\n\nWill be updated later with a YouTube video.",
+      "description": "Alternative title: playing around with Live 11's new cool features.\n\n\"High Sheen\" reminds me of a few things. Getting high (on life) in a club, shiny lights from the sun and from stage lights, bright, natural naive feelings. \"Sheen\" of youth, so to speak, and stuff I have nearly no experience with at all. Clubs aren't really clean, kids.\n\nThis was a speedrun. I composed, mixed, wrote lyrics, recorded, and mastered everything in 58 minutes. Composition could not haven taken any longer than 10 minutes.\n\nThe melody was written using nerd magic and code based on the image file Cindy posted.\n\nTwitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>\n\nLinks: https://youtu.be/KXirUI5JGVU [Closed Captions Available]\n\nWill be updated later with a YouTube video.",
       "attachments": [
         {
           "url": "https://youtu.be/KXirUI5JGVU"
@@ -4701,7 +4701,7 @@
       "week": 8,
       "title": "The Herald",
       "medium": "Sketchbook Pro",
-      "description": "TWO HOURS! incoherent eldritch screeching\nFirstly: WHY!!!\nSecondly: I would like the record to show that I did in fact completely this piece within the two hours (brainstorming included)\n\nSo for this I figured we'd go back to \"basics\" and hop on board the spoopy train. Since the og pics were from a church, I started thinking along the line of angels, creepy angels... then got inspired by Peter Mohrbacher's angel paintings and ended up with a Dark Souls boss  \ud83e\udd37\u200d\u2640\ufe0f\n\nRegardless, I'm very happy with this one.\n\nAlso, the texture from the original picture was used in the hat/disc, the streamers(?) and the ground, and I used the pics of the mosaics for the clothing, in case people were curious \ud83d\ude0a",
+      "description": "TWO HOURS! incoherent eldritch screeching\n\nFirstly: WHY!!!\n\nSecondly: I would like the record to show that I did in fact completely this piece within the two hours (brainstorming included)\n\nSo for this I figured we'd go back to \"basics\" and hop on board the spoopy train. Since the og pics were from a church, I started thinking along the line of angels, creepy angels... then got inspired by Peter Mohrbacher's angel paintings and ended up with a Dark Souls boss  \ud83e\udd37\u200d\u2640\ufe0f\n\nRegardless, I'm very happy with this one.\n\nAlso, the texture from the original picture was used in the hat/disc, the streamers(?) and the ground, and I used the pics of the mosaics for the clothing, in case people were curious \ud83d\ude0a",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-02-26+a7e069e14e0ab94b6e201babcaaf3ee6.png",
@@ -4965,7 +4965,7 @@
       "week": 9,
       "title": "Judgement",
       "medium": "phone",
-      "description": "Desc: When I thought of what to draw for this theme I thought cyberpunk and cool flashing lights.\nI realized I wasn't that good at the subject yet and would need time to develop it so instead I went to my mor comfortable style.\n\nThis piece represents an innocent girl who never did anything wrong until she made a single mistake.\nAfter the mistake she was banished from heaven and sent to hell to be tormented. It resembles how people expect so much from their role models or normal people in general and even after the smallest mistake leads to people disliking even hating that person.\n\nSmall details: She is faceless to represent many different people not just one girl\n\nThe hands are people from hell (the misunderstood) people\n\nShe is being dropped from heaven without wings to signify she is living and or heaven removed her wings so she isn't able to fly out of the torment",
+      "description": "Desc: When I thought of what to draw for this theme I thought cyberpunk and cool flashing lights.\n\nI realized I wasn't that good at the subject yet and would need time to develop it so instead I went to my mor comfortable style.\n\nThis piece represents an innocent girl who never did anything wrong until she made a single mistake.\n\nAfter the mistake she was banished from heaven and sent to hell to be tormented. It resembles how people expect so much from their role models or normal people in general and even after the smallest mistake leads to people disliking even hating that person.\n\nSmall details: She is faceless to represent many different people not just one girl\n\nThe hands are people from hell (the misunderstood) people\n\nShe is being dropped from heaven without wings to signify she is living and or heaven removed her wings so she isn't able to fly out of the torment",
       "attachments": [
         {
           "url": "../static/img/d3m0n_msc/2021-03-02+38ab8d649c76252215fafa0e9e79c98a.png",
@@ -5100,7 +5100,7 @@
       "week": 9,
       "title": "Chromatic Dragon",
       "medium": "Sketchbook Pro",
-      "description": "This is what happens when I stare at Hydro74's work for long enough... \nSomething very different for me, but I really love how this turned out!\nA CMYK Dragon, just for you Cindy \ud83d\ude18\nTechnically based of the Black Dragons from D&D cause I'm a nerd. Enjoy!",
+      "description": "This is what happens when I stare at Hydro74's work for long enough... \nSomething very different for me, but I really love how this turned out!\n\nA CMYK Dragon, just for you Cindy \ud83d\ude18\n\nTechnically based of the Black Dragons from D&D cause I'm a nerd. Enjoy!",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png",
@@ -5119,7 +5119,7 @@
       "week": 9,
       "title": "Repetition, Reminisce, Reflection",
       "medium": "Suminagashi (Japanese ink marbling technique) on handmade paper",
-      "description": "\"It reflects me. It reflects you...Two lines become one\" - Mirrors by STUTS (ft. SUMIN, Daichi Yamamoto & CHINZA DOPENESS) (the song I was vibin to while making this piece: https://www.youtube.com/watch?v=wdwzLaljOzw)\nWhile working alongside printmaking friends on a group zoom call, I was suddenly taken back to a time where we were all gathered together at our university's studio, working until the sky was dark and blasting music three octaves too loud. Even in the virtual realm where we are cities apart, you all feel closer than ever.\n\n|  twitch - @vectorong",
+      "description": "\"It reflects me. It reflects you...Two lines become one\" - Mirrors by STUTS (ft. SUMIN, Daichi Yamamoto & CHINZA DOPENESS) (the song I was vibin to while making this piece: https://www.youtube.com/watch?v=wdwzLaljOzw)\n\nWhile working alongside printmaking friends on a group zoom call, I was suddenly taken back to a time where we were all gathered together at our university's studio, working until the sky was dark and blasting music three octaves too loud. Even in the virtual realm where we are cities apart, you all feel closer than ever.\n\n|  twitch - @vectorong",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-03-04+22bd16738bd9ef52dd226614f0b85cb1.jpg",
@@ -5288,7 +5288,7 @@
       "week": 9,
       "title": "Color factory",
       "medium": "survival Minecraft",
-      "description": "https://docs.google.com/presentation/d/1CrUiHBniouCtC2vncknVcsFT4cf-kVRzb--YlfKXxWA/edit?usp=sharing\n\n\n\nDecided to use minecraft since I was in quarantine during the vacation and had time. Needed green dye to mix into cyan dye and so I made a cactus farm and built a factory around it. uses mostly blocks and stuff you can make from the dyes (also a little stone). Tried to make it look like it pollutes the river (dug out custom rivers and had them flow into the swamp biome for extra dirty effect). Solved the rhythm part by making a noteblock drum-kit in the factory. \nit's a statement because I was inspired by the Citarum river in Indonesia, most polluted village in the world. Also has textile factories.",
+      "description": "https://docs.google.com/presentation/d/1CrUiHBniouCtC2vncknVcsFT4cf-kVRzb--YlfKXxWA/edit?usp=sharing\n\nDecided to use minecraft since I was in quarantine during the vacation and had time. Needed green dye to mix into cyan dye and so I made a cactus farm and built a factory around it. uses mostly blocks and stuff you can make from the dyes (also a little stone). Tried to make it look like it pollutes the river (dug out custom rivers and had them flow into the swamp biome for extra dirty effect). Solved the rhythm part by making a noteblock drum-kit in the factory. \nit's a statement because I was inspired by the Citarum river in Indonesia, most polluted village in the world. Also has textile factories.",
       "attachments": [
         {
           "url": "https://docs.google.com/presentation/d/1CrUiHBniouCtC2vncknVcsFT4cf-kVRzb--YlfKXxWA/edit?usp=sharing"
@@ -5358,7 +5358,7 @@
       "week": 9,
       "title": "7/11 Burrito",
       "medium": "Audio/Ableton Live 11 Suite",
-      "description": "\"Bold strokes\" sounds upbeat, aggressive, complex, and coloured by live instrumentals.\n\nBefore the 'rona there was live music. For those who have not been in a crowd or performed contemporary music, there is nothing like it. Every mistake, every ad lib: the energy is secondary to nothing. It is extremely obvious when watching some of the best bands out there that everybody is having so much fun.\n\nI spent an actual long time composing this, but not as long mixing it. Consider it demo quality.\n\nNotes: everything you are seeing you also are hearing (no miming). The guitar at the end was done in one take as I started to panic.\n\nTwitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>\nLink: https://youtu.be/0hrJOksPNdI",
+      "description": "\"Bold strokes\" sounds upbeat, aggressive, complex, and coloured by live instrumentals.\n\nBefore the 'rona there was live music. For those who have not been in a crowd or performed contemporary music, there is nothing like it. Every mistake, every ad lib: the energy is secondary to nothing. It is extremely obvious when watching some of the best bands out there that everybody is having so much fun.\n\nI spent an actual long time composing this, but not as long mixing it. Consider it demo quality.\n\nNotes: everything you are seeing you also are hearing (no miming). The guitar at the end was done in one take as I started to panic.\n\nTwitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>\n\nLink: https://youtu.be/0hrJOksPNdI",
       "attachments": [
         {
           "url": "https://youtu.be/0hrJOksPNdI"
@@ -5760,7 +5760,7 @@
       "week": 10,
       "title": "Sunset Vibes, aka it was 30\u00b0 degrees today",
       "medium": "Sketchbook pro",
-      "description": "GUESS WHOES FIVECLAWD MERCH ARRIVED TODAY!!!!\n#notsponseredjustexcited\nThought I'd draw last week's CMYK Dragon jacket and pair it with the Perseverance shirt cause who doesn't want double dragons?\nBit of a quick one today cause running out of time. Yes, I did use a photo of my shirt for the shirt. No, I am not copy Cindy's dragoon by hand, how much time do you think I have!?!",
+      "description": "GUESS WHOES FIVECLAWD MERCH ARRIVED TODAY!!!!\n#notsponseredjustexcited\n\nThought I'd draw last week's CMYK Dragon jacket and pair it with the Perseverance shirt cause who doesn't want double dragons?\n\nBit of a quick one today cause running out of time. Yes, I did use a photo of my shirt for the shirt. No, I am not copy Cindy's dragoon by hand, how much time do you think I have!?!",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-03-12+98e2a8cd6d1e4b1067d7ef19b59f5e56.png",
@@ -5831,7 +5831,7 @@
       "week": 10,
       "title": "The dread beach bum La Verne",
       "medium": "Procreate",
-      "description": "This one got away from me a bit. I intended to do something simple, I really did. All I really wanted to do was do some stronger posing than usual. I hope this fits within the prompt for this week, shes wearing clothes lmao...\nAnyway here is my dnd character Joselynn La Verne being no more dramatic than usual",
+      "description": "This one got away from me a bit. I intended to do something simple, I really did. All I really wanted to do was do some stronger posing than usual. I hope this fits within the prompt for this week, shes wearing clothes lmao...\n\nAnyway here is my dnd character Joselynn La Verne being no more dramatic than usual",
       "attachments": [
         {
           "url": "../static/img/pumpkan/2021-03-12+8cca8ba7d13c1c1f8b570f608d0bee4b.png",
@@ -5880,7 +5880,7 @@
       "week": 10,
       "title": "silk",
       "medium": ": CSP",
-      "description": ": /\nrushed this one a bit lmao",
+      "description": ": /\n\nrushed this one a bit lmao",
       "attachments": [
         {
           "url": "../static/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png",
@@ -6365,7 +6365,7 @@
       "week": 11,
       "title": "Yesterday",
       "medium": "Few word",
-      "description": "A smattering of haikus for my first (and late ehehe) design refresh. Enjoy!\n\nI mumble and groan\nBasking in her warm embrace\nGood morning, sunshine\n\nJust as the wind blows,\nAs the clouds and trees just be,\nI think of nothing.\n\nAccompany me\nEbony night, Lake Shore Drive\nWhat's for dinner, beans?\n\nUnfathomable\nMagnificent, glorious\nTwinkling far away",
+      "description": "A smattering of haikus for my first (and late ehehe) design refresh. Enjoy!\n\nI mumble and groan\n\nBasking in her warm embrace\n\nGood morning, sunshine\n\nJust as the wind blows,\n\nAs the clouds and trees just be,\n\nI think of nothing.\n\nAccompany me\n\nEbony night, Lake Shore Drive\n\nWhat's for dinner, beans?\n\nUnfathomable\n\nMagnificent, glorious\n\nTwinkling far away",
       "attachments": [],
       "socials": [
         {
@@ -6406,7 +6406,7 @@
       "week": 12,
       "title": "RELAX",
       "medium": "Digital (Clip Studio Paint)",
-      "description": "Ever had anxiety or panic and heard the word relax? That's a bit of what I tried to capture here. The inner font with harmful/intrusive thoughts I made from my own handwriting and you can download it (linked in next message) and use it if you like. \n\nIG/Tumblr `lithiumreflections` twitter `lireflections`\nHandmade font used above - free for your use because you're awesome!",
+      "description": "Ever had anxiety or panic and heard the word relax? That's a bit of what I tried to capture here. The inner font with harmful/intrusive thoughts I made from my own handwriting and you can download it (linked in next message) and use it if you like. \n\nIG/Tumblr `lithiumreflections` twitter `lireflections`\n\nHandmade font used above - free for your use because you're awesome!",
       "attachments": [
         {
           "url": "../static/img/lithium/2021-03-23+3a35de39ceeb73f5a0c7c3e2e94a753e.jpg",
@@ -6616,7 +6616,7 @@
       "week": 12,
       "title": "Disappear",
       "medium": "Procreate",
-      "description": "English is my second language and I\u2019m having fun with all suffix and prefix. Google said \u201cdis\u201d =  \u201ca Latin prefix meaning \u201capart,\u201d \u201casunder,\u201d \u201caway,\u201d \u201cutterly,\u201d or having a privative, negative, or reversing force.... Also my art always revolving around my daily life so this work inspired by this week little getaway trip... I\u2019m disappeared into nature now....\nhttps://www.instagram.com/soleil.boo/\n\ntwitch.tv/soleilboo",
+      "description": "English is my second language and I\u2019m having fun with all suffix and prefix. Google said \u201cdis\u201d =  \u201ca Latin prefix meaning \u201capart,\u201d \u201casunder,\u201d \u201caway,\u201d \u201cutterly,\u201d or having a privative, negative, or reversing force.... Also my art always revolving around my daily life so this work inspired by this week little getaway trip... I\u2019m disappeared into nature now....\n\nhttps://www.instagram.com/soleil.boo/\n\ntwitch.tv/soleilboo",
       "attachments": [
         {
           "url": "../static/img/soleilboo/2021-03-26+6573b1646c51590c2469084cc93adeb7.gif",
@@ -6637,7 +6637,7 @@
       "week": 12,
       "title": "Just a normal day as an asian girl online",
       "medium": "Photography and Digital Editing",
-      "description": "TW: racism, sexism\nThis is a response piece to the experience of being a female online. The quotes are all taken from real messages sent to me on my stream. The use of keycaps represents not only the digital nature of these messages but allude to how anonymous messages are written with magazine clippings. I hope you like i!",
+      "description": "TW: racism, sexism\n\nThis is a response piece to the experience of being a female online. The quotes are all taken from real messages sent to me on my stream. The use of keycaps represents not only the digital nature of these messages but allude to how anonymous messages are written with magazine clippings. I hope you like i!",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-03-26+958a0cabc23726de1b5be06f10e84065.png",
@@ -6899,7 +6899,7 @@
       "week": 13,
       "title": "Then She Fell\u201d",
       "medium": "Mixed media (plaster strips, paper clay, paint), Photoshop",
-      "description": "Inspired by the song Bad Dream by Tatsuya Kitani (https://www.youtube.com/watch?v=lkYeBXXHgY4)\n*I'm forced to live a meaningless and unreasonable tragedy\nWho the hell said \u201cafter rain comes fair weather\u201d\nI can't imagine this bad dream ending*\n\nThe mask is referencing a Hannya mask that's used in Noh theater, which is used in the performances to depict female demons that are filled with jealousy. The traditional mask, depending on the angle it is viewed, can show either a demonic or tortured expression. I've also been intrigued by the themes in Japanese horror stories, which often focus on building the suspense, and the duality of tragedy and anger in vengeful spirits.\n\nlol and here's the front of the mask since it's hard to see in the lighting of the photo",
+      "description": "Inspired by the song Bad Dream by Tatsuya Kitani (https://www.youtube.com/watch?v=lkYeBXXHgY4)\n\n*I'm forced to live a meaningless and unreasonable tragedy\n\nWho the hell said \u201cafter rain comes fair weather\u201d\n\nI can't imagine this bad dream ending*\n\nThe mask is referencing a Hannya mask that's used in Noh theater, which is used in the performances to depict female demons that are filled with jealousy. The traditional mask, depending on the angle it is viewed, can show either a demonic or tortured expression. I've also been intrigued by the themes in Japanese horror stories, which often focus on building the suspense, and the duality of tragedy and anger in vengeful spirits.\n\nlol and here's the front of the mask since it's hard to see in the lighting of the photo",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg",
@@ -6934,7 +6934,7 @@
       "week": 13,
       "title": "_P\u0337\u0311\u031aA\u0334\u0344\u0305I\u0334\u031a\u0352N\u0337\u0308\u0360F\u0335\u0302\u0333U\u0337\u030b\u0353L\u0335\u031b\u035d \u0336\u0343\u030fB\u0337\u0344\u0314L\u0334\u0305\u0302I\u0336\u0304\u0344S\u0335\u0313\u033eS\u0337\u0310\u0310_",
       "medium": "Paint Tool SAI",
-      "description": "bright colors, just as a warning\n\"AST\u0336\u0309\u033dR\u0334\u0301\u030aO\u0337\u0351\u0351, ASTRO! P\u0337\u0360\u0326L\u0338\u034b\u0312E\u0337\u0303\u0319A\u0336\u0343\u0314S\u0335\u0343\u0309E\u0336\u0341\u0305!\u0334\u030f\u033e \u0337\u0300\u0302B\u0336\u031a\u0310L\u0338\u0351\u030dI\u0338\u0313\u033aN\u0337\u0357\u033eK\u0335\u034c\u033e \u0334\u0315\u035dA\u0337\u0357\u031aT\u0336\u0302\u034c \u0334\u0310\u0343M\u0336\u0310\u0300E\u0335\u030d\u0301!\u0335\u0304\u030c WHAT HAPPENED? W\u0336\u0309\u031fH\u0336\u0312\u0357Y\u0335\u0344\u0342 \u0336\u0307\u0318D\u0336\u033d\u035cI\u0334\u031b\u0343D\u0334\u0302\u032f \u0338\u0344\u0302T\u0337\u0300\u034aH\u0335\u030b\u0343I\u0336\u0301\u0359S\u0336\u030d\u0306 \u0334\u0305\u0346H\u0335\u0344APPEN?! NO! WAKE UP WAKE UP!!\"\n(Don't bother trying to read that if you struggle lmao) I got this piece in, yay! More `crazy eyes` and insight into the story lol. If only this were an April Fools so Astro could go \"It was just a prank, bro!\" What a twisted prank it'd be.",
+      "description": "bright colors, just as a warning\n\"AST\u0336\u0309\u033dR\u0334\u0301\u030aO\u0337\u0351\u0351, ASTRO! P\u0337\u0360\u0326L\u0338\u034b\u0312E\u0337\u0303\u0319A\u0336\u0343\u0314S\u0335\u0343\u0309E\u0336\u0341\u0305!\u0334\u030f\u033e \u0337\u0300\u0302B\u0336\u031a\u0310L\u0338\u0351\u030dI\u0338\u0313\u033aN\u0337\u0357\u033eK\u0335\u034c\u033e \u0334\u0315\u035dA\u0337\u0357\u031aT\u0336\u0302\u034c \u0334\u0310\u0343M\u0336\u0310\u0300E\u0335\u030d\u0301!\u0335\u0304\u030c WHAT HAPPENED? W\u0336\u0309\u031fH\u0336\u0312\u0357Y\u0335\u0344\u0342 \u0336\u0307\u0318D\u0336\u033d\u035cI\u0334\u031b\u0343D\u0334\u0302\u032f \u0338\u0344\u0302T\u0337\u0300\u034aH\u0335\u030b\u0343I\u0336\u0301\u0359S\u0336\u030d\u0306 \u0334\u0305\u0346H\u0335\u0344APPEN?! NO! WAKE UP WAKE UP!!\"\n\n(Don't bother trying to read that if you struggle lmao) I got this piece in, yay! More `crazy eyes` and insight into the story lol. If only this were an April Fools so Astro could go \"It was just a prank, bro!\" What a twisted prank it'd be.",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-04-02+12016a8e27b99b2ecb184e5f5d2be596.png",
@@ -7044,7 +7044,7 @@
       "week": 13,
       "title": "im dying btw",
       "medium": "digital, CSP and SAI",
-      "description": "based off true events like 1:50 PM 2/4/2021\nmy water was too hot to drink so i was dying.\ni think this has inspired me to do more 4komas tho in the future!!! i really like short fun comics, one of my favourite things to draw... so i hope you like it too!!!!",
+      "description": "based off true events like 1:50 PM 2/4/2021\n\nmy water was too hot to drink so i was dying.\n\ni think this has inspired me to do more 4komas tho in the future!!! i really like short fun comics, one of my favourite things to draw... so i hope you like it too!!!!",
       "attachments": [
         {
           "url": "../static/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png",
@@ -7074,7 +7074,7 @@
       "week": 13,
       "title": "Introspection",
       "medium": "Keyboard, and some words.",
-      "description": "The first thing I thought of when looking at the title of this week's prompt was introspection. I wanted to explore poetry a bit more so I did some reading on limericks and worked with that structure. So the first one titled SeemsGood* is about my general high school experience. The second one titled *Mirror, mirror is about how I used to have a hard time looking at my own reflection. I also recorded myself reading them cause why not? Enjoy!\n\nSeemsGood\nI look back and think \"god that was tough\".\nIt was just four years, though they were rough.\nGrandiose my plans,\nThen, well, shit hit the fan.\nI stumbled, yet here I stand, proudly scuffed. \n\nMirror, mirror\nThey say pictures hold one thousand words.\nA reflection? Perhaps two-thirds?\nStupid, sad, ugly,\nPretentious, pudgy?\nGiving them value? Now thats absurd.",
+      "description": "The first thing I thought of when looking at the title of this week's prompt was introspection. I wanted to explore poetry a bit more so I did some reading on limericks and worked with that structure. So the first one titled SeemsGood* is about my general high school experience. The second one titled *Mirror, mirror is about how I used to have a hard time looking at my own reflection. I also recorded myself reading them cause why not? Enjoy!\n\nSeemsGood\n\nI look back and think \"god that was tough\".\n\nIt was just four years, though they were rough.\n\nGrandiose my plans,\n\nThen, well, shit hit the fan.\n\nI stumbled, yet here I stand, proudly scuffed. \n\nMirror, mirror\n\nThey say pictures hold one thousand words.\n\nA reflection? Perhaps two-thirds?\n\nStupid, sad, ugly,\n\nPretentious, pudgy?\n\nGiving them value? Now thats absurd.",
       "attachments": [
         {
           "url": "../static/img/mrgreeyne/2021-04-03+daca5d1b90366039ca87b55763db9829.wav",
@@ -7125,7 +7125,7 @@
       "week": 13,
       "title": "Fragments of Remembrance",
       "medium": "procreate",
-      "description": "this is a comic I made with my friends a couple months ago currently we are working on episode 2 after a hiatus and I hope you enjoy the first episode. I put a lot of heart into it and I hope to become a WEBTOON original one day\nhttps://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599",
+      "description": "this is a comic I made with my friends a couple months ago currently we are working on episode 2 after a hiatus and I hope you enjoy the first episode. I put a lot of heart into it and I hope to become a WEBTOON original one day\n\nhttps://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599",
       "attachments": [
         {
           "url": "https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599"
@@ -7145,7 +7145,7 @@
       "week": 13,
       "title": "Fake Animu Screenshot",
       "medium": "Sketchbook pro & paint.net",
-      "description": "Super last minute submission, but I didn't want to miss two weeks in a row!\nSo you know when you have a plan, but then you realise you did not give yourself enough time? \n\n...yeah that was me \ud83d\ude05\n\nOriginally was gonna have like 3 or 4 fake screenshots. But time is a cruel mistress. Heard the prompt was \"look at me\", and I'm like \"oh! I've said that in game! Let's make screenshots.\"\nAnyway, met Thistle, my Curse of Strahd character, and Ireena, the npc we've been travelling with.  \ud83d\ude1b\nEnjoy",
+      "description": "Super last minute submission, but I didn't want to miss two weeks in a row!\n\nSo you know when you have a plan, but then you realise you did not give yourself enough time? \n\n...yeah that was me \ud83d\ude05\n\nOriginally was gonna have like 3 or 4 fake screenshots. But time is a cruel mistress. Heard the prompt was \"look at me\", and I'm like \"oh! I've said that in game! Let's make screenshots.\"\n\nAnyway, met Thistle, my Curse of Strahd character, and Ireena, the npc we've been travelling with.  \ud83d\ude1b\n\nEnjoy",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-04-03+260987929a5da935225d08ce2c526a21.png",
@@ -7232,7 +7232,7 @@
       "week": 14,
       "title": "idk",
       "medium": "phone",
-      "description": "I like the concept of this peicr and I'm on spring break now so I can acctually participate.\nMy drawing skills arnt the best compared to others in this discord but this still fun improving and taking part",
+      "description": "I like the concept of this peicr and I'm on spring break now so I can acctually participate.\n\nMy drawing skills arnt the best compared to others in this discord but this still fun improving and taking part",
       "attachments": [
         {
           "url": "../static/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png",
@@ -7319,7 +7319,7 @@
       "week": 13,
       "title": "Look behind you, they're the Captain now",
       "medium": "Watercolor, GOLD COLOR",
-      "description": "Return to monke\nGOLD",
+      "description": "Return to monke\n\nGOLD",
       "attachments": [
         {
           "url": "../static/img/mrop2000/2021-04-08+b910ea183eb803fda3c77906e1f6fea1.jpg",
@@ -7493,7 +7493,7 @@
       "week": 14,
       "title": "Fiery heart",
       "medium": "Charcoal & Watercolour on 110gsm Dollar-store Paper",
-      "description": "With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)\n\nTimelapse\nhttps://www.youtube.com/watch?v=l-7cvM7f3Ps\n\nThis was my first endeavor with watercolour and wanted to give it a red hot go (haha) I used a charcoal pencil to free hand the foundation which took me approximately 1 hour to accomplish. I followed with the watercolours spending mixed amounts of my time trying to mix what I wanted and painting in sections at a time, taking a further 4 hours to accomplish.\n\nI like to imagine what shootings off around Howl is the fire from the star, casting amazing light and shadows. I found this quite fun to bring to life! \n\nHowl, the boy who ate a star. Spicy fire spirit \ud83d\udd25",
+      "description": "With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)\n\nTimelapse\n\nhttps://www.youtube.com/watch?v=l-7cvM7f3Ps\n\nThis was my first endeavor with watercolour and wanted to give it a red hot go (haha) I used a charcoal pencil to free hand the foundation which took me approximately 1 hour to accomplish. I followed with the watercolours spending mixed amounts of my time trying to mix what I wanted and painting in sections at a time, taking a further 4 hours to accomplish.\n\nI like to imagine what shootings off around Howl is the fire from the star, casting amazing light and shadows. I found this quite fun to bring to life! \n\nHowl, the boy who ate a star. Spicy fire spirit \ud83d\udd25",
       "attachments": [
         {
           "url": "../static/img/shredarbayn/2021-04-09+0154527909a45f2c2fd2915f7bff3a95.jpg",
@@ -7557,7 +7557,7 @@
       "week": 14,
       "title": "Flames of Phlegethos",
       "medium": "Sketchbook Pro",
-      "description": "Let's draw another one of my D&D characters, because dang it! Why not!?\nMet Athenaeum; tiefling lore bard/warlock and general wielder of hell fire.\nSo fun fact, when I started digital art about a year ago one of my first pieces was of Ath doing neato flame shit. Thought I'd revisit the concept with this one.\nVery pleased with how it turned out \ud83d\ude0a",
+      "description": "Let's draw another one of my D&D characters, because dang it! Why not!?\n\nMet Athenaeum; tiefling lore bard/warlock and general wielder of hell fire.\n\nSo fun fact, when I started digital art about a year ago one of my first pieces was of Ath doing neato flame shit. Thought I'd revisit the concept with this one.\n\nVery pleased with how it turned out \ud83d\ude0a",
       "attachments": [
         {
           "url": "../static/img/trixynetex/2021-04-09+736679a3ecc56081e7805e0503372635.png",
@@ -7602,7 +7602,7 @@
       "week": 14,
       "title": "hey girl bites lip",
       "medium": "procrate",
-      "description": "I started this in  January but i changed up a lot of things in the last 1 hour like the clouds and i moved like half the facial anatomy\nSocaisl:  https://frogglasses.carrd.co/",
+      "description": "I started this in  January but i changed up a lot of things in the last 1 hour like the clouds and i moved like half the facial anatomy\n\nSocaisl:  https://frogglasses.carrd.co/",
       "attachments": [
         {
           "url": "../static/img/frog_glasses/2021-04-09+9e3450b11d8b1247ccf09972b1d964bf.jpg",
@@ -8182,7 +8182,7 @@
       "week": 16,
       "title": "Ozymandias",
       "medium": "Clip studio paint",
-      "description": "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better \ud83d\ude1b\nSo this is based off the poem \"Ozymandias\" by Percy Bysshe Shelley. Good poem, go read it. This is also my first real go with Clip studio and trying to make a webtoon/uploading a webtoon.\nSo yeah, go read it \ud83d\ude18\n(Don't worry, it's short)\n\nhttps://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1",
+      "description": "So this is an idea have had since week 7, but I didn't have the time to pull it off and also had too many ideas for that week. However I honestly think it fits with this week's theme better \ud83d\ude1b\n\nSo this is based off the poem \"Ozymandias\" by Percy Bysshe Shelley. Good poem, go read it. This is also my first real go with Clip studio and trying to make a webtoon/uploading a webtoon.\n\nSo yeah, go read it \ud83d\ude18\n\n(Don't worry, it's short)\n\nhttps://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1",
       "attachments": [
         {
           "url": "https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1"
@@ -8202,7 +8202,7 @@
       "week": 16,
       "title": "_The ~~Diving~~ Maternal Legendary_",
       "medium": "Paint Tool SAI",
-      "description": "(a small TW for alcohol and drug abuse) I decided to draw not my most favorite pokemon for this week, but the pokemon I respect* the most. Lugia's past is quite depressing. The creator of Lugia, Takeshi Shudo, heavily relied on alcohol, pills and even *tranquilizers* to get his mind in the workspace, which sadly isn't an uncommon practice with creators. Lugia was supposedly supposed to only show up in Pokemon: The Movie, but it found it's way in the game. She was supposed to represent *life and maternity. She was supposed to be the Goddess of the Sea, mother of life. Buuut, sadly the details were taken out of Shudo's grasp, and Lugia became a genderless legendary. They even made her a psychic type because, quote \"We wanted to make it more powerful.\"\nIt's disappointing and disheartening to see what happened to this deep-ocean beauty. The bastardizing of Shudo's ideas caused him to fall into a great despair, where he overdosed a few years later. I never knew Lugia's story before, but now that I do, she is the only legendary I look at and feel something. I hope it's the same for you too. She's truly the mother of all glory hidden in Pokemon's lore.\nhttps://www.youtube.com/watch?v=TQbKwNmsTes\nhere's a video with more information on Lugia's Story",
+      "description": "(a small TW for alcohol and drug abuse) I decided to draw not my most favorite pokemon for this week, but the pokemon I respect* the most. Lugia's past is quite depressing. The creator of Lugia, Takeshi Shudo, heavily relied on alcohol, pills and even *tranquilizers* to get his mind in the workspace, which sadly isn't an uncommon practice with creators. Lugia was supposedly supposed to only show up in Pokemon: The Movie, but it found it's way in the game. She was supposed to represent *life and maternity. She was supposed to be the Goddess of the Sea, mother of life. Buuut, sadly the details were taken out of Shudo's grasp, and Lugia became a genderless legendary. They even made her a psychic type because, quote \"We wanted to make it more powerful.\"\n\nIt's disappointing and disheartening to see what happened to this deep-ocean beauty. The bastardizing of Shudo's ideas caused him to fall into a great despair, where he overdosed a few years later. I never knew Lugia's story before, but now that I do, she is the only legendary I look at and feel something. I hope it's the same for you too. She's truly the mother of all glory hidden in Pokemon's lore.\n\nhttps://www.youtube.com/watch?v=TQbKwNmsTes\n\nhere's a video with more information on Lugia's Story",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png",
@@ -8860,7 +8860,7 @@
       "week": 17,
       "title": "MUSE",
       "medium": "Photoshop/ digital painting/ cover album",
-      "description": "So this is it! This is finale of 17 weeks of Designrefesh! I participated in this awesome community since week 5 and haven\u2019t dropped a single prompt! I\u2019m proud of myself for this commitment. Thank you @cindry for hosting and everyone who helping and participating! You all inspired me to stick to this all along. I\u2019m thankful for the opportunity to meet you all here! \nI come up with this submission with a lot of thoughts. My heart went way back to the 4 weeks that I missed out and how to capture them all in this piece (So I can finally say I did all 17 weeks haha)\nWeek 1: Yellow Line\nWeek 2: Deep Ocean\nWeek 3: Red Circle\nWeek 4: Murky Silhouettes\nSpecial thanks to @papapastry as the website had saving me time scrolling all the way back!\nSo here this is my work, and I hope you all enjoy as much as I did.\nWeek 17: combined of the above 4 prompts\n\n I love you all even we don\u2019t know each other \u2764\ufe0f\nAnd remember\n*\u201cthe light that's shining\nDeeper than the eyes can find it\u201d*\n\nEverythings @soleilboo",
+      "description": "So this is it! This is finale of 17 weeks of Designrefesh! I participated in this awesome community since week 5 and haven\u2019t dropped a single prompt! I\u2019m proud of myself for this commitment. Thank you @cindry for hosting and everyone who helping and participating! You all inspired me to stick to this all along. I\u2019m thankful for the opportunity to meet you all here! \nI come up with this submission with a lot of thoughts. My heart went way back to the 4 weeks that I missed out and how to capture them all in this piece (So I can finally say I did all 17 weeks haha)\n\nWeek 1: Yellow Line\n\nWeek 2: Deep Ocean\n\nWeek 3: Red Circle\n\nWeek 4: Murky Silhouettes\n\nSpecial thanks to @papapastry as the website had saving me time scrolling all the way back!\n\nSo here this is my work, and I hope you all enjoy as much as I did.\n\nWeek 17: combined of the above 4 prompts\n\n I love you all even we don\u2019t know each other \u2764\ufe0f\n\nAnd remember\n\n*\u201cthe light that's shining\n\nDeeper than the eyes can find it\u201d*\n\nEverythings @soleilboo",
       "attachments": [
         {
           "url": "../static/img/soleilboo/2021-05-06+3277f97e011ed2731b5e8d063704a461.jpg",
@@ -8879,7 +8879,7 @@
       "week": 17,
       "title": "Lonely Light",
       "medium": "Ableton Live 11 Studio",
-      "description": "Preamble:\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
+      "description": "Preamble:\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\n\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
       "attachments": [
         {
           "url": "https://www.youtube.com/watch?v=tUSsUgTB-b8"

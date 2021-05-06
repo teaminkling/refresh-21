@@ -21,6 +21,7 @@ Week 3: **Red Circle**. This art was lovingly created using: **Digital, SAI**.
 ## Artist's Notes
 
 I read one piece, everyone read one piece.
+
 Also ace is cool ace is really cool, tried to keep it simple and I really tried ;;;;
 
 ## Social Media

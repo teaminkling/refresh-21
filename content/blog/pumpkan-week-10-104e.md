@@ -21,6 +21,7 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**
 ## Artist's Notes
 
 This one got away from me a bit. I intended to do something simple, I really did. All I really wanted to do was do some stronger posing than usual. I hope this fits within the prompt for this week, shes wearing clothes lmao...
+
 Anyway here is my dnd character Joselynn La Verne being no more dramatic than usual
 
 ## Social Media

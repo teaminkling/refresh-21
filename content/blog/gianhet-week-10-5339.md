@@ -21,6 +21,7 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **: CSP**.
 ## Artist's Notes
 
 : /
+
 rushed this one a bit lmao
 
 ## Social Media

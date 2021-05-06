@@ -22,6 +22,7 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **2 page comic, Ink
 ## Artist's Notes
 
 Wouldn't it be weird to find light in a deep ocean dive? Kinda scary if you ask me.
+
 I love the idea of discovering something once lost, unsure if peaceful or dangerous waiting to be explored. 
 Really just inspired by series like Made in Abyss and Jigokuraku!
 

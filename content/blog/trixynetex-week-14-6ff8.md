@@ -21,8 +21,11 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **Sketchbook Pr
 ## Artist's Notes
 
 Let's draw another one of my D&D characters, because dang it! Why not!?
+
 Met Athenaeum; tiefling lore bard/warlock and general wielder of hell fire.
+
 So fun fact, when I started digital art about a year ago one of my first pieces was of Ath doing neato flame shit. Thought I'd revisit the concept with this one.
+
 Very pleased with how it turned out 😊
 
 ## Social Media

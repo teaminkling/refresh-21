@@ -28,8 +28,6 @@ I planned to do a colossal anthology of pieces, week after week, each with diffe
 
 In either case, I'd need to take leave to have enough time to write that much music. Anyway:
 
-
-
 When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.
 
 I think this kind of "nostalgic" sound works well for the final song, kind of like the final song of an LP.
@@ -37,6 +35,7 @@ I think this kind of "nostalgic" sound works well for the final song, kind of li
 Also, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.
 
 YT: https://www.youtube.com/watch?v=tUSsUgTB-b8
+
 SC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>
 
 ## Social Media

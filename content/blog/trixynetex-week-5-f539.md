@@ -21,7 +21,9 @@ Week 5: **Royal Green**. This art was lovingly created using: **Sketchbook Pro**
 ## Artist's Notes
 
 Firstly;  if you haven't heard of "Kintsugi" before, you're welcome 😛
+
 Secondly, rendering jade is a mood... cheers for that
+
 This one took me a hot minute, but I think I'm starting to get the hang of digital painting somewhat 😅
 
 ## Social Media

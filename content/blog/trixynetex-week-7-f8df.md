@@ -24,6 +24,7 @@ This morning the Perseverance Rover landed safely in the Jezero Crater on Mars. 
 
 Art wise, a bit of a quick and dirty one. (Was starting to run out of time 😅) 
 I used the 3D model viewer of Perseverance to get the rover as accurate as possible. And then decided screw it, and just drew over it for sanity's sake (I am not proficient in drawing tech). Wanted to go for something a bit more graphic this week.
+
 Also, drew this while listen to The Martian soundtrack, cause vibes
 
 ## Social Media

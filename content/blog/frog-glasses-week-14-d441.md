@@ -21,6 +21,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **procrate**.
 ## Artist's Notes
 
 I started this in  January but i changed up a lot of things in the last 1 hour like the clouds and i moved like half the facial anatomy
+
 Socaisl:  https://frogglasses.carrd.co/
 
 ## Social Media

@@ -23,6 +23,7 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **digital, procre
 going for simple w line work + pantone yellow. i also really love sunflowers. like a lot.
 
 an accompanying haiku:
+
 like the sunflowers / 
 i look towards the sunlight / 
 - to moving forwards /

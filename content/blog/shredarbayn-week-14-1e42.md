@@ -24,6 +24,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **Charcoal & Wa
 With fire on my mind, I thought of Calcifer and how Howl ate the shooting star! (Howl's Moving Castle 2005)
 
 Timelapse
+
 https://www.youtube.com/watch?v=l-7cvM7f3Ps
 
 This was my first endeavor with watercolour and wanted to give it a red hot go (haha) I used a charcoal pencil to free hand the foundation which took me approximately 1 hour to accomplish. I followed with the watercolours spending mixed amounts of my time trying to mix what I wanted and painting in sections at a time, taking a further 4 hours to accomplish.

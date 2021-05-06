@@ -22,7 +22,6 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **Ableton Liv
 
 <https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>
 
-
 (Headphones will benefit you for this song).
 
 "Desert" to me means the mixolydian mode (a tonal "pattern"). You know, like The Beatles (Norwegian Wood, I Feel Fine) and a lot of classic rock around that era. "Space" sounds like space emulation: reverb. The theme also influenced the lyrics greatly, which were written before the music.

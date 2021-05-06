@@ -22,7 +22,9 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **Sketchbook Pro*
 
 This is what happens when I stare at Hydro74's work for long enough... 
 Something very different for me, but I really love how this turned out!
+
 A CMYK Dragon, just for you Cindy 😘
+
 Technically based of the Black Dragons from D&D cause I'm a nerd. Enjoy!
 
 ## Social Media

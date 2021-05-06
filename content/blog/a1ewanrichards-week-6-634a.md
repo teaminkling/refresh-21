@@ -33,6 +33,7 @@ Recently, she even told me maybe we'd work on a project someday and even referre
 The title is derived from a piece by Joe Hisaishi for the movie HANA-BI (Fireworks), directed by Takeshi Kitano.
 
 rjmmendoza444 (Twitter/IG)
+
 A1EwanRichards (Twitch)
 
 ## Social Media

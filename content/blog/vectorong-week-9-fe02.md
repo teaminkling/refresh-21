@@ -22,6 +22,7 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **Suminagashi (Ja
 ## Artist's Notes
 
 "It reflects me. It reflects you...Two lines become one" - Mirrors by STUTS (ft. SUMIN, Daichi Yamamoto & CHINZA DOPENESS) (the song I was vibin to while making this piece: https://www.youtube.com/watch?v=wdwzLaljOzw)
+
 While working alongside printmaking friends on a group zoom call, I was suddenly taken back to a time where we were all gathered together at our university's studio, working until the sky was dark and blasting music three octaves too loud. Even in the virtual realm where we are cities apart, you all feel closer than ever.
 
 |  twitch - @vectorong

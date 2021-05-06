@@ -21,6 +21,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **phone**.
 ## Artist's Notes
 
 I like the concept of this peicr and I'm on spring break now so I can acctually participate.
+
 My drawing skills arnt the best compared to others in this discord but this still fun improving and taking part
 
 ## Social Media

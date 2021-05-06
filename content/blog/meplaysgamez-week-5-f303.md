@@ -22,7 +22,9 @@ Week 5: **Royal Green**. This art was lovingly created using: **i love airbrushe
 ## Artist's Notes
 
 Master of possession by games workshop base layer chaos black, Mr surfacer 1200 for zenithal shading then vallejo green ink airbrushed. The head and any other skulls had badab black wash applied just before the vallejo green ink was sprayed on.
+
 i hate cleaning up after airbrushing.
+
 a better angle
 
 ## Social Media

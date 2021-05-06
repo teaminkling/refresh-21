@@ -22,6 +22,7 @@ Week 6: **Simple Love**. This art was lovingly created using: **Digital, and pub
 ## Artist's Notes
 
 I don't like Valentines Days but I wanted to talk about what I loved, pets!
+
 Animals show love in such wonderful ways and I'm so happy!!!!
 
 The main submission is a lil A6 zine you can fold yourself if you have a b+W a4 printer!

@@ -23,6 +23,7 @@ Week 13: **Look At Me**. This art was lovingly created using: **Watercolor, GOLD
 ## Artist's Notes
 
 Return to monke
+
 GOLD
 
 ## Social Media

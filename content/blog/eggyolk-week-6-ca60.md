@@ -23,6 +23,7 @@ Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.
 The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. 
 
 ps. i forgot the fucking chimney godammit
+
 pss. oh shit theres also no doorknob. everything is falling apart.
 
 urmom6.0

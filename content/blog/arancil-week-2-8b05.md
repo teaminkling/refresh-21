@@ -21,7 +21,9 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Watercolor (Arche
 ## Artist's Notes
 
 "In the year 20XX
+
 Every living being on Earth
+
 Is late for dinner"
 
 Had to redo the whole thing after being unhappy with the first go at it - and I feel like the "SPACE" keyword wasn't given any justice. I have some ideas on how it could have been dealt with better, but alas, we'll just see that as part of the lesson and learning. Looking forward to getting a better camera & lighting opportunities.

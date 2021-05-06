@@ -21,9 +21,11 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **phone**.
 ## Artist's Notes
 
 Desc: When I thought of what to draw for this theme I thought cyberpunk and cool flashing lights.
+
 I realized I wasn't that good at the subject yet and would need time to develop it so instead I went to my mor comfortable style.
 
 This piece represents an innocent girl who never did anything wrong until she made a single mistake.
+
 After the mistake she was banished from heaven and sent to hell to be tormented. It resembles how people expect so much from their role models or normal people in general and even after the smallest mistake leads to people disliking even hating that person.
 
 Small details: She is faceless to represent many different people not just one girl

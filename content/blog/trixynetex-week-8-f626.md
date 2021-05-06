@@ -21,7 +21,9 @@ Week 8: **High Sheen**. This art was lovingly created using: **Sketchbook Pro**.
 ## Artist's Notes
 
 TWO HOURS! incoherent eldritch screeching
+
 Firstly: WHY!!!
+
 Secondly: I would like the record to show that I did in fact completely this piece within the two hours (brainstorming included)
 
 So for this I figured we'd go back to "basics" and hop on board the spoopy train. Since the og pics were from a church, I started thinking along the line of angels, creepy angels... then got inspired by Peter Mohrbacher's angel paintings and ended up with a Dark Souls boss  🤷‍♀️

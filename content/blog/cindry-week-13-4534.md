@@ -22,7 +22,9 @@ Week 13: **Look At Me**. This art was lovingly created using: **digital, CSP and
 ## Artist's Notes
 
 based off true events like 1:50 PM 2/4/2021
+
 my water was too hot to drink so i was dying.
+
 i think this has inspired me to do more 4komas tho in the future!!! i really like short fun comics, one of my favourite things to draw... so i hope you like it too!!!!
 
 ## Social Media

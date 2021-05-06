@@ -23,6 +23,7 @@ Week 12: **Visual Words**. This art was lovingly created using: **Digital (Clip 
 Ever had anxiety or panic and heard the word relax? That's a bit of what I tried to capture here. The inner font with harmful/intrusive thoughts I made from my own handwriting and you can download it (linked in next message) and use it if you like. 
 
 IG/Tumblr `lithiumreflections` twitter `lireflections`
+
 Handmade font used above - free for your use because you're awesome!
 
 ## Social Media

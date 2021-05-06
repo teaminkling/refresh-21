@@ -680,13 +680,20 @@ def extract_all_content(
         description = re.sub(r"(?i:social[s]?(?: media)?)[: -]*", "", dynamic_content)
 
         # Remove lines that are just single characters. Leaves whitespace.
+        # TODO: Move to functions.
 
         temp_description: str = ""
         for line in description.split("\n"):
-            if len(line.strip()) != 1:
+            if len(line.strip()) != 1 or line.strip() == "<>":
                 temp_description += f"{line}\n"
 
         description = temp_description
+
+        # Ensure all newlines are two \ns, not one or more than two.
+        # TODO: Extract regex to constant.
+
+        description = re.sub(r"\n{3,}", "\n\n", description)
+        description = re.sub(r"(?<=\S)\n(?=[A-Za-z0-9(}\[\]_*])", "\n\n", description)
 
         # Form the hyperlinks and augment attachments if applicable.
 

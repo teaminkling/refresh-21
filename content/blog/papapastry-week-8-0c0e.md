@@ -29,6 +29,7 @@ This was a speedrun. I composed, mixed, wrote lyrics, recorded, and mastered eve
 The melody was written using nerd magic and code based on the image file Cindy posted.
 
 Twitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>
+
 Links: https://youtu.be/KXirUI5JGVU [Closed Captions Available]
 
 Will be updated later with a YouTube video.
