@@ -22,7 +22,7 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Ableton L
 
 ## Artist's Notes
 
-Please skip this for the showcase!
+If time is a factor, please skip this for the showcase!
 
 Submission 4/5.
 
@@ -48,7 +48,7 @@ SC: <https://soundcloud.com/papapastry/medley-2021-design-refresh>
 **Title:** _Medley_
 **Medium:** Ableton Live 11 Studio
 
-_Please skip this for the showcase!_
+_If time is a factor, please skip this for the showcase!_
 
 **Description:**
 
