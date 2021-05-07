@@ -20,7 +20,7 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 
-Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and <:charma22NotLikeThis:771690795795218432> but here it is nonetheless. 
+Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and  but here it is nonetheless. 
 
 urmom2.0
 
@@ -38,7 +38,7 @@ urmom2.0
 Week: 2
 Title: Jormungandr
 Medium: Procreate
-Description: Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and <:charma22NotLikeThis:771690795795218432> but here it is nonetheless. 
+Description: Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and  but here it is nonetheless. 
 
 Social Media: urmom2.0
 {{< /highlight >}}

@@ -20,7 +20,9 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Whatever 
 
 ## Artist's Notes
 
-I couldn't resist. More stuff after this one. Thanks to @jumpingbeans for the script and visuals.
+Submission 2/5.
+
+I couldn't resist. Thanks to @jumpingbeans for the script and visuals.
 
 I used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.
 
@@ -43,7 +45,9 @@ https://www.youtube.com/watch?v=87LKV9dcaj4
 **Medium:** Whatever beans used + Ableton Live 11 Suite
 **Description:**
 
-I couldn't resist. More stuff after this one. Thanks to @jumpingbeans for the script and visuals.
+Submission 2/5.
+
+I couldn't resist. Thanks to @jumpingbeans for the script and visuals.
 
 I used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.
 

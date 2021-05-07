@@ -22,7 +22,7 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
 
 Manga-inspired illustration where a warrior meets their maker in the Deep Realm <a:JamCat:768213145008210012> 
 
-( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn’t want to do another red piece this upcoming week. Had to switch it up! <:UUUdrake:779990724212293642> )
+( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn’t want to do another red piece this upcoming week. Had to switch it up!  )
 
 + https://instagram/dough.yeast
 
@@ -43,7 +43,7 @@ Week: 2
 Medium: Procreate
 Description: Manga-inspired illustration where a warrior meets their maker in the *Deep Realm* <a:JamCat:768213145008210012> 
 
-( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn’t want to do another red piece this upcoming week. **Had to switch it up!** <:UUUdrake:779990724212293642> )
+( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn’t want to do another red piece this upcoming week. **Had to switch it up!**  )
 
 Social Media: https://twitch.tv/doughyeast + https://instagram/dough.yeast
 {{< /highlight >}}

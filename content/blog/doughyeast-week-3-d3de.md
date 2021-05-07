@@ -20,7 +20,7 @@ Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.
 
 ## Artist's Notes
 
-no flash photography!! <:OOOdrake:779973582298021890>
+no flash photography!!
 
 ## Social Media
 
@@ -37,7 +37,7 @@ no flash photography!! <:OOOdrake:779973582298021890>
 Week: 3
 **Title: Cindy’s Imaginary Friend**
 Medium: Procreate
-Description: no flash photography!! <:OOOdrake:779973582298021890> 
+Description: no flash photography!!  
 
 Social Media: https://instagram.com/Dough.Yeast || https://twitch.tv/DoughYeast
 {{< /highlight >}}

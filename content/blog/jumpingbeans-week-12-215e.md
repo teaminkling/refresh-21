@@ -20,7 +20,7 @@ Week 12: **Visual Words**. This art was lovingly created using: **gif**.
 
 ## Artist's Notes
 
-im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues <:ThankEgg:797490219716050954>)
+im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues )
 
 edit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning.
 
@@ -39,7 +39,7 @@ edit: redid the gif, its still giving the weird coloured background thingy, even
 Week: 12
 Title: wrod
 Medium: gif
-Description: im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues <:ThankEgg:797490219716050954>)
+Description: im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues )
 
 edit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning. 
 

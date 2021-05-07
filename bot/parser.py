@@ -508,6 +508,10 @@ def extract_all_content(
         Content `dict` that can be extended for the final parsed JSON file.
     """
 
+    # First, clean the message of any leftover emoji codes. They might screw up the parse.
+
+    content = re.sub(r"<:\S+:\d+>", "", content)
+
     # Don't bother extracting if it's the template message.
 
     if TEMPLATE_FRAGMENT in content:

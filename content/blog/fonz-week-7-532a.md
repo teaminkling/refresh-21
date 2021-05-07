@@ -20,7 +20,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 
 ## Artist's Notes
 
-80 minute speed draw this time <:klaeiaFeels:731112542956683274> happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)
+80 minute speed draw this time  happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)
 
 ## Social Media
 
@@ -36,6 +36,6 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.
 Week: 7
 Title: desert strands
 Medium: csp
-Description: 80 minute speed draw this time <:klaeiaFeels:731112542956683274> happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)
+Description: 80 minute speed draw this time  happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)
 Socials: http://twitch.tv/fonzaku
 {{< /highlight >}}

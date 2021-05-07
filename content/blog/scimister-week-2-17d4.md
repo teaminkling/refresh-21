@@ -20,7 +20,7 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **PaintToolSAI**.
 
 ## Artist's Notes
 
-Ascending towards the light and away from theL, whatever that may be <:cindryAAA:775498319074033674>
+Ascending towards the light and away from theL, whatever that may be
 
 ## Social Media
 
@@ -36,7 +36,7 @@ Ascending towards the light and away from theL, whatever that may be <:cindryAAA
 **Week 2**
 Title: Ascend
 Medium: PaintToolSAI
-Description: Ascending towards the light and away from theL, whatever that may be <:cindryAAA:775498319074033674> 
+Description: Ascending towards the light and away from theL, whatever that may be  
 
 **Social Media:** @Scimister on twitch
 {{< /highlight >}}

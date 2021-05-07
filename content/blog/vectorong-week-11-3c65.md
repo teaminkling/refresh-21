@@ -20,7 +20,7 @@ Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Relief 
 
 ## Artist's Notes
 
-Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at <:CattoCry:800558786418835477>  ~~
+Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at   ~~
 
 ## Social Media
 
@@ -37,6 +37,6 @@ Based on my initial wonder (and subsequent terror) of the galaxy, where I would 
 Week: 11
 Title: Cancri
 Medium: Relief printing
-Description: Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at <:CattoCry:800558786418835477>  ~~
+Description: Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at   ~~
 Social Media: instagram @karen_tsugawa  |  twitch @vectorong
 {{< /highlight >}}

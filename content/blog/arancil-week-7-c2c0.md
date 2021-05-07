@@ -31,7 +31,7 @@ Inspiration taken from Kamen Rider, Getter Robo G, Gunbuster and the GAINAX pose
 / | 
 sorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT
 
-This one was a bit rushed, final hours before submission <:cindryBAM:775498320944169010>
+This one was a bit rushed, final hours before submission
 
 ## Social Media
 
@@ -58,6 +58,6 @@ Inspiration taken from Kamen Rider, Getter Robo G, Gunbuster and the GAINAX pose
 Social Media: https://www.instagram.com/arancil/ | https://www.twitch.tv/arancil
 sorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT
 
-This one was a bit rushed, final hours before submission <:cindryBAM:775498320944169010>
+This one was a bit rushed, final hours before submission 
 
 {{< /highlight >}}

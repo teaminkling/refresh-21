@@ -22,7 +22,7 @@ Week 12: **Visual Words**. This art was lovingly created using: **Procreate**.
 
 i mek hand gif 
 
-urmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186>
+urmom 12.0
 
 ## Social Media
 
@@ -40,5 +40,5 @@ Title: Reach
 Medium: Procreate
 Description: i mek hand gif 
 
-socials: urmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186>
+socials: urmom 12.0   
 {{< /highlight >}}

@@ -20,7 +20,7 @@ Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
 
 ## Artist's Notes
 
-another last minute entry  <:wow:649902323191119882>  really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !
+another last minute entry    really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !
 
 ## Social Media
 
@@ -36,6 +36,6 @@ another last minute entry  <:wow:649902323191119882>  really just wanted to expl
 Week: 4
 Title: green eyed girl
 Medium: csp
-Description: another last minute entry  <:wow:649902323191119882>  really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !
+Description: another last minute entry    really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !
 Socials: http://twitch.tv/fonzaku
 {{< /highlight >}}

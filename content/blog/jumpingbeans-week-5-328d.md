@@ -22,7 +22,7 @@ Week 5: **Royal Green**. This art was lovingly created using: **Installation**.
 
 stickman doesn't go brrrrrr. stickman goes mining. but seriously though, royal green reminded me of the military (for some reason) and jade was the other prompt. so i had my uniform become be a jade mine. :P
 
-ps i failed kindergarten, i cant use a pair of scissors  <:cindryAAA:775498319074033674> 
+ps i failed kindergarten, i cant use a pair of scissors   
 
 Media:
 
@@ -43,7 +43,7 @@ Title:  Here we go again
 Medium: "Installation"
 Description: stickman doesn't go brrrrrr. stickman goes mining. but seriously though, royal green reminded me of the military (for some reason) and jade was the other prompt. so i had my uniform become be a jade mine. :P
 
-ps i failed kindergarten, i cant use a pair of scissors  <:cindryAAA:775498319074033674> 
+ps i failed kindergarten, i cant use a pair of scissors   
 
 Social Media:
 {{< /highlight >}}

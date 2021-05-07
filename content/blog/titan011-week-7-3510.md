@@ -20,7 +20,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **clip studio
 
 ## Artist's Notes
 
-has anyone ever tried it? <:blobhyperthink:800558786515435560>
+has anyone ever tried it?
 
 ## Social Media
 
@@ -36,5 +36,5 @@ has anyone ever tried it? <:blobhyperthink:800558786515435560>
 Week: 7
 Medium: clip studio
 Title: Dune Surfing
-Description: has anyone ever tried it? <:blobhyperthink:800558786515435560>
+Description: has anyone ever tried it? 
 {{< /highlight >}}

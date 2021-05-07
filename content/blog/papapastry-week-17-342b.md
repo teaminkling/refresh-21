@@ -22,17 +22,17 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Ableton L
 
 ## Artist's Notes
 
+Submission 3/5.
+
 Preamble:
 
-I planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.
+I planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the five pieces of work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.
 
 In either case, I'd need to take leave to have enough time to write that much music. Anyway:
 
-When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.
+When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.
 
-I think this kind of "nostalgic" sound works well for the final song, kind of like the final song of an LP.
-
-Also, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.
+Also, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so...
 
 YT: https://www.youtube.com/watch?v=tUSsUgTB-b8
 
@@ -54,19 +54,19 @@ SC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>
 **Title:** _Lonely Light_
 **Medium:** Ableton Live 11 Studio
 
+Submission 3/5.
+
 **Preamble:**
 
-I planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.
+I planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the five pieces of work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.
 
 In either case, I'd need to take leave to have enough time to write that much music. Anyway:
 
 **Description:**
 
-When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.
+When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.
 
-I think this kind of "nostalgic" sound works well for the final song, kind of like the final song of an LP.
-
-Also, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.
+Also, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so...
 
 YT: https://www.youtube.com/watch?v=tUSsUgTB-b8
 SC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>

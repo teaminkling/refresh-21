@@ -20,7 +20,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **Clip studio**
 
 ## Artist's Notes
 
-Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:779990724212293642>
+Antagonist: The Main Character of this anime just arrived im fucked
 
 ## Social Media
 
@@ -36,5 +36,5 @@ Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:7
 Week: 14
 Title: His name is Shiro 🔥 
 Medium: Clip studio
-Description: Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:779990724212293642>
+Description: Antagonist: The Main Character of this anime just arrived im fucked 
 {{< /highlight >}}

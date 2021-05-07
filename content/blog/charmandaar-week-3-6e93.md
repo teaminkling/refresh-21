@@ -20,7 +20,7 @@ Week 3: **Red Circle**. This art was lovingly created using: **photography/photo
 
 ## Artist's Notes
 
-this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ?? <:charma22THONK:780825723681898517> <:charma22THONK:780825723681898517> and photoshop crashing and p a n i k and stress but here we are i guess…
+this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ??   and photoshop crashing and p a n i k and stress but here we are i guess…
 
 ## Social Media
 
@@ -38,7 +38,7 @@ this is just me being a monkey in aerial silks. except many of me. in many silks
 Week: 3
 **Title: cirque of monkeys except it's me. i am the monkey**
 Medium: photography/photoshop
-Description: this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ?? <:charma22THONK:780825723681898517> <:charma22THONK:780825723681898517> and photoshop crashing and p a n i k and stress but here we are i guess…
+Description: this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ??   and photoshop crashing and p a n i k and stress but here we are i guess…
 
 Social Media: https://www.twitch.tv/charmandaar
 {{< /highlight >}}

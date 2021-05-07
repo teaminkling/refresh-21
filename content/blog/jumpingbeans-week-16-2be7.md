@@ -26,7 +26,7 @@ Most people would agree, giant scaly creatures were killed by a  zooming rock, h
 
 Another thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. 
 
-Sidenote,<:ThankEgg:797490219716050954> bidoof, my top 3 fav pokemon, in gen 3, my fav gen.
+Sidenote, bidoof, my top 3 fav pokemon, in gen 3, my fav gen.
 
 tl;dr beans (who cant draw) having existential dread
 
@@ -51,7 +51,7 @@ Most people would agree, giant scaly creatures were killed by a  zooming rock, h
 
 Another thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. 
 
-Sidenote,<:ThankEgg:797490219716050954> bidoof, my top 3 fav pokemon, in gen 3, my fav gen.
+Sidenote, bidoof, my top 3 fav pokemon, in gen 3, my fav gen.
 
 tl;dr beans (who cant draw) having existential dread
 

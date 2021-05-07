@@ -4,7 +4,7 @@ author =      "papapastry"
 date =        "2021-04-28"
 themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["papapastry"]
-description = "by papapastry for week 17: The 4 R's: Finale. Created using: Golang, Hugo, Python/Programming.."
+description = "by papapastry for week 17: The 4 R's: Finale. Created using: Go + Hugo, Python.."
 [[images]]
       src = "img/other-placeholder.png"
       href = "/blog/papapastry-week-17-09eb"
@@ -15,11 +15,15 @@ description = "by papapastry for week 17: The 4 R's: Finale. Created using: Gola
 
 
 
-Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Golang, Hugo, Python/Programming.**.
+Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Go + Hugo, Python.**.
 
 ## Artist's Notes
 
-Yeah, this totally counts. This isn't all I'm doing, of course.
+Submission 1/5.
+
+Yeah, this totally counts.
+
+No need to showcase it, I just wanted to pad my stats. Five submissions!
 
 https://refresh.fiveclawd.com/
 
@@ -37,12 +41,14 @@ https://refresh.fiveclawd.com/
 {{< highlight txt >}}
 **Week**: 17
 **Title:** refresh.fiveclawd.com
-**Medium:** Golang, Hugo, Python/Programming.
+**Medium:** Go + Hugo, Python.
 **Description:**
 
-Yeah, this totally counts. This isn't all I'm doing, of course.
+Submission 1/5.
+
+Yeah, this totally counts.
+
+No need to showcase it, I just wanted to pad my stats. Five submissions!
 
 https://refresh.fiveclawd.com/
-
-**Social Media:** papapastry_ on Twitter
 {{< /highlight >}}

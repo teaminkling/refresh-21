@@ -2,19 +2,19 @@
   "users": {
     "paintsepsi#6673": [
       {
-        "provider": "Twitter",
-        "username": "paintsepsi"
-      },
-      {
         "provider": "Instagram",
         "username": "paintsepsi"
       },
       {
-        "provider": "Everywhere",
+        "provider": "Twitch",
         "username": "paintsepsi"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
+        "username": "paintsepsi"
+      },
+      {
+        "provider": "Everywhere",
         "username": "paintsepsi"
       }
     ],
@@ -30,12 +30,12 @@
     ],
     "Lithium#7468": [
       {
-        "provider": "Instagram",
-        "username": "lithiumreflections"
-      },
-      {
         "provider": "Twitter",
         "username": "jaimeskelton"
+      },
+      {
+        "provider": "Instagram",
+        "username": "lithiumreflections"
       },
       {
         "provider": "Tumblr",
@@ -60,80 +60,80 @@
     ],
     "DoughYeast#7521": [
       {
-        "provider": "Instagram",
-        "username": "dough.yeast"
-      },
-      {
         "provider": "Twitch",
         "username": "doughyeast"
+      },
+      {
+        "provider": "Instagram",
+        "username": "dough.yeast"
       }
     ],
     "Charmandaar#3357": [
       {
-        "provider": "Twitch",
-        "username": "charmandaar"
-      },
-      {
         "provider": "Instagram",
         "username": "charmandaar_"
       },
       {
         "provider": "Twitter",
         "username": "charmandaar_"
+      },
+      {
+        "provider": "Twitch",
+        "username": "charmandaar"
       }
     ],
     "arancil#8622": [
       {
+        "provider": "Twitter",
+        "username": "arancil"
+      },
+      {
         "provider": "Instagram",
         "username": "arancil"
       },
       {
         "provider": "Twitch",
-        "username": "arancil"
-      },
-      {
-        "provider": "Twitter",
         "username": "arancil"
       }
     ],
     "jorchael_p#2534": [
       {
-        "provider": "Instagram",
-        "username": "jrchlp.png"
-      },
-      {
         "provider": "Twitter",
         "username": "jorchaelp"
+      },
+      {
+        "provider": "Instagram",
+        "username": "jrchlp.png"
       }
     ],
     "Pumpkan#2447": [
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "pumpkanart"
       },
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "pumpkanart"
       }
     ],
     "Moonlit Narcy#0961": [
       {
-        "provider": "Instagram",
+        "provider": "Twitter",
         "username": "moonlit_narcy"
       },
       {
-        "provider": "Twitter",
+        "provider": "Instagram",
         "username": "moonlit_narcy"
       }
     ],
     "CapoKey#0003": [
       {
-        "provider": "Twitter",
-        "username": "capokeyt"
-      },
-      {
         "provider": "Instagram",
         "username": "caposketch"
+      },
+      {
+        "provider": "Twitter",
+        "username": "capokeyt"
       }
     ],
     "jc#3609": [
@@ -174,19 +174,19 @@
     ],
     "cindry#4068": [
       {
-        "provider": "Twitter",
-        "username": "fiveclawd"
-      },
-      {
-        "provider": "Twitch",
-        "username": "cindrytuna"
-      },
-      {
         "provider": "Instagram",
         "username": "fiveclawd"
       },
       {
         "provider": "Twitter",
+        "username": "fiveclawd"
+      },
+      {
+        "provider": "Twitter",
+        "username": "cindrytuna"
+      },
+      {
+        "provider": "Twitch",
         "username": "cindrytuna"
       }
     ],
@@ -198,16 +198,12 @@
     ],
     "a1ewanrichards#0881": [
       {
-        "provider": "Twitch",
-        "username": "a1ewanrichards#0881"
-      },
-      {
         "provider": "Instagram",
         "username": "and"
       },
       {
         "provider": "Twitter",
-        "username": "rjmendoza444"
+        "username": "rjmmendoza444"
       },
       {
         "provider": "Instagram",
@@ -218,8 +214,12 @@
         "username": "a1ewanrichards"
       },
       {
+        "provider": "Twitch",
+        "username": "a1ewanrichards#0881"
+      },
+      {
         "provider": "Twitter",
-        "username": "rjmmendoza444"
+        "username": "rjmendoza444"
       }
     ],
     "soggyissoggy#7277": [
@@ -272,16 +272,16 @@
     ],
     "poru#3659": [
       {
-        "provider": "Instagram",
-        "username": "poruchan_920"
-      },
-      {
         "provider": "Twitter",
         "username": "poruchan09"
       },
       {
         "provider": "Twitch",
         "username": "poru_chan"
+      },
+      {
+        "provider": "Instagram",
+        "username": "poruchan_920"
       }
     ],
     "D3m0n_Msc#9927": [
@@ -344,11 +344,11 @@
     ],
     "winsome#5621": [
       {
-        "provider": "Twitch",
+        "provider": "Twitter",
         "username": "winsomeorc"
       },
       {
-        "provider": "Twitter",
+        "provider": "Twitch",
         "username": "winsomeorc"
       }
     ],
@@ -390,16 +390,16 @@
     ],
     "MimiChair#9326": [
       {
-        "provider": "Twitch",
-        "username": "mimichair"
+        "provider": "Instagram",
+        "username": "mimichair.art"
       },
       {
         "provider": "Twitter",
         "username": "mimikuchan"
       },
       {
-        "provider": "Instagram",
-        "username": "mimichair.art"
+        "provider": "Twitch",
+        "username": "mimichair"
       }
     ]
   },
@@ -950,7 +950,7 @@
       "week": 2,
       "title": "bright sea",
       "medium": "photoshop",
-      "description": "I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:779990724212293642>",
+      "description": "I'm bad with s so I'm just gonna put this here and dip",
       "attachments": [
         {
           "url": "../static/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg",
@@ -958,7 +958,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 2\nTitle: bright sea\nMedium: photoshop\nDescription: I'm bad with descriptions so I'm just gonna put this here and dip <:UUUdrake:779990724212293642>",
+      "raw_content": "Week: 2\nTitle: bright sea\nMedium: photoshop\nDescription: I'm bad with descriptions so I'm just gonna put this here and dip ",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -1112,7 +1112,7 @@
       "week": 2,
       "title": "Ascend",
       "medium": "PaintToolSAI",
-      "description": "Ascending towards the light and away from theL, whatever that may be <:cindryAAA:775498319074033674>",
+      "description": "Ascending towards the light and away from theL, whatever that may be",
       "attachments": [
         {
           "url": "../static/img/scimister/2021-01-15+078d0769655083113dbe357a09280dd9.png",
@@ -1124,7 +1124,7 @@
           "Twitch": "scimister"
         }
       ],
-      "raw_content": "**Week 2**\nTitle: Ascend\nMedium: PaintToolSAI\nDescription: Ascending towards the light and away from theL, whatever that may be <:cindryAAA:775498319074033674> \n\n**Social Media:** @Scimister on twitch",
+      "raw_content": "**Week 2**\nTitle: Ascend\nMedium: PaintToolSAI\nDescription: Ascending towards the light and away from theL, whatever that may be  \n\n**Social Media:** @Scimister on twitch",
       "raw_socials": "@Scimister on twitch",
       "raw_hyperlinks": []
     },
@@ -1228,7 +1228,7 @@
       "week": 2,
       "title": "Perspective is fun",
       "medium": "CSP",
-      "description": "I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:779990724212293642>",
+      "description": "I'm bad with s so I'm just gonna put this here and dip",
       "attachments": [
         {
           "url": "../static/img/hadespsd/2021-01-15+f56d12469dafdb61685a90f03b596fed.jpg",
@@ -1240,7 +1240,7 @@
           "Twitch": "hadespsd"
         }
       ],
-      "raw_content": "Title: Perspective is fun\nMedium: CSP\nDescription: I'm bad with descriptions so I'm just gonna put this here and dip <:UUUdrake:779990724212293642> \nSocial Media: https://www.twitch.tv/hadespsd",
+      "raw_content": "Title: Perspective is fun\nMedium: CSP\nDescription: I'm bad with descriptions so I'm just gonna put this here and dip  \nSocial Media: https://www.twitch.tv/hadespsd",
       "raw_socials": "https://www.twitch.tv/hadespsd",
       "raw_hyperlinks": []
     },
@@ -1277,7 +1277,7 @@
       "week": 2,
       "title": "Jormungandr",
       "medium": "Procreate",
-      "description": "Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and <:charma22NotLikeThis:771690795795218432> but here it is nonetheless. \n\nurmom2.0",
+      "description": "Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and  but here it is nonetheless. \n\nurmom2.0",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png",
@@ -1285,7 +1285,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 2\nTitle: Jormungandr\nMedium: Procreate\nDescription: Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and <:charma22NotLikeThis:771690795795218432> but here it is nonetheless. \n\nSocial Media: urmom2.0",
+      "raw_content": "Week: 2\nTitle: Jormungandr\nMedium: Procreate\nDescription: Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and  but here it is nonetheless. \n\nSocial Media: urmom2.0",
       "raw_socials": "urmom2.0",
       "raw_hyperlinks": []
     },
@@ -1296,7 +1296,7 @@
       "week": 2,
       "title": "The Deep End",
       "medium": "Procreate",
-      "description": "Manga-inspired illustration where a warrior meets their maker in the Deep Realm <a:JamCat:768213145008210012> \n\n( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn\u2019t want to do another red piece this upcoming week. Had to switch it up! <:UUUdrake:779990724212293642> )\n\n+ https://instagram/dough.yeast",
+      "description": "Manga-inspired illustration where a warrior meets their maker in the Deep Realm <a:JamCat:768213145008210012> \n\n( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn\u2019t want to do another red piece this upcoming week. Had to switch it up!  )\n\n+ https://instagram/dough.yeast",
       "attachments": [
         {
           "url": "../static/img/doughyeast/2021-01-16+f134fb41fbe62dbf11697219214c2b45.png",
@@ -1308,7 +1308,7 @@
           "Twitch": "doughyeast"
         }
       ],
-      "raw_content": "Week: 2\n**Title: The Deep End**\nMedium: Procreate\nDescription: Manga-inspired illustration where a warrior meets their maker in the *Deep Realm* <a:JamCat:768213145008210012> \n\n( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn\u2019t want to do another red piece this upcoming week. **Had to switch it up!** <:UUUdrake:779990724212293642> )\n\nSocial Media: https://twitch.tv/doughyeast + https://instagram/dough.yeast",
+      "raw_content": "Week: 2\n**Title: The Deep End**\nMedium: Procreate\nDescription: Manga-inspired illustration where a warrior meets their maker in the *Deep Realm* <a:JamCat:768213145008210012> \n\n( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn\u2019t want to do another red piece this upcoming week. **Had to switch it up!**  )\n\nSocial Media: https://twitch.tv/doughyeast + https://instagram/dough.yeast",
       "raw_socials": "https://twitch.tv/doughyeast + https://instagram/dough.yeast",
       "raw_hyperlinks": [
         "https://instagram/dough.yeast"
@@ -1537,7 +1537,7 @@
       "week": 3,
       "title": "Cindy\u2019s Imaginary Friend",
       "medium": "Procreate",
-      "description": "no flash photography!! <:OOOdrake:779973582298021890>",
+      "description": "no flash photography!!",
       "attachments": [
         {
           "url": "../static/img/doughyeast/2021-01-21+9e3450b11d8b1247ccf09972b1d964bf.jpg",
@@ -1552,7 +1552,7 @@
           "Twitch": "doughyeast"
         }
       ],
-      "raw_content": "Week: 3\n**Title: Cindy\u2019s Imaginary Friend**\nMedium: Procreate\nDescription: no flash photography!! <:OOOdrake:779973582298021890> \n\nSocial Media: https://instagram.com/Dough.Yeast || https://twitch.tv/DoughYeast",
+      "raw_content": "Week: 3\n**Title: Cindy\u2019s Imaginary Friend**\nMedium: Procreate\nDescription: no flash photography!!  \n\nSocial Media: https://instagram.com/Dough.Yeast || https://twitch.tv/DoughYeast",
       "raw_socials": "https://instagram.com/Dough.Yeast || https://twitch.tv/DoughYeast",
       "raw_hyperlinks": []
     },
@@ -1852,13 +1852,13 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "eggyolk-week-3-7fa8",
+      "id": "eggyolk-week-3-19e1",
       "author": "eggyolk#4129",
       "created_at": "2021-01-22",
       "week": 3,
-      "title": "Week 3 Submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>",
+      "title": "Week 3 Submission  \ud83d\udc44",
       "medium": "Procreate",
-      "description": "... week 3 submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>tried to go for something a bit cleaner, simpler. \n\nurmom3.0\n\nHere's my second piece: \n\nTitle: Red Circle\n\nMedium: Discord Emote\n\nContrast. \ud83d\ude4f",
+      "description": "... week 3 submission  \ud83d\udc44 tried to go for something a bit cleaner, simpler. \n\nurmom3.0\n\nHere's my second piece: \n\nTitle: Red Circle\n\nMedium: Discord Emote\n\nContrast. \ud83d\ude4f",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-01-22+f134fb41fbe62dbf11697219214c2b45.png",
@@ -1866,7 +1866,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 3 \nTitle: Week 3 Submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186> \nMedium: Procreate\nDescription: ... week 3 submission <:eyeleft:800396950012035081> \ud83d\udc44 <:eyeright:800396965551538186>tried to go for something a bit cleaner, simpler. \nSocials: urmom3.0\n\nHere's my second piece: \n\n\ud83d\udfe6 \n\nTitle: Red Circle\nMedium: Discord Emote\nDescription: Contrast. \ud83d\ude4f",
+      "raw_content": "Week: 3 \nTitle: Week 3 Submission  \ud83d\udc44  \nMedium: Procreate\nDescription: ... week 3 submission  \ud83d\udc44 tried to go for something a bit cleaner, simpler. \nSocials: urmom3.0\n\nHere's my second piece: \n\n\ud83d\udfe6 \n\nTitle: Red Circle\nMedium: Discord Emote\nDescription: Contrast. \ud83d\ude4f",
       "raw_socials": "urmom3.0\n\nHere's my second piece: \n\n\ud83d\udfe6 \n\nTitle: Red Circle\nMedium: Discord Emote\nDescription: Contrast. \ud83d\ude4f",
       "raw_hyperlinks": []
     },
@@ -1943,7 +1943,7 @@
       "week": 3,
       "title": "cirque of monkeys except it's me. i am the monkey",
       "medium": "photography/photoshop",
-      "description": "this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ?? <:charma22THONK:780825723681898517> <:charma22THONK:780825723681898517> and photoshop crashing and p a n i k and stress but here we are i guess\u2026",
+      "description": "this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ??   and photoshop crashing and p a n i k and stress but here we are i guess\u2026",
       "attachments": [
         {
           "url": "../static/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg",
@@ -1955,7 +1955,7 @@
           "Twitch": "charmandaar"
         }
       ],
-      "raw_content": "Week: 3\n**Title: cirque of monkeys except it's me. i am the monkey**\nMedium: photography/photoshop\nDescription: this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ?? <:charma22THONK:780825723681898517> <:charma22THONK:780825723681898517> and photoshop crashing and p a n i k and stress but here we are i guess\u2026\n\nSocial Media: https://www.twitch.tv/charmandaar",
+      "raw_content": "Week: 3\n**Title: cirque of monkeys except it's me. i am the monkey**\nMedium: photography/photoshop\nDescription: this is just me being a monkey in aerial silks. except many of me. in many silks. made with lots of ?? wtf how do i use this app? ?what is going on? ??   and photoshop crashing and p a n i k and stress but here we are i guess\u2026\n\nSocial Media: https://www.twitch.tv/charmandaar",
       "raw_socials": "https://www.twitch.tv/charmandaar",
       "raw_hyperlinks": []
     },
@@ -2216,7 +2216,7 @@
       "week": 4,
       "title": "Sleepless Night",
       "medium": "ClipStudio",
-      "description": "Didn\u2019t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge <:PepeHands:779990751429918720>  Implemented some contrast and circle shape from week 3 challenge so I don\u2019t forget the notions I\u2019ve learned.",
+      "description": "Didn\u2019t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge   Implemented some contrast and circle shape from week 3 challenge so I don\u2019t forget the notions I\u2019ve learned.",
       "attachments": [
         {
           "url": "../static/img/titan011/2021-01-26+b916d58730f5f1994affb6ffce3dbbab.jpg",
@@ -2224,7 +2224,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week 4\nTitle: Sleepless Night\nMedium: ClipStudio\nDescription: Didn\u2019t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge <:PepeHands:779990751429918720>  Implemented some contrast and circle shape from week 3 challenge so I don\u2019t forget the notions I\u2019ve learned.",
+      "raw_content": "Week 4\nTitle: Sleepless Night\nMedium: ClipStudio\nDescription: Didn\u2019t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge   Implemented some contrast and circle shape from week 3 challenge so I don\u2019t forget the notions I\u2019ve learned.",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -2668,7 +2668,7 @@
       "week": 4,
       "title": "mask",
       "medium": "csp",
-      "description": "i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. \"movement\" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness <:wow:649902323191119882>  very last minute but happy with the outcome!",
+      "description": "i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. \"movement\" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness   very last minute but happy with the outcome!",
       "attachments": [
         {
           "url": "../static/img/fonz/2021-01-29+9931691c52b464f2741aaafb09cc1dd4.png",
@@ -2680,7 +2680,7 @@
           "Twitch": "fonzaku"
         }
       ],
-      "raw_content": "Week: 4\nTitle: mask\nMedium: csp\nDescription: i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. \"movement\" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness <:wow:649902323191119882>  very last minute but happy with the outcome!\nSocials: http://twitch.tv/fonzaku",
+      "raw_content": "Week: 4\nTitle: mask\nMedium: csp\nDescription: i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. \"movement\" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness   very last minute but happy with the outcome!\nSocials: http://twitch.tv/fonzaku",
       "raw_socials": "http://twitch.tv/fonzaku",
       "raw_hyperlinks": []
     },
@@ -2748,7 +2748,7 @@
       "week": 5,
       "title": "Here we go again",
       "medium": "\"Installation\"",
-      "description": "stickman doesn't go brrrrrr. stickman goes mining. but seriously though, royal green reminded me of the military (for some reason) and jade was the other prompt. so i had my uniform become be a jade mine. :P\n\nps i failed kindergarten, i cant use a pair of scissors  <:cindryAAA:775498319074033674> \n\nMedia:",
+      "description": "stickman doesn't go brrrrrr. stickman goes mining. but seriously though, royal green reminded me of the military (for some reason) and jade was the other prompt. so i had my uniform become be a jade mine. :P\n\nps i failed kindergarten, i cant use a pair of scissors   \n\nMedia:",
       "attachments": [
         {
           "url": "../static/img/jumpingbeans/2021-01-30+530c0a5fca11644affe8744471d4e144.jpg",
@@ -2756,7 +2756,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week:  5\nTitle:  Here we go again\nMedium: \"Installation\"\nDescription: stickman doesn't go brrrrrr. stickman goes mining. but seriously though, royal green reminded me of the military (for some reason) and jade was the other prompt. so i had my uniform become be a jade mine. :P\n\nps i failed kindergarten, i cant use a pair of scissors  <:cindryAAA:775498319074033674> \n\nSocial Media:",
+      "raw_content": "Week:  5\nTitle:  Here we go again\nMedium: \"Installation\"\nDescription: stickman doesn't go brrrrrr. stickman goes mining. but seriously though, royal green reminded me of the military (for some reason) and jade was the other prompt. so i had my uniform become be a jade mine. :P\n\nps i failed kindergarten, i cant use a pair of scissors   \n\nSocial Media:",
       "raw_socials": "Media:",
       "raw_hyperlinks": []
     },
@@ -3325,7 +3325,7 @@
       "week": 4,
       "title": "green eyed girl",
       "medium": "csp",
-      "description": "another last minute entry  <:wow:649902323191119882>  really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !",
+      "description": "another last minute entry    really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !",
       "attachments": [
         {
           "url": "../static/img/fonz/2021-02-05+f28688a8d2a46a4af49dea278f52a9e8.png",
@@ -3337,7 +3337,7 @@
           "Twitch": "fonzaku"
         }
       ],
-      "raw_content": "Week: 4\nTitle: green eyed girl\nMedium: csp\nDescription: another last minute entry  <:wow:649902323191119882>  really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !\nSocials: http://twitch.tv/fonzaku",
+      "raw_content": "Week: 4\nTitle: green eyed girl\nMedium: csp\nDescription: another last minute entry    really just wanted to explore lighting after seeing a reference and thought jade lighting might be a cool variation !\nSocials: http://twitch.tv/fonzaku",
       "raw_socials": "http://twitch.tv/fonzaku",
       "raw_hyperlinks": []
     },
@@ -3690,11 +3690,11 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "eggyolk-week-6-ca60",
+      "id": "eggyolk-week-6-1936",
       "author": "eggyolk#4129",
       "created_at": "2021-02-12",
       "week": 6,
-      "title": "Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081>",
+      "title": "Week 6",
       "medium": "Procreate",
       "description": "The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. \n\nps. i forgot the fucking chimney godammit\n\npss. oh shit theres also no doorknob. everything is falling apart.\n\nurmom6.0",
       "attachments": [
@@ -3704,7 +3704,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week 6\nTitle: Week 6 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeleft:800396950012035081> \nMedium: Procreate\nDescription: The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. \n\nps. i forgot the fucking chimney godammit\npss. oh shit theres also no doorknob. everything is falling apart.\n\nSocial: urmom6.0",
+      "raw_content": "Week 6\nTitle: Week 6    \nMedium: Procreate\nDescription: The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. \n\nps. i forgot the fucking chimney godammit\npss. oh shit theres also no doorknob. everything is falling apart.\n\nSocial: urmom6.0",
       "raw_socials": "urmom6.0",
       "raw_hyperlinks": []
     },
@@ -4181,7 +4181,7 @@
       "week": 7,
       "title": "Dune Surfing",
       "medium": "clip studio",
-      "description": "has anyone ever tried it? <:blobhyperthink:800558786515435560>",
+      "description": "has anyone ever tried it?",
       "attachments": [
         {
           "url": "../static/img/titan011/2021-02-19+8498ee14dfae5d3d69ea6e5a6980b351.jpg",
@@ -4189,7 +4189,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 7\nMedium: clip studio\nTitle: Dune Surfing\nDescription: has anyone ever tried it? <:blobhyperthink:800558786515435560>",
+      "raw_content": "Week: 7\nMedium: clip studio\nTitle: Dune Surfing\nDescription: has anyone ever tried it? ",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -4346,7 +4346,7 @@
       "week": 7,
       "title": "placeholder edit later",
       "medium": "Ink, traditional",
-      "description": "Scene: Oh no, one of the remnant forces of the humans are being hunted by the reptilian empire led by Hiss Majesty - but the sand starts rumbling and what rises out of it?\n\nThree panel piece, there's some storyboarding done for the pre-first-panel storytelling as well, but cut it down to two of the nicest looking key panels (+ a dramatic final one). TAKE NOTE OF THE BANDAGES BEING HER SCARF\n\nInspiration taken from Kamen Rider, Getter Robo G, Gunbuster and the GAINAX pose in general.\n\n/ | \nsorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT\n\nThis one was a bit rushed, final hours before submission <:cindryBAM:775498320944169010>",
+      "description": "Scene: Oh no, one of the remnant forces of the humans are being hunted by the reptilian empire led by Hiss Majesty - but the sand starts rumbling and what rises out of it?\n\nThree panel piece, there's some storyboarding done for the pre-first-panel storytelling as well, but cut it down to two of the nicest looking key panels (+ a dramatic final one). TAKE NOTE OF THE BANDAGES BEING HER SCARF\n\nInspiration taken from Kamen Rider, Getter Robo G, Gunbuster and the GAINAX pose in general.\n\n/ | \nsorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT\n\nThis one was a bit rushed, final hours before submission",
       "attachments": [
         {
           "url": "../static/img/arancil/2021-02-19+390455a41dc86afd05d4181c00340a1c.jpg",
@@ -4369,8 +4369,8 @@
           "Twitch": "arancil"
         }
       ],
-      "raw_content": "Week: 7\nTitle: placeholder edit later\nMedium: Ink, traditional\nDescription: Scene: Oh no, one of the remnant forces of the humans are being hunted by the reptilian empire led by Hiss Majesty - but the sand starts rumbling and what rises out of it?\n\nThree panel piece, there's some storyboarding done for the pre-first-panel storytelling as well, but cut it down to two of the nicest looking key panels (+ a dramatic final one). TAKE NOTE OF THE BANDAGES BEING HER SCARF\n\nInspiration taken from Kamen Rider, Getter Robo G, Gunbuster and the GAINAX pose in general.\n\nSocial Media: https://www.instagram.com/arancil/ | https://www.twitch.tv/arancil\nsorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT\n\nThis one was a bit rushed, final hours before submission <:cindryBAM:775498320944169010>\n",
-      "raw_socials": "https://www.instagram.com/arancil/ | https://www.twitch.tv/arancil\nsorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT\n\nThis one was a bit rushed, final hours before submission <:cindryBAM:775498320944169010>",
+      "raw_content": "Week: 7\nTitle: placeholder edit later\nMedium: Ink, traditional\nDescription: Scene: Oh no, one of the remnant forces of the humans are being hunted by the reptilian empire led by Hiss Majesty - but the sand starts rumbling and what rises out of it?\n\nThree panel piece, there's some storyboarding done for the pre-first-panel storytelling as well, but cut it down to two of the nicest looking key panels (+ a dramatic final one). TAKE NOTE OF THE BANDAGES BEING HER SCARF\n\nInspiration taken from Kamen Rider, Getter Robo G, Gunbuster and the GAINAX pose in general.\n\nSocial Media: https://www.instagram.com/arancil/ | https://www.twitch.tv/arancil\nsorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT\n\nThis one was a bit rushed, final hours before submission \n",
+      "raw_socials": "https://www.instagram.com/arancil/ | https://www.twitch.tv/arancil\nsorRY IT'S A THREE PANEL PIECE AND DON'T HAVETIME TO MERGE IT\n\nThis one was a bit rushed, final hours before submission",
       "raw_hyperlinks": []
     },
     {
@@ -4380,7 +4380,7 @@
       "week": 7,
       "title": "desert strands",
       "medium": "csp",
-      "description": "80 minute speed draw this time <:klaeiaFeels:731112542956683274> happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)",
+      "description": "80 minute speed draw this time  happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)",
       "attachments": [
         {
           "url": "../static/img/fonz/2021-02-19+612870d73125b7f77420e62b5ebae5f1.png",
@@ -4392,7 +4392,7 @@
           "Twitch": "fonzaku"
         }
       ],
-      "raw_content": "Week: 7\nTitle: desert strands\nMedium: csp\nDescription: 80 minute speed draw this time <:klaeiaFeels:731112542956683274> happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)\nSocials: http://twitch.tv/fonzaku",
+      "raw_content": "Week: 7\nTitle: desert strands\nMedium: csp\nDescription: 80 minute speed draw this time  happy with the result though ! inspired by a lot of the stippling i've seen entered by the amazing artists in this week's submissions ! attempted to tie the sand dunes into the hair? no real reason why other than i thought it might be fun to try ;; (to whom it may concern at turnitin, originally submitted at 11:57pm)\nSocials: http://twitch.tv/fonzaku",
       "raw_socials": "http://twitch.tv/fonzaku",
       "raw_hyperlinks": []
     },
@@ -4464,7 +4464,7 @@
       "week": 8,
       "title": "Trashbin",
       "medium": "Autodesk sketch",
-      "description": "Saw the prompt, saw time-limit, thought to self \"what do i draw well?\". Answer: Trash. This is a warning, dont read too much into my thinking process <:cindryBAM:775498320944169010> (colours were abstracted from the source image) \n\n, /  (cuz symbolisms)",
+      "description": "Saw the prompt, saw time-limit, thought to self \"what do i draw well?\". Answer: Trash. This is a warning, dont read too much into my thinking process  (colours were abstracted from the source image) \n\n, /  (cuz symbolisms)",
       "attachments": [
         {
           "url": "../static/img/jumpingbeans/2021-02-23+f321fb8385b0b178a23c51f196a855e7.jpg",
@@ -4479,7 +4479,7 @@
           "Twitch": "jumpingbeansz"
         }
       ],
-      "raw_content": "Week: 8\nTitle:  Trashbin\nMedium: Autodesk sketch \nDescription: Saw the prompt, saw time-limit, thought to self \"what do i draw well?\". Answer: Trash. This is a warning, dont read too much into my thinking process <:cindryBAM:775498320944169010> (colours were abstracted from the source image) \n\nSocial Media: https://www.twitch.tv/jumpingbeansz , https://www.instagram.com/jumpingbeansz/  (cuz symbolisms)",
+      "raw_content": "Week: 8\nTitle:  Trashbin\nMedium: Autodesk sketch \nDescription: Saw the prompt, saw time-limit, thought to self \"what do i draw well?\". Answer: Trash. This is a warning, dont read too much into my thinking process  (colours were abstracted from the source image) \n\nSocial Media: https://www.twitch.tv/jumpingbeansz , https://www.instagram.com/jumpingbeansz/  (cuz symbolisms)",
       "raw_socials": "https://www.twitch.tv/jumpingbeansz , https://www.instagram.com/jumpingbeansz/  (cuz symbolisms)",
       "raw_hyperlinks": []
     },
@@ -4984,7 +4984,7 @@
       "week": 9,
       "title": "This is the literal worst shit i have created, i think my parent think im weird.",
       "medium": "video",
-      "description": "i saw a dude making cool advertisement with a TV as background and thought \" hmmmm seems easy\" then i proceed to do stupid things. my parents saw me do stupid things, and editing is hell. overall i rate the experience 4/10, maybe i would increase the score if I were more familiar with video editing\n\nalso youtube bot sucks and should be cancelled. #youtubebotisoverparty<:ThankEgg:797490219716050954>\n\nhttps://vimeo.com/518609738",
+      "description": "i saw a dude making cool advertisement with a TV as background and thought \" hmmmm seems easy\" then i proceed to do stupid things. my parents saw me do stupid things, and editing is hell. overall i rate the experience 4/10, maybe i would increase the score if I were more familiar with video editing\n\nalso youtube bot sucks and should be cancelled. #youtubebotisoverparty\n\nhttps://vimeo.com/518609738",
       "attachments": [
         {
           "url": "https://vimeo.com/518609738"
@@ -4995,7 +4995,7 @@
           "Twitch": "jumpingbeansz"
         }
       ],
-      "raw_content": "Week: 9\nTitle: This is the literal worst shit i have created, i think my parent think im weird.\nMedium: video\nDescription: i saw a dude making cool advertisement with a TV as background and thought \" hmmmm seems easy\" then i proceed to do stupid things. my parents saw me do stupid things, and editing is hell. overall i rate the experience 4/10, maybe i would increase the score if I were more familiar with video editing\n\nalso youtube bot sucks and should be cancelled. #youtubebotisoverparty<:ThankEgg:797490219716050954>\n\n\nhttps://vimeo.com/518609738\n\n\nSocial Media: https://www.twitch.tv/jumpingbeansz;",
+      "raw_content": "Week: 9\nTitle: This is the literal worst shit i have created, i think my parent think im weird.\nMedium: video\nDescription: i saw a dude making cool advertisement with a TV as background and thought \" hmmmm seems easy\" then i proceed to do stupid things. my parents saw me do stupid things, and editing is hell. overall i rate the experience 4/10, maybe i would increase the score if I were more familiar with video editing\n\nalso youtube bot sucks and should be cancelled. #youtubebotisoverparty\n\n\nhttps://vimeo.com/518609738\n\n\nSocial Media: https://www.twitch.tv/jumpingbeansz;",
       "raw_socials": "https://www.twitch.tv/jumpingbeansz;",
       "raw_hyperlinks": [
         "https://vimeo.com/518609738"
@@ -5985,11 +5985,11 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "titan011-week-11-aba0",
+      "id": "titan011-week-11-0fee",
       "author": "TITAN011#5766",
       "created_at": "2021-03-16",
       "week": 11,
-      "title": "Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890>",
+      "title": "Set Sail to find the legendary Mandrake farm",
       "medium": "Clip studio",
       "description": "Decided to utilize everything I\u2019ve learned in these past few months (perspective, anatomy, value, color etc.) Conclusion: this was a very humbling experience (I was a bit overwhelmed / kinda gave up on the ship towards the end) xD \u2013 I will keep practicing  \u270d\ufe0f",
       "attachments": [
@@ -5999,7 +5999,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 11 \nTitle: Set Sail to find the legendary Mandrake farm <:OOOdrake:779973582298021890> \nMedium: Clip studio\nDescription: Decided to utilize everything I\u2019ve learned in these past few months (perspective, anatomy, value, color etc.) Conclusion: this was a very humbling experience (I was a bit overwhelmed / kinda gave up on the ship towards the end) xD \u2013 I will keep practicing  \u270d\ufe0f",
+      "raw_content": "Week: 11 \nTitle: Set Sail to find the legendary Mandrake farm  \nMedium: Clip studio\nDescription: Decided to utilize everything I\u2019ve learned in these past few months (perspective, anatomy, value, color etc.) Conclusion: this was a very humbling experience (I was a bit overwhelmed / kinda gave up on the ship towards the end) xD \u2013 I will keep practicing  \u270d\ufe0f",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -6115,7 +6115,7 @@
       "week": 11,
       "title": "Cancri",
       "medium": "Relief printing",
-      "description": "Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at <:CattoCry:800558786418835477>  ~~",
+      "description": "Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at   ~~",
       "attachments": [
         {
           "url": "../static/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg",
@@ -6130,7 +6130,7 @@
           "Twitch": "vectorong"
         }
       ],
-      "raw_content": "Week: 11\nTitle: Cancri\nMedium: Relief printing\nDescription: Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at <:CattoCry:800558786418835477>  ~~\nSocial Media: instagram @karen_tsugawa  |  twitch @vectorong",
+      "raw_content": "Week: 11\nTitle: Cancri\nMedium: Relief printing\nDescription: Based on my initial wonder (and subsequent terror) of the galaxy, where I would try to find my favorite constellations in the night sky. There's a lot of a parallels to the ocean; so unknown, beautiful, yet also terrifying to think about in its vastness. Also a reference to myself and my group of friends, since many of us happen to be born during the Cancer season. ~~Crying crustaceans where u at   ~~\nSocial Media: instagram @karen_tsugawa  |  twitch @vectorong",
       "raw_socials": "instagram @karen_tsugawa  |  twitch @vectorong",
       "raw_hyperlinks": []
     },
@@ -6188,13 +6188,13 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "eggyolk-week-11-c06c",
+      "id": "eggyolk-week-11-4301",
       "author": "eggyolk#4129",
       "created_at": "2021-03-19",
       "week": 11,
-      "title": "Week 11 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186> head stuck in the clouds",
+      "title": "Week 11    head stuck in the clouds",
       "medium": "Procreate",
-      "description": "A simple one, again. Just a mood I sometimes feel, wonder what it's like up there aye. \n\nurmom 11.0 <:doughy4Idle:787151835311636540> <:cindry4Idle:814123098928185394>",
+      "description": "A simple one, again. Just a mood I sometimes feel, wonder what it's like up there aye. \n\nurmom 11.0",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-03-19+f134fb41fbe62dbf11697219214c2b45.png",
@@ -6202,8 +6202,8 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week 11\nTitle: Week 11 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186> head stuck in the clouds \nMedium: Procreate\nDescription: A simple one, again. Just a mood I sometimes feel, wonder what it's like up there aye. \n\nSocials: urmom 11.0 <:doughy4Idle:787151835311636540> <:cindry4Idle:814123098928185394>",
-      "raw_socials": "urmom 11.0 <:doughy4Idle:787151835311636540> <:cindry4Idle:814123098928185394>",
+      "raw_content": "Week 11\nTitle: Week 11    head stuck in the clouds \nMedium: Procreate\nDescription: A simple one, again. Just a mood I sometimes feel, wonder what it's like up there aye. \n\nSocials: urmom 11.0  ",
+      "raw_socials": "urmom 11.0",
       "raw_hyperlinks": []
     },
     {
@@ -6264,7 +6264,7 @@
       "week": 11,
       "title": "\u201cyou would make the sky a gijinka\u201d - enoki",
       "medium": "Procreate",
-      "description": "** Used the two references above (an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn* and **Noon, but time prevails <:cindryBURN:775498317336805416> \n\nI need to stop making non-human things human <:ThankEgg:797490219716050954>",
+      "description": "** Used the two references above (an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn* and **Noon, but time prevails  \n\nI need to stop making non-human things human",
       "attachments": [
         {
           "url": "../static/img/doughyeast/2021-03-19+9e3450b11d8b1247ccf09972b1d964bf.jpg",
@@ -6284,7 +6284,7 @@
           "Twitch": "doughyeast"
         }
       ],
-      "raw_content": "**Week:** 11\n**Title: \u201cyou would make the sky a gijinka\u201d - enoki**\n**Medium:** Procreate\n**Description:** Used the two references above *(an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn** and **Noon**, but time prevails <:cindryBURN:775498317336805416> \n\nI need to stop making non-human things human <:ThankEgg:797490219716050954> \n\n**Social Media:** twitch.tv/doughyeast",
+      "raw_content": "**Week:** 11\n**Title: \u201cyou would make the sky a gijinka\u201d - enoki**\n**Medium:** Procreate\n**Description:** Used the two references above *(an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn** and **Noon**, but time prevails  \n\nI need to stop making non-human things human  \n\n**Social Media:** twitch.tv/doughyeast",
       "raw_socials": "twitch.tv/doughyeast",
       "raw_hyperlinks": []
     },
@@ -6383,7 +6383,7 @@
       "week": 12,
       "title": "wrod",
       "medium": "gif",
-      "description": "im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues <:ThankEgg:797490219716050954>)\n\nedit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning.",
+      "description": "im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues )\n\nedit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning.",
       "attachments": [
         {
           "url": "../static/img/jumpingbeans/2021-03-21+d788023016bbabae6beb3d0ea41122b7.gif",
@@ -6395,7 +6395,7 @@
           "Twitch": "jumpingbeansz"
         }
       ],
-      "raw_content": "Week: 12\nTitle: wrod\nMedium: gif\nDescription: im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues <:ThankEgg:797490219716050954>)\n\nedit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning. \n\nSocial Media: https://www.twitch.tv/jumpingbeansz",
+      "raw_content": "Week: 12\nTitle: wrod\nMedium: gif\nDescription: im clown, im illiterate, face go brrrrrrr (had to resubmit, the previous submission had weird colouring issues )\n\nedit: redid the gif, its still giving the weird coloured background thingy, even though on my comp its not like that, idk whats going on, so i guess its epilepsy warning. \n\nSocial Media: https://www.twitch.tv/jumpingbeansz",
       "raw_socials": "https://www.twitch.tv/jumpingbeansz",
       "raw_hyperlinks": []
     },
@@ -6694,7 +6694,7 @@
       "week": 12,
       "title": "Reach",
       "medium": "Procreate",
-      "description": "i mek hand gif \n\nurmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186>",
+      "description": "i mek hand gif \n\nurmom 12.0",
       "attachments": [
         {
           "url": "../static/img/eggyolk/2021-03-26+faf86225b6afa0af92028e9922287ebf.gif",
@@ -6702,8 +6702,8 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week 12\nTitle: Reach\nMedium: Procreate\nDescription: i mek hand gif \n\nsocials: urmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186>",
-      "raw_socials": "urmom 12.0 <:eyeleft:800396950012035081> <:mylips:800398060710526976> <:eyeright:800396965551538186>",
+      "raw_content": "Week 12\nTitle: Reach\nMedium: Procreate\nDescription: i mek hand gif \n\nsocials: urmom 12.0   ",
+      "raw_socials": "urmom 12.0",
       "raw_hyperlinks": []
     },
     {
@@ -6746,11 +6746,11 @@
       "raw_hyperlinks": []
     },
     {
-      "id": "goblet-week-13-40e8",
+      "id": "goblet-week-13-911a",
       "author": "Goblet#7026",
       "created_at": "2021-03-29",
       "week": 13,
-      "title": "<:cuporiGun:825806539918278686>",
+      "title": "Untitled",
       "medium": "Krita",
       "description": "remade my emote. made the expression better. (first one is the new one)",
       "attachments": [
@@ -6768,7 +6768,7 @@
           "Twitch": "cup_o_rice"
         }
       ],
-      "raw_content": "Week: 13\nTitle: <:cuporiGun:825806539918278686>\nMedium: Krita\nDescription: \nremade my emote. made the expression better. (first one is the new one)\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice\n\n",
+      "raw_content": "Week: 13\nTitle: \nMedium: Krita\nDescription: \nremade my emote. made the expression better. (first one is the new one)\n\nSocial Media: \nhttps://www.twitch.tv/cup_o_rice\n\n",
       "raw_socials": "https://www.twitch.tv/cup_o_rice",
       "raw_hyperlinks": []
     },
@@ -7213,7 +7213,7 @@
       "week": 14,
       "title": "His name is Shiro \ud83d\udd25",
       "medium": "Clip studio",
-      "description": "Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:779990724212293642>",
+      "description": "Antagonist: The Main Character of this anime just arrived im fucked",
       "attachments": [
         {
           "url": "../static/img/titan011/2021-04-04+6053d6960c85aeaa1220bf00d615822a.jpg",
@@ -7221,7 +7221,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 14\nTitle: His name is Shiro \ud83d\udd25 \nMedium: Clip studio\nDescription: Antagonist: The Main Character of this anime just arrived im fucked <:UUUdrake:779990724212293642>",
+      "raw_content": "Week: 14\nTitle: His name is Shiro \ud83d\udd25 \nMedium: Clip studio\nDescription: Antagonist: The Main Character of this anime just arrived im fucked ",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -7772,7 +7772,7 @@
       "week": 14,
       "title": "_My Protective Assistant_",
       "medium": "Paint Tool SAI",
-      "description": "I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...",
+      "description": "I was late, sad.  Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-04-11+dc9867f729cd89df231a1c1a3e08f5cc.png",
@@ -7780,7 +7780,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 14\nMedium: Paint Tool SAI\nTitle: __My Protective Assistant__\nDescription: I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...",
+      "raw_content": "Week: 14\nMedium: Paint Tool SAI\nTitle: __My Protective Assistant__\nDescription: I was late, sad.  Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -8076,7 +8076,7 @@
       "week": 15,
       "title": "_Red Delicious with a Red Delicious_",
       "medium": "Paint Tool SAI",
-      "description": "Whoopsies, I'm late again! Oh well, school finals are happening right now and, particularly in math (I'm a grade ahead of my peers in it) homework likes to pile up. But, even if I'm late, I know that this would've came out really bad if I rushed it, so I took my time and.. would you look at that! Apple dragon with an apple <:CattoBlush:800558786372173824> So you know, this creature design is not owned by me; that would belong to the developers of Creatures of Sonaria (it's on Roblox, good game) ((yes I know it's roblox shut up)) But, I did make the skin! Soo yea, hope you like it!",
+      "description": "Whoopsies, I'm late again! Oh well, school finals are happening right now and, particularly in math (I'm a grade ahead of my peers in it) homework likes to pile up. But, even if I'm late, I know that this would've came out really bad if I rushed it, so I took my time and.. would you look at that! Apple dragon with an apple  So you know, this creature design is not owned by me; that would belong to the developers of Creatures of Sonaria (it's on Roblox, good game) ((yes I know it's roblox shut up)) But, I did make the skin! Soo yea, hope you like it!",
       "attachments": [
         {
           "url": "../static/img/dynoloafer/2021-04-17+e622f1a9215b847080f58c45c2125d8b.png",
@@ -8084,7 +8084,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 15\nMedium: Paint Tool SAI\nTitle: __Red Delicious with a Red Delicious__\nDescription: Whoopsies, I'm late again! Oh well, school finals are happening right now and, particularly in math (I'm a grade ahead of my peers in it) homework likes to pile up. But, even if I'm late, I know that this would've came out really bad if I rushed it, so I took my time and.. would you look at that! Apple dragon with an apple <:CattoBlush:800558786372173824> So you know, this creature design is not owned by me; that would belong to the developers of Creatures of Sonaria (it's on Roblox, good game) ((yes I know it's roblox shut up)) But, I *did* make the skin! Soo yea, hope you like it!",
+      "raw_content": "Week: 15\nMedium: Paint Tool SAI\nTitle: __Red Delicious with a Red Delicious__\nDescription: Whoopsies, I'm late again! Oh well, school finals are happening right now and, particularly in math (I'm a grade ahead of my peers in it) homework likes to pile up. But, even if I'm late, I know that this would've came out really bad if I rushed it, so I took my time and.. would you look at that! Apple dragon with an apple  So you know, this creature design is not owned by me; that would belong to the developers of Creatures of Sonaria (it's on Roblox, good game) ((yes I know it's roblox shut up)) But, I *did* make the skin! Soo yea, hope you like it!",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -8095,7 +8095,7 @@
       "week": 16,
       "title": "what is bigger, a giant bidoof or an individual's life?",
       "medium": "krita",
-      "description": "subject matters of artists like Edward Hopper tends to place equal weight for the furniture and the human matter, for example, the parallelism of the shapes of his human subject and non-human subjects, the compositions as well. Edward Hopper has invoked thought within his audience, how important is life? Are our lives just as unimportant than the furniture we buy? Despite his work is influenced by post war America, it can resonate to his audience even in contemporary times. \n\nMost people would agree, giant scaly creatures were killed by a  zooming rock, how much of this event lead up to the development of the homo genus, will anyone of us be here? Through death we start a new, just like creativity, starting a fresh might require one to give up everything and start anew. \n\nAnother thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. \n\nSidenote,<:ThankEgg:797490219716050954> bidoof, my top 3 fav pokemon, in gen 3, my fav gen.\n\ntl;dr beans (who cant draw) having existential dread",
+      "description": "subject matters of artists like Edward Hopper tends to place equal weight for the furniture and the human matter, for example, the parallelism of the shapes of his human subject and non-human subjects, the compositions as well. Edward Hopper has invoked thought within his audience, how important is life? Are our lives just as unimportant than the furniture we buy? Despite his work is influenced by post war America, it can resonate to his audience even in contemporary times. \n\nMost people would agree, giant scaly creatures were killed by a  zooming rock, how much of this event lead up to the development of the homo genus, will anyone of us be here? Through death we start a new, just like creativity, starting a fresh might require one to give up everything and start anew. \n\nAnother thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. \n\nSidenote, bidoof, my top 3 fav pokemon, in gen 3, my fav gen.\n\ntl;dr beans (who cant draw) having existential dread",
       "attachments": [
         {
           "url": "../static/img/jumpingbeans/2021-04-18+656112b6143511a909b5cac4158eb989.png",
@@ -8107,7 +8107,7 @@
           "Twitch": "jumpingbeansz"
         }
       ],
-      "raw_content": "Week: 16\nTitle: what is bigger, a giant bidoof or an individual's life? \nMedium: krita\nDescription: subject matters of artists like Edward Hopper tends to place equal weight for the furniture and the human matter, for example, the parallelism of the shapes of his human subject and non-human subjects, the compositions as well. Edward Hopper has invoked thought within his audience, how important is life? Are our lives just as unimportant than the furniture we buy? Despite his work is influenced by post war America, it can resonate to his audience even in contemporary times. \n\nMost people would agree, giant scaly creatures were killed by a  zooming rock, how much of this event lead up to the development of the homo genus, will anyone of us be here? Through death we start a new, just like creativity, starting a fresh might require one to give up everything and start anew. \n\nAnother thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. \n\nSidenote,<:ThankEgg:797490219716050954> bidoof, my top 3 fav pokemon, in gen 3, my fav gen.\n\ntl;dr beans (who cant draw) having existential dread\n\nSocial Media: https://www.twitch.tv/jumpingbeansz",
+      "raw_content": "Week: 16\nTitle: what is bigger, a giant bidoof or an individual's life? \nMedium: krita\nDescription: subject matters of artists like Edward Hopper tends to place equal weight for the furniture and the human matter, for example, the parallelism of the shapes of his human subject and non-human subjects, the compositions as well. Edward Hopper has invoked thought within his audience, how important is life? Are our lives just as unimportant than the furniture we buy? Despite his work is influenced by post war America, it can resonate to his audience even in contemporary times. \n\nMost people would agree, giant scaly creatures were killed by a  zooming rock, how much of this event lead up to the development of the homo genus, will anyone of us be here? Through death we start a new, just like creativity, starting a fresh might require one to give up everything and start anew. \n\nAnother thing I have realised is that there are always really beautiful scenery most of the time (e.g. sun sets, beautiful cloud formations), however, before, when I was still busy with life, I was never able to enjoy them. Now that I am forced to slow down my pace, I am definitely more appreciative to take about 5 to 10 minutes to look up and look far. \n\nSidenote, bidoof, my top 3 fav pokemon, in gen 3, my fav gen.\n\ntl;dr beans (who cant draw) having existential dread\n\nSocial Media: https://www.twitch.tv/jumpingbeansz",
       "raw_socials": "https://www.twitch.tv/jumpingbeansz",
       "raw_hyperlinks": []
     },
@@ -8625,16 +8625,12 @@
       "created_at": "2021-04-28",
       "week": 17,
       "title": "refresh.fiveclawd.com",
-      "medium": "Golang, Hugo, Python/Programming.",
-      "description": "Yeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/",
+      "medium": "Go + Hugo, Python.",
+      "description": "Submission 1/5.\n\nYeah, this totally counts.\n\nNo need to showcase it, I just wanted to pad my stats. Five submissions!\n\nhttps://refresh.fiveclawd.com/",
       "attachments": [],
-      "socials": [
-        {
-          "Twitter": "papapastry_"
-        }
-      ],
-      "raw_content": "**Week**: 17\n**Title:** refresh.fiveclawd.com\n**Medium:** Golang, Hugo, Python/Programming.\n**Description:**\n\nYeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/\n\n**Social Media:** papapastry_ on Twitter",
-      "raw_socials": "papapastry_ on Twitter",
+      "socials": [],
+      "raw_content": "**Week**: 17\n**Title:** refresh.fiveclawd.com\n**Medium:** Go + Hugo, Python.\n**Description:**\n\nSubmission 1/5.\n\nYeah, this totally counts.\n\nNo need to showcase it, I just wanted to pad my stats. Five submissions!\n\nhttps://refresh.fiveclawd.com/",
+      "raw_socials": "",
       "raw_hyperlinks": [
         "https://refresh.fiveclawd.com/"
       ]
@@ -8666,7 +8662,7 @@
       "week": 17,
       "title": "things you use to look at yourself with (the musical/remix)",
       "medium": "Whatever beans used + Ableton Live 11 Suite",
-      "description": "I couldn't resist. More stuff after this one. Thanks to @jumpingbeans for the script and visuals.\n\nI used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.\n\nhttps://www.youtube.com/watch?v=87LKV9dcaj4",
+      "description": "Submission 2/5.\n\nI couldn't resist. Thanks to @jumpingbeans for the script and visuals.\n\nI used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.\n\nhttps://www.youtube.com/watch?v=87LKV9dcaj4",
       "attachments": [
         {
           "url": "https://www.youtube.com/watch?v=87LKV9dcaj4"
@@ -8677,7 +8673,7 @@
           "Twitter": "papapastry_"
         }
       ],
-      "raw_content": "**Week**: 17\n**Title:** things you use to look at yourself with (the musical/remix)\n**Medium:** Whatever beans used + Ableton Live 11 Suite\n**Description:**\n\nI couldn't resist. More stuff after this one. Thanks to @jumpingbeans for the script and visuals.\n\nI used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.\n\nhttps://www.youtube.com/watch?v=87LKV9dcaj4\n\n**Social Media:** papapastry_ on Twitter",
+      "raw_content": "**Week**: 17\n**Title:** things you use to look at yourself with (the musical/remix)\n**Medium:** Whatever beans used + Ableton Live 11 Suite\n**Description:**\n\nSubmission 2/5.\n\nI couldn't resist. Thanks to @jumpingbeans for the script and visuals.\n\nI used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.\n\nhttps://www.youtube.com/watch?v=87LKV9dcaj4\n\n**Social Media:** papapastry_ on Twitter",
       "raw_socials": "papapastry_ on Twitter",
       "raw_hyperlinks": [
         "https://www.youtube.com/watch?v=87LKV9dcaj4"
@@ -8713,7 +8709,7 @@
       "week": 17,
       "title": "End of a Chapter",
       "medium": "Clip Studio",
-      "description": "Nothing fancy for the last week of the design refresh 2021 as I want to take this time to praise all the wonderful artists that submitted their art. It was only a few month ago that a picked up my first drawing tablet and started digital art (I was so scared to even use colors \ud83e\udd23 ). I can comfortably say that every single one of u inspired me and motivated me to try new things till this very day. Big thanks too @Pumpkan for being the best co-host ever in history \u2764\ufe0f  Let\u2019s also take this moment to give a huge thanks to Cindy for making all this happen and creating one of the best art community on twitch. You\u2019ve being a great mentor to me for these past months and I would have never improved this much if it wasn\u2019t for you \u2764\ufe0f This little subdrake will be supporting ur twitch in the shadows till the next design-refresh <:OOOdrake:779990710639394858> . I don\u2019t know everyone personally but I just want to say I love all of you and I really hope you all keep drawing cause they is just so much more stories to tell and to draw \u2764\ufe0f",
+      "description": "Nothing fancy for the last week of the design refresh 2021 as I want to take this time to praise all the wonderful artists that submitted their art. It was only a few month ago that a picked up my first drawing tablet and started digital art (I was so scared to even use colors \ud83e\udd23 ). I can comfortably say that every single one of u inspired me and motivated me to try new things till this very day. Big thanks too @Pumpkan for being the best co-host ever in history \u2764\ufe0f  Let\u2019s also take this moment to give a huge thanks to Cindy for making all this happen and creating one of the best art community on twitch. You\u2019ve being a great mentor to me for these past months and I would have never improved this much if it wasn\u2019t for you \u2764\ufe0f This little subdrake will be supporting ur twitch in the shadows till the next design-refresh  . I don\u2019t know everyone personally but I just want to say I love all of you and I really hope you all keep drawing cause they is just so much more stories to tell and to draw \u2764\ufe0f",
       "attachments": [
         {
           "url": "../static/img/titan011/2021-04-30+7e55e83bfd8ee96306eac0e879e49fd9.jpg",
@@ -8721,7 +8717,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "Week: 17 \nTitle: End of a Chapter \nMedium: Clip Studio\nNothing fancy for the last week of the design refresh 2021 as I want to take this time to praise all the wonderful artists that submitted their art. It was only a few month ago that a picked up my first drawing tablet and started digital art (I was so scared to even use colors \ud83e\udd23 ). I can comfortably say that every single one of u inspired me and motivated me to try new things till this very day. Big thanks too @Pumpkan for being the best co-host ever in history \u2764\ufe0f  Let\u2019s also take this moment to give a huge thanks to Cindy for making all this happen and creating one of the best art community on twitch. You\u2019ve being a great mentor to me for these past months and I would have never improved this much if it wasn\u2019t for you \u2764\ufe0f This little subdrake will be supporting ur twitch in the shadows till the next design-refresh <:OOOdrake:779990710639394858> . I don\u2019t know everyone personally but I just want to say I love all of you and I really hope you all keep drawing cause they is just so much more stories to tell and to draw \u2764\ufe0f",
+      "raw_content": "Week: 17 \nTitle: End of a Chapter \nMedium: Clip Studio\nNothing fancy for the last week of the design refresh 2021 as I want to take this time to praise all the wonderful artists that submitted their art. It was only a few month ago that a picked up my first drawing tablet and started digital art (I was so scared to even use colors \ud83e\udd23 ). I can comfortably say that every single one of u inspired me and motivated me to try new things till this very day. Big thanks too @Pumpkan for being the best co-host ever in history \u2764\ufe0f  Let\u2019s also take this moment to give a huge thanks to Cindy for making all this happen and creating one of the best art community on twitch. You\u2019ve being a great mentor to me for these past months and I would have never improved this much if it wasn\u2019t for you \u2764\ufe0f This little subdrake will be supporting ur twitch in the shadows till the next design-refresh  . I don\u2019t know everyone personally but I just want to say I love all of you and I really hope you all keep drawing cause they is just so much more stories to tell and to draw \u2764\ufe0f",
       "raw_socials": "",
       "raw_hyperlinks": []
     },
@@ -8879,7 +8875,7 @@
       "week": 17,
       "title": "Lonely Light",
       "medium": "Ableton Live 11 Studio",
-      "description": "Preamble:\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\n\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
+      "description": "Submission 3/5.\n\nPreamble:\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP in addition to the five pieces of work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so...\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\n\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
       "attachments": [
         {
           "url": "https://www.youtube.com/watch?v=tUSsUgTB-b8"
@@ -8889,7 +8885,7 @@
         }
       ],
       "socials": [],
-      "raw_content": "**Week:** 17\n**Title:** _Lonely Light_\n**Medium:** Ableton Live 11 Studio\n\n**Preamble:**\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n**Description:**\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
+      "raw_content": "**Week:** 17\n**Title:** _Lonely Light_\n**Medium:** Ableton Live 11 Studio\n\nSubmission 3/5.\n\n**Preamble:**\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the five pieces of work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n**Description:**\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so...\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
       "raw_socials": "",
       "raw_hyperlinks": [
         "https://www.youtube.com/watch?v=tUSsUgTB-b8",
@@ -8952,8 +8948,115 @@
       "raw_hyperlinks": [
         "https://online.fliphtml5.com/jdhob/sioh/"
       ]
+    },
+    {
+      "id": "hamishmr-week-17-8df0",
+      "author": "hamishmr#8519",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "fruit that isn't fruit",
+      "medium": "keeb",
+      "description": "shutuphamish (twitch)\n\nfor a while i didn't have an idea for the final refresh, but i knew i wanted to enter. i missed (a lot) more showcases than i wanted to at the start and only entered twice before this (and really only one good entry) but i've been here the whole time, watching vods and enjoying the submissions! this piece was inspired by @DynoLoafer 's week 15 entry, with the idea that sometimes fruit isn't fruit in the form of their apple dragon. as some of you know into (obsessed with) keyboards and have been tinkering with macropads for a bit. this is my \"peach juice\" 2% macropad. anyway, sorry for carrying on, enjoy the show!",
+      "attachments": [
+        {
+          "url": "../static/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea.jpg",
+          "thumbnail_url": "../static/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea-thumbnail-w720px.jpg"
+        }
+      ],
+      "socials": [],
+      "raw_content": "Week: 17\nTitle: fruit that isn't fruit\nMedium: keeb\nsocials: shutuphamish (twitch)\n\nDescription: for a while i didn't have an idea for the final refresh, but i knew i wanted to enter. i missed (a lot) more showcases than i wanted to at the start and only entered twice before this (and really only one good entry) but i've been here the whole time, watching vods and enjoying the submissions! this piece was inspired by @DynoLoafer 's week 15 entry, with the idea that sometimes fruit isn't fruit in the form of their apple dragon. as some of you know into (obsessed with) keyboards and have been tinkering with macropads for a bit. this is my \"peach juice\" 2% macropad. anyway, sorry for carrying on, enjoy the show!",
+      "raw_socials": "shutuphamish (twitch)\n\nDescription: for a while i didn't have an idea for the final refresh, but i knew i wanted to enter. i missed (a lot) more showcases than i wanted to at the start and only entered twice before this (and really only one good entry) but i've been here the whole time, watching vods and enjoying the submissions! this piece was inspired by @DynoLoafer 's week 15 entry, with the idea that sometimes fruit isn't fruit in the form of their apple dragon. as some of you know into (obsessed with) keyboards and have been tinkering with macropads for a bit. this is my \"peach juice\" 2% macropad. anyway, sorry for carrying on, enjoy the show!",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "papapastry-week-17-95b8",
+      "author": "papapastry#8888",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Medley",
+      "medium": "Ableton Live 11 Studio",
+      "description": "Please skip this for the showcase!\n\nSubmission 4/5.\n\nA throwback to all of my audio pieces (all 17 of them!) over the design refresh.\n\nYT: https://www.youtube.com/watch?v=8xOJWodLB3Y\n\nSC: <https://soundcloud.com/papapastry/medley-2021-design-refresh>",
+      "attachments": [
+        {
+          "url": "https://www.youtube.com/watch?v=8xOJWodLB3Y"
+        },
+        {
+          "url": "https://soundcloud.com/papapastry/medley-2021-design-refresh"
+        }
+      ],
+      "socials": [],
+      "raw_content": "**Week:** 17\n**Title:** _Medley_\n**Medium:** Ableton Live 11 Studio\n\n_Please skip this for the showcase!_\n\n**Description:**\n\nSubmission 4/5.\n\nA throwback to all of my audio pieces (all 17 of them!) over the design refresh.\n\nYT: https://www.youtube.com/watch?v=8xOJWodLB3Y\nSC: <https://soundcloud.com/papapastry/medley-2021-design-refresh>",
+      "raw_socials": "",
+      "raw_hyperlinks": [
+        "https://www.youtube.com/watch?v=8xOJWodLB3Y",
+        "https://soundcloud.com/papapastry/medley-2021-design-refresh"
+      ]
+    },
+    {
+      "id": "mimichair-week-17-cbc8",
+      "author": "MimiChair#9326",
+      "created_at": "2021-05-06",
+      "week": 17,
+      "title": "Inspiration",
+      "medium": "Toon Boom Harmony",
+      "description": "I am late but still on time for the showcase   Thanks to all the deadline extensions I was still able to make the morphing gif idea I had for this!\n\nBecause I haven't been able to draw anything dedicated for Designrefresh at all I decided to do all of them at once on the final week. So I came up with the idea to pick a drawing from every designrefresh to represent each week  with that I created morphing gif animation to make each drawing connected to each other and also as a symbol that all the submissions and the art from the community is what truly forms ''Designrefresh''. The color palettes are very limited and I tried re-using the same colors as much as possible. This gif is like my way of making a throwback to every week, it feels like I still got to participate in the whole designrefresh despite only making a dedicated submission on the final week  \n\nThank you for listening to my ted talk\n\nCindry thank you for hosting all these design refreshes! I wish I could have participated more but it was already nice to do this \u2764\ufe0f\n\ncredit to the artists I have based the drawings off:\n\nCharmandaar\n\nArancil\n\nMoonlit Narcy\n\nRybaris\n\nFonzaku\n\nPumpkanart\n\nDynoloafer\n\nBell-bones\n\nCindrytuna\n\nCup_o_rice\n\nJumpingbeansz\n\nVectorong\n\nSoleilboo\n\nD3m0n_Msc\n\nEggyYoolk\n\nRainydaze\n\n[I'm sorry if I have misspelled your name  ]\n\nhttps://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0cb7b41e-8527-42e9-92c7-a54cb30081f6/dej515r-3ad009ed-518f-4625-a1d7-7bbe6d651d00.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjYjdiNDFlLTg1MjctNDJlOS05MmM3LWE1NGNiMzAwODFmNlwvZGVqNTE1ci0zYWQwMDllZC01MThmLTQ2MjUtYTFkNy03YmJlNmQ2NTFkMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.91JkLhEnqK2eNwkqrv0Bw32XPfnK1V6unFdUzyJbgsA (Big zoom-in-able collage image of the drawings)",
+      "attachments": [
+        {
+          "url": "../static/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a.gif",
+          "thumbnail_url": "../static/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a-thumbnail-w720px.gif"
+        }
+      ],
+      "socials": [],
+      "raw_content": "Week 17:\nTitle: Inspiration \nMedium: Toon Boom Harmony\n\nDescription: I am late but still on time for the showcase   Thanks to all the deadline extensions I was still able to make the morphing gif idea I had for this!\nBecause I haven't been able to draw anything dedicated for Designrefresh at all I decided to do all of them at once on the final week. So I came up with the idea to pick a drawing from every designrefresh to represent each week  with that I created morphing gif animation to make each drawing connected to each other and also as a symbol that all the submissions and the art from the community is what truly forms ''Designrefresh''. The color palettes are very limited and I tried re-using the same colors as much as possible. This gif is like my way of making a throwback to every week, it feels like I still got to participate in the whole designrefresh despite only making a dedicated submission on the final week  \n\nThank you for listening to my ted talk\nCindry thank you for hosting all these design refreshes! I wish I could have participated more but it was already nice to do this \u2764\ufe0f\n\ncredit to the artists I have based the drawings off:\nCharmandaar\nArancil\nMoonlit Narcy\nRybaris\nFonzaku\nPumpkanart\nDynoloafer\nBell-bones\nCindrytuna\nCup_o_rice\nJumpingbeansz\nVectorong\nSoleilboo\nD3m0n_Msc\nEggyYoolk\nRainydaze\n\n[I'm sorry if I have misspelled your name  ]\n\n\nhttps://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0cb7b41e-8527-42e9-92c7-a54cb30081f6/dej515r-3ad009ed-518f-4625-a1d7-7bbe6d651d00.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjYjdiNDFlLTg1MjctNDJlOS05MmM3LWE1NGNiMzAwODFmNlwvZGVqNTE1ci0zYWQwMDllZC01MThmLTQ2MjUtYTFkNy03YmJlNmQ2NTFkMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.91JkLhEnqK2eNwkqrv0Bw32XPfnK1V6unFdUzyJbgsA (Big zoom-in-able collage image of the drawings)\n",
+      "raw_socials": "",
+      "raw_hyperlinks": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0cb7b41e-8527-42e9-92c7-a54cb30081f6/dej515r-3ad009ed-518f-4625-a1d7-7bbe6d651d00.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjYjdiNDFlLTg1MjctNDJlOS05MmM3LWE1NGNiMzAwODFmNlwvZGVqNTE1ci0zYWQwMDllZC01MThmLTQ2MjUtYTFkNy03YmJlNmQ2NTFkMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.91JkLhEnqK2eNwkqrv0Bw32XPfnK1V6unFdUzyJbgsA"
+      ]
+    },
+    {
+      "id": "lithium-week-17-93bc",
+      "author": "Lithium#7468",
+      "created_at": "2021-05-07",
+      "week": 17,
+      "title": "A Farewell Glance",
+      "medium": "Clip Studio Paint",
+      "description": "A glance back at the months of creation, experimentation, and learning. Style inspired on \"upon sunflowers\" by Charmandaar from week one! Just really liked the simple lines and two-color aspect. \n\nIG/tumblr lithiumreflections, twitter lireflections",
+      "attachments": [
+        {
+          "url": "../static/img/lithium/2021-05-06+4279c1c8ad1a6868441675575f1e43a9.jpg",
+          "thumbnail_url": "../static/img/lithium/2021-05-06+4279c1c8ad1a6868441675575f1e43a9-thumbnail-w720px.jpg"
+        }
+      ],
+      "socials": [],
+      "raw_content": "Week: 17\n**Title:  ** A Farewell Glance\nMedium: Clip Studio Paint\nDescription: A glance back at the months of creation, experimentation, and learning. Style inspired on \"upon sunflowers\" by Charmandaar from week one! Just really liked the simple lines and two-color aspect. \n\nSocial Media: IG/tumblr lithiumreflections, twitter lireflections",
+      "raw_socials": "IG/tumblr lithiumreflections, twitter lireflections",
+      "raw_hyperlinks": []
+    },
+    {
+      "id": "papapastry-week-17-7ac3",
+      "author": "papapastry#8888",
+      "created_at": "2021-05-07",
+      "week": 17,
+      "title": "Shorts",
+      "medium": "Ableton Live 10/11 Suite, Steinberg Cubase 5, FL Studio 12/20, & DaVinci Resolve",
+      "description": "Hey team, this 8-minute video would do best when left to last. Thanks!\n\nSubmission 5/5.\n\nI took a work from every week (without repeats of artists) and wrote 30 second shorts for each one. Most of these shorts are from work that I wrote in the past that has not seen the light of day.\n\nVideo features visual work by @jorchael_p, @Scimister, @DoughYeast, @fonz, @cindry, @TheLagExpert , @Goblet, @soleilboo , @arancil, @TITAN011, @paintsepsi, @vectorong, @Pumpkan, @Piacine , @eggyolk, and @a1ewanrichards.\n\nSorry for leaving people out, but there are only 17 weeks and I went for easiest to match to audio as my main selective metric.\n\nThat's it from me. Thanks for listening!\n\nYT: https://youtu.be/SeTmvYddJuY (Closed Captions)\n\nSC: <https://soundcloud.com/papapastry/shorts-2021-design-refresh>",
+      "attachments": [
+        {
+          "url": "https://youtu.be/SeTmvYddJuY"
+        },
+        {
+          "url": "https://soundcloud.com/papapastry/shorts-2021-design-refresh"
+        }
+      ],
+      "socials": [],
+      "raw_content": "**Week:** 17\n**Title:** Shorts\n**Medium:** Ableton Live 10/11 Suite, Steinberg Cubase 5, FL Studio 12/20, & DaVinci Resolve\n**Description:**\n\n_Hey team, this 8-minute video would do best when left to last. Thanks!_\n\nSubmission 5/5.\n\nI took a work from every week (without repeats of artists) and wrote 30 second shorts for each one. Most of these shorts are from work that I wrote in the past that has not seen the light of day.\n\nVideo features visual work by @jorchael_p, @Scimister, @DoughYeast, @fonz, @cindry, @TheLagExpert , @Goblet, @soleilboo , @arancil, @TITAN011, @paintsepsi, @vectorong, @Pumpkan, @Piacine , @eggyolk, and @a1ewanrichards.\n\nSorry for leaving people out, but there are only 17 weeks and I went for easiest to match to audio as my main selective metric.\n\nThat's it from me. Thanks for listening!\n\nYT: https://youtu.be/SeTmvYddJuY (Closed Captions)\nSC: <https://soundcloud.com/papapastry/shorts-2021-design-refresh>",
+      "raw_socials": "",
+      "raw_hyperlinks": [
+        "https://youtu.be/SeTmvYddJuY",
+        "https://soundcloud.com/papapastry/shorts-2021-design-refresh"
+      ]
     }
   ],
   "user_count": 68,
-  "submission_count": 375
+  "submission_count": 380
 }

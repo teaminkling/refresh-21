@@ -33,13 +33,15 @@ ENTRY 2
 
 **Week**: 17
 **Title:** refresh.fiveclawd.com
-**Medium:** Golang, Hugo, Python/Programming.
+**Medium:** Go + Hugo, Python.
 **Description:**
 
-Yeah, this totally counts. This isn't all I'm doing, of course.
+Submission 1/5.
+
+Yeah, this totally counts.
+
+No need to showcase it, I just wanted to pad my stats. Five submissions!
 
 https://refresh.fiveclawd.com/
-
-**Social Media:** papapastry_ on Twitter
 
 =======================================================================================================================

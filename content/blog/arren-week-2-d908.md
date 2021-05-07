@@ -20,7 +20,7 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **photoshop**.
 
 ## Artist's Notes
 
-I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:779990724212293642>
+I'm bad with s so I'm just gonna put this here and dip
 
 ## Social Media
 
@@ -36,5 +36,5 @@ I'm bad with s so I'm just gonna put this here and dip <:UUUdrake:77999072421229
 Week: 2
 Title: bright sea
 Medium: photoshop
-Description: I'm bad with descriptions so I'm just gonna put this here and dip <:UUUdrake:779990724212293642>
+Description: I'm bad with descriptions so I'm just gonna put this here and dip 
 {{< /highlight >}}

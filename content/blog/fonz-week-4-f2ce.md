@@ -20,7 +20,7 @@ Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp**.
 
 ## Artist's Notes
 
-i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. "movement" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness <:wow:649902323191119882>  very last minute but happy with the outcome!
+i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. "movement" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness   very last minute but happy with the outcome!
 
 ## Social Media
 
@@ -36,6 +36,6 @@ i really just wanted to create something ambiguous with this piece, no clear exp
 Week: 4
 Title: mask
 Medium: csp
-Description: i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. "movement" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness <:wow:649902323191119882>  very last minute but happy with the outcome!
+Description: i really just wanted to create something ambiguous with this piece, no clear expression of good or evil, menacing or innocent completely up to interpretation. "movement" really got me thinking about the creeping of shadows so i tried to subject that in the piece! i guess it's less of a silhouette but still a retreat into complete darkness/murkiness   very last minute but happy with the outcome!
 Socials: http://twitch.tv/fonzaku
 {{< /highlight >}}

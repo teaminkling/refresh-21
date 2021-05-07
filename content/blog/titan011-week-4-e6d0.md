@@ -20,7 +20,7 @@ Week 4: **Murky Silhouettes**. This art was lovingly created using: **ClipStudio
 
 ## Artist's Notes
 
-Didn’t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge <:PepeHands:779990751429918720>  Implemented some contrast and circle shape from week 3 challenge so I don’t forget the notions I’ve learned.
+Didn’t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge   Implemented some contrast and circle shape from week 3 challenge so I don’t forget the notions I’ve learned.
 
 ## Social Media
 
@@ -36,5 +36,5 @@ Didn’t use one color but I tried to stick with cold colors? Worked on value an
 Week 4
 Title: Sleepless Night
 Medium: ClipStudio
-Description: Didn’t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge <:PepeHands:779990751429918720>  Implemented some contrast and circle shape from week 3 challenge so I don’t forget the notions I’ve learned.
+Description: Didn’t use one color but I tried to stick with cold colors? Worked on value and tones? Is floating considered rhythm and movement? (Honestly idk, still new to all these art vocabulary xD). i hope this respect the rules of the challenge   Implemented some contrast and circle shape from week 3 challenge so I don’t forget the notions I’ve learned.
 {{< /highlight >}}

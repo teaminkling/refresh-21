@@ -1,8 +1,119 @@
 {
-  "message_count": 445,
-  "attachment_count": 385,
+  "message_count": 452,
+  "attachment_count": 388,
   "user_count": 68,
   "messages": [
+    {
+      "id": 840097792055967795,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/840097792055967795",
+      "created_at": "2021-05-07T05:28:41.888000",
+      "author": {
+        "id": 212546139029766144,
+        "display_name": "papapastry",
+        "mention_name": "papapastry#8888"
+      },
+      "content": "**Week:** 17\n**Title:** Shorts\n**Medium:** Ableton Live 10/11 Suite, Steinberg Cubase 5, FL Studio 12/20, & DaVinci Resolve\n**Description:**\n\n_Hey team, this 8-minute video would do best when left to last. Thanks!_\n\nSubmission 5/5.\n\nI took a work from every week (without repeats of artists) and wrote 30 second shorts for each one. Most of these shorts are from work that I wrote in the past that has not seen the light of day.\n\nVideo features visual work by @jorchael_p, @Scimister, @DoughYeast, @fonz, @cindry, @TheLagExpert , @Goblet, @soleilboo , @arancil, @TITAN011, @paintsepsi, @vectorong, @Pumpkan, @Piacine , @eggyolk, and @a1ewanrichards.\n\nSorry for leaving people out, but there are only 17 weeks and I went for easiest to match to audio as my main selective metric.\n\nThat's it from me. Thanks for listening!\n\nYT: https://youtu.be/SeTmvYddJuY (Closed Captions)\nSC: <https://soundcloud.com/papapastry/shorts-2021-design-refresh>",
+      "attachments": []
+    },
+    {
+      "id": 840012872922300436,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/840012872922300436",
+      "created_at": "2021-05-06T23:51:15.589000",
+      "author": {
+        "id": 106069120897798144,
+        "display_name": "Lithium",
+        "mention_name": "Lithium#7468"
+      },
+      "content": "Week: 17\n**Title:  ** A Farewell Glance\nMedium: Clip Studio Paint\nDescription: A glance back at the months of creation, experimentation, and learning. Style inspired on \"upon sunflowers\" by Charmandaar from week one! Just really liked the simple lines and two-color aspect. \n\nSocial Media: IG/tumblr lithiumreflections, twitter lireflections",
+      "attachments": [
+        {
+          "id": 840012869943820338,
+          "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/840012869943820338/week17.jpg",
+          "url": "../static/img/lithium/2021-05-06+4279c1c8ad1a6868441675575f1e43a9.jpg",
+          "thumbnail_url": "../static/img/lithium/2021-05-06+4279c1c8ad1a6868441675575f1e43a9-thumbnail-w720px.jpg",
+          "filename": "week17.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": 840000282079264839,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/840000282079264839",
+      "created_at": "2021-05-06T23:01:13.698000",
+      "author": {
+        "id": 123123814061178882,
+        "display_name": "MimiChair",
+        "mention_name": "MimiChair#9326"
+      },
+      "content": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0cb7b41e-8527-42e9-92c7-a54cb30081f6/dej515r-3ad009ed-518f-4625-a1d7-7bbe6d651d00.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBjYjdiNDFlLTg1MjctNDJlOS05MmM3LWE1NGNiMzAwODFmNlwvZGVqNTE1ci0zYWQwMDllZC01MThmLTQ2MjUtYTFkNy03YmJlNmQ2NTFkMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.91JkLhEnqK2eNwkqrv0Bw32XPfnK1V6unFdUzyJbgsA (Big zoom-in-able collage image of the drawings)",
+      "attachments": []
+    },
+    {
+      "id": 839999480928796722,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/839999480928796722",
+      "created_at": "2021-05-06T22:58:02.689000",
+      "author": {
+        "id": 123123814061178882,
+        "display_name": "MimiChair",
+        "mention_name": "MimiChair#9326"
+      },
+      "content": "",
+      "attachments": [
+        {
+          "id": 839999478017818654,
+          "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839999478017818654/inspire.gif",
+          "url": "../static/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a.gif",
+          "thumbnail_url": "../static/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a-thumbnail-w720px.gif",
+          "filename": "inspire.gif",
+          "type": "image/gif"
+        }
+      ]
+    },
+    {
+      "id": 839999445873197058,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/839999445873197058",
+      "created_at": "2021-05-06T22:57:54.331000",
+      "author": {
+        "id": 123123814061178882,
+        "display_name": "MimiChair",
+        "mention_name": "MimiChair#9326"
+      },
+      "content": "Week 17:\nTitle: Inspiration \nMedium: Toon Boom Harmony\n\nDescription: I am late but still on time for the showcase <:ThankEgg:797490219716050954>  Thanks to all the deadline extensions I was still able to make the morphing gif idea I had for this!\nBecause I haven't been able to draw anything dedicated for Designrefresh at all I decided to do all of them at once on the final week. So I came up with the idea to pick a drawing from every designrefresh to represent each week  with that I created morphing gif animation to make each drawing connected to each other and also as a symbol that all the submissions and the art from the community is what truly forms ''Designrefresh''. The color palettes are very limited and I tried re-using the same colors as much as possible. This gif is like my way of making a throwback to every week, it feels like I still got to participate in the whole designrefresh despite only making a dedicated submission on the final week <:ThankEgg:797490219716050954> \n\nThank you for listening to my ted talk\nCindry thank you for hosting all these design refreshes! I wish I could have participated more but it was already nice to do this \u2764\ufe0f\n\ncredit to the artists I have based the drawings off:\nCharmandaar\nArancil\nMoonlit Narcy\nRybaris\nFonzaku\nPumpkanart\nDynoloafer\nBell-bones\nCindrytuna\nCup_o_rice\nJumpingbeansz\nVectorong\nSoleilboo\nD3m0n_Msc\nEggyYoolk\nRainydaze\n\n[I'm sorry if I have misspelled your name <:ThankEgg:797490219716050954> ]",
+      "attachments": []
+    },
+    {
+      "id": 839848350295523329,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/839848350295523329",
+      "created_at": "2021-05-06T12:57:30.338000",
+      "author": {
+        "id": 212546139029766144,
+        "display_name": "papapastry",
+        "mention_name": "papapastry#8888"
+      },
+      "content": "**Week:** 17\n**Title:** _Medley_\n**Medium:** Ableton Live 11 Studio\n\n_Please skip this for the showcase!_\n\n**Description:**\n\nSubmission 4/5.\n\nA throwback to all of my audio pieces (all 17 of them!) over the design refresh.\n\nYT: https://www.youtube.com/watch?v=8xOJWodLB3Y\nSC: <https://soundcloud.com/papapastry/medley-2021-design-refresh>",
+      "attachments": []
+    },
+    {
+      "id": 839838208716177450,
+      "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/839838208716177450",
+      "created_at": "2021-05-06T12:17:12.397000",
+      "author": {
+        "id": 626039475079872523,
+        "display_name": "hamishmr",
+        "mention_name": "hamishmr#8519"
+      },
+      "content": "Week: 17\nTitle: fruit that isn't fruit\nMedium: keeb\nsocials: shutuphamish (twitch)\n\nDescription: for a while i didn't have an idea for the final refresh, but i knew i wanted to enter. i missed (a lot) more showcases than i wanted to at the start and only entered twice before this (and really only one good entry) but i've been here the whole time, watching vods and enjoying the submissions! this piece was inspired by @DynoLoafer 's week 15 entry, with the idea that sometimes fruit isn't fruit in the form of their apple dragon. as some of you know into (obsessed with) keyboards and have been tinkering with macropads for a bit. this is my \"peach juice\" 2% macropad. anyway, sorry for carrying on, enjoy the show!",
+      "attachments": [
+        {
+          "id": 839838205507403806,
+          "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839838205507403806/milk2.jpg",
+          "url": "../static/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea.jpg",
+          "thumbnail_url": "../static/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea-thumbnail-w720px.jpg",
+          "filename": "milk2.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
     {
       "id": 839821676568248360,
       "permalink": "https://discord.com/channels/764774958567522314/794059777881276430/839821676568248360",
@@ -54,7 +165,7 @@
         "display_name": "papapastry",
         "mention_name": "papapastry#8888"
       },
-      "content": "**Week:** 17\n**Title:** _Lonely Light_\n**Medium:** Ableton Live 11 Studio\n\n**Preamble:**\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n**Description:**\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea. Like most of my songs, the lyrics have a double meaning.\n\nI think this kind of \"nostalgic\" sound works well for the final song, kind of like the final song of an LP.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so /shrug.\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
+      "content": "**Week:** 17\n**Title:** _Lonely Light_\n**Medium:** Ableton Live 11 Studio\n\nSubmission 3/5.\n\n**Preamble:**\n\nI planned to do a colossal anthology of pieces, week after week, each with different artists to create a storyline and a concept EP _in addition_ to the five pieces of work I actually did for the final week of the refresh. The planning document I have for that clocks in at just under 2,000 words, uses art from 16 artists, and is a coming-of-age story about an immortal wizard. Nobody wants to hear that.\n\nIn either case, I'd need to take leave to have enough time to write that much music. Anyway:\n\n**Description:**\n\nWhen @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.\n\nAlso, I don't like making excuses for my singing but I underwent major dental surgery before singing. Probably shouldn't be singing, but it's already done so...\n\nYT: https://www.youtube.com/watch?v=tUSsUgTB-b8\nSC: <https://soundcloud.com/papapastry/lonely-light-2021-design-refresh>",
       "attachments": []
     },
     {
@@ -288,7 +399,7 @@
         "display_name": "papapastry",
         "mention_name": "papapastry#8888"
       },
-      "content": "**Week**: 17\n**Title:** things you use to look at yourself with (the musical/remix)\n**Medium:** Whatever beans used + Ableton Live 11 Suite\n**Description:**\n\nI couldn't resist. More stuff after this one. Thanks to @jumpingbeans for the script and visuals.\n\nI used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.\n\nhttps://www.youtube.com/watch?v=87LKV9dcaj4\n\n**Social Media:** papapastry_ on Twitter",
+      "content": "**Week**: 17\n**Title:** things you use to look at yourself with (the musical/remix)\n**Medium:** Whatever beans used + Ableton Live 11 Suite\n**Description:**\n\nSubmission 2/5.\n\nI couldn't resist. Thanks to @jumpingbeans for the script and visuals.\n\nI used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.\n\nhttps://www.youtube.com/watch?v=87LKV9dcaj4\n\n**Social Media:** papapastry_ on Twitter",
       "attachments": []
     },
     {
@@ -312,7 +423,7 @@
         "display_name": "papapastry",
         "mention_name": "papapastry#8888"
       },
-      "content": "**Week**: 17\n**Title:** refresh.fiveclawd.com\n**Medium:** Golang, Hugo, Python/Programming.\n**Description:**\n\nYeah, this totally counts. This isn't all I'm doing, of course.\n\nhttps://refresh.fiveclawd.com/\n\n**Social Media:** papapastry_ on Twitter",
+      "content": "**Week**: 17\n**Title:** refresh.fiveclawd.com\n**Medium:** Go + Hugo, Python.\n**Description:**\n\nSubmission 1/5.\n\nYeah, this totally counts.\n\nNo need to showcase it, I just wanted to pad my stats. Five submissions!\n\nhttps://refresh.fiveclawd.com/",
       "attachments": []
     },
     {
@@ -8873,6 +8984,30 @@
     "\ud83c\udf3aIchika\ud83c\udf3a(\u30df\u30b1\u30e9)#3160"
   ],
   "attachments": [
+    {
+      "id": 840012869943820338,
+      "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/840012869943820338/week17.jpg",
+      "url": "../static/img/lithium/2021-05-06+4279c1c8ad1a6868441675575f1e43a9.jpg",
+      "thumbnail_url": "../static/img/lithium/2021-05-06+4279c1c8ad1a6868441675575f1e43a9-thumbnail-w720px.jpg",
+      "filename": "week17.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "id": 839999478017818654,
+      "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839999478017818654/inspire.gif",
+      "url": "../static/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a.gif",
+      "thumbnail_url": "../static/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a-thumbnail-w720px.gif",
+      "filename": "inspire.gif",
+      "type": "image/gif"
+    },
+    {
+      "id": 839838205507403806,
+      "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839838205507403806/milk2.jpg",
+      "url": "../static/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea.jpg",
+      "thumbnail_url": "../static/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea-thumbnail-w720px.jpg",
+      "filename": "milk2.jpg",
+      "type": "image/jpeg"
+    },
     {
       "id": 839821676824625172,
       "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/839821676824625172/ZINE-1-.jpg",

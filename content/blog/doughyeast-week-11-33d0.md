@@ -22,9 +22,9 @@ Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procrea
 
 ## Artist's Notes
 
-** Used the two references above (an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn* and **Noon, but time prevails <:cindryBURN:775498317336805416> 
+** Used the two references above (an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn* and **Noon, but time prevails  
 
-I need to stop making non-human things human <:ThankEgg:797490219716050954>
+I need to stop making non-human things human
 
 ## Social Media
 
@@ -41,9 +41,9 @@ I need to stop making non-human things human <:ThankEgg:797490219716050954>
 **Week:** 11
 **Title: “you would make the sky a gijinka” - enoki**
 **Medium:** Procreate
-**Description:** Used the two references above *(an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn** and **Noon**, but time prevails <:cindryBURN:775498317336805416> 
+**Description:** Used the two references above *(an image of a dark sunset and a clear midnight sky)* to create some fantastical characters and I had plans to do two more for **Dawn** and **Noon**, but time prevails  
 
-I need to stop making non-human things human <:ThankEgg:797490219716050954> 
+I need to stop making non-human things human  
 
 **Social Media:** twitch.tv/doughyeast
 {{< /highlight >}}

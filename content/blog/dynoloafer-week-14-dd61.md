@@ -20,7 +20,7 @@ Week 14: **Absolute Fire**. This art was lovingly created using: **Paint Tool SA
 
 ## Artist's Notes
 
-I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...
+I was late, sad.  Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...
 
 ## Social Media
 
@@ -36,5 +36,5 @@ I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've a
 Week: 14
 Medium: Paint Tool SAI
 Title: __My Protective Assistant__
-Description: I was late, sad. <:CattoCry:800558786418835477> Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...
+Description: I was late, sad.  Buut I got this done tho! I've always loved whenever I got the change to draw fire and fire effects. Again, I actually learned a technique on youtube on how to do this, and I think it works out really well for my style! This is dragon Backey (I know they're also cowboys, please don't ask how many alternate universes we have) attacking a rowdy dragon who got too aggro with Prince Astro! He has the powers of fire and Astro has the powers of poison! Both would be painful...
 {{< /highlight >}}

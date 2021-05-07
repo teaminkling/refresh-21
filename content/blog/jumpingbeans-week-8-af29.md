@@ -20,7 +20,7 @@ Week 8: **High Sheen**. This art was lovingly created using: **Autodesk sketch**
 
 ## Artist's Notes
 
-Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: Trash. This is a warning, dont read too much into my thinking process <:cindryBAM:775498320944169010> (colours were abstracted from the source image) 
+Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: Trash. This is a warning, dont read too much into my thinking process  (colours were abstracted from the source image) 
 
 , /  (cuz symbolisms)
 
@@ -39,7 +39,7 @@ Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: 
 Week: 8
 Title:  Trashbin
 Medium: Autodesk sketch 
-Description: Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: Trash. This is a warning, dont read too much into my thinking process <:cindryBAM:775498320944169010> (colours were abstracted from the source image) 
+Description: Saw the prompt, saw time-limit, thought to self "what do i draw well?". Answer: Trash. This is a warning, dont read too much into my thinking process  (colours were abstracted from the source image) 
 
 Social Media: https://www.twitch.tv/jumpingbeansz , https://www.instagram.com/jumpingbeansz/  (cuz symbolisms)
 {{< /highlight >}}
