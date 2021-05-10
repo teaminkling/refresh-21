@@ -7,7 +7,7 @@ artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 2: Deep Ocean. Created using: FireAlpaca."
 [[images]]
       src = "/img/bell-bones/2021-01-15+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png"
-      href = "/blog/bell-bones-week-2-16df"
+      href = "/blog/bell-bones-week-2-a77b"
       alt = "Hello there!"
       caption = ""
       stretch = "cover"
@@ -29,7 +29,7 @@ Ok, ok, I see your tiny human and large creature entries, but I raise you this,,
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-2-16df.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-2-a77b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

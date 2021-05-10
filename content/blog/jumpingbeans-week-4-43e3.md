@@ -25,8 +25,6 @@ I thought I could finish this within 2 days (including learning + execution), en
 
 https://jumpingbeans.itch.io/week4 ("game" aka shitpost download page)
 
-Media:
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/jumpingbeansz' target='_blank'>jumpingbeansz</a>

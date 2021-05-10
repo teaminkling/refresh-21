@@ -46,10 +46,13 @@ entire body of a weekly submission where there is a group that takes the integer
 preamble and remainder of the content to be parsed for optional values.
 
 Note that this can't handle one post for multiple submissions if there are attachments.
+
+Also note that this isn't perfect and there will need to be exceptions in many places in the code
+to have this work for every submission.
 """
 
 with open("in/replacements.json") as replacements_json_file:
-    REPLACEMENTS_AND_EXPECTED_MISSING_MAP: dict = json.load(replacements_json_file)
+    REPLACEMENTS_CONFIG_MAP: dict = json.load(replacements_json_file)
     """
     A map containing replacements and expected missing values for invalid submissions.
     
@@ -57,12 +60,20 @@ with open("in/replacements.json") as replacements_json_file:
     wasn't very good for the final blog post, I suggest using the `formatting.json` file instead.
     """
 
+with open("in/socials.json") as socials_json_file:
+    SOCIALS_CONFIG_MAP: dict = json.load(socials_json_file)
+    """
+    A map containing socials to ignore to help with erroneous social inputs.
+    """
+
+# noinspection RegExpUnnecessaryNonCapturingGroup
 TITLE_PARSING_REGEX: Pattern = re.compile(
     r"(?P<preamble>[\s\S]*?)(?:title[:\-* ]+)(?P<title>.*$)(?P<remainder>[\s\S]*)",
     flags=re.MULTILINE | re.IGNORECASE,
 )
 """Regex that retrieves a title if applicable."""
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
 MEDIUM_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
@@ -75,6 +86,7 @@ MEDIUM_PARSING_REGEX: Pattern = re.compile(
 )
 """Regex that retrieves a title if applicable."""
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
 RAW_SOCIAL_PARSING_REGEX: Pattern = re.compile(
     (
         r"(?P<preamble>[\s\S]*?)"
@@ -114,6 +126,7 @@ This is not meant to be extremely accurate but pick up most links you would find
 Discord. There are niche and non-ASCII examples that will break this but we do not consider them.
 """
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
 CONTENT_LINK_REGEX: Pattern = re.compile(
     (
         r"(?:youtu\.be/\S)|"
@@ -132,13 +145,18 @@ CONTENT_LINK_REGEX: Pattern = re.compile(
 )
 """Regex used to parse content links, i.e., if they match a hyperlink, it's content."""
 
+SINGLE_NEWLINE_REGEX: Pattern = re.compile(
+    r"(?<=\S)\n(?=[A-Za-z0-9(}\[\]_*])", flags=re.MULTILINE,
+)
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
 SOCIAL_PATTERN_PARENTHESES: Pattern[str] = re.compile(
     r"(?P<replacement>@(?P<username>\S+) +(?:\((?P<platforms>.*?)\)))",
     flags=re.MULTILINE | re.IGNORECASE,
 )
 """Regex used to find social patterns based on parentheses."""
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
 SOCIAL_PATTERN_ON: Pattern[str] = re.compile(
     (
         r"(?P<replacement>"
@@ -154,6 +172,12 @@ SOCIAL_PATTERN_ON: Pattern[str] = re.compile(
 )
 """Regex used to find social patterns based on the word "on"."""
 
+# noinspection RegExpUnnecessaryNonCapturingGroup
+NATURAL_LANGUAGE_SOCIALS: Pattern[str] = re.compile(
+    r"(?: and )|(?: \+ )|\|| |/", flags=re.MULTILINE | re.IGNORECASE)
+"""A pattern that allows general processing of a litany of different ways to itemise socials."""
+
+# noinspection RegExpUnnecessaryNonCapturingGroup
 SOCIAL_PATTERNS = [
     (
         "Instagram",
@@ -230,13 +254,14 @@ SOCIAL_PATTERNS = [
     (
         "Twitch",
         re.compile(
-            r"(?P<replacement>twitch[ :=]+@(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
+            r"(?P<replacement>twitch[ :=]*@(?P<username>[A-Za-z0-9_\-+&%#@^.]+))",
             flags=re.MULTILINE | re.IGNORECASE,
         ),
     ),
 ]
 """Tuples of a platform to a regex to find that platform as a replacement and username."""
 
+# noinspection SpellCheckingInspection
 PLATFORM_MAP: Dict[str, str] = {
     "twit": "Twitter",
     "titter": "Twitter",
@@ -252,36 +277,22 @@ PLATFORM_MAP: Dict[str, str] = {
 }
 """Mapping of names for platforms to formatted names."""
 
-PROBLEMATIC_CONTENT_FRAGMENTS: List[str] = [
-    "So this is it! This is finale of 17 weeks of Designrefesh!",
-    "liked the whale from the deep sea week (2)",
-    "So this week I am not submitting anything really",
+# noinspection SpellCheckingInspection
+PROBLEMATIC_CONTENT_FRAGMENTS: List[Tuple[str, str]] = [
+    ("So this is it! This is finale of 17 weeks of Designrefesh!", "17"),
+    ("liked the whale from the deep sea week (2)", "17"),
+    ("So this week I am not submitting anything really", "17"),
 ]
 """
 Content fragments which will cause the system to simply take the entire post as one week.
 
-FIXME: Currently hardcoded for week 17 only.
+The second tuple part is the week to examine the fragmented messages as.
 """
 
 
 def parse_retrieved() -> None:
     """
     Parse raw messages retrieved previously from Discord.
-
-    This function should not be called from a pipeline.
-
-    Algorithm:
-
-    1. Join messages sequentially posted by the same poster together into one mapping.
-    2. Parse that mapping's description content and search for the week, splitting into an object
-       where the keys are the user and the week.
-
-       Multiple submissions in one week are still considered one submission.
-    3. Find all social links and associate with the user's "blob" information.
-    4. Find all content URLs and add to a URL list for each submission.
-    5. For each user, parse their socials and save them in a tabular format.
-    6. For each submission, parse their URLs and save them in a tabular format.
-    7. Write users and submissions to output JSON file.
     """
 
     final_data: dict = {
@@ -299,7 +310,9 @@ def parse_retrieved() -> None:
     # Parse matches and add them to a mapping of "author: week".
 
     message: Dict[str, Any]
-    for message in parse_cumulative_messages(retrieved_data):
+    for message in join_cumulative_messages(retrieved_data):
+        # Remove special characters from authors from Discord.
+
         author: str = (
             message["author"]
             .encode("ascii", "ignore")
@@ -324,7 +337,7 @@ def parse_retrieved() -> None:
             ),
         )
 
-    # Write final data before we start to write blog posts and pages.
+    # Write final data.
 
     final_data["submission_count"] = len(final_data["submissions"])
     final_data["users"] = assign_submission_socials_to_users(final_data["submissions"])
@@ -332,15 +345,21 @@ def parse_retrieved() -> None:
     with open("out/parsed.json", "w") as json_output_file:
         json.dump(final_data, json_output_file, indent=2)
 
-    # Handle missing content logging by placing it in the output temp directory. It's not
-    # ignored by VCS but it is not expected to actually be used outside of diagnostically.
+    write_missing_meta_files(final_data)
 
-    write_missing_meta_file(final_data["submissions"], "medium")
-    write_missing_meta_file(final_data["submissions"], "title")
-    write_missing_meta_file(final_data["submissions"], "description")
-    write_missing_meta_file(final_data["submissions"], "attachments")
-    write_missing_meta_file(final_data["submissions"], "raw_socials")
-    write_missing_meta_file(final_data["submissions"], "socials")
+
+def write_missing_meta_files(data: dict) -> None:
+    """
+    Handle missing content logging by placing it in the output temp directory. It's not
+    ignored by VCS but it is only expected to be used diagnostically.
+    """
+
+    write_missing_meta_file(data["submissions"], "medium")
+    write_missing_meta_file(data["submissions"], "title")
+    write_missing_meta_file(data["submissions"], "description")
+    write_missing_meta_file(data["submissions"], "attachments")
+    write_missing_meta_file(data["submissions"], "raw_socials")
+    write_missing_meta_file(data["submissions"], "socials")
 
     # There is one more special case: if the "raw_socials" exists but the "socials" does not.
 
@@ -350,23 +369,13 @@ def parse_retrieved() -> None:
         )
 
         count: int = 0
-        for submission in final_data["submissions"]:
+        for submission in data["submissions"]:
             if submission["raw_socials"] and not submission["socials"]:
-                # Clean up incorrect socials and give special treatment.
-
-                if (
-                    "urmom" in submission["raw_socials"]
-                    or "first" == submission["raw_socials"]
-                    or "tooter and touch" in submission["raw_socials"]
-                    or submission["author"] == "papapastry#8888"
-                ):
-                    continue
-
                 count += 1
 
-                unparsed_socials_file.write(f"\n\nENTRY {count}\n{'='*119}\n\n")
+                unparsed_socials_file.write(f"\n\nENTRY {count}\n{'=' * 119}\n\n")
                 unparsed_socials_file.write(submission["raw_content"].strip())
-                unparsed_socials_file.write(f"\n\n{'='*119}")
+                unparsed_socials_file.write(f"\n\n{'=' * 119}")
 
         unparsed_socials_file.write("\n")
 
@@ -412,7 +421,7 @@ def write_missing_meta_file(submissions: List[dict], parse_type: str) -> None:
         missing_meta_file.write("\n")
 
 
-def parse_cumulative_messages(retrieved_data: dict) -> List[dict]:
+def join_cumulative_messages(retrieved_data: dict) -> List[dict]:
     """
     Parse cumulative messages by order of created (ascending) and join them together if sequential.
 
@@ -517,19 +526,16 @@ def extract_all_content(
     if TEMPLATE_FRAGMENT in content:
         return []
 
-    matches: List[Tuple[str, str, str]] = []
+    # Find all matches via the complex week-seeking regex.
 
-    # Find all matches via the week-seeking regex.
-
-    if len(matches) == 0:
-        matches = re.findall(WEEK_PARSING_REGEX, content)
+    matches: List[Tuple[str, str, str]] = re.findall(WEEK_PARSING_REGEX, content)
 
     # Handle some extremely headache-inducing submissions that may as well be manual.
 
     if len(matches) > 1:
-        for problematic_fragment in PROBLEMATIC_CONTENT_FRAGMENTS:
-            if problematic_fragment in content:
-                matches = [("", "17", content)]  # FIXME: hardcoded
+        for fragment, replacement_week in PROBLEMATIC_CONTENT_FRAGMENTS:
+            if fragment in content:
+                matches = [("", replacement_week, content)]
 
                 break
 
@@ -581,55 +587,25 @@ def extract_all_content(
         # Initialise what may be found from the parsers. Note that week is the only mandatory value
         # and is parsed separately (and first) from the other values.
 
-        week: int
-        title: str
-        medium: str
-        description: str
-
         # Weeks may have an exception where a week is written as "one" instead of "1".
 
+        week: int
         if match[1].lower() == "one":
             week = 1
         else:
             week = int(match[1])
 
-        # Parse the remainder and preamble. This code here kinda sucks but so does the regex,
-        # so whatever. The amount of content is fixed (not dynamic) so there's no point iterating.
+        # Parse the remainder and preamble. The amount of content is fixed (not dynamic) so
+        # there's no point iterating.
 
-        preamble: str = match[0]
-        remainder: str = match[2]
+        preamble: str
+        remainder: str
 
-        # Remove bolds.
-
-        preamble = re.sub(r"\*\*(?P<unformatted>.*)\*\*", r"\g<unformatted>", preamble)
-        remainder = re.sub(
-            r"\*\*(?P<unformatted>.*)\*\*",
-            r"\g<unformatted>",
-            remainder,
-        )
-
-        # Remove italics.
-
-        preamble = re.sub(
-            r"(?<!\S)_(?P<unformatted>.*)_(?!\S)", r"\g<unformatted>", preamble
-        )
-        remainder = re.sub(
-            r"(?<!\S)_(?P<unformatted>.*)_(?!\S)", r"\g<unformatted>", remainder
-        )
-        preamble = re.sub(
-            r"(?<!\S)\*(?P<unformatted>.*)\*(?!\S)", r"\g<unformatted>", preamble
-        )
-        remainder = re.sub(
-            r"(?<!\S)\*(?P<unformatted>.*)\*(?!\S)", r"\g<unformatted>", remainder
-        )
-
-        # Remove underlines.
-
-        preamble = re.sub(r"__(?P<unformatted>.*)__", r"\g<unformatted>", preamble)
-        remainder = re.sub(r"__(?P<unformatted>.*)__", r"\g<unformatted>", remainder)
+        preamble, remainder = remove_markdown_formatting(match[0], match[2])
 
         # Start to parse content.
 
+        title: str
         preamble, title, remainder = parse_content(
             text=f"{preamble}\n{remainder}",
             pattern=TITLE_PARSING_REGEX,
@@ -642,22 +618,14 @@ def extract_all_content(
         if len(title) > 128:
             title = "[Title Too Long]"
 
+        medium: str
         preamble, medium, remainder = parse_content(
             text=f"{preamble}\n{remainder}",
             pattern=MEDIUM_PARSING_REGEX,
             parse_type="medium",
         )
 
-        # Description and socials are dynamic. We need to intelligently parse them. This is a
-        # complex algorithm:
-
-        # 1. Have the part before social indicator as a chunk of text before socials.
-        # 2. The second part has socials somewhere after it, but there may be other information.
-        # 3. From the information after socials, pick up Instagram, Spotify, Twitter, etc.
-        # 4. Retrieve these but then remove it from the chunk after socials.
-        # 5. Combine the before and after chunks together.
-        # 6. Format and remove description and social labels.
-        # 7. Add as Description for this work.
+        # Description and socials are dynamic. We need to intelligently parse them.
 
         preamble, raw_socials, remainder = parse_content(
             text=f"{preamble}\n{remainder}",
@@ -675,29 +643,7 @@ def extract_all_content(
 
             socials, remainder = parse_socials(remainder)
 
-        dynamic_content: str = f"{preamble}\n{remainder}".strip()
-        dynamic_content = re.sub(r"\n{3,}", "\n\n", dynamic_content)
-        dynamic_content = re.sub(r"(?i:description)[: -]*", "", dynamic_content)
-
-        # Partially clean the description by removing "social media" text from the description.
-
-        description = re.sub(r"(?i:social[s]?(?: media)?)[: -]*", "", dynamic_content)
-
-        # Remove lines that are just single characters. Leaves whitespace.
-        # TODO: Move to functions.
-
-        temp_description: str = ""
-        for line in description.split("\n"):
-            if len(line.strip()) != 1 or line.strip() == "<>":
-                temp_description += f"{line}\n"
-
-        description = temp_description
-
-        # Ensure all newlines are two \ns, not one or more than two.
-        # TODO: Extract regex to constant.
-
-        description = re.sub(r"\n{3,}", "\n\n", description)
-        description = re.sub(r"(?<=\S)\n(?=[A-Za-z0-9(}\[\]_*])", "\n\n", description)
+        description: str = handle_descriptions(preamble, remainder)
 
         # Form the hyperlinks and augment attachments if applicable.
 
@@ -706,9 +652,9 @@ def extract_all_content(
             {"url": link} for link in links if re.findall(CONTENT_LINK_REGEX, link)
         ]
 
-        # Ensure title and ID exists.
+        # Form an ID to be used as the slug for each submission.
 
-        title = title.strip() or "Untitled"
+        title = title.replace('"', "").strip() or "Untitled"
         submission_id: str = quote(
             f"{author[:-5]}-week-{week}-{md5(title.encode()).hexdigest()[:4]}".lower()
             .replace(" ", "-")
@@ -722,7 +668,7 @@ def extract_all_content(
                 "author": author,
                 "created_at": created_at,
                 "week": week,
-                "title": title.replace('"', ""),
+                "title": title,
                 "medium": medium.strip(),
                 "description": description.strip(),
                 "attachments": attachments + url_attachments,
@@ -734,6 +680,103 @@ def extract_all_content(
         )
 
     return content_data
+
+
+def handle_descriptions(preamble: str, remainder: str) -> str:
+    """
+    Parse a description.
+
+    Descriptions are the leftover content after parsing everything else (except attachments
+    which is handled in the step after)
+
+    Parameters
+    ----------
+    preamble : `str`
+        The textual preamble.
+
+    remainder : `str`
+        The textual remainder.
+
+    Returns
+    -------
+    `str`
+        The description.
+    """
+
+    dynamic_content: str = f"{preamble}\n{remainder}".strip()
+    dynamic_content = re.sub(r"\n{3,}", "\n\n", dynamic_content)
+    dynamic_content = re.sub(r"(?i:description)[: -]*", "", dynamic_content)
+
+    # Partially clean the description by removing "social media" text from the description.
+
+    description = re.sub(r"(?i:social[s]?(?: media)?)[: -]*", "", dynamic_content)
+
+    # Remove lines that are just single characters. Leaves whitespace.
+
+    temp_description: str = ""
+
+    for line in description.split("\n"):
+        if len(line.strip()) != 1 or line.strip() == "<>":
+            temp_description += f"{line}\n"
+
+    description = temp_description
+
+    # Ensure all newlines are two \ns, not one or more than two.
+
+    description = re.sub(r"\n{3,}", "\n\n", description)
+    description = re.sub(SINGLE_NEWLINE_REGEX, "\n\n", description)
+
+    return description
+
+
+def remove_markdown_formatting(preamble: str, remainder: str) -> Tuple[str, str]:
+    """
+    Remove Markdown formatting from a preamble and remainder pair.
+
+    Parameters
+    ----------
+    preamble : `str`
+        The textual preamble.
+
+    remainder : `str`
+        The textual remainder.
+
+    Returns
+    -------
+    `Tuple[str, str]`
+        A pair of the parsed preamble and remainder.
+    """
+
+    # Remove bolds.
+
+    preamble = re.sub(r"\*\*(?P<unformatted>.*)\*\*", r"\g<unformatted>", preamble)
+    remainder = re.sub(
+        r"\*\*(?P<unformatted>.*)\*\*",
+        r"\g<unformatted>",
+        remainder,
+    )
+
+    # Remove italics.
+
+    preamble = re.sub(
+        r"(?<!\S)_(?P<unformatted>.*)_(?!\S)", r"\g<unformatted>", preamble
+    )
+    remainder = re.sub(
+        r"(?<!\S)_(?P<unformatted>.*)_(?!\S)", r"\g<unformatted>", remainder
+    )
+    preamble = re.sub(
+        r"(?<!\S)\*(?P<unformatted>.*)\*(?!\S)", r"\g<unformatted>", preamble
+    )
+    remainder = re.sub(
+        r"(?<!\S)\*(?P<unformatted>.*)\*(?!\S)", r"\g<unformatted>", remainder
+    )
+
+    # Remove underlines.
+
+    preamble = re.sub(r"__(?P<unformatted>.*)__", r"\g<unformatted>", preamble)
+    remainder = re.sub(r"__(?P<unformatted>.*)__", r"\g<unformatted>", remainder)
+
+    return preamble, remainder
 
 
 def parse_content(text: str, pattern: Pattern, parse_type: str) -> Tuple[str, str, str]:
@@ -812,36 +855,26 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
     # Handle situations where people put socials in brackets, use "X on Y", and have multiple of
     # the same username on different social platforms.
 
-    replacement: str
-    username: str
-    platforms_text: str
-    platform: str
-
     for match in list(re.findall(SOCIAL_PATTERN_PARENTHESES, text)) + list(
         re.findall(SOCIAL_PATTERN_ON, text)
     ):
-        replacement = match[0]
-        username = match[1].replace("@", "").replace("/", "")
-        platforms_text = match[2].encode("ascii", "ignore").decode().strip()
+        replacement: str = match[0]
+        username: str = match[1].replace("@", "").replace("/", "")
+        platforms_text: str = match[2].encode("ascii", "ignore").decode().strip()
 
-        # Handle specific complex case by ignoring them.
-
-        if replacement in (
-            "@fiveclawd on instagram/twitter | cindrytuna @ twitch",
-            "@/jorchaelp on twitter and @/jrchlp.png on insta",
-            "charmandaar on twitch (https://www.twitch.tv/charmandaar)",
-            "@rjmmendoza on IG/Twitter | A1EwanRichards on Twitch",
-            "@rjmmendoza444 on Instagram and Twitter | @a1ewanrichards on Twitch",
-        ):
+        if replacement in SOCIALS_CONFIG_MAP["ignore_socials"]["partial"]:
             continue
 
-        for platform in re.split(r"(?: and )|(?: \+ )|\|| |/", platforms_text):
+        platform: str
+        for platform in re.split(NATURAL_LANGUAGE_SOCIALS, platforms_text):
+            # Parse out unnecessary punctuation.
+
             platform = platform.lower().replace("!", "").replace(".", "")
 
             found_platform: Optional[str] = PLATFORM_MAP.get(platform)
 
             if found_platform:
-                found_socials.append({found_platform: username.lower()})
+                found_socials.append({"provider": found_platform, "username": username.lower()})
             else:
                 LOGGER.warning("Unknown platform: [%s].", platform)
 
@@ -861,21 +894,22 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
                     regex,
                 )
 
-                found_socials.append({name: social[1].lower()})
+                found_socials.append({"provider": name, "username": social[1].lower()})
 
                 # Replace the exact match in the regex such that it does not appear in the
                 # description when it is added back.
 
                 text = text.replace(social[0], "").strip()
 
-    text = text.strip()
+    # Handle cases where all that's left in the text is symbols and special characters.
 
-    if all([character in " |,;/" for character in text]):
+    text = text.strip()
+    if all([character in " |,;/`" for character in text]):
         text = ""
 
-    # Handle special cases that should not be logged.
+    # Handle cases that are not social medias and match wholesale with an exclude list.
 
-    if text in ("urmom", "first"):
+    if text in SOCIALS_CONFIG_MAP["ignore_socials"]["wholesale"]:
         text = ""
 
     if text:
@@ -884,7 +918,10 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
             text,
         )
 
-    return found_socials, text
+    return sorted(
+        found_socials,
+        key=lambda social_data: (social_data["provider"], social_data["username"]),
+    ), text
 
 
 def assign_submission_socials_to_users(
@@ -892,6 +929,10 @@ def assign_submission_socials_to_users(
 ) -> Dict[str, List[Dict[str, str]]]:
     """
     Search through all submissions and assign all socials for each individual user.
+
+    Notes
+    -----
+    Sets do not allow custom hash algorithms for uniqueness, so we use linear search instead.
 
     Parameters
     ----------
@@ -905,28 +946,28 @@ def assign_submission_socials_to_users(
         provider name and username.
     """
 
-    user_to_socials: Dict[str, Set[Tuple[str, str]]] = defaultdict(set)
+    # Combine all users' socials to one big list.
 
+    user_to_socials: Dict[str, List[Dict[str, str]]] = defaultdict(list)
     for submission in submissions:
         if submission["socials"]:
-            user_to_socials[submission["author"]] = user_to_socials[
-                submission["author"]
-            ].union(
-                {tuple(social_dict.items()) for social_dict in submission["socials"]}
-            )
+            user_to_socials[submission["author"]].extend(submission["socials"])
 
-    # Now turn the tuples into dicts again.
+    # Flatten out the resultant list.
 
-    output_users: Dict[str, List[Dict[str, str]]] = defaultdict(list)
+    seen_socials: Set[Tuple[str, str]] = set()
+    user_to_unique_socials: Dict[str, List[Dict[str, str]]] = defaultdict(list)
 
-    for discord_username, unique_socials in user_to_socials.items():
-        for provider_user_pairs in unique_socials:
-            for provider, username in provider_user_pairs:
-                output_users[discord_username].append(
-                    {"provider": provider, "username": username}
-                )
+    for discord_username, socials in user_to_socials.items():
+        for social in socials:
+            social_key: Tuple[str, str] = (social["provider"], social["username"])
 
-    return output_users
+            if social_key not in seen_socials:
+                user_to_unique_socials[discord_username].append(social)
+
+                seen_socials.add(social_key)
+
+    return user_to_unique_socials
 
 
 def match_replacement_or_expected_missing(
@@ -950,11 +991,11 @@ def match_replacement_or_expected_missing(
         if applicable.
     """
 
-    for replacement in REPLACEMENTS_AND_EXPECTED_MISSING_MAP["replacements"]:
+    for replacement in REPLACEMENTS_CONFIG_MAP["replacements"]:
         if replacement["description"] in description and name == replacement["name"]:
             return True, replacement["value"]
 
-    for replacement in REPLACEMENTS_AND_EXPECTED_MISSING_MAP["expected_missing"]:
+    for replacement in REPLACEMENTS_CONFIG_MAP["expected_missing"]:
         if replacement["description"] in description and name == replacement["name"]:
             return True, None
 

@@ -7,7 +7,7 @@ artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 6: Simple Love. Created using: Ink on paper, 9x12 inches.."
 [[images]]
       src = "/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037-thumbnail-w720px.jpg"
-      href = "/blog/a1ewanrichards-week-6-634a"
+      href = "/blog/a1ewanrichards-week-6-3360"
       alt = "Amalgamation: Smile and Smile"
       caption = ""
       stretch = "cover"
@@ -47,7 +47,7 @@ A1EwanRichards (Twitch)
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-6-634a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-6-3360.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

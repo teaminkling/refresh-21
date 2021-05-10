@@ -7,7 +7,7 @@ artists =     ["vectorong"]
 description = "by vectorong for week 12: Visual Words. Created using: Ink + Marker, Photoshop."
 [[images]]
       src = "/img/vectorong/2021-03-24+8d497b68c2478a69a748e5d62a3ab1cf-thumbnail-w720px.jpg"
-      href = "/blog/vectorong-week-12-146c"
+      href = "/blog/vectorong-week-12-9bfb"
       alt = "The Comfy Chair"
       caption = ""
       stretch = "cover"
@@ -29,7 +29,7 @@ Inspired by the range of Italian designer Massimo Vignelli's work, and that "If 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-12-146c.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-12-9bfb.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

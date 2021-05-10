@@ -20,9 +20,7 @@ Week 3: **Red Circle**. This art was lovingly created using: **Sketchbook Pro**.
 
 ## Artist's Notes
 
-I heard something about 'expand beyond the circle' and next thing you know we're summoning entities from another reality 😛 
-
-Media:
+I heard something about 'expand beyond the circle' and next thing you know we're summoning entities from another reality 😛
 
 ## Social Media
 

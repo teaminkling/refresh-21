@@ -24,8 +24,6 @@ Week 5: **Royal Green**. This art was lovingly created using: **ibispaint x**.
 
 I painted the outline for the sword, tried painting the jade texture, but was displeased with the result, so I went and took a photo of the metal part of a local ww2 bunker and used it to make the texture by adjusting stuff here and there. The handle has the original bunker color
 
-``
-
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/cup_o_rice' target='_blank'>cup_o_rice</a>

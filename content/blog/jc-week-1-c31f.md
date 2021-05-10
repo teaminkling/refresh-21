@@ -20,9 +20,7 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **csp**.
 
 ## Artist's Notes
 
-a girl drawn in contrasting linework in all yellow! with some stars. 
-
-rybaris
+a girl drawn in contrasting linework in all yellow! with some stars.
 
 ## Social Media
 

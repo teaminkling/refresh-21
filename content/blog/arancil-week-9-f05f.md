@@ -7,7 +7,7 @@ artists =     ["arancil"]
 description = "by arancil for week 9: Bold Strokes. Created using: Pencil, watercolor, acrylics, promarkers, various fineliners, ink, hands, anger, frustration, stress, acceptance, coffee."
 [[images]]
       src = "/img/arancil/2021-03-05+d53b124397b7429a0bd88c7587e23ad1-thumbnail-w720px.jpg"
-      href = "/blog/arancil-week-9-7061"
+      href = "/blog/arancil-week-9-f05f"
       alt = "I DON'T HAVE TIME TO COME UP WITH A TITLE ALREADY LATE AS-IS oh hang on CHOKE ME LIKE YOU HATE ME obviously sorry"
       caption = ""
       stretch = "cover"
@@ -34,7 +34,7 @@ Also @Mrop2000 was my spirit animal
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-9-7061.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-9-f05f.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

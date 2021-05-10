@@ -22,8 +22,6 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **Digital (Clip S
 
 An eight point radial design in the style of a compass rose. Lines are all in the Pantone Yellow, while the background is two shades of blue: classic blue (2020's Pantone color of the year) inside the design and a darker contrasted blue outside of it.
 
-IG/Tumblr @Lithiumreflections
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>

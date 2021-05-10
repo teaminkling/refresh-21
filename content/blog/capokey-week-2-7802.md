@@ -24,8 +24,6 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.
 
 The majority of the deep sea is still unexplored, who knows what kind of creatures could be hiding in the neverending darkness?
 
-``
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/caposketch' target='_blank'>caposketch</a>

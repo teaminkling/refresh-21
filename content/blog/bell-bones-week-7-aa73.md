@@ -7,7 +7,7 @@ artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 7: Disturbed Desert. Created using: FireAlpaca."
 [[images]]
       src = "https://i.imgur.com/zqzUQqp.png?fb"
-      href = "/blog/bell-bones-week-7-7b4a"
+      href = "/blog/bell-bones-week-7-aa73"
       alt = "Hey you! Yeah, up here!"
       caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
@@ -32,7 +32,7 @@ Link to art piece because apparently discord hates me and thinks this is explici
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-7-7b4a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/bell-bones-week-7-aa73.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

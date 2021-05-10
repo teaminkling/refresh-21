@@ -7,7 +7,7 @@ artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 7: Disturbed Desert. Created using: Digital (Clip Studio Paint)."
 [[images]]
       src = "/img/a1ewanrichards/2021-02-18+425cc3e4c40aea0e74653a68bdd3054b-thumbnail-w720px.jpg"
-      href = "/blog/a1ewanrichards-week-7-d4f0"
+      href = "/blog/a1ewanrichards-week-7-6498"
       alt = "Resistance 3: When The Lands Become Graveyards"
       caption = ""
       stretch = "cover"
@@ -35,7 +35,7 @@ It's not a desert in the typical sense. It's an amalgam of sugar cane farms and 
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-7-d4f0.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-7-6498.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

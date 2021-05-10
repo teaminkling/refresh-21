@@ -3,6 +3,29 @@ This file contains all unparsed socials with available raws.
 ENTRY 1
 =======================================================================================================================
 
+**Title: Bowl**
+Medium: MS Paint
+Description: simple geometry shape of a bowl highlighted using pre-programmed algorithm of MS Paint, the yellow used to demonstrate the 3 dimensionality of bowl... aaaa theres a cat in it .... oh welp if it fits, it sits ¯\_(ツ)_/¯
+social media:
+first
+
+=======================================================================================================================
+
+ENTRY 2
+=======================================================================================================================
+
+Week: 1
+Title: Week 1 submission 👁️ 👄 👁️ 
+Medium: Procreate
+Description: done in ~6 hours.
+
+Socials: urmom
+
+=======================================================================================================================
+
+ENTRY 3
+=======================================================================================================================
+
 Week: 1
 Title: egg galaxy
 Medium: csp
@@ -12,7 +35,7 @@ Social Media: rybaris
 
 =======================================================================================================================
 
-ENTRY 2
+ENTRY 4
 =======================================================================================================================
 
 Week: 1
@@ -25,7 +48,7 @@ Social Media: @fiveclawd
 
 =======================================================================================================================
 
-ENTRY 3
+ENTRY 5
 =======================================================================================================================
 
 Week: 2
@@ -44,7 +67,7 @@ https://youtu.be/3imOd-rOjr8
 
 =======================================================================================================================
 
-ENTRY 4
+ENTRY 6
 =======================================================================================================================
 
 Submission Template
@@ -58,7 +81,7 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 5
+ENTRY 7
 =======================================================================================================================
 
 Week: 2
@@ -70,7 +93,7 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 6
+ENTRY 8
 =======================================================================================================================
 
 Week: 2
@@ -81,7 +104,7 @@ Social media: paintsepsi
 
 =======================================================================================================================
 
-ENTRY 7
+ENTRY 9
 =======================================================================================================================
 
 Week: 2
@@ -98,7 +121,19 @@ Social Media: @fiveclawd on instagram/twitter | cindrytuna @ twitch
 
 =======================================================================================================================
 
-ENTRY 8
+ENTRY 10
+=======================================================================================================================
+
+Week: 2
+Title: Jormungandr
+Medium: Procreate
+Description: Jormangandr releasing toxic gas during Ragnarok. Thought I'd try a different style. Also wanted to do more fishies and ships and and and and  but here it is nonetheless. 
+
+Social Media: urmom2.0
+
+=======================================================================================================================
+
+ENTRY 11
 =======================================================================================================================
 
 Week: 3
@@ -115,7 +150,7 @@ bonus points for whoever could guess my inspiration :p
 
 =======================================================================================================================
 
-ENTRY 9
+ENTRY 12
 =======================================================================================================================
 
 Submission Template
@@ -129,7 +164,7 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 10
+ENTRY 13
 =======================================================================================================================
 
 Week: 3
@@ -141,7 +176,7 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 11
+ENTRY 14
 =======================================================================================================================
 
 Week: 3
@@ -152,7 +187,7 @@ Social Media: IG&Twitter| Moonlit_narcy. Twitch| MoonlitNarcy
 
 =======================================================================================================================
 
-ENTRY 12
+ENTRY 15
 =======================================================================================================================
 
 Week: 3
@@ -164,7 +199,26 @@ Social Media: IG/Tumblr lithiumreflections / Twitter jaimeskelton
 
 =======================================================================================================================
 
-ENTRY 13
+ENTRY 16
+=======================================================================================================================
+
+Week: 3 
+Title: Week 3 Submission  👄  
+Medium: Procreate
+Description: ... week 3 submission  👄 tried to go for something a bit cleaner, simpler. 
+Socials: urmom3.0
+
+Here's my second piece: 
+
+🟦 
+
+Title: Red Circle
+Medium: Discord Emote
+Description: Contrast. 🙏
+
+=======================================================================================================================
+
+ENTRY 17
 =======================================================================================================================
 
 Week: 3
@@ -175,7 +229,7 @@ Social Media: @/jorchaelp on twitter and @/jrchlp.png on insta
 
 =======================================================================================================================
 
-ENTRY 14
+ENTRY 18
 =======================================================================================================================
 
 Week 4:
@@ -187,7 +241,7 @@ Social media: nah 🙂
 
 =======================================================================================================================
 
-ENTRY 15
+ENTRY 19
 =======================================================================================================================
 
 Week: 4
@@ -201,7 +255,7 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 16
+ENTRY 20
 =======================================================================================================================
 
 Week: 4
@@ -213,7 +267,23 @@ Social Media: IG/Tumblr lithiumreflections, Twitter jaimeskelton
 
 =======================================================================================================================
 
-ENTRY 17
+ENTRY 21
+=======================================================================================================================
+
+**Week:** 4
+**Title**: MURKE SHADOES
+**Medium**: Ableton Live 10
+**Description**: "Murky silhouettes" sounds metal and I got my wisdom teeth out so I couldn't really do what I usually do.
+
+"Tone" reminds me of a sick and phat guitar toan that has "value." "Rhythm" obviously means blastbeats and "movement" means the movement of the head up and down as the music flows through your soul and out your butt.
+
+"Monochromatic colour" to me means it shouldn't have any melody and "background colour" is "black" as in "black metal."
+
+https://soundcloud.com/papapastry/murke-shadoes-instrumental-week-4-2021designrefresh
+
+=======================================================================================================================
+
+ENTRY 22
 =======================================================================================================================
 
 Week 4
@@ -227,7 +297,7 @@ I'm running out of ink!
 
 =======================================================================================================================
 
-ENTRY 18
+ENTRY 23
 =======================================================================================================================
 
 Week:  5
@@ -241,7 +311,7 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 19
+ENTRY 24
 =======================================================================================================================
 
 ``Week: 5
@@ -254,7 +324,22 @@ Social Media:
 
 =======================================================================================================================
 
-ENTRY 20
+ENTRY 25
+=======================================================================================================================
+
+Week 6
+Title: Week 6    
+Medium: Procreate
+Description: The earliest time I can remember myself loving drawing was when I was 5 and completely immersed in the given task of drawing a yellow house with a red roof, with apple trees, and everyone's favourite quarter sun. Something about the way the pencil felt scraping across the paper encapsulated me, and before I knew it, 3 hours had past before I even looked away from the page. 
+
+ps. i forgot the fucking chimney godammit
+pss. oh shit theres also no doorknob. everything is falling apart.
+
+Social: urmom6.0
+
+=======================================================================================================================
+
+ENTRY 26
 =======================================================================================================================
 
 Week 6: Simple Love
@@ -276,7 +361,7 @@ A1EwanRichards (Twitch)
 
 =======================================================================================================================
 
-ENTRY 21
+ENTRY 27
 =======================================================================================================================
 
 Week: 7
@@ -287,7 +372,7 @@ Social Media: https://500px.com/p/antiiobs08
 
 =======================================================================================================================
 
-ENTRY 22
+ENTRY 28
 =======================================================================================================================
 
 Week 7: Disturbed Desert
@@ -301,7 +386,26 @@ It's not a desert in the typical sense. It's an amalgam of sugar cane farms and 
 
 =======================================================================================================================
 
-ENTRY 23
+ENTRY 29
+=======================================================================================================================
+
+**Week:** 7
+**Title:** Footprints
+**Medium:** Ableton Live 10 Suite
+**Socials:** <https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>
+**Description:**
+
+(Headphones will benefit you for this song).
+
+"Desert" to me means the mixolydian mode (a tonal "pattern"). You know, like The Beatles (Norwegian Wood, I Feel Fine) and a lot of classic rock around that era. "Space" sounds like space emulation: reverb. The theme also influenced the lyrics greatly, which were written before the music.
+
+Oh, and the video? Yeah, I dunno.
+
+**Link:** https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)
+
+=======================================================================================================================
+
+ENTRY 30
 =======================================================================================================================
 
 Week: 7
@@ -313,7 +417,7 @@ Social Media: No thanks
 
 =======================================================================================================================
 
-ENTRY 24
+ENTRY 31
 =======================================================================================================================
 
 Week: 7
@@ -327,7 +431,7 @@ Social Media: IG/tumblr: lithiumreflections
 
 =======================================================================================================================
 
-ENTRY 25
+ENTRY 32
 =======================================================================================================================
 
 Week: 8
@@ -339,7 +443,7 @@ Social Media: IG/Tumblr lithiumreflections
 
 =======================================================================================================================
 
-ENTRY 26
+ENTRY 33
 =======================================================================================================================
 
 Week: 9
@@ -351,7 +455,7 @@ Social Media: twitter lireflections, IG/tumblr lithiumreflections
 
 =======================================================================================================================
 
-ENTRY 27
+ENTRY 34
 =======================================================================================================================
 
 Week: 9
@@ -368,7 +472,7 @@ Social Media: twitch/tv/Lyfeu
 
 =======================================================================================================================
 
-ENTRY 28
+ENTRY 35
 =======================================================================================================================
 
 Week: 10
@@ -380,7 +484,7 @@ Social Media: lithiumreflections (IG, tumblr, twitter)
 
 =======================================================================================================================
 
-ENTRY 29
+ENTRY 36
 =======================================================================================================================
 
 Week: 10
@@ -392,7 +496,7 @@ Social Media: shop.fiveclawd.com LOL
 
 =======================================================================================================================
 
-ENTRY 30
+ENTRY 37
 =======================================================================================================================
 
 Week: 11
@@ -404,7 +508,38 @@ Social Media: lithiumreflections (tumblr, IG), lireflections (twitter)
 
 =======================================================================================================================
 
-ENTRY 31
+ENTRY 38
+=======================================================================================================================
+
+Week 11
+Title: Week 11    head stuck in the clouds 
+Medium: Procreate
+Description: A simple one, again. Just a mood I sometimes feel, wonder what it's like up there aye. 
+
+Socials: urmom 11.0
+
+=======================================================================================================================
+
+ENTRY 39
+=======================================================================================================================
+
+**Week:** 11
+**Title:** The Island
+**Medium:** Music
+**Description:**
+
+This song features the feeling of oppressive clouds and weather, harsh harmonies and clashing timbres.
+
+This song isn't "soft" but I wrote it by surrealist writing about the sea, the land, and the sky. I wrote back then: "The concept [is] a man on an island panicking and struggling to survive against the weather and wildlife. He makes it on further and further, surprising even himself. Whether or not he survives is answered by the punctuated and sudden conclusion of the last beat."
+
+(This is an old song of mine. Proper submission next week since this week has been hectic. This song will not appear on the Design Refresh album.)
+
+**Link:** https://soundcloud.com/papapastry/the-island
+**Socials:** Spotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76KtZtYVuzUYg
+
+=======================================================================================================================
+
+ENTRY 40
 =======================================================================================================================
 
 Week: 12
@@ -417,7 +552,36 @@ Handmade font used above - free for your use because you're awesome!
 
 =======================================================================================================================
 
-ENTRY 32
+ENTRY 41
+=======================================================================================================================
+
+Week 12
+Title: Reach
+Medium: Procreate
+Description: i mek hand gif 
+
+socials: urmom 12.0
+
+=======================================================================================================================
+
+ENTRY 42
+=======================================================================================================================
+
+**Week:** 12
+**Title:** Noodle Bar
+**Medium:** Music/Ableton Live 11 Suite
+**Description:**
+
+This week's theme has given me completely free rein on what I wanted to write. I fulfilled the theme entirely through the video. It's visual and it's words innit.
+
+I was going to do kinetic typography but I had ten minutes to learn, which I determined to not be enough time. Songwriting process: noodle two chords, sing in a bathroom, noodle some more.
+
+**Link:** https://youtu.be/Co70PhYuGBI
+**Socials:** YouTube: ???, Spotify/Apple Music: "papapastry"
+
+=======================================================================================================================
+
+ENTRY 43
 =======================================================================================================================
 
 Week: 13
@@ -429,7 +593,44 @@ Social Media: IG/tumblr lithiumreflections / twitter lireflections
 
 =======================================================================================================================
 
-ENTRY 33
+ENTRY 44
+=======================================================================================================================
+
+**Week:** 13
+**Title:** Fuck
+**Medium:** Procreate, Audio/Ableton Live 10 Suite, Adoble Premiere Pro CC
+**Description:**
+
+lmao haven't drawn since year 9 and i'm in my mid twenties now so good time to start over
+
+i drew this in around five minutes
+
+context:  woke up at 4pm today and had an hour to write a song. wasn't gonna happen so here's a rerun and some art, and a reason why i shouldn't be allowed near a drawing tablet ever again
+
+tried looking for somebody to credit for the gif, i just found it on giphy 😦
+
+yes i really did render this at 4K
+
+expect _two_ submissions next week
+
+**Link:** https://www.youtube.com/watch?v=s2bUtKo88HQ
+
+**Socials:** just Spotify search "papapastry"
+
+=======================================================================================================================
+
+ENTRY 45
+=======================================================================================================================
+
+Week: 14
+Title: A contract for the vain, the price paid in pain 
+Medium: Procreate 
+Description: wrist still hurts, I want to D word 
+Socials: @/pumpkanart on tooter and touch
+
+=======================================================================================================================
+
+ENTRY 46
 =======================================================================================================================
 
 Week: 14
@@ -441,7 +642,46 @@ Social Media: IG/tumblr lithiumreflections, twitter lireflections
 
 =======================================================================================================================
 
-ENTRY 34
+ENTRY 47
+=======================================================================================================================
+
+**Week:** 14
+**Title:** Cindy Should Pay Me to Moderate
+**Medium:** Music/Ableton Live 11 Suite
+**Description:**
+
+_(Cindy please play this song first)._
+
+So of course "fire" means "rapping" but Cindy also mentioned "value", "contrast", "bright", "heart", and "too much." So that's what I used to write the bars.
+
+This is the first non-meme rap song I've ever written. I could have gone down the meme route but it's more challenging if I welcome people cringing at my lyrics and rap voice.
+
+_This song will not appear on the refresh album._
+
+**Link:** https://www.youtube.com/watch?v=3D31aBLn-bs
+
+----
+
+**Week:** 13 [Late]
+**Title:** Coming Up Spades
+**Medium:** Music/Ableton Live 11 Suite
+**Description:**
+
+**Volume warning.**
+
+To play with expressiveness would be the opposite of playing robotically. Adding the "face" to that means it's also about passion and improvisation. When you add the voice, it's about falsetto, belting, loudness, distortion, mistakes, and roughness.
+
+Lines means melody lines, emphasis is about progression/phrase changes over time. "Look at me" represents the boisterous pride of what is being sung and represented.
+
+**Link:** https://soundcloud.com/papapastry/coming-up-spades-2021designrefresh-week-13
+
+----
+
+**Socials:** Spotify/Apple Music/YouTube Music: "papapastry"
+
+=======================================================================================================================
+
+ENTRY 48
 =======================================================================================================================
 
 Week: 14
@@ -455,7 +695,20 @@ Social Media: @arancil
 
 =======================================================================================================================
 
-ENTRY 35
+ENTRY 49
+=======================================================================================================================
+
+Week: 14
+TITLE: OH SHIT DID I MAKE IT ON TIME? (actual title: extinguished)
+MEDIUM: LMFAO HELP
+
+DESCRIPTION: AAAAAAAAAAH (actual description: figured my take would be on the idea of the death of a fire? extinguished. ye)
+
+SOCIAL MEDIA: urmomr1.4505
+
+=======================================================================================================================
+
+ENTRY 50
 =======================================================================================================================
 
 Week: 15
@@ -467,7 +720,45 @@ Social Media: IG/tumblr lithiumreflections, twitter lireflections
 
 =======================================================================================================================
 
-ENTRY 36
+ENTRY 51
+=======================================================================================================================
+
+Week: 15
+Title: hEhE LEmon bUTt but also strawberry and coffee is kinda vibes 
+Medium: Procreate
+Description: been having late nights with strawberries and coffees. ALSO HONESTLY HIGHKEY INSPIRED BY MIMI'S LEMON OBVIOUSLY HEHEHEHE, and some shirt designs that i peeped a couple nights ago.
+
+Social Media: urmom 15.0 hurhur
+
+=======================================================================================================================
+
+ENTRY 52
+=======================================================================================================================
+
+**Week:** 15
+**Title:** Hades
+**Medium:** Music/Fruity Loops Studio 20
+**Description:**
+
+Fruit doesn't really make a lot of noise, at least nothing that sounds pleasant. My banana ocarina was not shelf-stable.
+
+But I get what Cindy's trying to do here. The analogue for basics for musicians is, I dunno, first pieces? Drills? Fur Elise? Wonderwall? Well, I learned music production using FL Studio (Fruity Loops) which is a funny coincidence, so I'll use that. Everything I wrote when I was younger (12), I put on Newgrounds Audio Portal. This song may bring back memories for you as it does for me.
+
+Note: Please turn the volume all the way up. Might not be loud enough even then.
+
+**Link:**
+
+- YouTube (Showcase): https://www.youtube.com/watch?v=yxPwiVmq5PM
+- Soundcloud (No SFX): <https://soundcloud.com/papapastry/hades-album-version>
+
+**Socials:**
+
+- YT: <http://papapastry.io/youtube>
+- Spotify: <http://papapastry.io/spotify>
+
+=======================================================================================================================
+
+ENTRY 53
 =======================================================================================================================
 
 Week: 16
@@ -479,7 +770,28 @@ Social Media: lithiumreflections (IG/tumblr), lireflections (twitter)
 
 =======================================================================================================================
 
-ENTRY 37
+ENTRY 54
+=======================================================================================================================
+
+**Week:** 16
+**Title:** Pain
+**Medium:** Music/Ableton Live Studio 11
+**Description:**
+
+I was going to write a 5 minute epic rock opera piece with lots of contrasts, fun guitar parts, etc, but life made it impossible. When life gives you lemons...
+
+**Link:**
+
+- Soundcloud: https://soundcloud.com/papapastry/pain-2021-design-refresh
+
+**Socials:**
+
+- YT: <http://papapastry.io/youtube>
+- Spotify: <http://papapastry.io/spotify>
+
+=======================================================================================================================
+
+ENTRY 55
 =======================================================================================================================
 
 So this is it! This is finale of 17 weeks of Designrefesh! I participated in this awesome community since week 5 and haven’t dropped a single prompt! I’m proud of myself for this commitment. Thank you @cindry for hosting and everyone who helping and participating! You all inspired me to stick to this all along. I’m thankful for the opportunity to meet you all here! 
@@ -501,7 +813,7 @@ Socials: Everythings @soleilboo
 
 =======================================================================================================================
 
-ENTRY 38
+ENTRY 56
 =======================================================================================================================
 
 Week: 17
@@ -513,7 +825,7 @@ Description: for a while i didn't have an idea for the final refresh, but i knew
 
 =======================================================================================================================
 
-ENTRY 39
+ENTRY 57
 =======================================================================================================================
 
 Week: 17
@@ -522,5 +834,17 @@ Medium: Clip Studio Paint
 Description: A glance back at the months of creation, experimentation, and learning. Style inspired on "upon sunflowers" by Charmandaar from week one! Just really liked the simple lines and two-color aspect. 
 
 Social Media: IG/tumblr lithiumreflections, twitter lireflections
+
+=======================================================================================================================
+
+ENTRY 58
+=======================================================================================================================
+
+Week: 17
+Title: I AM LITERAL SPED
+Medium: Procreate
+Description: Didn't really reuse any pieces, moreso a reflection piece now that everything's coming to an end. This challenge has honestly made me pump out more work than I have in the last....decade LOL, and it wouldn't have been possible without everyone who participated, inspiring each other. YOU ALL INSPIRE ME. YEAH YOU LIKE THAT CHEESE? YOU ARE ALL AN INSPIRATION. GREAT JOB CINDY FOR PROVIDING THIS SPACE FOR ALL OF US TO COME TOGETHER AND LEARN AND GROW, VERY POGGIES as some would say. but also holy moly rushed tf outa this LOL
+
+Social: urmomfinal.0pphands
 
 =======================================================================================================================

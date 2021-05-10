@@ -25,8 +25,6 @@ Submission Template
 
 just wanted to make something really simple
 
-``
-
 ## Social Media
 
 - **Twitch**: <a href='https://twitch.tv/cup_o_rice' target='_blank'>cup_o_rice</a>

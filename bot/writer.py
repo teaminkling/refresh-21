@@ -6,7 +6,7 @@ import json
 from typing import Any, Dict, List, Optional
 
 import requests
-from requests import Response
+
 from webpreview import web_preview
 
 GITHUB_REPO_URL: str = "https://github.com/teaminkling/web-refresh"

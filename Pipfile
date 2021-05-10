@@ -9,6 +9,7 @@ pillow = "*"
 webpreview = "*"
 mypy = "*"
 "discord.py-stubs" = "*"
+requests = "*"
 
 [dev-packages]
 

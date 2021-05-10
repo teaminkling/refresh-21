@@ -7,7 +7,7 @@ artists =     ["arancil"]
 description = "by arancil for week 3: Red Circle. Created using: Ink (+watercolour for the red), a little bit of digital post editing to even out the whiteout and broken paper (PLEASE TEACH ME DIGITAL EDITING SOMEONE)."
 [[images]]
       src = "/img/arancil/2021-01-22+be7882c254a03dcfb641a158e4ecd026-thumbnail-w720px.jpg"
-      href = "/blog/arancil-week-3-5f20"
+      href = "/blog/arancil-week-3-b87b"
       alt = "Behold my stand - [BRIGHT EYES!!]"
       caption = ""
       stretch = "cover"
@@ -32,7 +32,7 @@ A JoJo-esque pre-fight peacocking scene. Imagine this being followed by the vill
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-3-5f20.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/arancil-week-3-b87b.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

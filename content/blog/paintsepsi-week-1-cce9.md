@@ -20,9 +20,7 @@ Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate Digit
 
 ## Artist's Notes
 
-Basically a portrait of a model but using the Pantone colour of the year as the background. I thought the brightness of the yellow really stood out and so I ended up really appreciating the way it turned out! 
-
-(Sorry hope I did this right lol)
+Basically a portrait of a model but using the Pantone colour of the year as the background. I thought the brightness of the yellow really stood out and so I ended up really appreciating the way it turned out!
 
 ## Social Media
 

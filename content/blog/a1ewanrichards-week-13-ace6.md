@@ -7,7 +7,7 @@ artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 13: Look At Me. Created using: Clip Studio Paint."
 [[images]]
       src = "/img/a1ewanrichards/2021-04-02+9fe02f3ca80bf90ebcf0c7c256359e5f-thumbnail-w720px.jpg"
-      href = "/blog/a1ewanrichards-week-13-4403"
+      href = "/blog/a1ewanrichards-week-13-ace6"
       alt = "Portrait 7: Ruminations"
       caption = ""
       stretch = "cover"
@@ -37,7 +37,7 @@ My interpretation of Otomatsu Sato from the movie "Poppoya" (Railroad Man), a st
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-13-4403.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-13-ace6.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

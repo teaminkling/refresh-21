@@ -18,3 +18,4 @@ var timerId = countdown(
     },
     countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS,
 );
+

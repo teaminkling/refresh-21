@@ -7,7 +7,7 @@ artists =     ["Space Warfare Development"]
 description = "by Space Warfare Development for week 4: Murky Silhouettes. Created using: Traditional, Copic markers."
 [[images]]
       src = "/img/space_warfare_development/2021-01-30+06af067c1545eae7560c664404dba321-thumbnail-w720px.jpg"
-      href = "/blog/space-warfare-development-week-4-36dc"
+      href = "/blog/space-warfare-development-week-4-6b0e"
       alt = "Coconut Crab"
       caption = ""
       stretch = "cover"
@@ -28,7 +28,7 @@ Gray background, black silhouette of palm tree and grass.
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/space-warfare-development-week-4-36dc.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/space-warfare-development-week-4-6b0e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

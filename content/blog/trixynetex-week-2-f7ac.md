@@ -22,8 +22,6 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **SketchBook**.
 
 You give me the prompt of Deep Ocean, of course I have to draw some existential dread! Trying to up my digital art skills as well. Enjoy 😛
 
-Media:
-
 ## Social Media
 
 - N/A.

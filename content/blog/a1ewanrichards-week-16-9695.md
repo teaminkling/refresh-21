@@ -7,7 +7,7 @@ artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Digital - Clip Studio Paint."
 [[images]]
       src = "/img/a1ewanrichards/2021-04-23+91647e6c6dfcbc1f487f7c36dc1114e1-thumbnail-w720px.jpg"
-      href = "/blog/a1ewanrichards-week-16-dcab"
+      href = "/blog/a1ewanrichards-week-16-9695"
       alt = "Amalgamation: At A Time Like This, Will Someone Be There For You?"
       caption = ""
       stretch = "cover"
@@ -39,7 +39,7 @@ The title is derived from the text displayed on the original Japanese theatrical
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-16-dcab.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/a1ewanrichards-week-16-9695.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

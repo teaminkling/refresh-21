@@ -7,7 +7,7 @@ artists =     ["vectorong"]
 description = "by vectorong for week 10: Folds and Folds. Created using: Fabric / fashion (upcycled fabric, screenprinting, and sewing)."
 [[images]]
       src = "/img/vectorong/2021-03-11+d0891d5c8cba217e8416b24fb5e41ee3-thumbnail-w720px.jpg"
-      href = "/blog/vectorong-week-10-c07e"
+      href = "/blog/vectorong-week-10-5062"
       alt = "Boroboro Bobbin pants  (ngl i literally almost called these boroboro bobbin bottoms LUL)"
       caption = ""
       stretch = "cover"
@@ -32,7 +32,7 @@ I also included a comparison image for fun and how you can use non-functionality
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-10-c07e.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-10-5062.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

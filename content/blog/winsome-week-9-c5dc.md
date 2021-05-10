@@ -7,7 +7,7 @@ artists =     ["winsome"]
 description = "by winsome for week 9: Bold Strokes. Created using: Photography (Photo set)."
 [[images]]
       src = "/img/winsome/2021-03-05+c916099fdd5f6183e17159bd1f0eb7c5-thumbnail-w720px.jpeg"
-      href = "/blog/winsome-week-9-ca4a"
+      href = "/blog/winsome-week-9-c5dc"
       alt = "Hi! I like shorts! They're comfy and easy to wear!"
       caption = ""
       stretch = "cover"
@@ -33,7 +33,7 @@ Celebrating the 25th Anniversary of Pokemon and myself, with a Pokemon that I li
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-9-ca4a.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/winsome-week-9-c5dc.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

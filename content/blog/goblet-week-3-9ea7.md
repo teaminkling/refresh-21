@@ -23,9 +23,7 @@ Week 3: **Red Circle**. This art was lovingly created using: **ibispaint and pho
 Submission Template
 ``Week: 
 
-a view from my house at opposite ends of the year. Could have been a bigger contrast if we had snow, but we don't atm. 
-
-``
+a view from my house at opposite ends of the year. Could have been a bigger contrast if we had snow, but we don't atm.
 
 ## Social Media
 

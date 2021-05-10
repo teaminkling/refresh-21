@@ -7,7 +7,7 @@ artists =     ["vectorong"]
 description = "by vectorong for week 13: Look At Me. Created using: Mixed media (plaster strips, paper clay, paint), Photoshop."
 [[images]]
       src = "/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg"
-      href = "/blog/vectorong-week-13-04d1"
+      href = "/blog/vectorong-week-13-8b9e"
       alt = "Then She Fell”"
       caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
@@ -41,7 +41,7 @@ lol and here's the front of the mask since it's hard to see in the lighting of t
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-13-04d1.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/vectorong-week-13-8b9e.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 

@@ -7,7 +7,7 @@ artists =     ["Pumpkan"]
 description = "by Pumpkan for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
       src = "/img/pumpkan/2021-01-13+b7657b2a6bfb6d2fbf7524b244e2fb04-thumbnail-w720px.png"
-      href = "/blog/pumpkan-week-2-5205"
+      href = "/blog/pumpkan-week-2-2932"
       alt = "You have new text message! High five!"
       caption = ""
       stretch = "cover"
@@ -29,7 +29,7 @@ Wanted to draw a mermaid. I really wanted to show this massive lady with somethi
 
 ## Other
 
-- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-2-5205.md).
+- Edit this page on [GitHub](https://github.com/teaminkling/web-refresh/edit/main/content/blog/pumpkan-week-2-2932.md).
 - Create [a bug ticket](https://github.com/teaminkling/web-refresh/issues/new?assignees=&labels=bug&template=problem-report.md&title=) for the developer.
 - Parsed source from Discord is as follows:
 
