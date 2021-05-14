@@ -10,12 +10,25 @@
     ],
     "wholesale": [
       "urmom",
+      "urmom2.0",
       "first",
       "@fiveclawd",
       "rybaris",
       "(Sorry hope I did this right lol)",
       "IG/Tumblr @Lithiumreflections",
-      "Media:"
+      "Media:",
+      ", twitch - @vectorong",
+      "IG/Tumblr lithiumreflections",
+      "@fiveclawd on instagram/twitter | cindrytuna @ twitch",
+      "+ https://instagram/dough.yeast"
+    ]
+  },
+  "add_socials": {
+    "Lithium": [
+      {
+        "provider": "Twitter",
+        "username": "lireflections"
+      }
     ]
   }
 }

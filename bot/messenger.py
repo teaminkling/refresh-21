@@ -48,7 +48,7 @@ SUBMISSIONS_CHANNEL: str = "submissions"
 THUMBNAIL_MAX_WIDTH: int = 720
 """Pixel maximum width of a thumbnail."""
 
-FORCE_THUMBNAIL_REGENERATION: bool = False
+FORCE_THUMBNAIL_REGENERATION: bool = True
 """Whether to always regenerate the thumbnail image."""
 
 
@@ -248,7 +248,9 @@ def do_dump_all_messages():
                         local_thumb_path,
                         save_all=True,
                         append_images=list(frames),
-                        loop=True,
+                        optimize=True,
+                        duration=image.duration,
+                        loop=image.loop,
                     )
                 else:
                     image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
