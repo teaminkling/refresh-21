@@ -109,12 +109,12 @@ url               = "/artists/"
 pre               = "<i class='fas fa-paint-brush'></i>"
 weight            = 5
 
-[[menu.main]]
-name              = "Countdown"
-identifier        = "countdown"
-url               = "/countdown/"
-pre               = "<i class='fas fa-clock'></i>"
-weight            = 6
+# [[menu.main]]
+# name              = "Countdown"
+# identifier        = "countdown"
+# url               = "/countdown/"
+# pre               = "<i class='fas fa-clock'></i>"
+# weight            = 6
 
 [[menu.main]]
 name              = "FiveClawD"

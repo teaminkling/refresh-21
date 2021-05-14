@@ -8,8 +8,8 @@ layout = "about"
 
 ## What is this?
 
-The 2021 Design Refresh is a community-centered weekly creative art challenge. It ran online from January to May and was
-organised by [Cindy Xu](#cwown).
+The 2021 Design Refresh was a community-centered weekly creative art challenge. It ran online from January to May 
+and was organised by [Cindy Xu](#cwown).
 
 Many creators worked hard to create work according to a theme every week. At the end of each week, a showcase was 
 broadcast [live on Twitch][twitch-cindy] for the community to enjoy.
@@ -34,7 +34,7 @@ art on [Twitch][twitch-cindy] but also does variety streams including gaming and
 This website was written, maintained, and deployed by [Thomas "papapastry" Wang][papa-link] (he/him), principal 
 software engineer for [Inkling Interactive][inkling-link] with graphic design assets by Cindy.
 
-The site is updated semi-automatically from submissions posted in the [community Discord server][discord-invite].
+The site was updated semi-automatically from submissions posted in the [community Discord server][discord-invite].
 
 Due to the automatic nature of this website, even though we moderate submissions, you may run into a few minor issues.
 If so, feel free to [raise a bug ticket][bug-report] and the team will get on it as soon as possible.
