@@ -2,7 +2,7 @@
   <div class="title" style="padding-top: .75em; padding-bottom: .75em;">
     <b>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </b>{{ with .Params.author }} by <a href="/artists/{{ lower . }}">{{ . }}</a>{{ end }}
+    </b>{{ with .Params.author }} by <a href='/artists/{{ replace (lower .) " " "-" }}'>{{ . }}</a>{{ end }}
   </div>
   <div class="meta" style="border: 0;">
     <time datetime="{{ .Date }}">{{ .Render "date" }}</time>
