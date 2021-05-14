@@ -22,8 +22,6 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Digital (Clip Stu
 
 Conceptual piece - a look at the depth of the ocean and how far light reaches down below, with a mix of imagining a galaxy of bioluminescent, living starlight. And maybe something larger...
 
-IG/Tumblr lithiumreflections
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>

@@ -28,8 +28,6 @@ Really just inspired by series like Made in Abyss and Jigokuraku!
 
 (thank you to everyone who joined the 11 hour stream crunch getting this done!! LOL)
 
-@fiveclawd on instagram/twitter | cindrytuna @ twitch
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/fiveclawd' target='_blank'>fiveclawd</a>

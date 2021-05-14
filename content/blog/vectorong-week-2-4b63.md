@@ -22,8 +22,6 @@ Week 2: **Deep Ocean**. This art was lovingly created using: **Gyotaku (traditio
 
 I had a dream a while back of seeing a group of shrimp, much larger than possible in real life, and having the feeling I was amidst something otherworldly. Rather than seeing them as food, I wanted to show the shrimp in their element and with regal-ness akin to dragons.
 
-, twitch - @vectorong
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/karen_tsugawa' target='_blank'>karen_tsugawa</a>

@@ -22,8 +22,6 @@ Week 5: **Royal Green**. This art was lovingly created using: **Digital (Clip St
 
 A bee carved of jade, with translucent jade wings. Background flowers are a free CSP asset (ie I didn't draw them).
 
-IG/Tumblr lithiumreflections
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>

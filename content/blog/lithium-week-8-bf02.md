@@ -22,8 +22,6 @@ Week 8: **High Sheen**. This art was lovingly created using: **Digital (Clip Stu
 
 Really just leaned into the original photograph, only removing the outer rim and clone stamping out some of the edge punctures. Took visual inspiration from the recent NASA/Juno pictures of Jupiter, just played with colors and swirls.
 
-IG/Tumblr lithiumreflections
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/lithiumreflections' target='_blank'>lithiumreflections</a>

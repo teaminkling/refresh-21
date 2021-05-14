@@ -24,8 +24,6 @@ Manga-inspired illustration where a warrior meets their maker in the Deep Realm 
 
 ( Resubmitting the piece I had just done, because I was honestly disappointed in how much of the hatch work was covered and I didn’t want to do another red piece this upcoming week. Had to switch it up!  )
 
-+ https://instagram/dough.yeast
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/dough.yeast' target='_blank'>dough.yeast</a>
