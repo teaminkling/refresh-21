@@ -73,67 +73,49 @@ def do_dump_all_messages():
     @client.event
     async def on_ready() -> None:
         """
-        As soon as the bot is ready, retrieve all messages.
+        As soon as the bot is ready, perform all parts of the algorithm.
         """
 
-        LOGGER.info("Connecting to [%s] channel...", SUBMISSIONS_CHANNEL)
-        channel: Optional[Any] = discord.utils.get(
-            client.get_all_channels(),
-            name=SUBMISSIONS_CHANNEL,
-        )
-
-        if not channel:
-            raise RuntimeError(f"No channel named: [{SUBMISSIONS_CHANNEL}].")
-
-        # Iterate through all messages in that channel.
-
+        channel: discord.channel.TextChannel = await connect_to_channel()
         all_messages: List[Message] = await channel.history(
             limit=MESSAGE_HISTORY_UPPER_LIMIT,
         ).flatten()
 
         LOGGER.info("Starting iteration through all messages...")
 
-        message: Message
         for message in all_messages:
-            created_timestamp: str = message.created_at.isoformat()
+            await process_message(message)
 
-            # Add user to the user set, remembering their name. This name may contain unicode or
-            # difficult-to-parse symbols and should be cleaned in the parser.
+        await write_meta_information()
+        await write_retrieved_file()
 
-            author_with_discriminator: str = get_name_with_discriminator(message.author)
+        await client.close()
 
-            data["users"].add(author_with_discriminator)
+    async def write_retrieved_file():
+        # Write to file.
 
-            # Save all attachments to disk and generate a thumbnail.
+        LOGGER.info("Sorting [%d] users...", data["user_count"])
+        data["users"] = sorted(list(data["users"]))
 
-            attachments = await extract_media(
-                author_with_discriminator, created_timestamp, message
-            )
+        LOGGER.info("Writing retrieved.json file...")
+        with open("out/retrieved.json", "w") as json_file:
+            json.dump(data, json_file, indent=2)
 
-            # Replace mentions with direct @Username references.
+        LOGGER.info("Done with Discord, closing client!")
 
-            content: str = message.content
+    async def connect_to_channel() -> discord.channel.TextChannel:
+        LOGGER.info("Connecting to [%s] channel...", SUBMISSIONS_CHANNEL)
+        channel: Optional[Any] = discord.utils.get(
+            client.get_all_channels(),
+            name=SUBMISSIONS_CHANNEL,
+        )
 
-            mention: Union[User, Member, ClientUser]
-            for mention in message.mentions:
-                content = content.replace(f"<@!{mention.id}>", f"@{mention.name}")
-                content = content.replace(mention.mention, f"@{mention.name}")
+        if not isinstance(channel, discord.channel.TextChannel):
+            raise RuntimeError(f"No channel named: [{SUBMISSIONS_CHANNEL}].")
 
-            data["messages"].append(
-                {
-                    "id": message.id,
-                    "permalink": message.jump_url,
-                    "created_at": created_timestamp,
-                    "author": {
-                        "id": message.author.id,
-                        "display_name": message.author.name,
-                        "mention_name": author_with_discriminator,
-                    },
-                    "content": content,
-                    "attachments": attachments,
-                }
-            )
+        return channel
 
+    async def write_meta_information():
         # Write meta-information. Users to posts is not recorded here because of multi-posts; this
         # is handled in the parser instead.
 
@@ -147,20 +129,44 @@ def do_dump_all_messages():
             data["message_count"],
         )
 
-        # Write to file.
+    async def process_message(message):
+        created_timestamp: str = message.created_at.isoformat()
 
-        LOGGER.info("Sorting [%d] users...", data["user_count"])
+        # Add user to the user set, remembering their name. This name may contain unicode or
+        # difficult-to-parse symbols and should be cleaned in the parser.
 
-        data["users"] = sorted(list(data["users"]))
+        author_with_discriminator: str = get_name_with_discriminator(message.author)
+        data["users"].add(author_with_discriminator)
 
-        LOGGER.info("Writing retrieved.json file...")
+        # Save all attachments to disk and generate a thumbnail.
 
-        with open("out/retrieved.json", "w") as json_file:
-            json.dump(data, json_file, indent=2)
+        attachments = await extract_media(
+            author_with_discriminator, created_timestamp, message
+        )
 
-        LOGGER.info("Done with Discord, closing client!")
+        # Replace mentions with direct @Username references.
 
-        await client.close()
+        content: str = message.content
+        mention: Union[User, Member, ClientUser]
+
+        for mention in message.mentions:
+            content = content.replace(f"<@!{mention.id}>", f"@{mention.name}")
+            content = content.replace(mention.mention, f"@{mention.name}")
+
+        data["messages"].append(
+            {
+                "id": message.id,
+                "permalink": message.jump_url,
+                "created_at": created_timestamp,
+                "author": {
+                    "id": message.author.id,
+                    "display_name": message.author.name,
+                    "mention_name": author_with_discriminator,
+                },
+                "content": content,
+                "attachments": attachments,
+            }
+        )
 
     async def extract_media(author_with_discriminator, created_timestamp, message):
         LOGGER.debug(
@@ -249,8 +255,8 @@ def do_dump_all_messages():
                         save_all=True,
                         append_images=list(frames),
                         optimize=True,
-                        duration=image.duration,
-                        loop=image.loop,
+                        duration=image.info.get("duration", 1),
+                        loop=0,
                     )
                 else:
                     image.thumbnail((THUMBNAIL_MAX_WIDTH, height))
