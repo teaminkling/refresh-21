@@ -146,7 +146,8 @@ CONTENT_LINK_REGEX: Pattern = re.compile(
 """Regex used to parse content links, i.e., if they match a hyperlink, it's content."""
 
 SINGLE_NEWLINE_REGEX: Pattern = re.compile(
-    r"(?<=\S)\n(?=[A-Za-z0-9(}\[\]_*])", flags=re.MULTILINE,
+    r"(?<=\S)\n(?=[A-Za-z0-9(}\[\]_*])",
+    flags=re.MULTILINE,
 )
 
 # noinspection RegExpUnnecessaryNonCapturingGroup
@@ -174,7 +175,8 @@ SOCIAL_PATTERN_ON: Pattern[str] = re.compile(
 
 # noinspection RegExpUnnecessaryNonCapturingGroup
 NATURAL_LANGUAGE_SOCIALS: Pattern[str] = re.compile(
-    r"(?: and )|(?: \+ )|\|| |/", flags=re.MULTILINE | re.IGNORECASE)
+    r"(?: and )|(?: \+ )|\|| |/", flags=re.MULTILINE | re.IGNORECASE
+)
 """A pattern that allows general processing of a litany of different ways to itemise socials."""
 
 # noinspection RegExpUnnecessaryNonCapturingGroup
@@ -874,7 +876,9 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
             found_platform: Optional[str] = PLATFORM_MAP.get(platform)
 
             if found_platform:
-                found_socials.append({"provider": found_platform, "username": username.lower()})
+                found_socials.append(
+                    {"provider": found_platform, "username": username.lower()}
+                )
             else:
                 LOGGER.warning("Unknown platform: [%s].", platform)
 
@@ -918,10 +922,13 @@ def parse_socials(text: str) -> Tuple[List[Dict[str, str]], str]:
             text,
         )
 
-    return sorted(
-        found_socials,
-        key=lambda social_data: (social_data["provider"], social_data["username"]),
-    ), text
+    return (
+        sorted(
+            found_socials,
+            key=lambda social_data: (social_data["provider"], social_data["username"]),
+        ),
+        text,
+    )
 
 
 def assign_submission_socials_to_users(

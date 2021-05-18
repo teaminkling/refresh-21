@@ -201,9 +201,7 @@ def determine_media_and_submission_thumbnail(submission):
 
     if not submission["attachments"]:
         submission_thumbnail_url = "img/other-placeholder.png"
-        list_item_caption = (
-            "Please view the full post to see the submission!"
-        )
+        list_item_caption = "Please view the full post to see the submission!"
 
     for attachment_data in submission["attachments"]:
         # The submission may already have a generated thumbnail.
@@ -241,7 +239,8 @@ def determine_media_and_submission_thumbnail(submission):
             )
 
             can_replace_placeholder_thumbnail: bool = (
-                submission_thumbnail_url and "-placeholder.png" in submission_thumbnail_url
+                submission_thumbnail_url
+                and "-placeholder.png" in submission_thumbnail_url
             )
 
             if (
@@ -273,9 +272,7 @@ def determine_media_and_submission_thumbnail(submission):
                 )
 
                 if not list_item_caption:
-                    list_item_caption = (
-                        "This submission contains a video. Please view the full post to see it!"
-                    )
+                    list_item_caption = "This submission contains a video. Please view the full post to see it!"
             elif attachment_extension in AUDIO_FILE_EXTENSIONS:
                 submission_thumbnail_url = (
                     submission_thumbnail_url or "/img/audio-placeholder.png"
@@ -284,13 +281,11 @@ def determine_media_and_submission_thumbnail(submission):
                 media_content_html += (
                     f'<div style="padding: 1.5em; text-align: center"><audio controls>\n<source '
                     f'src="{attachment_url}" type="{determine_mime_type(attachment_extension)}"> '
-                    f'Your browser does not support the audio element.</audio></div>'
+                    f"Your browser does not support the audio element.</audio></div>"
                 )
 
                 if not list_item_caption:
-                    list_item_caption = (
-                        "This submission contains audio. Please view the full post to hear it!"
-                    )
+                    list_item_caption = "This submission contains audio. Please view the full post to hear it!"
             else:
                 submission_thumbnail_url = (
                     submission_thumbnail_url or "/img/other-placeholder.png"
@@ -302,11 +297,11 @@ def determine_media_and_submission_thumbnail(submission):
                 )
 
                 if not list_item_caption:
-                    list_item_caption = (
-                        "This submission contains a file. Please view the full post to see it!"
-                    )
+                    list_item_caption = "This submission contains a file. Please view the full post to see it!"
         elif "youtu" in attachment_url or "vimeo" in attachment_url:
-            video_api_thumbnail: str = extract_external_video_thumbnail_url(attachment_url)
+            video_api_thumbnail: str = extract_external_video_thumbnail_url(
+                attachment_url
+            )
             submission_thumbnail_url = submission_thumbnail_url or video_api_thumbnail
             media_content_html += create_fancybox_string(
                 thumbnail=video_api_thumbnail,
@@ -315,19 +310,17 @@ def determine_media_and_submission_thumbnail(submission):
             )
 
             if not list_item_caption:
-                list_item_caption = (
-                    "This submission contains a video link. Please view the full post to see it!"
-                )
+                list_item_caption = "This submission contains a video link. Please view the full post to see it!"
         elif "soundcloud" in attachment_url:
             # TODO: Soundcloud embed.
 
-            submission_thumbnail_url = submission_thumbnail_url or "/img/audio-placeholder.png"
+            submission_thumbnail_url = (
+                submission_thumbnail_url or "/img/audio-placeholder.png"
+            )
             media_content_html += f"\n[View on SoundCloud.]({attachment_url})\n"
 
             if not list_item_caption:
-                list_item_caption = (
-                    "This submission contains an audio link. Please view the full post to hear it!"
-                )
+                list_item_caption = "This submission contains an audio link. Please view the full post to hear it!"
         else:
             # Use slow tool to find the thumbnail for the link.
 
@@ -337,20 +330,18 @@ def determine_media_and_submission_thumbnail(submission):
             _, _, image_url = web_preview(attachment_url, parser="html.parser")
 
             if image_url:
-                media_content_html += create_custom_image_content_string(attachment_url, image_url)
+                media_content_html += create_custom_image_content_string(
+                    attachment_url, image_url
+                )
                 if not list_item_caption:
-                    list_item_caption = (
-                        "This submission contains a link. Please view the full post to see it!"
-                    )
+                    list_item_caption = "This submission contains a link. Please view the full post to see it!"
             else:
                 media_content_html += (
                     f"\n[View on External Website.]({attachment_url})\n"
                 )
 
             if not list_item_caption:
-                list_item_caption = (
-                    "This submission contains a web link. Please view the full post to see it!"
-                )
+                list_item_caption = "This submission contains a web link. Please view the full post to see it!"
 
             submission_thumbnail_url = (
                 submission_thumbnail_url or image_url or "img/other-placeholder.png"
@@ -364,7 +355,9 @@ def create_custom_image_content_string(url: str, image_url: str) -> str:
 
     output += '<div style="text-align: center; margin: 3em; margin-top: 1.5em;" >'
     output += f'<a href="{url}" target="_blank">'
-    output += f'<img src="{image_url}" alt="{GENERIC_ALT_TEXT}" style="{PREVIEW_STYLE}"/>'
+    output += (
+        f'<img src="{image_url}" alt="{GENERIC_ALT_TEXT}" style="{PREVIEW_STYLE}"/>'
+    )
     output += "</a></div>"
     output += f'<p style="text-align: center"><i>{EXTERNAL_WEBSITE_DISCLAIMER}</i></p>'
 
@@ -453,11 +446,11 @@ def determine_mime_type(attachment_extension: str) -> str:
 
 def create_fancybox_string(thumbnail, permalink, alt, caption=None):
     fancybox: str = (
-        f"{{{{< fancybox path=\"{thumbnail}\" file=\"{permalink}\" caption=\"{alt}\" >}}}}\n"
+        f'{{{{< fancybox path="{thumbnail}" file="{permalink}" caption="{alt}" >}}}}\n'
     )
 
     if caption:
-        return f"{fancybox}<p style=\"text-align: center\">{caption}</p>\n"
+        return f'{fancybox}<p style="text-align: center">{caption}</p>\n'
 
     return fancybox
 
