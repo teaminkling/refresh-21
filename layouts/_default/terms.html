@@ -7,13 +7,20 @@
       </div>
     </header>
     <div id="content">
-      <ul>
+      <table class="term-table">
         {{ range .Data.Terms }}
-        <li>
-          <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a><span style="float:right;">{{ .Count }}</span>
-        </li>
+        <tr>
+          <td>
+            <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+          </td>
+          <td>
+            <span class="submission-count">
+              {{ .Count }} submission{{ if gt .Count 1 }}s{{ end }}
+            </span>
+          </td>
+        </tr>
         {{ end }}
-      </ul>
+      </table>
       {{ $.Scratch.Set "showCategories" true }}
     </div>
   </article>

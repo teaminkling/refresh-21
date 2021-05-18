@@ -284,6 +284,7 @@ PROBLEMATIC_CONTENT_FRAGMENTS: List[Tuple[str, str]] = [
     ("So this is it! This is finale of 17 weeks of Designrefesh!", "17"),
     ("liked the whale from the deep sea week (2)", "17"),
     ("So this week I am not submitting anything really", "17"),
+    ("So you all remember @papapastry's week 7 song? Well I was do", "17"),
 ]
 """
 Content fragments which will cause the system to simply take the entire post as one week.

@@ -23,7 +23,7 @@
           {{- $rtl := resources.Get "css/rtl.css" | minify -}}
           <link rel="stylesheet" href="{{ $rtl.RelPermalink }}">
         {{- end -}}
-        <link rel="stylesheet" href="{{ "css/add-on.css" | relURL }}">
+        <link rel="stylesheet" href="{{ "css/add-on.css" | relURL }}?{{ now.Unix }}">
       {{- else }}
         <link rel="stylesheet" href="{{ . | relURL }}">
       {{- end -}}
@@ -50,7 +50,7 @@
           {{- $rtl := resources.Get "css/rtl.css" | minify -}}
           <link rel="stylesheet" href="{{ $rtl.RelPermalink }}">
         {{- end -}}
-        <link rel="stylesheet" href="{{ "css/add-on.css" | relURL }}">
+        <link rel="stylesheet" href="{{ "css/add-on.css" | relURL }}?{{ now.Unix }}">
       {{- else }}
         <link rel="stylesheet" href="{{ . | relURL }}">
       {{- end -}}

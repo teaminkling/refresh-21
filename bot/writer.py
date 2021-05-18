@@ -351,9 +351,24 @@ def determine_media_and_submission_thumbnail(submission):
 
 
 def create_custom_image_content_string(url: str, image_url: str) -> str:
-    output: str = ""
+    """
+    Create a content string underneath a single post's content.
 
-    output += '<div style="text-align: center; margin: 3em; margin-top: 1.5em;" >'
+    Parameters
+    ----------
+    url : `str`
+        The URL to the custom content.
+
+    image_url : `str`
+        The image to use as the preview, as a URL.
+
+    Returns
+    -------
+    `str`
+        A HTML `str` to be placed underneath image content.
+    """
+
+    output: str = '<div style="text-align: center; margin: 3em; margin-top: 1.5em;" >'
     output += f'<a href="{url}" target="_blank">'
     output += (
         f'<img src="{image_url}" alt="{GENERIC_ALT_TEXT}" style="{PREVIEW_STYLE}"/>'

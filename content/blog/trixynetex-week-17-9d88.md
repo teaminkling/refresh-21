@@ -20,12 +20,16 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Clipstudi
 
 ## Artist's Notes
 
+Week: 17 
+
 Alternative title - I had an idea, but I suck at timing
 
 So you all remember @papapastry's week 7 song? Well I was do, and I was gonna do a cover, but instead I made a cover... still plan to make a cover
 
 Also, I am still learning clipstudio (Pumpka, I blame you entirely) 
-So the actual piece: I've been thinking about that damn red panda since
+So the actual piece: I've been thinking about that damn red panda since week 7! What's his deal, who is he? When will the anime come out! 
+
+but in all seriousness, I have had so much fun with this challenge! And I will make , wanna keep this insanity going!
 
 ## Social Media
 

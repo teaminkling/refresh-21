@@ -3262,8 +3262,8 @@
       "created_at": "2021-03-14T04:27:37.328000",
       "author": {
         "id": 724562135941644348,
-        "display_name": "Account broke down need petrol",
-        "mention_name": "Account broke down need petrol#1111"
+        "display_name": "\ud83c\udf1cDylan\ud83c\udf1b",
+        "mention_name": "\ud83c\udf1cDylan\ud83c\udf1b#0001"
       },
       "content": "Week: 11\nTitle:  Cloudy Night\nMedium: Photoshop \nDescription: I usually draw night scenes all the time so this time I tried adding some more colours then your basic black and white added some purple and blue clouds and a heart",
       "attachments": []
@@ -3274,16 +3274,16 @@
       "created_at": "2021-03-14T04:26:17.210000",
       "author": {
         "id": 724562135941644348,
-        "display_name": "Account broke down need petrol",
-        "mention_name": "Account broke down need petrol#1111"
+        "display_name": "\ud83c\udf1cDylan\ud83c\udf1b",
+        "mention_name": "\ud83c\udf1cDylan\ud83c\udf1b#0001"
       },
       "content": "",
       "attachments": [
         {
           "id": 820513139170476072,
           "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/820513139170476072/image0.jpg",
-          "url": "../static/img/account_broke_down_need_petrol/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg",
-          "thumbnail_url": "../static/img/account_broke_down_need_petrol/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
+          "url": "../static/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg",
+          "thumbnail_url": "../static/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
           "filename": "image0.jpg",
           "type": "image/jpeg"
         }
@@ -5320,16 +5320,16 @@
       "created_at": "2021-02-14T00:42:48.247000",
       "author": {
         "id": 724562135941644348,
-        "display_name": "Account broke down need petrol",
-        "mention_name": "Account broke down need petrol#1111"
+        "display_name": "\ud83c\udf1cDylan\ud83c\udf1b",
+        "mention_name": "\ud83c\udf1cDylan\ud83c\udf1b#0001"
       },
       "content": "Week: 7\nTitle:  Desert heat\nMedium:  blender\nDescription:  i wanted to try a new something new so instead of photoshop i used blender this is my first time using the program and i think it came out pretty good i dont really have a description but i hope I did a ok job \ud83d\ude0a",
       "attachments": [
         {
           "id": 810310035950272512,
           "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/810310035950272512/Untitled-1.jpg",
-          "url": "../static/img/account_broke_down_need_petrol/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg",
-          "thumbnail_url": "../static/img/account_broke_down_need_petrol/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg",
+          "url": "../static/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg",
+          "thumbnail_url": "../static/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg",
           "filename": "Untitled-1.jpg",
           "type": null
         }
@@ -6567,16 +6567,16 @@
       "created_at": "2021-01-31T13:08:31.423000",
       "author": {
         "id": 724562135941644348,
-        "display_name": "Account broke down need petrol",
-        "mention_name": "Account broke down need petrol#1111"
+        "display_name": "\ud83c\udf1cDylan\ud83c\udf1b",
+        "mention_name": "\ud83c\udf1cDylan\ud83c\udf1b#0001"
       },
       "content": "Week: 5\nTitle: Behind The Doors\nMedium: Digital (PhotoShop)\nDescription: I wanted to make something that has a backstory so basically i had a friend that loved ninjas and they passed away a few years back so i wanted to do something not just for me but for them so i used the green (jade) as a representation of harmony/peace i hope you like it \ud83d\ude0a",
       "attachments": [
         {
           "id": 805424273706582066,
           "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/805424273706582066/image0.jpg",
-          "url": "../static/img/account_broke_down_need_petrol/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg",
-          "thumbnail_url": "../static/img/account_broke_down_need_petrol/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
+          "url": "../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg",
+          "thumbnail_url": "../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
           "filename": "image0.jpg",
           "type": null
         }
@@ -9019,7 +9019,6 @@
     }
   ],
   "users": [
-    "Account broke down need petrol#1111",
     "Bell-Bones#0091",
     "Boyf#4064",
     "CapoKey#0003",
@@ -9086,6 +9085,7 @@
     "vectorong#7566",
     "winsome#5621",
     "zja2damax#9693",
+    "\ud83c\udf1cDylan\ud83c\udf1b#0001",
     "\ud83c\udf3aIchika\ud83c\udf3a(\u30df\u30b1\u30e9)#3160"
   ],
   "attachments": [
@@ -10228,8 +10228,8 @@
     {
       "id": 820513139170476072,
       "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/820513139170476072/image0.jpg",
-      "url": "../static/img/account_broke_down_need_petrol/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg",
-      "thumbnail_url": "../static/img/account_broke_down_need_petrol/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
+      "url": "../static/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf.jpg",
+      "thumbnail_url": "../static/img/dylan/2021-03-14+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
       "filename": "image0.jpg",
       "type": "image/jpeg"
     },
@@ -10948,8 +10948,8 @@
     {
       "id": 810310035950272512,
       "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/810310035950272512/Untitled-1.jpg",
-      "url": "../static/img/account_broke_down_need_petrol/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg",
-      "thumbnail_url": "../static/img/account_broke_down_need_petrol/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg",
+      "url": "../static/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41.jpg",
+      "thumbnail_url": "../static/img/dylan/2021-02-14+e06d061a77a7bde916b8a91163029d41-thumbnail-w720px.jpg",
       "filename": "Untitled-1.jpg",
       "type": null
     },
@@ -11364,8 +11364,8 @@
     {
       "id": 805424273706582066,
       "cloud_url": "https://cdn.discordapp.com/attachments/794059777881276430/805424273706582066/image0.jpg",
-      "url": "../static/img/account_broke_down_need_petrol/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg",
-      "thumbnail_url": "../static/img/account_broke_down_need_petrol/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
+      "url": "../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf.jpg",
+      "thumbnail_url": "../static/img/dylan/2021-01-31+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg",
       "filename": "image0.jpg",
       "type": null
     },
