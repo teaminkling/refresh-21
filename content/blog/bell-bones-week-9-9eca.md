@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 9: Bold Strokes. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-03-04+722ddfb7-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-9-9eca"
       alt = "Introspection"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b-thumbnail-w720px.png" file="/img/bell-bones/2021-03-04+722ddfb7476d2eb0b91d6d553f60411b.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-03-04+722ddfb7-thumbnail-w720px.png" file="/img/bell-bones/2021-03-04+722ddfb7.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **FireAlpaca**.

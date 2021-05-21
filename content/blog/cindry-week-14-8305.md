@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["cindry"]
 description = "by cindry for week 14: Absolute Fire. Created using: paper cutting photography."
 [[images]]
-      src = "/img/cindry/2021-04-09+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png"
+      src = "/img/cindry/2021-04-09+69b15109-thumbnail-w720px.png"
       href = "/blog/cindry-week-14-8305"
       alt = "burnout"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-04-09+69b1510906ccacbb9363690cbb4bd257-thumbnail-w720px.png" file="/img/cindry/2021-04-09+69b1510906ccacbb9363690cbb4bd257.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-04-09+69b15109-thumbnail-w720px.png" file="/img/cindry/2021-04-09+69b15109.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **paper cutting photography**.

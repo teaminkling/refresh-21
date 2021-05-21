@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 17: The 4 R's: Finale. Created using: Photoshop."
 [[images]]
-      src = "/img/jorchael_p/2021-05-07+dd6c89965825dde8741b7df3f6bf4113-thumbnail-w720px.png"
+      src = "/img/jorchael_p/2021-05-07+dd6c8996-thumbnail-w720px.png"
       href = "/blog/jorchael_p-week-17-a86b"
       alt = "Hatsune Miku plays the hits feat. Kagamine Rin"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jorchael_p/2021-05-07+dd6c89965825dde8741b7df3f6bf4113-thumbnail-w720px.png" file="/img/jorchael_p/2021-05-07+dd6c89965825dde8741b7df3f6bf4113.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jorchael_p/2021-05-07+dd6c8996-thumbnail-w720px.png" file="/img/jorchael_p/2021-05-07+dd6c8996.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Photoshop**.

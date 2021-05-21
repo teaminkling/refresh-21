@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 16: Scaling Giants. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-04-22+a03ddb8c-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-16-b445"
       alt = "oof"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175-thumbnail-w720px.png" file="/img/bell-bones/2021-04-22+a03ddb8c4d0576a34977706a36a7f175.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-22+a03ddb8c-thumbnail-w720px.png" file="/img/bell-bones/2021-04-22+a03ddb8c.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **FireAlpaca**.

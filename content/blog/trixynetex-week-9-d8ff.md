@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 9: Bold Strokes. Created using: Sketchbook Pro."
 [[images]]
-      src = "/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37-thumbnail-w720px.png"
+      src = "/img/trixynetex/2021-03-04+f3a7615f-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-9-d8ff"
       alt = "Chromatic Dragon"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37-thumbnail-w720px.png" file="/img/trixynetex/2021-03-04+f3a7615f0f65bf2e152a16f9fbc3fa37.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/trixynetex/2021-03-04+f3a7615f-thumbnail-w720px.png" file="/img/trixynetex/2021-03-04+f3a7615f.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Sketchbook Pro**.

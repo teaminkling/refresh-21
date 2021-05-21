@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 1: Yellow Lines. Created using: Procreate."
 [[images]]
-      src = "/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1-thumbnail-w720px.png"
+      src = "/img/doughyeast/2021-01-07+894dff05-thumbnail-w720px.png"
       href = "/blog/doughyeast-week-1-0370"
       alt = "Noodle Dancer"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1-thumbnail-w720px.png" file="/img/doughyeast/2021-01-07+894dff0520bcafa6eb18d6dfd92ceba1.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/doughyeast/2021-01-07+894dff05-thumbnail-w720px.png" file="/img/doughyeast/2021-01-07+894dff05.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Procreate**.

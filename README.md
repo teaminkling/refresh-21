@@ -17,6 +17,8 @@ All files are directly invoked without arguments on the command line. It is a ty
 `parser.py` and `writer.py` also handling the parsing of raw Discord-retrieved content and writing of blog posts 
 respectively.
 
+Running the content saving script requires `ffmpeg` on your system and PATH.
+
 ### Showcase Website (`/blog`)
 
 A static website powered by the [Hugo](https://gohugo.io/) static site generator.

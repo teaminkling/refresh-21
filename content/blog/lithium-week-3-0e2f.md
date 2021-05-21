@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Lithium"]
 description = "by Lithium for week 3: Red Circle. Created using: Digital (Clip Studio Paint)."
 [[images]]
-      src = "/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9-thumbnail-w720px.jpg"
+      src = "/img/lithium/2021-01-20+dd60f0d1-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-3-0e2f"
       alt = "Appoh"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9-thumbnail-w720px.jpg" file="/img/lithium/2021-01-20+dd60f0d15acad412c7e9f28eeb215af9.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/lithium/2021-01-20+dd60f0d1-thumbnail-w720px.jpg" file="/img/lithium/2021-01-20+dd60f0d1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

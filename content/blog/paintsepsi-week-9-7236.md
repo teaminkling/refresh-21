@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 9: Bold Strokes. Created using: Photoshop."
 [[images]]
-      src = "/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-03-03+8bdb953f-thumbnail-w720px.png"
       href = "/blog/paintsepsi-week-9-7236"
       alt = "CMY"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-03+8bdb953fc07ad4bf8b883ab27eedca00.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-03-03+8bdb953f-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-03+8bdb953f.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.

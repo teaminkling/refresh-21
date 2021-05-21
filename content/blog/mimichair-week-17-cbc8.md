@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["MimiChair"]
 description = "by MimiChair for week 17: The 4 R's: Finale. Created using: Toon Boom Harmony."
 [[images]]
-      src = "/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a-thumbnail-w720px.gif"
+      src = "/img/mimichair/2021-05-06+1a93ed57-thumbnail-w720px.gif"
       href = "/blog/mimichair-week-17-cbc8"
       alt = "Inspiration"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a-thumbnail-w720px.gif" file="/img/mimichair/2021-05-06+1a93ed57bcac151932f80cc6ac2b481a.gif" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/mimichair/2021-05-06+1a93ed57-thumbnail-w720px.gif" file="/img/mimichair/2021-05-06+1a93ed57.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Toon Boom Harmony**.

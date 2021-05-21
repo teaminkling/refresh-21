@@ -6,15 +6,15 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 16: Scaling Giants. Created using: digital painting on photograph."
 [[images]]
-      src = "/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+      src = "/img/soleilboo/2021-04-23+f134fb41-thumbnail-w720px.png"
       href = "/blog/soleilboo-week-16-39f7"
       alt = "Dobby and me"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/soleilboo/2021-04-23+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2-thumbnail-w720px.jpg" file="/img/soleilboo/2021-04-23+e5d67599bbb698e0cb7ec7a0713419e2.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-23+f134fb41-thumbnail-w720px.png" file="/img/soleilboo/2021-04-23+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-23+e5d67599-thumbnail-w720px.jpg" file="/img/soleilboo/2021-04-23+e5d67599.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph**.

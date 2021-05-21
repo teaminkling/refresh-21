@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["chari"]
 description = "by chari for week 6: Simple Love. Created using: Digital, Clip Studio Paint."
 [[images]]
-      src = "/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a-thumbnail-w720px.png"
+      src = "/img/chari/2021-02-12+8dd1a098-thumbnail-w720px.png"
       href = "/blog/chari-week-6-3bfe"
       alt = "Ghosties"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a-thumbnail-w720px.png" file="/img/chari/2021-02-12+8dd1a0989177d50a027504721c4dd19a.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/chari/2021-02-12+8dd1a098-thumbnail-w720px.png" file="/img/chari/2021-02-12+8dd1a098.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital, Clip Studio Paint**.

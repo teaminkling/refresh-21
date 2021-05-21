@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["D3m0n_Msc"]
 description = "by D3m0n_Msc for week 14: Absolute Fire. Created using: phone."
 [[images]]
-      src = "/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb-thumbnail-w720px.png"
+      src = "/img/d3m0n_msc/2021-04-06+adc335d8-thumbnail-w720px.png"
       href = "/blog/d3m0n_msc-week-14-d670"
       alt = "idk"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb-thumbnail-w720px.png" file="/img/d3m0n_msc/2021-04-06+adc335d89773e9632e38fcc72df4a5eb.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/d3m0n_msc/2021-04-06+adc335d8-thumbnail-w720px.png" file="/img/d3m0n_msc/2021-04-06+adc335d8.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **phone**.

@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 17: The 4 R's: Finale. Created using: Clipstudio paint."
 [[images]]
-      src = "/img/trixynetex/2021-05-07+2b53d041f947bb2b448d6502a4ebd1a9-thumbnail-w720px.png"
+      src = "/img/trixynetex/2021-05-07+2b53d041-thumbnail-w720px.png"
       href = "/blog/trixynetex-week-17-9d88"
       alt = "Footprints"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/trixynetex/2021-05-07+2b53d041f947bb2b448d6502a4ebd1a9-thumbnail-w720px.png" file="/img/trixynetex/2021-05-07+2b53d041f947bb2b448d6502a4ebd1a9.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/trixynetex/2021-05-07+2b53d041-thumbnail-w720px.png" file="/img/trixynetex/2021-05-07+2b53d041.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Clipstudio paint**.

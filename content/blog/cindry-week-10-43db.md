@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["cindry"]
 description = "by cindry for week 10: Folds and Folds. Created using: Digital, Illustrator and CSP."
 [[images]]
-      src = "/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png"
+      src = "/img/cindry/2021-03-12+5c513277-thumbnail-w720px.png"
       href = "/blog/cindry-week-10-43db"
       alt = "Implied emotion??"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c-thumbnail-w720px.png" file="/img/cindry/2021-03-12+5c513277f4bd92c21349eaeca6f7c68c.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-12+5c513277-thumbnail-w720px.png" file="/img/cindry/2021-03-12+5c513277.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Digital, Illustrator and CSP**.

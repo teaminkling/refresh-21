@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 3: Red Circle. Created using: Rubber stamp block + ink, procreate."
 [[images]]
-      src = "/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-01-21+7b979319-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-3-7d52"
       alt = "The Forest King"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86-thumbnail-w720px.png" file="/img/pumpkan/2021-01-21+7b9793190fc82f458664cece84f88c86.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-01-21+7b979319-thumbnail-w720px.png" file="/img/pumpkan/2021-01-21+7b979319.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Rubber stamp block + ink, procreate**.

@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["vectorong"]
 description = "by vectorong for week 16: Scaling Giants. Created using: Graphite."
 [[images]]
-      src = "/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-04-23+c5281aa3-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-16-eca9"
       alt = "Rat Race"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-23+c5281aa3915cc3ea40363c2431766673.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-04-23+c5281aa3-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-23+c5281aa3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Graphite**.

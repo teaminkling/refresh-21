@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["madboi"]
 description = "by madboi for week 1: Yellow Lines. Created using: : Traditional (fine liner, artist pitt pen, paper)."
 [[images]]
-      src = "/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3-thumbnail-w720px.jpg"
+      src = "/img/madboi/2021-01-06+e3378c72-thumbnail-w720px.jpg"
       href = "/blog/madboi-week-1-608f"
       alt = "Distance..."
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3-thumbnail-w720px.jpg" file="/img/madboi/2021-01-06+e3378c7272f9293a3e43f2f9d38b52c3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/madboi/2021-01-06+e3378c72-thumbnail-w720px.jpg" file="/img/madboi/2021-01-06+e3378c72.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **: Traditional (fine liner, artist pitt pen, paper)**.

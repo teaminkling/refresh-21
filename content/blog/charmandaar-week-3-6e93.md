@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 3: Red Circle. Created using: photography/photoshop."
 [[images]]
-      src = "/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg"
+      src = "/img/charmandaar/2021-01-22+d023edd5-thumbnail-w720px.jpg"
       href = "/blog/charmandaar-week-3-6e93"
       alt = "cirque of monkeys except it's me. i am the monkey"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3-thumbnail-w720px.jpg" file="/img/charmandaar/2021-01-22+d023edd507416887dc14053f2296b0e3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/charmandaar/2021-01-22+d023edd5-thumbnail-w720px.jpg" file="/img/charmandaar/2021-01-22+d023edd5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **photography/photoshop**.

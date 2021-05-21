@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 16: Scaling Giants. Created using: Paint Tool SAI."
 [[images]]
-      src = "/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a-thumbnail-w720px.png"
+      src = "/img/dynoloafer/2021-04-22+47e11aa4-thumbnail-w720px.png"
       href = "/blog/dynoloafer-week-16-e690"
       alt = "The ~~Diving~~ Maternal Legendary"
       caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a-thumbnail-w720px.png" file="/img/dynoloafer/2021-04-22+47e11aa4257b55ad5e39066a3f67f63a.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/dynoloafer/2021-04-22+47e11aa4-thumbnail-w720px.png" file="/img/dynoloafer/2021-04-22+47e11aa4.png" caption="Placeholder thumbnail for a visual still work." >}}
 {{< fancybox path="https://img.youtube.com/vi/TQbKwNmsTes/maxresdefault.jpg" file="https://www.youtube.com/watch?v=TQbKwNmsTes" caption="Placeholder thumbnail for a visual still work." >}}
 
 

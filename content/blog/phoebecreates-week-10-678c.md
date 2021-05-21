@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["PhoebeCreates"]
 description = "by PhoebeCreates for week 10: Folds and Folds. Created using: ink and watercolour."
 [[images]]
-      src = "/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg"
+      src = "/img/phoebecreates/2021-03-10+74ff51fb-thumbnail-w720px.jpeg"
       href = "/blog/phoebecreates-week-10-678c"
       alt = "cute outfits"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955-thumbnail-w720px.jpeg" file="/img/phoebecreates/2021-03-10+74ff51fbe136462cd2b4c9bf1e508955.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/phoebecreates/2021-03-10+74ff51fb-thumbnail-w720px.jpeg" file="/img/phoebecreates/2021-03-10+74ff51fb.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **ink and watercolour**.

@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["arancil"]
 description = "by arancil for week 2: Deep Ocean. Created using: Watercolor (Arches A5 rough)."
 [[images]]
-      src = "/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg"
+      src = "/img/arancil/2021-01-15+03a23fa1-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-2-a4b4"
       alt = "This is why I drink"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484-thumbnail-w720px.jpg" file="/img/arancil/2021-01-15+03a23fa16c7af156c10c01293d96a484.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-01-15+03a23fa1-thumbnail-w720px.jpg" file="/img/arancil/2021-01-15+03a23fa1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Watercolor (Arches A5 rough)**.

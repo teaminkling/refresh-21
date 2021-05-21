@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 10: Folds and Folds. Created using: Apple."
 [[images]]
-      src = "/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714-thumbnail-w720px.jpg"
+      src = "/img/jumpingbeans/2021-03-06+c8af97a4-thumbnail-w720px.jpg"
       href = "/blog/jumpingbeans-week-10-0414"
       alt = "Apple 16"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-03-06+c8af97a487fe22058db898ccc5970714.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-03-06+c8af97a4-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-03-06+c8af97a4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Apple**.

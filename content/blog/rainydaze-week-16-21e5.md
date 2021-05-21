@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 16: Scaling Giants. Created using: Procreate."
 [[images]]
-      src = "/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df-thumbnail-w720px.png"
+      src = "/img/rainydaze/2021-04-23+90739f2a-thumbnail-w720px.png"
       href = "/blog/rainydaze-week-16-21e5"
       alt = "d'Eggfsg"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df-thumbnail-w720px.png" file="/img/rainydaze/2021-04-23+90739f2a441458e6722aa46494e319df.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/rainydaze/2021-04-23+90739f2a-thumbnail-w720px.png" file="/img/rainydaze/2021-04-23+90739f2a.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Procreate**.

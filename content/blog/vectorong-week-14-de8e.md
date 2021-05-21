@@ -6,15 +6,15 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["vectorong"]
 description = "by vectorong for week 14: Absolute Fire. Created using: Pyrography (woodburning)."
 [[images]]
-      src = "/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-04-09+2118b4aa-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-14-de8e"
       alt = "The Five Virtues"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-09+2118b4aa721850f6d9dc7d02229b6904.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-09+364837ddaf805f79c5cb794d91652834.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-04-09+2118b4aa-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-09+2118b4aa.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-04-09+364837dd-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-09+364837dd.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Pyrography (woodburning)**.

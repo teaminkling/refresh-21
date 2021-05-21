@@ -13,7 +13,7 @@ description = "by Bell-Bones for week 7: Disturbed Desert. Created using: FireAl
       stretch = "cover"
 +++
 
-<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://imgur.com/a/R9TdafM" target="_blank"><img src="https://i.imgur.com/zqzUQqp.png?fb" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
+<div style="text-align: center; margin: 1.5em; margin-top: 1.5em;" ><a href="https://imgur.com/a/R9TdafM" target="_blank"><img src="https://i.imgur.com/zqzUQqp.png?fb" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **FireAlpaca**.
 

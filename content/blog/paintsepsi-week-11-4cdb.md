@@ -6,15 +6,15 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 11: Atmosphere Spectrum. Created using: Photoshop."
 [[images]]
-      src = "/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-03-19+b62ec7d6-thumbnail-w720px.png"
       href = "/blog/paintsepsi-week-11-4cdb"
       alt = "Bruh"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-19+b62ec7d619157c70a9fdd6e967dd20f4.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-19+67b5992b2600dabccea66d4dff8f5224.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-03-19+b62ec7d6-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-19+b62ec7d6.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-03-19+67b5992b-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-19+67b5992b.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Photoshop**.

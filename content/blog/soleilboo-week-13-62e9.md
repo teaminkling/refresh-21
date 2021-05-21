@@ -6,14 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 13: Look At Me. Created using: digital,photoshop+procreate."
 [[images]]
-      src = "/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      src = "/img/soleilboo/2021-04-03+9e3450b1-thumbnail-w720px.jpg"
       href = "/blog/soleilboo-week-13-62e9"
       alt = "“uhmmm Mine!!! It’s mine”"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/soleilboo/2021-04-03+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-03+9e3450b1-thumbnail-w720px.jpg" file="/img/soleilboo/2021-04-03+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **digital,photoshop+procreate**.

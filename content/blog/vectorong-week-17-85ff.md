@@ -13,7 +13,7 @@ description = "by vectorong for week 17: The 4 R's: Finale. Created using: E-por
       stretch = "cover"
 +++
 
-<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://online.fliphtml5.com/gqjmo/mufs" target="_blank"><img src="https://online.fliphtml5.com/gqjmo/mufs/files/shot.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
+<div style="text-align: center; margin: 1.5em; margin-top: 1.5em;" ><a href="https://online.fliphtml5.com/gqjmo/mufs" target="_blank"><img src="https://online.fliphtml5.com/gqjmo/mufs/files/shot.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **E-portfolio (flipbook made on https://fliphtml5.com)**.
 

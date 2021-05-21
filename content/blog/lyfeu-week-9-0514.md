@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Lyfeu"]
 description = "by Lyfeu for week 9: Bold Strokes. Created using: Photoshop."
 [[images]]
-      src = "/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d-thumbnail-w720px.jpg"
+      src = "/img/lyfeu/2021-03-05+a70b74e4-thumbnail-w720px.jpg"
       href = "/blog/lyfeu-week-9-0514"
       alt = "Flame Soul spirit"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d-thumbnail-w720px.jpg" file="/img/lyfeu/2021-03-05+a70b74e4b6d15f2af1cea06a328bd51d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/lyfeu/2021-03-05+a70b74e4-thumbnail-w720px.jpg" file="/img/lyfeu/2021-03-05+a70b74e4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photoshop**.

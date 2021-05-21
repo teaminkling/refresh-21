@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 17: The 4 R's: Finale. Created using: Digital, Procreate."
 [[images]]
-      src = "/img/pumpkan/2021-05-06+531c73950c1f72ec8ba1e3c20121b2ae-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-05-06+531c7395-thumbnail-w720px.png"
       href = "/blog/pumpkan-week-17-3356"
       alt = "Peace is Dynamism"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-05-06+531c73950c1f72ec8ba1e3c20121b2ae-thumbnail-w720px.png" file="/img/pumpkan/2021-05-06+531c73950c1f72ec8ba1e3c20121b2ae.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-05-06+531c7395-thumbnail-w720px.png" file="/img/pumpkan/2021-05-06+531c7395.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Digital, Procreate**.

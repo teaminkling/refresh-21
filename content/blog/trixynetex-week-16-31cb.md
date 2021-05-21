@@ -13,7 +13,7 @@ description = "by TrixyNetex for week 16: Scaling Giants. Created using: Clip st
       stretch = "cover"
 +++
 
-<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1" target="_blank"><img src="https://swebtoon-phinf.pstatic.net/20210421_156/1618998280915z5thP_PNG/thumbnail.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
+<div style="text-align: center; margin: 1.5em; margin-top: 1.5em;" ><a href="https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1" target="_blank"><img src="https://swebtoon-phinf.pstatic.net/20210421_156/1618998280915z5thP_PNG/thumbnail.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Clip studio paint**.
 

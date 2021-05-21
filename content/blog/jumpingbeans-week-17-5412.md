@@ -13,7 +13,7 @@ description = "by jumpingbeans for week 17: The 4 R's: Finale. Created using: vi
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/video-placeholder.png" file="/img/jumpingbeans/2021-04-25+84c5a519a0e467be74e0fc147a1e1b0e.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/video-placeholder.png" file="/img/jumpingbeans/2021-04-25+84c5a519.mp4" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 

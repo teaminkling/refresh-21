@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["arancil"]
 description = "by arancil for week 11: Atmosphere Spectrum. Created using: Watercolor."
 [[images]]
-      src = "/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg"
+      src = "/img/arancil/2021-03-19+b8fc4781-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-11-fb4d"
       alt = "This is where I live now"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c-thumbnail-w720px.jpg" file="/img/arancil/2021-03-19+b8fc4781ffeb684c307cf05d16b98a0c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-03-19+b8fc4781-thumbnail-w720px.jpg" file="/img/arancil/2021-03-19+b8fc4781.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Watercolor**.

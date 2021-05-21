@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["vectorong"]
 description = "by vectorong for week 11: Atmosphere Spectrum. Created using: Relief printing."
 [[images]]
-      src = "/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-03-18+7c042e0d-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-11-3c65"
       alt = "Cancri"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485-thumbnail-w720px.jpg" file="/img/vectorong/2021-03-18+7c042e0d866bef4ac49cc755783e2485.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-03-18+7c042e0d-thumbnail-w720px.jpg" file="/img/vectorong/2021-03-18+7c042e0d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Relief printing**.

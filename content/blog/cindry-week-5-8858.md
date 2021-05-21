@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["cindry"]
 description = "by cindry for week 5: Royal Green. Created using: Digital, Clip Studio Paint."
 [[images]]
-      src = "/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42-thumbnail-w720px.png"
+      src = "/img/cindry/2021-02-05+b3b986eb-thumbnail-w720px.png"
       href = "/blog/cindry-week-5-8858"
       alt = "Jaysom Kim"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42-thumbnail-w720px.png" file="/img/cindry/2021-02-05+b3b986ebbdee17e238f2e7af65aefe42.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-05+b3b986eb-thumbnail-w720px.png" file="/img/cindry/2021-02-05+b3b986eb.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital, Clip Studio Paint**.

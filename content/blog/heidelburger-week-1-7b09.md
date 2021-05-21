@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Heidelburger"]
 description = "by Heidelburger for week 1: Yellow Lines. Created using: Switch Harv's Island."
 [[images]]
-      src = "/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      src = "/img/heidelburger/2021-01-05+9e3450b1-thumbnail-w720px.jpg"
       href = "/blog/heidelburger-week-1-7b09"
       alt = "Yellow Ice Bar"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/heidelburger/2021-01-05+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/heidelburger/2021-01-05+9e3450b1-thumbnail-w720px.jpg" file="/img/heidelburger/2021-01-05+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Switch Harv's Island**.

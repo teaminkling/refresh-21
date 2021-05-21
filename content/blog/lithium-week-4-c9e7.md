@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Lithium"]
 description = "by Lithium for week 4: Murky Silhouettes. Created using: Digital (Clip Studio Paint)."
 [[images]]
-      src = "/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg"
+      src = "/img/lithium/2021-01-28+b962c679-thumbnail-w720px.jpg"
       href = "/blog/lithium-week-4-c9e7"
       alt = "Dancing Cloud"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe-thumbnail-w720px.jpg" file="/img/lithium/2021-01-28+b962c679b886c01901c3f186616d14fe.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/lithium/2021-01-28+b962c679-thumbnail-w720px.jpg" file="/img/lithium/2021-01-28+b962c679.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

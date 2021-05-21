@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["cindry"]
 description = "by cindry for week 9: Bold Strokes. Created using: digital painting."
 [[images]]
-      src = "/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10-thumbnail-w720px.png"
+      src = "/img/cindry/2021-03-05+c8dfe6a6-thumbnail-w720px.png"
       href = "/blog/cindry-week-9-c756"
       alt = "ANIME AM I RIGHT"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10-thumbnail-w720px.png" file="/img/cindry/2021-03-05+c8dfe6a69ef06bb875e63c7926248d10.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-05+c8dfe6a6-thumbnail-w720px.png" file="/img/cindry/2021-03-05+c8dfe6a6.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **digital painting**.

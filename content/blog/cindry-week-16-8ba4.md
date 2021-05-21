@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["cindry"]
 description = "by cindry for week 16: Scaling Giants. Created using: digital painting on photograph, CSP."
 [[images]]
-      src = "/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e-thumbnail-w720px.jpg"
+      src = "/img/cindry/2021-04-23+8d4d5635-thumbnail-w720px.jpg"
       href = "/blog/cindry-week-16-8ba4"
       alt = "ooh shit"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e-thumbnail-w720px.jpg" file="/img/cindry/2021-04-23+8d4d5635a0ea2729328254399b26654e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-04-23+8d4d5635-thumbnail-w720px.jpg" file="/img/cindry/2021-04-23+8d4d5635.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **digital painting on photograph, CSP**.

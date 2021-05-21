@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["mrtnong"]
 description = "by mrtnong for week 5: Royal Green. Created using: Digital (Procreate)."
 [[images]]
-      src = "/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png"
+      src = "/img/mrtnong/2021-02-03+f134fb41-thumbnail-w720px.png"
       href = "/blog/mrtnong-week-5-0702"
       alt = "Jade Temple"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45-thumbnail-w720px.png" file="/img/mrtnong/2021-02-03+f134fb41fbe62dbf11697219214c2b45.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/mrtnong/2021-02-03+f134fb41-thumbnail-w720px.png" file="/img/mrtnong/2021-02-03+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital (Procreate)**.

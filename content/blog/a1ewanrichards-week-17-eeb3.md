@@ -6,15 +6,15 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 17: The 4 R's: Finale. Created using: Clip Studio Paint, Adobe Photoshop, and E-portfolio (Flip Book made on https://fliphtml5.com/)."
 [[images]]
-      src = "/img/a1ewanrichards/2021-05-06+a528181d7d327b15781ce295bb6d2d2c-thumbnail-w720px.jpg"
+      src = "/img/a1ewanrichards/2021-05-06+a528181d-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-17-eeb3"
       alt = "Amalgamation: Ewan's Summer - Season's End"
       caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/a1ewanrichards/2021-05-06+a528181d7d327b15781ce295bb6d2d2c-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-05-06+a528181d7d327b15781ce295bb6d2d2c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://online.fliphtml5.com/jdhob/sioh/" target="_blank"><img src="https://online.fliphtml5.com/jdhob/sioh/files/shot.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
+{{< fancybox path="/img/a1ewanrichards/2021-05-06+a528181d-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-05-06+a528181d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+<div style="text-align: center; margin: 1.5em; margin-top: 1.5em;" ><a href="https://online.fliphtml5.com/jdhob/sioh/" target="_blank"><img src="https://online.fliphtml5.com/jdhob/sioh/files/shot.jpg" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Clip Studio Paint, Adobe Photoshop, and E-portfolio (Flip Book made on https://fliphtml5.com/)**.
 

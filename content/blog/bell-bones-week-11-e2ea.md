@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 11: Atmosphere Spectrum. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-03-19+74ef7a6e-thumbnail-w720px.png"
       href = "/blog/bell-bones-week-11-e2ea"
       alt = "Aster Flower Looking Upon a Star"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd-thumbnail-w720px.png" file="/img/bell-bones/2021-03-19+74ef7a6ecb2b65b683b81e1f31b255bd.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-03-19+74ef7a6e-thumbnail-w720px.png" file="/img/bell-bones/2021-03-19+74ef7a6e.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **FireAlpaca**.

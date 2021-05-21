@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 8: High Sheen. Created using: Photoshop."
 [[images]]
-      src = "/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3-thumbnail-w720px.jpg"
+      src = "/img/soleilboo/2021-02-26+21c8b061-thumbnail-w720px.jpg"
       href = "/blog/soleilboo-week-8-fde4"
       alt = "Wall- E fan Art"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3-thumbnail-w720px.jpg" file="/img/soleilboo/2021-02-26+21c8b061fa7b97c139147c552d7a93c3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-02-26+21c8b061-thumbnail-w720px.jpg" file="/img/soleilboo/2021-02-26+21c8b061.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Photoshop**.

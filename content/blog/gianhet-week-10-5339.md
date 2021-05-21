@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["gianhet"]
 description = "by gianhet for week 10: Folds and Folds. Created using: : CSP."
 [[images]]
-      src = "/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829-thumbnail-w720px.png"
+      src = "/img/gianhet/2021-03-12+b4e1fb11-thumbnail-w720px.png"
       href = "/blog/gianhet-week-10-5339"
       alt = "silk"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829-thumbnail-w720px.png" file="/img/gianhet/2021-03-12+b4e1fb113b59d0a2bfe04dd1d8b60829.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/gianhet/2021-03-12+b4e1fb11-thumbnail-w720px.png" file="/img/gianhet/2021-03-12+b4e1fb11.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **: CSP**.

@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["vectorong"]
 description = "by vectorong for week 2: Deep Ocean. Created using: Gyotaku (traditional jp printmaking method using ink on fish, tho I used shrimp for this so I guess ebitaku lol) + dyed paper napkin."
 [[images]]
-      src = "/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-01-14+1fefec2b-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-2-4b63"
       alt = "Little Dragons"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-14+1fefec2bbefbbafc45dd09f1a1c9769c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-01-14+1fefec2b-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-14+1fefec2b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Gyotaku (traditional jp printmaking method using ink on fish, tho I used shrimp for this so I guess ebitaku lol) + dyed paper napkin**.

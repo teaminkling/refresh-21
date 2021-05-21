@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 3: Red Circle. Created using: Photoshop."
 [[images]]
-      src = "/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d-thumbnail-w720px.png"
+      src = "/img/jorchael_p/2021-01-22+cf977d48-thumbnail-w720px.png"
       href = "/blog/jorchael_p-week-3-292d"
       alt = "'0"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d-thumbnail-w720px.png" file="/img/jorchael_p/2021-01-22+cf977d482d3d718069faafff9de0e12d.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jorchael_p/2021-01-22+cf977d48-thumbnail-w720px.png" file="/img/jorchael_p/2021-01-22+cf977d48.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Photoshop**.

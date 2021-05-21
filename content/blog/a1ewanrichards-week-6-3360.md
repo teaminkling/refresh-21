@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 6: Simple Love. Created using: Ink on paper, 9x12 inches.."
 [[images]]
-      src = "/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037-thumbnail-w720px.jpg"
+      src = "/img/a1ewanrichards/2021-02-12+dce0a324-thumbnail-w720px.jpg"
       href = "/blog/a1ewanrichards-week-6-3360"
       alt = "Amalgamation: Smile and Smile"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-02-12+dce0a324e7d2f53fb7073971fe5e2037.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-02-12+dce0a324-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-02-12+dce0a324.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Ink on paper, 9x12 inches.**.

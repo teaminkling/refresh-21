@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Heidelburger"]
 description = "by Heidelburger for week 2: Deep Ocean. Created using: Game, Animal Crossing."
 [[images]]
-      src = "/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg"
+      src = "/img/heidelburger/2021-04-27+9e3450b1-thumbnail-w720px.jpg"
       href = "/blog/heidelburger-week-2-41fd"
       alt = "Under the Sea"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf-thumbnail-w720px.jpg" file="/img/heidelburger/2021-04-27+9e3450b11d8b1247ccf09972b1d964bf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/heidelburger/2021-04-27+9e3450b1-thumbnail-w720px.jpg" file="/img/heidelburger/2021-04-27+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Game, Animal Crossing**.

@@ -6,15 +6,15 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["cindry"]
 description = "by cindry for week 13: Look At Me. Created using: digital, CSP and SAI."
 [[images]]
-      src = "/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3-thumbnail-w720px.png"
+      src = "/img/cindry/2021-04-02+962a5123-thumbnail-w720px.png"
       href = "/blog/cindry-week-13-4534"
       alt = "im dying btw"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3-thumbnail-w720px.png" file="/img/cindry/2021-04-02+962a5123780fe0160d37774d33b1a2b3.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310-thumbnail-w720px.png" file="/img/cindry/2021-04-02+730bbecc292330567725cfe6ff440310.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-04-02+962a5123-thumbnail-w720px.png" file="/img/cindry/2021-04-02+962a5123.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-04-02+730bbecc-thumbnail-w720px.png" file="/img/cindry/2021-04-02+730bbecc.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **digital, CSP and SAI**.

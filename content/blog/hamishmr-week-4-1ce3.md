@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["hamishmr"]
 description = "by hamishmr for week 4: Murky Silhouettes. Created using: Photo and Adobe Suite."
 [[images]]
-      src = "/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc-thumbnail-w720px.jpg"
+      src = "/img/hamishmr/2021-01-23+1710e503-thumbnail-w720px.jpg"
       href = "/blog/hamishmr-week-4-1ce3"
       alt = "beach 🙂"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc-thumbnail-w720px.jpg" file="/img/hamishmr/2021-01-23+1710e503eb6ef964dcf116de7239c6dc.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/hamishmr/2021-01-23+1710e503-thumbnail-w720px.jpg" file="/img/hamishmr/2021-01-23+1710e503.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Photo and Adobe Suite**.

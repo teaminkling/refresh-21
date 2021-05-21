@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["arancil"]
 description = "by arancil for week 14: Absolute Fire. Created using: Watercolor."
 [[images]]
-      src = "/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg"
+      src = "/img/arancil/2021-04-09+3a41e9e5-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-14-911a"
       alt = "Untitled"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e-thumbnail-w720px.jpg" file="/img/arancil/2021-04-09+3a41e9e522c0263b8c83c48a40f4649e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-04-09+3a41e9e5-thumbnail-w720px.jpg" file="/img/arancil/2021-04-09+3a41e9e5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Watercolor**.

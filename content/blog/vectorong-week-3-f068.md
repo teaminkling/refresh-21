@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["vectorong"]
 description = "by vectorong for week 3: Red Circle. Created using: Vector illustration."
 [[images]]
-      src = "/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-01-21+8ee247b3-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-3-f068"
       alt = "Tesseract"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-21+8ee247b333e6a091e10a5217687a8d2d.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-01-21+8ee247b3-thumbnail-w720px.jpg" file="/img/vectorong/2021-01-21+8ee247b3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Vector illustration**.

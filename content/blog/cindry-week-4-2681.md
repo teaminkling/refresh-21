@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["cindry"]
 description = "by cindry for week 4: Murky Silhouettes. Created using: Animation, CSP."
 [[images]]
-      src = "/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55-thumbnail-w720px.gif"
+      src = "/img/cindry/2021-01-29+35bbf849-thumbnail-w720px.gif"
       href = "/blog/cindry-week-4-2681"
       alt = "Morning Breeze"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55-thumbnail-w720px.gif" file="/img/cindry/2021-01-29+35bbf849ee2265ecf57ebc6dde7b5d55.gif" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-01-29+35bbf849-thumbnail-w720px.gif" file="/img/cindry/2021-01-29+35bbf849.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Animation, CSP**.

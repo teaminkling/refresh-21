@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["cindry"]
 description = "by cindry for week 1: Yellow Lines. Created using: Digital, Paint Tool SAI."
 [[images]]
-      src = "/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681-thumbnail-w720px.png"
+      src = "/img/cindry/2021-01-07+f141d3ed-thumbnail-w720px.png"
       href = "/blog/cindry-week-1-64a9"
       alt = "Rat 1 and Rat 2"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681-thumbnail-w720px.png" file="/img/cindry/2021-01-07+f141d3ed8fdfdc46d301ea4a108b6681.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-01-07+f141d3ed-thumbnail-w720px.png" file="/img/cindry/2021-01-07+f141d3ed.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Paint Tool SAI**.

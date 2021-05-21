@@ -7,8 +7,10 @@ Do not run this script on a pipeline.
 import json
 import logging
 import os
+import subprocess
 from hashlib import md5
 from logging import Logger
+from statistics import mean, median
 from typing import Any, Dict, List, Optional, Union
 
 import discord
@@ -18,21 +20,6 @@ from PIL import Image, ImageSequence
 # Initialise logging and include Discord SDK logs.
 
 LOGGER: Logger = logging.getLogger(__name__)
-
-logging.basicConfig(level=logging.INFO)
-log_formatter: logging.Formatter = logging.Formatter(
-    "(%(asctime)s) [%(levelname)s]: %(message)s",
-    "%Y-%m-%d %H:%M:%S",
-)
-
-stream_handler: logging.StreamHandler = logging.StreamHandler()
-
-stream_handler.setLevel(logging.INFO)
-stream_handler.setFormatter(log_formatter)
-
-logging.root.handlers.clear()
-
-LOGGER.addHandler(stream_handler)
 
 # Constants.
 
@@ -48,7 +35,7 @@ SUBMISSIONS_CHANNEL: str = "submissions"
 THUMBNAIL_MAX_WIDTH: int = 720
 """Pixel maximum width of a thumbnail."""
 
-FORCE_THUMBNAIL_REGENERATION: bool = True
+FORCE_GIF_THUMBNAIL_REGENERATION: bool = True
 """Whether to always regenerate the thumbnail image."""
 
 
@@ -196,13 +183,11 @@ def do_dump_all_messages():
 
             filename: str = (
                 f"{message.created_at.date().isoformat()}+"
-                f"{md5(attachment.filename.encode()).hexdigest()}"
+                f"{md5(attachment.filename.encode()).hexdigest()[:8]}"
             )
 
             extension: str = attachment.filename.split(".")[-1].lower()
-
             local_path: str = os.path.join(author_directory, f"{filename}.{extension}")
-
             local_thumb_path: str = os.path.join(
                 author_directory,
                 f"{filename}-thumbnail-w{THUMBNAIL_MAX_WIDTH}px.{extension}",
@@ -216,8 +201,12 @@ def do_dump_all_messages():
             else:
                 LOGGER.debug("Exists, skipping: [%s]...", local_path)
 
+            # Add a thumbnail if applicable.
+
             if (
-                not os.path.exists(local_thumb_path) or FORCE_THUMBNAIL_REGENERATION
+                not os.path.exists(local_thumb_path)
+                or FORCE_GIF_THUMBNAIL_REGENERATION
+                and extension == "gif"
             ) and extension in (
                 "png",
                 "jpg",
@@ -238,6 +227,7 @@ def do_dump_all_messages():
 
                 if extension == "gif":
                     frames: List[Image] = []
+
                     for frame in ImageSequence.Iterator(image):
                         gif_thumbnail: Image = frame.copy()
                         gif_thumbnail.thumbnail(
@@ -249,13 +239,16 @@ def do_dump_all_messages():
                     # Save output.
 
                     output_gif: Image = frames[0]
+
                     output_gif.info = image.info
+                    output_gif.info["duration"] = [frame.info["duration"] for frame in frames]
+
                     output_gif.save(
                         local_thumb_path,
                         save_all=True,
-                        append_images=list(frames),
+                        format=image.format,
+                        append_images=list(frames)[1:],
                         optimize=True,
-                        duration=image.info.get("duration", 1),
                         loop=0,
                     )
                 else:
@@ -265,6 +258,18 @@ def do_dump_all_messages():
             local_thumb_path = (
                 local_thumb_path if os.path.exists(local_thumb_path) else None
             )
+
+            # If the file is .mov we need to open a subprocess to convert it.
+
+            mp4_local_path = local_path.replace(".mov", ".mp4")
+            if extension == "mov" and not os.path.exists(mp4_local_path):
+                LOGGER.info("Converting a .mov to .mp4: [%s].", filename)
+
+                # Will hang if file already exists.
+
+                subprocess.call(["ffmpeg", "-i", local_path, mp4_local_path])
+
+                local_path = mp4_local_path
 
             attachments_map: dict = {
                 "id": attachment.id,
@@ -277,6 +282,7 @@ def do_dump_all_messages():
 
             attachments.append(attachments_map)
             data["attachments"].append(attachments_map)
+
         return attachments
 
     client.run(os.environ.get(CLIENT_SECRET_KEY))
@@ -301,4 +307,21 @@ def get_name_with_discriminator(user: Union[User, Member]) -> str:
 
 
 if __name__ == "__main__":
+    # Set up logger.
+
+    logging.basicConfig(level=logging.INFO)
+    log_formatter: logging.Formatter = logging.Formatter(
+        "(%(asctime)s) [%(levelname)s]: %(message)s",
+        "%Y-%m-%d %H:%M:%S",
+    )
+
+    stream_handler: logging.StreamHandler = logging.StreamHandler()
+
+    stream_handler.setLevel(logging.INFO)
+    stream_handler.setFormatter(log_formatter)
+
+    logging.root.handlers.clear()
+
+    LOGGER.addHandler(stream_handler)
+
     do_dump_all_messages()

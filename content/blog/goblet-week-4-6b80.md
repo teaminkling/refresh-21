@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Goblet"]
 description = "by Goblet for week 4: Murky Silhouettes. Created using: Krita with mouse."
 [[images]]
-      src = "/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg"
+      src = "/img/goblet/2021-01-24+7f4b5ca5-thumbnail-w720px.jpg"
       href = "/blog/goblet-week-4-6b80"
       alt = "Orange jump"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f-thumbnail-w720px.jpg" file="/img/goblet/2021-01-24+7f4b5ca58bbd85cb59700f881c28936f.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/goblet/2021-01-24+7f4b5ca5-thumbnail-w720px.jpg" file="/img/goblet/2021-01-24+7f4b5ca5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Krita with mouse**.

@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["arren"]
 description = "by arren for week 2: Deep Ocean. Created using: photoshop."
 [[images]]
-      src = "/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282-thumbnail-w720px.jpg"
+      src = "/img/arren/2021-01-11+6901c10f-thumbnail-w720px.jpg"
       href = "/blog/arren-week-2-d908"
       alt = "bright sea"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282-thumbnail-w720px.jpg" file="/img/arren/2021-01-11+6901c10fde4f5fc055db1f07a6be3282.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arren/2021-01-11+6901c10f-thumbnail-w720px.jpg" file="/img/arren/2021-01-11+6901c10f.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **photoshop**.

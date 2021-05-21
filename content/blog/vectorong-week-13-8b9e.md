@@ -6,15 +6,15 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["vectorong"]
 description = "by vectorong for week 13: Look At Me. Created using: Mixed media (plaster strips, paper clay, paint), Photoshop."
 [[images]]
-      src = "/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-04-02+0c846b1b-thumbnail-w720px.jpg"
       href = "/blog/vectorong-week-13-8b9e"
       alt = "Then She Fell”"
       caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-02+0c846b1b4ce0b18b71a34fd62e8b2786.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-02+3aa1f52ec1988033f4ada5b3791a8455.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-04-02+0c846b1b-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-02+0c846b1b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-04-02+3aa1f52e-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-02+3aa1f52e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 {{< fancybox path="https://img.youtube.com/vi/lkYeBXXHgY4/maxresdefault.jpg" file="https://www.youtube.com/watch?v=lkYeBXXHgY4" caption="Placeholder thumbnail for a visual still work." >}}
 
 

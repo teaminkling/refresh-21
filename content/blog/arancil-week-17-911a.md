@@ -6,15 +6,15 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["arancil"]
 description = "by arancil for week 17: The 4 R's: Finale. Created using: various traditional."
 [[images]]
-      src = "/img/arancil/2021-05-07+bca58f53daa5af42b830bc7eb3630f0b-thumbnail-w720px.jpg"
+      src = "/img/arancil/2021-05-07+bca58f53-thumbnail-w720px.jpg"
       href = "/blog/arancil-week-17-911a"
       alt = "Untitled"
       caption = "This submission contains a link. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arancil/2021-05-07+bca58f53daa5af42b830bc7eb3630f0b-thumbnail-w720px.jpg" file="/img/arancil/2021-05-07+bca58f53daa5af42b830bc7eb3630f0b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-<div style="text-align: center; margin: 3em; margin-top: 1.5em;" ><a href="https://imgur.com/a/xaqXvNg" target="_blank"><img src="https://i.imgur.com/WjnymKA.jpg?fb" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
+{{< fancybox path="/img/arancil/2021-05-07+bca58f53-thumbnail-w720px.jpg" file="/img/arancil/2021-05-07+bca58f53.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+<div style="text-align: center; margin: 1.5em; margin-top: 1.5em;" ><a href="https://imgur.com/a/xaqXvNg" target="_blank"><img src="https://i.imgur.com/WjnymKA.jpeg?fb" alt="External link image preview for generic website." style="box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);"/></a></div><p style="text-align: center"><i>The image above leads to an external website. Please be careful!</i></p>
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **various traditional**.
 

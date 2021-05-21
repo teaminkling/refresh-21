@@ -13,7 +13,7 @@ description = "by meplaysgamez for week 15: Back to Basics. Created using: gw ac
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/video-placeholder.png" file="/img/meplaysgamez/2021-04-16+eb93369eaa1d29e7bd71a4261b9df997.mov" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/video-placeholder.png" file="/img/meplaysgamez/2021-04-16+eb93369e.mp4" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 

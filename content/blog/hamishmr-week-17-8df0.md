@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["hamishmr"]
 description = "by hamishmr for week 17: The 4 R's: Finale. Created using: keeb."
 [[images]]
-      src = "/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea-thumbnail-w720px.jpg"
+      src = "/img/hamishmr/2021-05-06+4ec09a67-thumbnail-w720px.jpg"
       href = "/blog/hamishmr-week-17-8df0"
       alt = "fruit that isn't fruit"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea-thumbnail-w720px.jpg" file="/img/hamishmr/2021-05-06+4ec09a675e913ae41b2354c9c0c7c9ea.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/hamishmr/2021-05-06+4ec09a67-thumbnail-w720px.jpg" file="/img/hamishmr/2021-05-06+4ec09a67.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **keeb**.
