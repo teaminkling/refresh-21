@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 1: Yellow Lines. Created using: Digital, Photoshop."
 [[images]]
-      src = "/img/jorchael_p/2021-01-07+d798934f-thumbnail-w720px.png"
+      src = "/img/jorchael_p/2021-01-07+d798934f-thumb-w720px.png"
       href = "/blog/jorchael_p-week-1-81a6"
       alt = "sunny day, pouring rain"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jorchael_p/2021-01-07+d798934f-thumbnail-w720px.png" file="/img/jorchael_p/2021-01-07+d798934f.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jorchael_p/2021-01-07+d798934f-thumb-w720px.png" file="/img/jorchael_p/2021-01-07+d798934f.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **Digital, Photoshop**.

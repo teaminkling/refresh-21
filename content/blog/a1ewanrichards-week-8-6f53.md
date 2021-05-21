@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 8: High Sheen. Created using: Adobe Photoshop."
 [[images]]
-      src = "/img/a1ewanrichards/2021-02-26+0538395a-thumbnail-w720px.jpg"
+      src = "/img/a1ewanrichards/2021-02-26+0538395a-thumb-w720px.jpg"
       href = "/blog/a1ewanrichards-week-8-6f53"
       alt = "Amalagamation: Vague Memory"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/a1ewanrichards/2021-02-26+0538395a-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-02-26+0538395a.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-02-26+0538395a-thumb-w720px.jpg" file="/img/a1ewanrichards/2021-02-26+0538395a.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Adobe Photoshop**.

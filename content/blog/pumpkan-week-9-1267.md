@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 9: Bold Strokes. Created using: Procreate."
 [[images]]
-      src = "/img/pumpkan/2021-03-05+99e5818b-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-03-05+99e5818b-thumb-w720px.png"
       href = "/blog/pumpkan-week-9-1267"
       alt = "wikipedia"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b-thumbnail-w720px.png" file="/img/pumpkan/2021-03-05+99e5818b.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-03-05+99e5818b-thumb-w720px.png" file="/img/pumpkan/2021-03-05+99e5818b.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Procreate**.

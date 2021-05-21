@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 5: Royal Green. Created using: digital/ photoshop."
 [[images]]
-      src = "/img/soleilboo/2021-02-05+383b0f8c-thumbnail-w720px.jpg"
+      src = "/img/soleilboo/2021-02-05+383b0f8c-thumb-w720px.jpg"
       href = "/blog/soleilboo-week-5-4a75"
       alt = "[Title Too Long]"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-02-05+383b0f8c-thumbnail-w720px.jpg" file="/img/soleilboo/2021-02-05+383b0f8c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-02-05+383b0f8c-thumb-w720px.jpg" file="/img/soleilboo/2021-02-05+383b0f8c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **digital/ photoshop**.

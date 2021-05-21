@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 17: The 4 R's: Finale. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-05-02+bdc2f3fa-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-05-02+bdc2f3fa-thumb-w720px.png"
       href = "/blog/bell-bones-week-17-b157"
       alt = "Part of Your World"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-05-02+bdc2f3fa-thumbnail-w720px.png" file="/img/bell-bones/2021-05-02+bdc2f3fa.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-05-02+bdc2f3fa-thumb-w720px.png" file="/img/bell-bones/2021-05-02+bdc2f3fa.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **FireAlpaca**.

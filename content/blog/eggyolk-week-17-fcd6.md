@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 17: The 4 R's: Finale. Created using: Procreate."
 [[images]]
-      src = "/img/eggyolk/2021-05-07+36c21080-thumbnail-w720px.jpg"
+      src = "/img/eggyolk/2021-05-07+36c21080-thumb-w720px.jpg"
       href = "/blog/eggyolk-week-17-fcd6"
       alt = "I AM LITERAL SPED"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/eggyolk/2021-05-07+36c21080-thumbnail-w720px.jpg" file="/img/eggyolk/2021-05-07+36c21080.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/eggyolk/2021-05-07+36c21080-thumb-w720px.jpg" file="/img/eggyolk/2021-05-07+36c21080.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Procreate**.

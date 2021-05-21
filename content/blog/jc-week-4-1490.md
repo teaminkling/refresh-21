@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["jc"]
 description = "by jc for week 4: Murky Silhouettes. Created using: csp!."
 [[images]]
-      src = "/img/jc/2021-01-28+09dd8c26-thumbnail-w720px.png"
+      src = "/img/jc/2021-01-28+09dd8c26-thumb-w720px.png"
       href = "/blog/jc-week-4-1490"
       alt = "costume change"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jc/2021-01-28+09dd8c26-thumbnail-w720px.png" file="/img/jc/2021-01-28+09dd8c26.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jc/2021-01-28+09dd8c26-thumb-w720px.png" file="/img/jc/2021-01-28+09dd8c26.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **csp!**.

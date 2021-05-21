@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["Mrop2000"]
 description = "by Mrop2000 for week 9: Bold Strokes. Created using: Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)."
 [[images]]
-      src = "/img/mrop2000/2021-03-02+62176550-thumbnail-w720px.jpg"
+      src = "/img/mrop2000/2021-03-02+62176550-thumb-w720px.jpg"
       href = "/blog/mrop2000-week-9-8e62"
       alt = "Important Dream"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/mrop2000/2021-03-02+62176550-thumbnail-w720px.jpg" file="/img/mrop2000/2021-03-02+62176550.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/mrop2000/2021-03-02+62176550-thumb-w720px.jpg" file="/img/mrop2000/2021-03-02+62176550.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Color Pencils (CMYK) and fineliner pen on paper (feat. washi tape of betrayal)**.

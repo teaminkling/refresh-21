@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["winsome"]
 description = "by winsome for week 16: Scaling Giants. Created using: Photo + CLIP STUDIO PAINT."
 [[images]]
-      src = "/img/winsome/2021-04-23+53ef0c44-thumbnail-w720px.png"
+      src = "/img/winsome/2021-04-23+53ef0c44-thumb-w720px.png"
       href = "/blog/winsome-week-16-aef1"
       alt = "Broccaiju"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/winsome/2021-04-23+53ef0c44-thumbnail-w720px.png" file="/img/winsome/2021-04-23+53ef0c44.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-04-23+53ef0c44-thumb-w720px.png" file="/img/winsome/2021-04-23+53ef0c44.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Photo + CLIP STUDIO PAINT**.

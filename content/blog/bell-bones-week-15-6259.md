@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 15: Back to Basics. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-04-19+6250c08a-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-04-19+6250c08a-thumb-w720px.png"
       href = "/blog/bell-bones-week-15-6259"
       alt = "sometimes art is not worth having a mental breakdown over"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a-thumbnail-w720px.png" file="/img/bell-bones/2021-04-19+6250c08a.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-04-19+6250c08a-thumb-w720px.png" file="/img/bell-bones/2021-04-19+6250c08a.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **FireAlpaca**.

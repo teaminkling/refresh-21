@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Linalifox"]
 description = "by Linalifox for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-      src = "/img/linalifox/2021-01-29+9e3450b1-thumbnail-w720px.jpg"
+      src = "/img/linalifox/2021-01-29+9e3450b1-thumb-w720px.jpg"
       href = "/blog/linalifox-week-4-9594"
       alt = "Blue"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/linalifox/2021-01-29+9e3450b1-thumbnail-w720px.jpg" file="/img/linalifox/2021-01-29+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/linalifox/2021-01-29+9e3450b1-thumb-w720px.jpg" file="/img/linalifox/2021-01-29+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.

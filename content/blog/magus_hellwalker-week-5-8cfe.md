@@ -6,15 +6,15 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Magus_Hellwalker"]
 description = "by Magus_Hellwalker for week 5: Royal Green. Created using: Digital 3D (Blender)."
 [[images]]
-      src = "/img/magus_hellwalker/2021-02-05+dd17d16d-thumbnail-w720px.png"
+      src = "/img/magus_hellwalker/2021-02-05+dd17d16d-thumb-w720px.png"
       href = "/blog/magus_hellwalker-week-5-8cfe"
       alt = "Jade Dragon on plinth"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/magus_hellwalker/2021-02-05+dd17d16d-thumbnail-w720px.png" file="/img/magus_hellwalker/2021-02-05+dd17d16d.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/magus_hellwalker/2021-02-05+91db82e6-thumbnail-w720px.png" file="/img/magus_hellwalker/2021-02-05+91db82e6.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/magus_hellwalker/2021-02-05+dd17d16d-thumb-w720px.png" file="/img/magus_hellwalker/2021-02-05+dd17d16d.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/magus_hellwalker/2021-02-05+91db82e6-thumb-w720px.png" file="/img/magus_hellwalker/2021-02-05+91db82e6.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Digital 3D (Blender)**.

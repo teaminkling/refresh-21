@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["cindry"]
 description = "by cindry for week 8: High Sheen. Created using: graphic, Illustrator."
 [[images]]
-      src = "/img/cindry/2021-02-26+d0cd0c64-thumbnail-w720px.png"
+      src = "/img/cindry/2021-02-26+d0cd0c64-thumb-w720px.png"
       href = "/blog/cindry-week-8-71ed"
       alt = "Foish"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-02-26+d0cd0c64-thumbnail-w720px.png" file="/img/cindry/2021-02-26+d0cd0c64.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-26+d0cd0c64-thumb-w720px.png" file="/img/cindry/2021-02-26+d0cd0c64.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **graphic, Illustrator**.

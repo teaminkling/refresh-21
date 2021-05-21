@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 6: Simple Love. Created using: Procreate."
 [[images]]
-      src = "/img/pumpkan/2021-02-07+f134fb41-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-02-07+f134fb41-thumb-w720px.png"
       href = "/blog/pumpkan-week-6-7ed9"
       alt = "Magical girl"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-02-07+f134fb41-thumbnail-w720px.png" file="/img/pumpkan/2021-02-07+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-02-07+f134fb41-thumb-w720px.png" file="/img/pumpkan/2021-02-07+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate**.

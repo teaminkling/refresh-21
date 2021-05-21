@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Magus_Hellwalker"]
 description = "by Magus_Hellwalker for week 2: Deep Ocean. Created using: 3D Digital."
 [[images]]
-      src = "/img/video-placeholder.png"
+      src = "/img/magus_hellwalker/2021-01-17+77078e4e-thumb-w720px.jpg"
       href = "/blog/magus_hellwalker-week-2-9ff9"
       alt = "Temple discovery"
       caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/video-placeholder.png" file="/img/magus_hellwalker/2021-01-17+77078e4e.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/magus_hellwalker/2021-01-17+77078e4e-thumb-w720px.jpg" file="/img/magus_hellwalker/2021-01-17+77078e4e.mp4" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 

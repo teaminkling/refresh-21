@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Goblet"]
 description = "by Goblet for week 8: High Sheen. Created using: ibispaint x."
 [[images]]
-      src = "/img/goblet/2021-02-23+b5991f84-thumbnail-w720px.png"
+      src = "/img/goblet/2021-02-23+b5991f84-thumb-w720px.png"
       href = "/blog/goblet-week-8-24cb"
       alt = "felled tree"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/goblet/2021-02-23+b5991f84-thumbnail-w720px.png" file="/img/goblet/2021-02-23+b5991f84.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/goblet/2021-02-23+b5991f84-thumb-w720px.png" file="/img/goblet/2021-02-23+b5991f84.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **ibispaint x**.

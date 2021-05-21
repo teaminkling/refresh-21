@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 5: Royal Green. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-02-02+543336d4-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-02-02+543336d4-thumb-w720px.png"
       href = "/blog/bell-bones-week-5-1fa0"
       alt = "Need a Hand?"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-02-02+543336d4-thumbnail-w720px.png" file="/img/bell-bones/2021-02-02+543336d4.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-02-02+543336d4-thumb-w720px.png" file="/img/bell-bones/2021-02-02+543336d4.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **FireAlpaca**.

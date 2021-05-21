@@ -6,14 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 13: Look At Me. Created using: Sketchbook pro & paint.net."
 [[images]]
-      src = "/img/trixynetex/2021-04-03+26098792-thumbnail-w720px.png"
+      src = "/img/trixynetex/2021-04-03+26098792-thumb-w720px.png"
       href = "/blog/trixynetex-week-13-b7c6"
       alt = "Fake Animu Screenshot"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/trixynetex/2021-04-03+26098792-thumbnail-w720px.png" file="/img/trixynetex/2021-04-03+26098792.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/trixynetex/2021-04-03+26098792-thumb-w720px.png" file="/img/trixynetex/2021-04-03+26098792.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **Sketchbook pro & paint.net**.

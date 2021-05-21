@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["Goblet"]
 description = "by Goblet for week 14: Absolute Fire. Created using: Krita."
 [[images]]
-      src = "/img/goblet/2021-04-08+bad9d64e-thumbnail-w720px.png"
+      src = "/img/goblet/2021-04-08+bad9d64e-thumb-w720px.png"
       href = "/blog/goblet-week-14-b10a"
       alt = "My cat is on fire"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/goblet/2021-04-08+bad9d64e-thumbnail-w720px.png" file="/img/goblet/2021-04-08+bad9d64e.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/goblet/2021-04-08+bad9d64e-thumb-w720px.png" file="/img/goblet/2021-04-08+bad9d64e.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Krita**.

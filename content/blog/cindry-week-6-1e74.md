@@ -6,15 +6,15 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["cindry"]
 description = "by cindry for week 6: Simple Love. Created using: Digital, and publication."
 [[images]]
-      src = "/img/cindry/2021-02-11+43bfc6b3-thumbnail-w720px.jpg"
+      src = "/img/cindry/2021-02-11+43bfc6b3-thumb-w720px.jpg"
       href = "/blog/cindry-week-6-1e74"
       alt = "Simple Love"
       caption = "This submission contains a file. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-02-11+43bfc6b3-thumbnail-w720px.jpg" file="/img/cindry/2021-02-11+43bfc6b3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/cindry/2021-02-11+e6ddbaa4-thumbnail-w720px.jpg" file="/img/cindry/2021-02-11+e6ddbaa4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-11+43bfc6b3-thumb-w720px.jpg" file="/img/cindry/2021-02-11+43bfc6b3.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-11+e6ddbaa4-thumb-w720px.jpg" file="/img/cindry/2021-02-11+e6ddbaa4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 <a href="/img/cindry/2021-02-11+eca3451c.pdf" target="_blank">Direct link to a .pdf file.</a>
 
 Week 6: **Simple Love**. This art was lovingly created using: **Digital, and publication**.

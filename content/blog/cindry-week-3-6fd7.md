@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["cindry"]
 description = "by cindry for week 3: Red Circle. Created using: Digital, SAI."
 [[images]]
-      src = "/img/cindry/2021-01-21+47ac53be-thumbnail-w720px.png"
+      src = "/img/cindry/2021-01-21+47ac53be-thumb-w720px.png"
       href = "/blog/cindry-week-3-6fd7"
       alt = "Fire Fist Ace"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-01-21+47ac53be-thumbnail-w720px.png" file="/img/cindry/2021-01-21+47ac53be.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-01-21+47ac53be-thumb-w720px.png" file="/img/cindry/2021-01-21+47ac53be.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Digital, SAI**.

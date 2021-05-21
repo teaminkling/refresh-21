@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Scimister"]
 description = "by Scimister for week 2: Deep Ocean. Created using: PaintToolSAI."
 [[images]]
-      src = "/img/scimister/2021-01-15+078d0769-thumbnail-w720px.png"
+      src = "/img/scimister/2021-01-15+078d0769-thumb-w720px.png"
       href = "/blog/scimister-week-2-17d4"
       alt = "Ascend"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/scimister/2021-01-15+078d0769-thumbnail-w720px.png" file="/img/scimister/2021-01-15+078d0769.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/scimister/2021-01-15+078d0769-thumb-w720px.png" file="/img/scimister/2021-01-15+078d0769.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **PaintToolSAI**.

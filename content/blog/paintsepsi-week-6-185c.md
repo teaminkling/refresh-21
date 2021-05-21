@@ -6,15 +6,15 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 6: Simple Love. Created using: Photoshop."
 [[images]]
-      src = "/img/paintsepsi/2021-02-06+ba138d86-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-02-06+ba138d86-thumb-w720px.png"
       href = "/blog/paintsepsi-week-6-185c"
       alt = "It's Not Living (If It's Not With You)"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-02-06+ba138d86-thumbnail-w720px.png" file="/img/paintsepsi/2021-02-06+ba138d86.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/paintsepsi/2021-02-06+ff32b948-thumbnail-w720px.png" file="/img/paintsepsi/2021-02-06+ff32b948.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-02-06+ba138d86-thumb-w720px.png" file="/img/paintsepsi/2021-02-06+ba138d86.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-02-06+ff32b948-thumb-w720px.png" file="/img/paintsepsi/2021-02-06+ff32b948.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Photoshop**.

@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 11: Atmosphere Spectrum. Created using: Clip studio."
 [[images]]
-      src = "/img/titan011/2021-03-16+58d120b4-thumbnail-w720px.jpg"
+      src = "/img/titan011/2021-03-16+58d120b4-thumb-w720px.jpg"
       href = "/blog/titan011-week-11-0fee"
       alt = "Set Sail to find the legendary Mandrake farm"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/titan011/2021-03-16+58d120b4-thumbnail-w720px.jpg" file="/img/titan011/2021-03-16+58d120b4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/titan011/2021-03-16+58d120b4-thumb-w720px.jpg" file="/img/titan011/2021-03-16+58d120b4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio**.

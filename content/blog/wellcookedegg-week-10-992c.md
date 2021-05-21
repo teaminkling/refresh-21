@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["WellCookedEgg"]
 description = "by WellCookedEgg for week 10: Folds and Folds. Created using: Clip Studio Paint."
 [[images]]
-      src = "/img/wellcookedegg/2021-03-08+0c56453f-thumbnail-w720px.jpg"
+      src = "/img/wellcookedegg/2021-03-08+0c56453f-thumb-w720px.jpg"
       href = "/blog/wellcookedegg-week-10-992c"
       alt = "The Bat Man"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f-thumbnail-w720px.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-08+0c56453f-thumb-w720px.jpg" file="/img/wellcookedegg/2021-03-08+0c56453f.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio Paint**.

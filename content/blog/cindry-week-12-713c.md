@@ -6,16 +6,16 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["cindry"]
 description = "by cindry for week 12: Visual Words. Created using: Photography and Digital Editing."
 [[images]]
-      src = "/img/cindry/2021-03-26+958a0cab-thumbnail-w720px.png"
+      src = "/img/cindry/2021-03-26+958a0cab-thumb-w720px.png"
       href = "/blog/cindry-week-12-713c"
       alt = "Just a normal day as an asian girl online"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-03-26+958a0cab-thumbnail-w720px.png" file="/img/cindry/2021-03-26+958a0cab.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/cindry/2021-03-26+34548882-thumbnail-w720px.png" file="/img/cindry/2021-03-26+34548882.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/cindry/2021-03-26+3e9369da-thumbnail-w720px.png" file="/img/cindry/2021-03-26+3e9369da.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-26+958a0cab-thumb-w720px.png" file="/img/cindry/2021-03-26+958a0cab.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-26+34548882-thumb-w720px.png" file="/img/cindry/2021-03-26+34548882.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-03-26+3e9369da-thumb-w720px.png" file="/img/cindry/2021-03-26+3e9369da.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Photography and Digital Editing**.

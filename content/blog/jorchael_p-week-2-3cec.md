@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 2: Deep Ocean. Created using: Photoshop."
 [[images]]
-      src = "/img/jorchael_p/2021-01-15+80ec58bd-thumbnail-w720px.png"
+      src = "/img/jorchael_p/2021-01-15+80ec58bd-thumb-w720px.png"
       href = "/blog/jorchael_p-week-2-3cec"
       alt = "Ah, Bright Light"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd-thumbnail-w720px.png" file="/img/jorchael_p/2021-01-15+80ec58bd.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jorchael_p/2021-01-15+80ec58bd-thumb-w720px.png" file="/img/jorchael_p/2021-01-15+80ec58bd.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Photoshop**.

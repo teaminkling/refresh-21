@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-      src = "/img/eggyolk/2021-01-16+f134fb41-thumbnail-w720px.png"
+      src = "/img/eggyolk/2021-01-16+f134fb41-thumb-w720px.png"
       href = "/blog/eggyolk-week-2-b1aa"
       alt = "Jormungandr"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/eggyolk/2021-01-16+f134fb41-thumbnail-w720px.png" file="/img/eggyolk/2021-01-16+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/eggyolk/2021-01-16+f134fb41-thumb-w720px.png" file="/img/eggyolk/2021-01-16+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.

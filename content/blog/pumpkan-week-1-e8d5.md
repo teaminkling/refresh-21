@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 1: Yellow Lines. Created using: procreate."
 [[images]]
-      src = "/img/pumpkan/2021-01-08+f134fb41-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-01-08+f134fb41-thumb-w720px.png"
       href = "/blog/pumpkan-week-1-e8d5"
       alt = "Four of Pumpkins"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-01-08+f134fb41-thumbnail-w720px.png" file="/img/pumpkan/2021-01-08+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-01-08+f134fb41-thumb-w720px.png" file="/img/pumpkan/2021-01-08+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **procreate**.

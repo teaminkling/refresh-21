@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["poru"]
 description = "by poru for week 7: Disturbed Desert. Created using: Clip Studio Paint."
 [[images]]
-      src = "/img/poru/2021-02-19+1a0d116d-thumbnail-w720px.png"
+      src = "/img/poru/2021-02-19+1a0d116d-thumb-w720px.png"
       href = "/blog/poru-week-7-a9a8"
       alt = "Desert Plains"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/poru/2021-02-19+1a0d116d-thumbnail-w720px.png" file="/img/poru/2021-02-19+1a0d116d.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/poru/2021-02-19+1a0d116d-thumb-w720px.png" file="/img/poru/2021-02-19+1a0d116d.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Clip Studio Paint**.

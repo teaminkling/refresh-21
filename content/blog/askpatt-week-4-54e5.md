@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["askpatt"]
 description = "by askpatt for week 4: Murky Silhouettes. Created using: PS."
 [[images]]
-      src = "/img/askpatt/2021-01-29+a59c2575-thumbnail-w720px.png"
+      src = "/img/askpatt/2021-01-29+a59c2575-thumb-w720px.png"
       href = "/blog/askpatt-week-4-54e5"
       alt = "Green mOon"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/askpatt/2021-01-29+a59c2575-thumbnail-w720px.png" file="/img/askpatt/2021-01-29+a59c2575.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/askpatt/2021-01-29+a59c2575-thumb-w720px.png" file="/img/askpatt/2021-01-29+a59c2575.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **PS**.

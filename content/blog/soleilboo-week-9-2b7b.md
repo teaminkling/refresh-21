@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 9: Bold Strokes. Created using: photoshop."
 [[images]]
-      src = "/img/soleilboo/2021-03-05+b19bf2ca-thumbnail-w720px.jpg"
+      src = "/img/soleilboo/2021-03-05+b19bf2ca-thumb-w720px.jpg"
       href = "/blog/soleilboo-week-9-2b7b"
       alt = "Be Bold and Believe"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-03-05+b19bf2ca-thumbnail-w720px.jpg" file="/img/soleilboo/2021-03-05+b19bf2ca.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-03-05+b19bf2ca-thumb-w720px.jpg" file="/img/soleilboo/2021-03-05+b19bf2ca.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **photoshop**.

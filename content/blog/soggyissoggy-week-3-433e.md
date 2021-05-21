@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["soggyissoggy"]
 description = "by soggyissoggy for week 3: Red Circle. Created using: unknown medium."
 [[images]]
-      src = "/img/soggyissoggy/2021-01-23+f134fb41-thumbnail-w720px.png"
+      src = "/img/soggyissoggy/2021-01-23+f134fb41-thumb-w720px.png"
       href = "/blog/soggyissoggy-week-3-433e"
       alt = "Icarus and the Sun"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soggyissoggy/2021-01-23+f134fb41-thumbnail-w720px.png" file="/img/soggyissoggy/2021-01-23+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soggyissoggy/2021-01-23+f134fb41-thumb-w720px.png" file="/img/soggyissoggy/2021-01-23+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **unknown medium**.

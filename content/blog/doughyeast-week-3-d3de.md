@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 3: Red Circle. Created using: Procreate."
 [[images]]
-      src = "/img/doughyeast/2021-01-21+9e3450b1-thumbnail-w720px.jpg"
+      src = "/img/doughyeast/2021-01-21+9e3450b1-thumb-w720px.jpg"
       href = "/blog/doughyeast-week-3-d3de"
       alt = "Cindy’s Imaginary Friend"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b1-thumbnail-w720px.jpg" file="/img/doughyeast/2021-01-21+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/doughyeast/2021-01-21+9e3450b1-thumb-w720px.jpg" file="/img/doughyeast/2021-01-21+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.

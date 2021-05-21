@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 11: Atmosphere Spectrum. Created using: paper and gold thread and glue and stuff."
 [[images]]
-      src = "/img/pumpkan/2021-03-19+2a3d2a3b-thumbnail-w720px.jpg"
+      src = "/img/pumpkan/2021-03-19+2a3d2a3b-thumb-w720px.jpg"
       href = "/blog/pumpkan-week-11-49d3"
       alt = "He RUINED my DREAM JOURNAL"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-03-19+2a3d2a3b-thumbnail-w720px.jpg" file="/img/pumpkan/2021-03-19+2a3d2a3b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-03-19+2a3d2a3b-thumb-w720px.jpg" file="/img/pumpkan/2021-03-19+2a3d2a3b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **paper and gold thread and glue and stuff**.

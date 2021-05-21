@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["fonz"]
 description = "by fonz for week 7: Disturbed Desert. Created using: csp."
 [[images]]
-      src = "/img/fonz/2021-02-19+612870d7-thumbnail-w720px.png"
+      src = "/img/fonz/2021-02-19+612870d7-thumb-w720px.png"
       href = "/blog/fonz-week-7-532a"
       alt = "desert strands"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/fonz/2021-02-19+612870d7-thumbnail-w720px.png" file="/img/fonz/2021-02-19+612870d7.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/fonz/2021-02-19+612870d7-thumb-w720px.png" file="/img/fonz/2021-02-19+612870d7.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **csp**.

@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 15: Back to Basics. Created using: Procreate."
 [[images]]
-      src = "/img/eggyolk/2021-04-16+1c862017-thumbnail-w720px.png"
+      src = "/img/eggyolk/2021-04-16+1c862017-thumb-w720px.png"
       href = "/blog/eggyolk-week-15-69ac"
       alt = "hEhE LEmon bUTt but also strawberry and coffee is kinda vibes"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/eggyolk/2021-04-16+1c862017-thumbnail-w720px.png" file="/img/eggyolk/2021-04-16+1c862017.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/eggyolk/2021-04-16+1c862017-thumb-w720px.png" file="/img/eggyolk/2021-04-16+1c862017.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Procreate**.

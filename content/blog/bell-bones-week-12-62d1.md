@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 12: Visual Words. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-03-25+9fef949c-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-03-25+9fef949c-thumb-w720px.png"
       href = "/blog/bell-bones-week-12-62d1"
       alt = "Exhaustion"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-03-25+9fef949c-thumbnail-w720px.png" file="/img/bell-bones/2021-03-25+9fef949c.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-03-25+9fef949c-thumb-w720px.png" file="/img/bell-bones/2021-03-25+9fef949c.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **FireAlpaca**.

@@ -6,15 +6,15 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["ocean"]
 description = "by ocean for week 5: Royal Green. Created using: soapstone carving."
 [[images]]
-      src = "/img/ocean/2021-02-05+9e3450b1-thumbnail-w720px.jpg"
+      src = "/img/ocean/2021-02-05+9e3450b1-thumb-w720px.jpg"
       href = "/blog/ocean-week-5-cdf0"
       alt = "Seal soapstone carving"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/ocean/2021-02-05+9e3450b1-thumbnail-w720px.jpg" file="/img/ocean/2021-02-05+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/ocean/2021-02-05+e5d67599-thumbnail-w720px.jpg" file="/img/ocean/2021-02-05+e5d67599.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/ocean/2021-02-05+9e3450b1-thumb-w720px.jpg" file="/img/ocean/2021-02-05+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/ocean/2021-02-05+e5d67599-thumb-w720px.jpg" file="/img/ocean/2021-02-05+e5d67599.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **soapstone carving**.

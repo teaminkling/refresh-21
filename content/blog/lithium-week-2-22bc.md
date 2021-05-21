@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Lithium"]
 description = "by Lithium for week 2: Deep Ocean. Created using: Digital (Clip Studio Paint)."
 [[images]]
-      src = "/img/lithium/2021-01-15+785a742e-thumbnail-w720px.jpg"
+      src = "/img/lithium/2021-01-15+785a742e-thumb-w720px.jpg"
       href = "/blog/lithium-week-2-22bc"
       alt = "The Galaxy Beneath"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/lithium/2021-01-15+785a742e-thumbnail-w720px.jpg" file="/img/lithium/2021-01-15+785a742e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/lithium/2021-01-15+785a742e-thumb-w720px.jpg" file="/img/lithium/2021-01-15+785a742e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Digital (Clip Studio Paint)**.

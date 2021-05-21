@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["vectorong"]
 description = "by vectorong for week 9: Bold Strokes. Created using: Suminagashi (Japanese ink marbling technique) on handmade paper."
 [[images]]
-      src = "/img/vectorong/2021-03-04+22bd1673-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-03-04+22bd1673-thumb-w720px.jpg"
       href = "/blog/vectorong-week-9-fe02"
       alt = "Repetition, Reminisce, Reflection"
       caption = "This submission contains a video link. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-03-04+22bd1673-thumbnail-w720px.jpg" file="/img/vectorong/2021-03-04+22bd1673.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-03-04+22bd1673-thumb-w720px.jpg" file="/img/vectorong/2021-03-04+22bd1673.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 {{< fancybox path="https://img.youtube.com/vi/wdwzLaljOzw/maxresdefault.jpg" file="https://www.youtube.com/watch?v=wdwzLaljOzw" caption="Placeholder thumbnail for a visual still work." >}}
 
 

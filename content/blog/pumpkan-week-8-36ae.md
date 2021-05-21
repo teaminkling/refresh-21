@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 8: High Sheen. Created using: Digital collage (procreate)."
 [[images]]
-      src = "/img/pumpkan/2021-02-26+6c13682c-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-02-26+6c13682c-thumb-w720px.png"
       href = "/blog/pumpkan-week-8-36ae"
       alt = "Angels in our Atmosphere"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-02-26+6c13682c-thumbnail-w720px.png" file="/img/pumpkan/2021-02-26+6c13682c.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-02-26+6c13682c-thumb-w720px.png" file="/img/pumpkan/2021-02-26+6c13682c.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Digital collage (procreate)**.

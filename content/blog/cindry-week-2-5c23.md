@@ -6,15 +6,15 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["cindry"]
 description = "by cindry for week 2: Deep Ocean. Created using: 2 page comic, Ink on Paper."
 [[images]]
-      src = "/img/cindry/2021-01-15+8172fe71-thumbnail-w720px.jpg"
+      src = "/img/cindry/2021-01-15+8172fe71-thumb-w720px.jpg"
       href = "/blog/cindry-week-2-5c23"
       alt = "Deep Discovery"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-01-15+8172fe71-thumbnail-w720px.jpg" file="/img/cindry/2021-01-15+8172fe71.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/cindry/2021-01-15+11d60b32-thumbnail-w720px.jpg" file="/img/cindry/2021-01-15+11d60b32.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-01-15+8172fe71-thumb-w720px.jpg" file="/img/cindry/2021-01-15+8172fe71.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-01-15+11d60b32-thumb-w720px.jpg" file="/img/cindry/2021-01-15+11d60b32.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **2 page comic, Ink on Paper**.

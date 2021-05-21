@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Space Warfare Development"]
 description = "by Space Warfare Development for week 4: Murky Silhouettes. Created using: Traditional, Copic markers."
 [[images]]
-      src = "/img/space_warfare_development/2021-01-30+06af067c-thumbnail-w720px.jpg"
+      src = "/img/space_warfare_development/2021-01-30+06af067c-thumb-w720px.jpg"
       href = "/blog/space-warfare-development-week-4-6b0e"
       alt = "Coconut Crab"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/space_warfare_development/2021-01-30+06af067c-thumbnail-w720px.jpg" file="/img/space_warfare_development/2021-01-30+06af067c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/space_warfare_development/2021-01-30+06af067c-thumb-w720px.jpg" file="/img/space_warfare_development/2021-01-30+06af067c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Traditional, Copic markers**.

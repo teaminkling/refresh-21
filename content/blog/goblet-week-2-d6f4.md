@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Goblet"]
 description = "by Goblet for week 2: Deep Ocean. Created using: ibispaint x."
 [[images]]
-      src = "/img/goblet/2021-01-10+d547baa6-thumbnail-w720px.png"
+      src = "/img/goblet/2021-01-10+d547baa6-thumb-w720px.png"
       href = "/blog/goblet-week-2-d6f4"
       alt = "simple angler pog"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/goblet/2021-01-10+d547baa6-thumbnail-w720px.png" file="/img/goblet/2021-01-10+d547baa6.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/goblet/2021-01-10+d547baa6-thumb-w720px.png" file="/img/goblet/2021-01-10+d547baa6.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **ibispaint x**.

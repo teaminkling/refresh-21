@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["cindry"]
 description = "by cindry for week 17: The 4 R's: Finale. Created using: Publication with InDesign."
 [[images]]
-      src = "/img/cindry/2021-05-06+6020fa12-thumbnail-w720px.png"
+      src = "/img/cindry/2021-05-06+6020fa12-thumb-w720px.png"
       href = "/blog/cindry-week-17-1b83"
       alt = "Keep It Simple"
       caption = "This submission contains a file. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-05-06+6020fa12-thumbnail-w720px.png" file="/img/cindry/2021-05-06+6020fa12.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-05-06+6020fa12-thumb-w720px.png" file="/img/cindry/2021-05-06+6020fa12.png" caption="Placeholder thumbnail for a visual still work." >}}
 <a href="/img/cindry/2021-05-06+b215ce8b.pdf" target="_blank">Direct link to a .pdf file.</a><a href="/img/cindry/2021-05-06+925c0a2c.pdf" target="_blank">Direct link to a .pdf file.</a>
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Publication with InDesign**.

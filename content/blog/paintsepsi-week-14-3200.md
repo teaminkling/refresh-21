@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 14: Absolute Fire. Created using: Procreate."
 [[images]]
-      src = "/img/paintsepsi/2021-04-22+f134fb41-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-04-22+f134fb41-thumb-w720px.png"
       href = "/blog/paintsepsi-week-14-3200"
       alt = "PK Fire"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-04-22+f134fb41-thumbnail-w720px.png" file="/img/paintsepsi/2021-04-22+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-04-22+f134fb41-thumb-w720px.png" file="/img/paintsepsi/2021-04-22+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **Procreate**.

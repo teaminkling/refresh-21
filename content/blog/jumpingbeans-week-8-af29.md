@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 8: High Sheen. Created using: Autodesk sketch."
 [[images]]
-      src = "/img/jumpingbeans/2021-02-23+f321fb83-thumbnail-w720px.jpg"
+      src = "/img/jumpingbeans/2021-02-23+f321fb83-thumb-w720px.jpg"
       href = "/blog/jumpingbeans-week-8-af29"
       alt = "Trashbin"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jumpingbeans/2021-02-23+f321fb83-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-02-23+f321fb83.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-02-23+f321fb83-thumb-w720px.jpg" file="/img/jumpingbeans/2021-02-23+f321fb83.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Autodesk sketch**.

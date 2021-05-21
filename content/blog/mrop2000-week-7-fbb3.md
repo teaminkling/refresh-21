@@ -6,14 +6,14 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["Mrop2000"]
 description = "by Mrop2000 for week 7: Disturbed Desert. Created using: Ballpoint and hand smudge."
 [[images]]
-      src = "/img/mrop2000/2021-02-19+340e8384-thumbnail-w720px.png"
+      src = "/img/mrop2000/2021-02-19+340e8384-thumb-w720px.png"
       href = "/blog/mrop2000-week-7-fbb3"
       alt = "Angry Bird"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/mrop2000/2021-02-19+340e8384-thumbnail-w720px.png" file="/img/mrop2000/2021-02-19+340e8384.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/mrop2000/2021-02-19+340e8384-thumb-w720px.png" file="/img/mrop2000/2021-02-19+340e8384.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ballpoint and hand smudge**.

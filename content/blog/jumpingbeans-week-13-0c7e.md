@@ -6,14 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 13: Look At Me. Created using: MS paint /some online video compiler."
 [[images]]
-      src = "/img/video-placeholder.png"
+      src = "/img/jumpingbeans/2021-03-29+83503df7-thumb-w720px.jpg"
       href = "/blog/jumpingbeans-week-13-0c7e"
       alt = "Things you use to see yourself with"
       caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/video-placeholder.png" file="/img/jumpingbeans/2021-03-29+83503df7.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-03-29+83503df7-thumb-w720px.jpg" file="/img/jumpingbeans/2021-03-29+83503df7.mp4" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 

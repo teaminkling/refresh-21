@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 17: The 4 R's: Finale. Created using: Photoshop/ digital painting/ cover album."
 [[images]]
-      src = "/img/soleilboo/2021-05-06+3277f97e-thumbnail-w720px.jpg"
+      src = "/img/soleilboo/2021-05-06+3277f97e-thumb-w720px.jpg"
       href = "/blog/soleilboo-week-17-7c5e"
       alt = "MUSE"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-05-06+3277f97e-thumbnail-w720px.jpg" file="/img/soleilboo/2021-05-06+3277f97e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-05-06+3277f97e-thumb-w720px.jpg" file="/img/soleilboo/2021-05-06+3277f97e.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Photoshop/ digital painting/ cover album**.

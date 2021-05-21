@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["Goblet"]
 description = "by Goblet for week 17: The 4 R's: Finale. Created using: wood, knife."
 [[images]]
-      src = "/img/goblet/2021-05-05+bb29dabf-thumbnail-w720px.jpg"
+      src = "/img/goblet/2021-05-05+bb29dabf-thumb-w720px.jpg"
       href = "/blog/goblet-week-17-05c2"
       alt = "wittle whale"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/goblet/2021-05-05+bb29dabf-thumbnail-w720px.jpg" file="/img/goblet/2021-05-05+bb29dabf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/goblet/2021-05-05+bb29dabf-thumb-w720px.jpg" file="/img/goblet/2021-05-05+bb29dabf.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **wood, knife**.

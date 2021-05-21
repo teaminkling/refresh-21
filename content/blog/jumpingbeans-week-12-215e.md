@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 12: Visual Words. Created using: gif."
 [[images]]
-      src = "/img/jumpingbeans/2021-03-21+d7880230-thumbnail-w720px.gif"
+      src = "/img/jumpingbeans/2021-03-21+d7880230-thumb-w720px.gif"
       href = "/blog/jumpingbeans-week-12-215e"
       alt = "wrod"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jumpingbeans/2021-03-21+d7880230-thumbnail-w720px.gif" file="/img/jumpingbeans/2021-03-21+d7880230.gif" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-03-21+d7880230-thumb-w720px.gif" file="/img/jumpingbeans/2021-03-21+d7880230.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **gif**.

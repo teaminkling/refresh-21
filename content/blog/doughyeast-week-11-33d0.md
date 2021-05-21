@@ -6,16 +6,16 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["DoughYeast"]
 description = "by DoughYeast for week 11: Atmosphere Spectrum. Created using: Procreate."
 [[images]]
-      src = "/img/doughyeast/2021-03-19+9e3450b1-thumbnail-w720px.jpg"
+      src = "/img/doughyeast/2021-03-19+9e3450b1-thumb-w720px.jpg"
       href = "/blog/doughyeast-week-11-33d0"
       alt = "“you would make the sky a gijinka” - enoki"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/doughyeast/2021-03-19+9e3450b1-thumbnail-w720px.jpg" file="/img/doughyeast/2021-03-19+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/doughyeast/2021-03-19+e5d67599-thumbnail-w720px.jpg" file="/img/doughyeast/2021-03-19+e5d67599.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/doughyeast/2021-03-19+88657803-thumbnail-w720px.jpg" file="/img/doughyeast/2021-03-19+88657803.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+9e3450b1-thumb-w720px.jpg" file="/img/doughyeast/2021-03-19+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+e5d67599-thumb-w720px.jpg" file="/img/doughyeast/2021-03-19+e5d67599.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/doughyeast/2021-03-19+88657803-thumb-w720px.jpg" file="/img/doughyeast/2021-03-19+88657803.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.

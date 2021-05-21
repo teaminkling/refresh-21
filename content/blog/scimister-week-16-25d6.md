@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["Scimister"]
 description = "by Scimister for week 16: Scaling Giants. Created using: Paint Tool SAI."
 [[images]]
-      src = "/img/scimister/2021-04-23+3346ec65-thumbnail-w720px.png"
+      src = "/img/scimister/2021-04-23+3346ec65-thumb-w720px.png"
       href = "/blog/scimister-week-16-25d6"
       alt = "Guardian"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/scimister/2021-04-23+3346ec65-thumbnail-w720px.png" file="/img/scimister/2021-04-23+3346ec65.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/scimister/2021-04-23+3346ec65-thumb-w720px.png" file="/img/scimister/2021-04-23+3346ec65.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Paint Tool SAI**.

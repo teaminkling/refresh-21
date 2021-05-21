@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["Lithium"]
 description = "by Lithium for week 17: The 4 R's: Finale. Created using: Clip Studio Paint."
 [[images]]
-      src = "/img/lithium/2021-05-06+4279c1c8-thumbnail-w720px.jpg"
+      src = "/img/lithium/2021-05-06+4279c1c8-thumb-w720px.jpg"
       href = "/blog/lithium-week-17-93bc"
       alt = "A Farewell Glance"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/lithium/2021-05-06+4279c1c8-thumbnail-w720px.jpg" file="/img/lithium/2021-05-06+4279c1c8.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/lithium/2021-05-06+4279c1c8-thumb-w720px.jpg" file="/img/lithium/2021-05-06+4279c1c8.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Clip Studio Paint**.

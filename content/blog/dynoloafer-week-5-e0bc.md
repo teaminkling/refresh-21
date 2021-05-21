@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["DynoLoafer"]
 description = "by DynoLoafer for week 5: Royal Green. Created using: Paint Tool SAI."
 [[images]]
-      src = "/img/dynoloafer/2021-02-05+aa2a21cd-thumbnail-w720px.png"
+      src = "/img/dynoloafer/2021-02-05+aa2a21cd-thumb-w720px.png"
       href = "/blog/dynoloafer-week-5-e0bc"
       alt = "Not My Forte"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd-thumbnail-w720px.png" file="/img/dynoloafer/2021-02-05+aa2a21cd.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/dynoloafer/2021-02-05+aa2a21cd-thumb-w720px.png" file="/img/dynoloafer/2021-02-05+aa2a21cd.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Paint Tool SAI**.

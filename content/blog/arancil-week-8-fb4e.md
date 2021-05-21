@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["arancil"]
 description = "by arancil for week 8: High Sheen. Created using: Oil sticks & oil crayons + some paper cutout."
 [[images]]
-      src = "/img/arancil/2021-02-23+7810d095-thumbnail-w720px.jpg"
+      src = "/img/arancil/2021-02-23+7810d095-thumb-w720px.jpg"
       href = "/blog/arancil-week-8-fb4e"
       alt = "1:43:51 (PB)"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arancil/2021-02-23+7810d095-thumbnail-w720px.jpg" file="/img/arancil/2021-02-23+7810d095.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-02-23+7810d095-thumb-w720px.jpg" file="/img/arancil/2021-02-23+7810d095.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Oil sticks & oil crayons + some paper cutout**.

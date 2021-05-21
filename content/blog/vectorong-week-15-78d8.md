@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["vectorong"]
 description = "by vectorong for week 15: Back to Basics. Created using: Food."
 [[images]]
-      src = "/img/vectorong/2021-04-15+3abf0adc-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-04-15+3abf0adc-thumb-w720px.jpg"
       href = "/blog/vectorong-week-15-78d8"
       alt = "Bread, Butter, Boysenberry"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc-thumbnail-w720px.jpg" file="/img/vectorong/2021-04-15+3abf0adc.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-04-15+3abf0adc-thumb-w720px.jpg" file="/img/vectorong/2021-04-15+3abf0adc.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Food**.

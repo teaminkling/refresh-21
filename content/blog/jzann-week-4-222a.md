@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Jzann"]
 description = "by Jzann for week 4: Murky Silhouettes. Created using: Clip Studio Paint."
 [[images]]
-      src = "/img/jzann/2021-01-29+1665f7c8-thumbnail-w720px.png"
+      src = "/img/jzann/2021-01-29+1665f7c8-thumb-w720px.png"
       href = "/blog/jzann-week-4-222a"
       alt = "Current"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jzann/2021-01-29+1665f7c8-thumbnail-w720px.png" file="/img/jzann/2021-01-29+1665f7c8.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jzann/2021-01-29+1665f7c8-thumb-w720px.png" file="/img/jzann/2021-01-29+1665f7c8.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Clip Studio Paint**.

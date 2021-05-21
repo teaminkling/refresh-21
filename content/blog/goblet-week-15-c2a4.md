@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["Goblet"]
 description = "by Goblet for week 15: Back to Basics. Created using: Paper, permanent marker.."
 [[images]]
-      src = "/img/goblet/2021-04-16+a0626a3c-thumbnail-w720px.jpg"
+      src = "/img/goblet/2021-04-16+a0626a3c-thumb-w720px.jpg"
       href = "/blog/goblet-week-15-c2a4"
       alt = "Tightrope banana."
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/goblet/2021-04-16+a0626a3c-thumbnail-w720px.jpg" file="/img/goblet/2021-04-16+a0626a3c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/goblet/2021-04-16+a0626a3c-thumb-w720px.jpg" file="/img/goblet/2021-04-16+a0626a3c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Paper, permanent marker.**.

@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["okie.dokie.enoki"]
 description = "by okie.dokie.enoki for week 6: Simple Love. Created using: procreate."
 [[images]]
-      src = "/img/okie.dokie.enoki/2021-02-12+f134fb41-thumbnail-w720px.png"
+      src = "/img/okie.dokie.enoki/2021-02-12+f134fb41-thumb-w720px.png"
       href = "/blog/okie.dokie.enoki-week-6-42f0"
       alt = "solemn night"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/okie.dokie.enoki/2021-02-12+f134fb41-thumbnail-w720px.png" file="/img/okie.dokie.enoki/2021-02-12+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/okie.dokie.enoki/2021-02-12+f134fb41-thumb-w720px.png" file="/img/okie.dokie.enoki/2021-02-12+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **procreate**.

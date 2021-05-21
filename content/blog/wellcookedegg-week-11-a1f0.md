@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["WellCookedEgg"]
 description = "by WellCookedEgg for week 11: Atmosphere Spectrum. Created using: Clip studio paint."
 [[images]]
-      src = "/img/wellcookedegg/2021-03-14+9e816de5-thumbnail-w720px.jpg"
+      src = "/img/wellcookedegg/2021-03-14+9e816de5-thumb-w720px.jpg"
       href = "/blog/wellcookedegg-week-11-a1f0"
       alt = "Laputa"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5-thumbnail-w720px.jpg" file="/img/wellcookedegg/2021-03-14+9e816de5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/wellcookedegg/2021-03-14+9e816de5-thumb-w720px.jpg" file="/img/wellcookedegg/2021-03-14+9e816de5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Clip studio paint**.

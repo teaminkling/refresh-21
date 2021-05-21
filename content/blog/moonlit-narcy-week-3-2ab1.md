@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["Moonlit Narcy"]
 description = "by Moonlit Narcy for week 3: Red Circle. Created using: Procreate."
 [[images]]
-      src = "/img/moonlit_narcy/2021-01-19+f134fb41-thumbnail-w720px.png"
+      src = "/img/moonlit_narcy/2021-01-19+f134fb41-thumb-w720px.png"
       href = "/blog/moonlit-narcy-week-3-2ab1"
       alt = "compassionate eye"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41-thumbnail-w720px.png" file="/img/moonlit_narcy/2021-01-19+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-19+f134fb41-thumb-w720px.png" file="/img/moonlit_narcy/2021-01-19+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Procreate**.

@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["D3m0n_Msc"]
 description = "by D3m0n_Msc for week 8: High Sheen. Created using: : Phone."
 [[images]]
-      src = "/img/d3m0n_msc/2021-02-23+8f498cc5-thumbnail-w720px.png"
+      src = "/img/d3m0n_msc/2021-02-23+8f498cc5-thumb-w720px.png"
       href = "/blog/d3m0n_msc-week-8-02a0"
       alt = "My favourite artist"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/d3m0n_msc/2021-02-23+8f498cc5-thumbnail-w720px.png" file="/img/d3m0n_msc/2021-02-23+8f498cc5.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-23+8f498cc5-thumb-w720px.png" file="/img/d3m0n_msc/2021-02-23+8f498cc5.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **: Phone**.

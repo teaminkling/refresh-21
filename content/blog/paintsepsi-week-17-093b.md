@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 17: The 4 R's: Finale. Created using: Procreate."
 [[images]]
-      src = "/img/paintsepsi/2021-05-06+2996beab-thumbnail-w720px.jpg"
+      src = "/img/paintsepsi/2021-05-06+2996beab-thumb-w720px.jpg"
       href = "/blog/paintsepsi-week-17-093b"
       alt = "Re:dux"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-05-06+2996beab-thumbnail-w720px.jpg" file="/img/paintsepsi/2021-05-06+2996beab.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-05-06+2996beab-thumb-w720px.jpg" file="/img/paintsepsi/2021-05-06+2996beab.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Procreate**.

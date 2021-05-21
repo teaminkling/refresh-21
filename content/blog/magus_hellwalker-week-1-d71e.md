@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["Magus_Hellwalker"]
 description = "by Magus_Hellwalker for week 1: Yellow Lines. Created using: 3D Digital."
 [[images]]
-      src = "/img/video-placeholder.png"
+      src = "/img/magus_hellwalker/2021-01-16+316b8f2b-thumb-w720px.jpg"
       href = "/blog/magus_hellwalker-week-1-d71e"
       alt = "It Spins"
       caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/video-placeholder.png" file="/img/magus_hellwalker/2021-01-16+316b8f2b.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/magus_hellwalker/2021-01-16+316b8f2b-thumb-w720px.jpg" file="/img/magus_hellwalker/2021-01-16+316b8f2b.mp4" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 

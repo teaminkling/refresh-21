@@ -6,16 +6,16 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["arancil"]
 description = "by arancil for week 7: Disturbed Desert. Created using: Ink, traditional."
 [[images]]
-      src = "/img/arancil/2021-02-19+390455a4-thumbnail-w720px.jpg"
+      src = "/img/arancil/2021-02-19+390455a4-thumb-w720px.jpg"
       href = "/blog/arancil-week-7-c2c0"
       alt = "placeholder edit later"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arancil/2021-02-19+390455a4-thumbnail-w720px.jpg" file="/img/arancil/2021-02-19+390455a4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/arancil/2021-02-19+8cc290b5-thumbnail-w720px.jpg" file="/img/arancil/2021-02-19+8cc290b5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/arancil/2021-02-19+4fea16d1-thumbnail-w720px.jpg" file="/img/arancil/2021-02-19+4fea16d1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-02-19+390455a4-thumb-w720px.jpg" file="/img/arancil/2021-02-19+390455a4.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-02-19+8cc290b5-thumb-w720px.jpg" file="/img/arancil/2021-02-19+8cc290b5.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arancil/2021-02-19+4fea16d1-thumb-w720px.jpg" file="/img/arancil/2021-02-19+4fea16d1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **Ink, traditional**.

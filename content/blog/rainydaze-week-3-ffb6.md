@@ -6,14 +6,14 @@ themes =      ["Week 03: Red Circle"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 3: Red Circle. Created using: Marker, brush pen, acrylic (red)."
 [[images]]
-      src = "/img/rainydaze/2021-01-21+9e3450b1-thumbnail-w720px.jpg"
+      src = "/img/rainydaze/2021-01-21+9e3450b1-thumb-w720px.jpg"
       href = "/blog/rainydaze-week-3-ffb6"
       alt = "Shadow of the Red Sun"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/rainydaze/2021-01-21+9e3450b1-thumbnail-w720px.jpg" file="/img/rainydaze/2021-01-21+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/rainydaze/2021-01-21+9e3450b1-thumb-w720px.jpg" file="/img/rainydaze/2021-01-21+9e3450b1.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 3: **Red Circle**. This art was lovingly created using: **Marker, brush pen, acrylic (red)**.

@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 15: Back to Basics. Created using: chinese calligraphy."
 [[images]]
-      src = "/img/jumpingbeans/2021-04-10+c488d3eb-thumbnail-w720px.jpg"
+      src = "/img/jumpingbeans/2021-04-10+c488d3eb-thumb-w720px.jpg"
       href = "/blog/jumpingbeans-week-15-f94f"
       alt = "illiteracy"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jumpingbeans/2021-04-10+c488d3eb-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-04-10+c488d3eb.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-04-10+c488d3eb-thumb-w720px.jpg" file="/img/jumpingbeans/2021-04-10+c488d3eb.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **chinese calligraphy**.

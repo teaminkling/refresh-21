@@ -6,14 +6,14 @@ themes =      ["Week 12: Visual Words"]
 artists =     ["vectorong"]
 description = "by vectorong for week 12: Visual Words. Created using: Ink + Marker, Photoshop."
 [[images]]
-      src = "/img/vectorong/2021-03-24+8d497b68-thumbnail-w720px.jpg"
+      src = "/img/vectorong/2021-03-24+8d497b68-thumb-w720px.jpg"
       href = "/blog/vectorong-week-12-9bfb"
       alt = "The Comfy Chair"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/vectorong/2021-03-24+8d497b68-thumbnail-w720px.jpg" file="/img/vectorong/2021-03-24+8d497b68.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/vectorong/2021-03-24+8d497b68-thumb-w720px.jpg" file="/img/vectorong/2021-03-24+8d497b68.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 12: **Visual Words**. This art was lovingly created using: **Ink + Marker, Photoshop**.

@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Moonlit Narcy"]
 description = "by Moonlit Narcy for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-      src = "/img/moonlit_narcy/2021-01-30+f134fb41-thumbnail-w720px.png"
+      src = "/img/moonlit_narcy/2021-01-30+f134fb41-thumb-w720px.png"
       href = "/blog/moonlit-narcy-week-4-3b95"
       alt = "Just Smile & Smell the Flowers"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/moonlit_narcy/2021-01-30+f134fb41-thumbnail-w720px.png" file="/img/moonlit_narcy/2021-01-30+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/moonlit_narcy/2021-01-30+f134fb41-thumb-w720px.png" file="/img/moonlit_narcy/2021-01-30+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.

@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["arren"]
 description = "by arren for week 1: Yellow Lines. Created using: photoshop."
 [[images]]
-      src = "/img/arren/2021-01-05+3e589b3d-thumbnail-w720px.gif"
+      src = "/img/arren/2021-01-05+3e589b3d-thumb-w720px.gif"
       href = "/blog/arren-week-1-9c0e"
       alt = "sparkly mandrake"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/arren/2021-01-05+3e589b3d-thumbnail-w720px.gif" file="/img/arren/2021-01-05+3e589b3d.gif" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/arren/2021-01-05+3e589b3d-thumb-w720px.gif" file="/img/arren/2021-01-05+3e589b3d.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **photoshop**.

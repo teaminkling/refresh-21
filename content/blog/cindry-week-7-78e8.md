@@ -6,15 +6,15 @@ themes =      ["Week 07: Disturbed Desert"]
 artists =     ["cindry"]
 description = "by cindry for week 7: Disturbed Desert. Created using: ink on paper,  a comic!."
 [[images]]
-      src = "/img/cindry/2021-02-19+6db735e6-thumbnail-w720px.png"
+      src = "/img/cindry/2021-02-19+6db735e6-thumb-w720px.png"
       href = "/blog/cindry-week-7-78e8"
       alt = "Strange Sands"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-02-19+6db735e6-thumbnail-w720px.png" file="/img/cindry/2021-02-19+6db735e6.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/cindry/2021-02-19+a94f76d7-thumbnail-w720px.png" file="/img/cindry/2021-02-19+a94f76d7.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-19+6db735e6-thumb-w720px.png" file="/img/cindry/2021-02-19+6db735e6.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-02-19+a94f76d7-thumb-w720px.png" file="/img/cindry/2021-02-19+a94f76d7.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 7: **Disturbed Desert**. This art was lovingly created using: **ink on paper,  a comic!**.

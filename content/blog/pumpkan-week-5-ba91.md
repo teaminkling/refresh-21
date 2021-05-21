@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 5: Royal Green. Created using: Procreate."
 [[images]]
-      src = "/img/pumpkan/2021-02-05+2ac9fdcb-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-02-05+2ac9fdcb-thumb-w720px.png"
       href = "/blog/pumpkan-week-5-ba91"
       alt = "Prosperity"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb-thumbnail-w720px.png" file="/img/pumpkan/2021-02-05+2ac9fdcb.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-02-05+2ac9fdcb-thumb-w720px.png" file="/img/pumpkan/2021-02-05+2ac9fdcb.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Procreate**.

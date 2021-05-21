@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 8: High Sheen. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-02-26+1dfb2e21-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-02-26+1dfb2e21-thumb-w720px.png"
       href = "/blog/bell-bones-week-8-3521"
       alt = "Brooke Rivers"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e21-thumbnail-w720px.png" file="/img/bell-bones/2021-02-26+1dfb2e21.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-02-26+1dfb2e21-thumb-w720px.png" file="/img/bell-bones/2021-02-26+1dfb2e21.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **FireAlpaca**.

@@ -6,14 +6,14 @@ themes =      ["Week 16: Scaling Giants"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 16: Scaling Giants. Created using: Digital - Clip Studio Paint."
 [[images]]
-      src = "/img/a1ewanrichards/2021-04-23+91647e6c-thumbnail-w720px.jpg"
+      src = "/img/a1ewanrichards/2021-04-23+91647e6c-thumb-w720px.jpg"
       href = "/blog/a1ewanrichards-week-16-9695"
       alt = "Amalgamation: At A Time Like This, Will Someone Be There For You?"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-23+91647e6c-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-04-23+91647e6c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-23+91647e6c-thumb-w720px.jpg" file="/img/a1ewanrichards/2021-04-23+91647e6c.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 16: **Scaling Giants**. This art was lovingly created using: **Digital - Clip Studio Paint**.

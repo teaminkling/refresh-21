@@ -6,14 +6,14 @@ themes =      ["Week 05: Royal Green"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 5: Royal Green. Created using: Installation."
 [[images]]
-      src = "/img/jumpingbeans/2021-01-30+530c0a5f-thumbnail-w720px.jpg"
+      src = "/img/jumpingbeans/2021-01-30+530c0a5f-thumb-w720px.jpg"
       href = "/blog/jumpingbeans-week-5-328d"
       alt = "Here we go again"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5f-thumbnail-w720px.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5f.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-30+530c0a5f-thumb-w720px.jpg" file="/img/jumpingbeans/2021-01-30+530c0a5f.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 5: **Royal Green**. This art was lovingly created using: **Installation**.

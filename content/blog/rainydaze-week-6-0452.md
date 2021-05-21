@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["rainydaze"]
 description = "by rainydaze for week 6: Simple Love. Created using: Procreate, with the Narinder Pencil."
 [[images]]
-      src = "/img/rainydaze/2021-02-10+9f067fbd-thumbnail-w720px.png"
+      src = "/img/rainydaze/2021-02-10+9f067fbd-thumb-w720px.png"
       href = "/blog/rainydaze-week-6-0452"
       alt = "inanimate objects that give me comfort"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd-thumbnail-w720px.png" file="/img/rainydaze/2021-02-10+9f067fbd.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/rainydaze/2021-02-10+9f067fbd-thumb-w720px.png" file="/img/rainydaze/2021-02-10+9f067fbd.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **Procreate, with the Narinder Pencil**.

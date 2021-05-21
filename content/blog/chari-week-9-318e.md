@@ -6,14 +6,14 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["chari"]
 description = "by chari for week 9: Bold Strokes. Created using: Digital, Clip Studio Paint."
 [[images]]
-      src = "/img/chari/2021-03-05+8bb33677-thumbnail-w720px.png"
+      src = "/img/chari/2021-03-05+8bb33677-thumb-w720px.png"
       href = "/blog/chari-week-9-318e"
       alt = "iPod Nano"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/chari/2021-03-05+8bb33677-thumbnail-w720px.png" file="/img/chari/2021-03-05+8bb33677.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/chari/2021-03-05+8bb33677-thumb-w720px.png" file="/img/chari/2021-03-05+8bb33677.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Digital, Clip Studio Paint**.

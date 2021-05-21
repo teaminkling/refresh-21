@@ -6,14 +6,14 @@ themes =      ["Week 13: Look At Me"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 13: Look At Me. Created using: procreate."
 [[images]]
-      src = "/img/pumpkan/2021-04-02+88d60618-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-04-02+88d60618-thumb-w720px.png"
       href = "/blog/pumpkan-week-13-f4a6"
       alt = "i suffer"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-04-02+88d60618-thumbnail-w720px.png" file="/img/pumpkan/2021-04-02+88d60618.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-04-02+88d60618-thumb-w720px.png" file="/img/pumpkan/2021-04-02+88d60618.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 13: **Look At Me**. This art was lovingly created using: **procreate**.

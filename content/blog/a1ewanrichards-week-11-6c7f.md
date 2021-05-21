@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 11: Atmosphere Spectrum. Created using: Felt marker and oil pastel on paper."
 [[images]]
-      src = "/img/a1ewanrichards/2021-03-16+223acfbc-thumbnail-w720px.jpg"
+      src = "/img/a1ewanrichards/2021-03-16+223acfbc-thumb-w720px.jpg"
       href = "/blog/a1ewanrichards-week-11-6c7f"
       alt = "Undercooled 1: Please Return The Moon To Us"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/a1ewanrichards/2021-03-16+223acfbc-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-03-16+223acfbc.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-03-16+223acfbc-thumb-w720px.jpg" file="/img/a1ewanrichards/2021-03-16+223acfbc.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Felt marker and oil pastel on paper**.

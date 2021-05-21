@@ -6,14 +6,14 @@ themes =      ["Week 01: Yellow Lines"]
 artists =     ["jumpingbeans"]
 description = "by jumpingbeans for week 1: Yellow Lines. Created using: MS Paint."
 [[images]]
-      src = "/img/jumpingbeans/2021-01-02+872bdb6c-thumbnail-w720px.png"
+      src = "/img/jumpingbeans/2021-01-02+872bdb6c-thumb-w720px.png"
       href = "/blog/jumpingbeans-week-1-d1b6"
       alt = "Bowl"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jumpingbeans/2021-01-02+872bdb6c-thumbnail-w720px.png" file="/img/jumpingbeans/2021-01-02+872bdb6c.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jumpingbeans/2021-01-02+872bdb6c-thumb-w720px.png" file="/img/jumpingbeans/2021-01-02+872bdb6c.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 1: **Yellow Lines**. This art was lovingly created using: **MS Paint**.

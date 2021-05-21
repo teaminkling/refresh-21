@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 10: Folds and Folds. Created using: Procreate."
 [[images]]
-      src = "/img/paintsepsi/2021-03-09+f134fb41-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-03-09+f134fb41-thumb-w720px.png"
       href = "/blog/paintsepsi-week-10-d23d"
       alt = "Sitting"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-03-09+f134fb41-thumbnail-w720px.png" file="/img/paintsepsi/2021-03-09+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-03-09+f134fb41-thumb-w720px.png" file="/img/paintsepsi/2021-03-09+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.

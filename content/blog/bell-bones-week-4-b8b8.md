@@ -6,15 +6,15 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Bell-Bones"]
 description = "by Bell-Bones for week 4: Murky Silhouettes. Created using: FireAlpaca."
 [[images]]
-      src = "/img/bell-bones/2021-01-29+194148c7-thumbnail-w720px.png"
+      src = "/img/bell-bones/2021-01-29+194148c7-thumb-w720px.png"
       href = "/blog/bell-bones-week-4-b8b8"
       alt = "Family Portrait"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/bell-bones/2021-01-29+194148c7-thumbnail-w720px.png" file="/img/bell-bones/2021-01-29+194148c7.png" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/bell-bones/2021-01-29+321565ef-thumbnail-w720px.png" file="/img/bell-bones/2021-01-29+321565ef.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-01-29+194148c7-thumb-w720px.png" file="/img/bell-bones/2021-01-29+194148c7.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/bell-bones/2021-01-29+321565ef-thumb-w720px.png" file="/img/bell-bones/2021-01-29+321565ef.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **FireAlpaca**.

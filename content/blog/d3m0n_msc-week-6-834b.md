@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["D3m0n_Msc"]
 description = "by D3m0n_Msc for week 6: Simple Love. Created using: : Ibis paint x."
 [[images]]
-      src = "/img/d3m0n_msc/2021-02-12+d1bf1a7a-thumbnail-w720px.png"
+      src = "/img/d3m0n_msc/2021-02-12+d1bf1a7a-thumb-w720px.png"
       href = "/blog/d3m0n_msc-week-6-834b"
       alt = "Love in the air"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7a-thumbnail-w720px.png" file="/img/d3m0n_msc/2021-02-12+d1bf1a7a.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/d3m0n_msc/2021-02-12+d1bf1a7a-thumb-w720px.png" file="/img/d3m0n_msc/2021-02-12+d1bf1a7a.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **: Ibis paint x**.

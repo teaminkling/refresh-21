@@ -6,18 +6,18 @@ themes =      ["Week 09: Bold Strokes"]
 artists =     ["winsome"]
 description = "by winsome for week 9: Bold Strokes. Created using: Photography (Photo set)."
 [[images]]
-      src = "/img/winsome/2021-03-05+c916099f-thumbnail-w720px.jpeg"
+      src = "/img/winsome/2021-03-05+c916099f-thumb-w720px.jpeg"
       href = "/blog/winsome-week-9-c5dc"
       alt = "Hi! I like shorts! They're comfy and easy to wear!"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/winsome/2021-03-05+c916099f-thumbnail-w720px.jpeg" file="/img/winsome/2021-03-05+c916099f.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/winsome/2021-03-05+bd3f8368-thumbnail-w720px.jpeg" file="/img/winsome/2021-03-05+bd3f8368.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/winsome/2021-03-05+3c76cb38-thumbnail-w720px.jpeg" file="/img/winsome/2021-03-05+3c76cb38.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/winsome/2021-03-05+7b8722a0-thumbnail-w720px.jpeg" file="/img/winsome/2021-03-05+7b8722a0.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
-{{< fancybox path="/img/winsome/2021-03-05+fafe83ec-thumbnail-w720px.jpeg" file="/img/winsome/2021-03-05+fafe83ec.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-03-05+c916099f-thumb-w720px.jpeg" file="/img/winsome/2021-03-05+c916099f.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-03-05+bd3f8368-thumb-w720px.jpeg" file="/img/winsome/2021-03-05+bd3f8368.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-03-05+3c76cb38-thumb-w720px.jpeg" file="/img/winsome/2021-03-05+3c76cb38.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-03-05+7b8722a0-thumb-w720px.jpeg" file="/img/winsome/2021-03-05+7b8722a0.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-03-05+fafe83ec-thumb-w720px.jpeg" file="/img/winsome/2021-03-05+fafe83ec.jpeg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 9: **Bold Strokes**. This art was lovingly created using: **Photography (Photo set)**.

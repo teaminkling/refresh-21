@@ -6,14 +6,14 @@ themes =      ["Week 14: Absolute Fire"]
 artists =     ["soleilboo"]
 description = "by soleilboo for week 14: Absolute Fire. Created using: procreate pocket."
 [[images]]
-      src = "/img/soleilboo/2021-04-09+6573b164-thumbnail-w720px.gif"
+      src = "/img/soleilboo/2021-04-09+6573b164-thumb-w720px.gif"
       href = "/blog/soleilboo-week-14-52b8"
       alt = "Once in a while"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/soleilboo/2021-04-09+6573b164-thumbnail-w720px.gif" file="/img/soleilboo/2021-04-09+6573b164.gif" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/soleilboo/2021-04-09+6573b164-thumb-w720px.gif" file="/img/soleilboo/2021-04-09+6573b164.gif" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 14: **Absolute Fire**. This art was lovingly created using: **procreate pocket**.

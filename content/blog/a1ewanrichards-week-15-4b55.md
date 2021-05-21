@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["a1ewanrichards"]
 description = "by a1ewanrichards for week 15: Back to Basics. Created using: Clip Studio Paint."
 [[images]]
-      src = "/img/a1ewanrichards/2021-04-15+328434b8-thumbnail-w720px.jpg"
+      src = "/img/a1ewanrichards/2021-04-15+328434b8-thumb-w720px.jpg"
       href = "/blog/a1ewanrichards-week-15-4b55"
       alt = "Resistance 4 - Sometimes, The Heart Yearns For Mangoes"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b8-thumbnail-w720px.jpg" file="/img/a1ewanrichards/2021-04-15+328434b8.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/a1ewanrichards/2021-04-15+328434b8-thumb-w720px.jpg" file="/img/a1ewanrichards/2021-04-15+328434b8.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **Clip Studio Paint**.

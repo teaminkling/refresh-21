@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["Charmandaar"]
 description = "by Charmandaar for week 4: Murky Silhouettes. Created using: video/photoshop."
 [[images]]
-      src = "/img/video-placeholder.png"
+      src = "/img/charmandaar/2021-01-29+22b9ee6f-thumb-w720px.jpg"
       href = "/blog/charmandaar-week-4-36cd"
       alt = "POV you dust off an old VHS tape and slot it in the player…"
       caption = "This submission contains a video. Please view the full post to see it!"
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/video-placeholder.png" file="/img/charmandaar/2021-01-29+22b9ee6f.mp4" caption="Placeholder thumbnail for a video work." >}}
+{{< fancybox path="/img/charmandaar/2021-01-29+22b9ee6f-thumb-w720px.jpg" file="/img/charmandaar/2021-01-29+22b9ee6f.mp4" caption="Placeholder thumbnail for a video work." >}}
 <p style="text-align: center">The above is an MP4 video link. Please click it to view the video!</p>
 
 

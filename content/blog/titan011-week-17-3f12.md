@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["TITAN011"]
 description = "by TITAN011 for week 17: The 4 R's: Finale. Created using: Clip Studio."
 [[images]]
-      src = "/img/titan011/2021-04-30+7e55e83b-thumbnail-w720px.jpg"
+      src = "/img/titan011/2021-04-30+7e55e83b-thumb-w720px.jpg"
       href = "/blog/titan011-week-17-3f12"
       alt = "End of a Chapter"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/titan011/2021-04-30+7e55e83b-thumbnail-w720px.jpg" file="/img/titan011/2021-04-30+7e55e83b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/titan011/2021-04-30+7e55e83b-thumb-w720px.jpg" file="/img/titan011/2021-04-30+7e55e83b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Clip Studio**.

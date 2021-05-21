@@ -6,14 +6,14 @@ themes =      ["Week 04: Murky Silhouettes"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 4: Murky Silhouettes. Created using: Procreate."
 [[images]]
-      src = "/img/paintsepsi/2021-01-24+f134fb41-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-01-24+f134fb41-thumb-w720px.png"
       href = "/blog/paintsepsi-week-4-e553"
       alt = "Joker"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-01-24+f134fb41-thumbnail-w720px.png" file="/img/paintsepsi/2021-01-24+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-01-24+f134fb41-thumb-w720px.png" file="/img/paintsepsi/2021-01-24+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 4: **Murky Silhouettes**. This art was lovingly created using: **Procreate**.

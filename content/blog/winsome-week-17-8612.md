@@ -6,14 +6,14 @@ themes =      ["Week 17: The 4 R's: Finale"]
 artists =     ["winsome"]
 description = "by winsome for week 17: The 4 R's: Finale. Created using: Photography."
 [[images]]
-      src = "/img/winsome/2021-05-07+181471f7-thumbnail-w720px.jpg"
+      src = "/img/winsome/2021-05-07+181471f7-thumb-w720px.jpg"
       href = "/blog/winsome-week-17-8612"
       alt = "Mandrake Reflecting"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/winsome/2021-05-07+181471f7-thumbnail-w720px.jpg" file="/img/winsome/2021-05-07+181471f7.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/winsome/2021-05-07+181471f7-thumb-w720px.jpg" file="/img/winsome/2021-05-07+181471f7.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Photography**.

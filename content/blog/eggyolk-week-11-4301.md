@@ -6,14 +6,14 @@ themes =      ["Week 11: Atmosphere Spectrum"]
 artists =     ["eggyolk"]
 description = "by eggyolk for week 11: Atmosphere Spectrum. Created using: Procreate."
 [[images]]
-      src = "/img/eggyolk/2021-03-19+f134fb41-thumbnail-w720px.png"
+      src = "/img/eggyolk/2021-03-19+f134fb41-thumb-w720px.png"
       href = "/blog/eggyolk-week-11-4301"
       alt = "Week 11    head stuck in the clouds"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/eggyolk/2021-03-19+f134fb41-thumbnail-w720px.png" file="/img/eggyolk/2021-03-19+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/eggyolk/2021-03-19+f134fb41-thumb-w720px.png" file="/img/eggyolk/2021-03-19+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 11: **Atmosphere Spectrum**. This art was lovingly created using: **Procreate**.

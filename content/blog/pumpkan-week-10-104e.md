@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 10: Folds and Folds. Created using: Procreate."
 [[images]]
-      src = "/img/pumpkan/2021-03-12+8cca8ba7-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-03-12+8cca8ba7-thumb-w720px.png"
       href = "/blog/pumpkan-week-10-104e"
       alt = "The dread beach bum La Verne"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7-thumbnail-w720px.png" file="/img/pumpkan/2021-03-12+8cca8ba7.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-03-12+8cca8ba7-thumb-w720px.png" file="/img/pumpkan/2021-03-12+8cca8ba7.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Procreate**.

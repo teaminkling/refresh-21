@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["TrixyNetex"]
 description = "by TrixyNetex for week 10: Folds and Folds. Created using: Sketchbook pro."
 [[images]]
-      src = "/img/trixynetex/2021-03-12+98e2a8cd-thumbnail-w720px.png"
+      src = "/img/trixynetex/2021-03-12+98e2a8cd-thumb-w720px.png"
       href = "/blog/trixynetex-week-10-b389"
       alt = "Sunset Vibes, aka it was 30° degrees today"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/trixynetex/2021-03-12+98e2a8cd-thumbnail-w720px.png" file="/img/trixynetex/2021-03-12+98e2a8cd.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/trixynetex/2021-03-12+98e2a8cd-thumb-w720px.png" file="/img/trixynetex/2021-03-12+98e2a8cd.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Sketchbook pro**.

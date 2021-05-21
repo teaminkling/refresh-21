@@ -6,14 +6,14 @@ themes =      ["Week 15: Back to Basics"]
 artists =     ["cindry"]
 description = "by cindry for week 15: Back to Basics. Created using: relief printing on note books."
 [[images]]
-      src = "/img/cindry/2021-04-16+2d886945-thumbnail-w720px.jpg"
+      src = "/img/cindry/2021-04-16+2d886945-thumb-w720px.jpg"
       href = "/blog/cindry-week-15-8495"
       alt = "leeeeemons"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/cindry/2021-04-16+2d886945-thumbnail-w720px.jpg" file="/img/cindry/2021-04-16+2d886945.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/cindry/2021-04-16+2d886945-thumb-w720px.jpg" file="/img/cindry/2021-04-16+2d886945.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 15: **Back to Basics**. This art was lovingly created using: **relief printing on note books**.

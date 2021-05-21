@@ -6,14 +6,14 @@ themes =      ["Week 10: Folds and Folds"]
 artists =     ["Lyfeu"]
 description = "by Lyfeu for week 10: Folds and Folds. Created using: Photoshop."
 [[images]]
-      src = "/img/lyfeu/2021-03-10+7b436b3b-thumbnail-w720px.jpg"
+      src = "/img/lyfeu/2021-03-10+7b436b3b-thumb-w720px.jpg"
       href = "/blog/lyfeu-week-10-66bc"
       alt = "Folds"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/lyfeu/2021-03-10+7b436b3b-thumbnail-w720px.jpg" file="/img/lyfeu/2021-03-10+7b436b3b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/lyfeu/2021-03-10+7b436b3b-thumb-w720px.jpg" file="/img/lyfeu/2021-03-10+7b436b3b.jpg" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 10: **Folds and Folds**. This art was lovingly created using: **Photoshop**.

@@ -6,14 +6,14 @@ themes =      ["Week 02: Deep Ocean"]
 artists =     ["Pumpkan"]
 description = "by Pumpkan for week 2: Deep Ocean. Created using: Procreate."
 [[images]]
-      src = "/img/pumpkan/2021-01-13+b7657b2a-thumbnail-w720px.png"
+      src = "/img/pumpkan/2021-01-13+b7657b2a-thumb-w720px.png"
       href = "/blog/pumpkan-week-2-2932"
       alt = "You have new text message! High five!"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/pumpkan/2021-01-13+b7657b2a-thumbnail-w720px.png" file="/img/pumpkan/2021-01-13+b7657b2a.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/pumpkan/2021-01-13+b7657b2a-thumb-w720px.png" file="/img/pumpkan/2021-01-13+b7657b2a.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 2: **Deep Ocean**. This art was lovingly created using: **Procreate**.

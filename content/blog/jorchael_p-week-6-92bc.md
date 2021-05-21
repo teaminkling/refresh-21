@@ -6,14 +6,14 @@ themes =      ["Week 06: Simple Love"]
 artists =     ["jorchael_p"]
 description = "by jorchael_p for week 6: Simple Love. Created using: photoshop."
 [[images]]
-      src = "/img/jorchael_p/2021-02-17+a20aeba2-thumbnail-w720px.png"
+      src = "/img/jorchael_p/2021-02-17+a20aeba2-thumb-w720px.png"
       href = "/blog/jorchael_p-week-6-92bc"
       alt = "Nian Gao, old and new"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2-thumbnail-w720px.png" file="/img/jorchael_p/2021-02-17+a20aeba2.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/jorchael_p/2021-02-17+a20aeba2-thumb-w720px.png" file="/img/jorchael_p/2021-02-17+a20aeba2.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 6: **Simple Love**. This art was lovingly created using: **photoshop**.

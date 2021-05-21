@@ -6,14 +6,14 @@ themes =      ["Week 08: High Sheen"]
 artists =     ["paintsepsi"]
 description = "by paintsepsi for week 8: High Sheen. Created using: Procreate."
 [[images]]
-      src = "/img/paintsepsi/2021-02-23+f134fb41-thumbnail-w720px.png"
+      src = "/img/paintsepsi/2021-02-23+f134fb41-thumb-w720px.png"
       href = "/blog/paintsepsi-week-8-41d3"
       alt = "High Sheen from Jimmy Neutron"
       caption = ""
       stretch = "cover"
 +++
 
-{{< fancybox path="/img/paintsepsi/2021-02-23+f134fb41-thumbnail-w720px.png" file="/img/paintsepsi/2021-02-23+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
+{{< fancybox path="/img/paintsepsi/2021-02-23+f134fb41-thumb-w720px.png" file="/img/paintsepsi/2021-02-23+f134fb41.png" caption="Placeholder thumbnail for a visual still work." >}}
 
 
 Week 8: **High Sheen**. This art was lovingly created using: **Procreate**.
