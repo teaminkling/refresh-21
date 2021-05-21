@@ -271,7 +271,10 @@ def join_cumulative_messages(retrieved_data: dict) -> List[dict]:
 
 
 def extract_all_content(
-    content: str, author: str, created_at: str, attachments: List[Dict[str, str]],
+    content: str,
+    author: str,
+    created_at: str,
+    attachments: List[Dict[str, str]],
 ) -> List[dict]:
     """
     Extract all information for content, allowing for multiple week submissions in one post.
