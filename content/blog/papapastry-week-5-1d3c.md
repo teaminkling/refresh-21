@@ -24,7 +24,7 @@ In this technical folk metal piece, I focus on changing textures. The video will
 
 "Royal green" is musical imagery: "cold and hard" sounds like heavy metal and "jade" implies an opulence that cuts through: the kanun and saz instruments.
 
-Link: https://www.youtube.com/watch?v=DTR0npqq0c4
+Link: [YouTube External Link](https://www.youtube.com/watch?v=DTR0npqq0c4)
 
 ## Social Media
 

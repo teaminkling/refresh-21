@@ -22,7 +22,7 @@ Week 6: **Simple Love**. This art was lovingly created using: **Video of beansz 
 
 In life we wear many masks (or shirts cuz i dont know the art of 变脸, aka chinese face mask changing), they are the many aspects of self, whether or not we like it or not. The introspection of the multiple sides is what makes us individuals and whole. Or so you thought, i just wanna body slam the mirror while wearing appropriate personal protection equipment laughing crying emoji
 
-https://youtu.be/MDxUzRfvYf4
+[YouTube External Link](https://youtu.be/MDxUzRfvYf4)
 
 ## Social Media
 

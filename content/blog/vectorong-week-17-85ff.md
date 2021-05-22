@@ -21,7 +21,7 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **E-portfol
 
 I find it's always nice to look back whenever you complete a series / project and celebrate, so this is my way of doing so - creating a book with all the pieces I've submitted. I've really enjoyed this challenge and trying all these new mediums, even when I felt like my brain might explode. Also feel free to quickly flip thru this during the showcase, but would love if the artist note at the end could be read - it's a bit sentimental but just wanted to say a small word of appreciation to everyone (book may take a bit to load all the pages, so a warning in advance).
 
-Link to book: https://online.fliphtml5.com/gqjmo/mufs
+Link to book: [FlipHTML5 External Link](https://online.fliphtml5.com/gqjmo/mufs)
 
 ## Social Media
 

@@ -28,9 +28,9 @@ I spent an actual long time composing this, but not as long mixing it. Consider 
 
 Notes: everything you are seeing you also are hearing (no miming). The guitar at the end was done in one take as I started to panic.
 
-Twitter: <>, YT: <https://www.youtube.com/watch?v=xGP1pUeVJYA>
+>, YT: <[YouTube External Link](https://www.youtube.com/watch?v=xGP1pUeVJYA)
 
-Link: https://youtu.be/0hrJOksPNdI
+Link: [YouTube External Link](https://youtu.be/0hrJOksPNdI)
 
 ## Social Media
 

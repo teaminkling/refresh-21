@@ -25,7 +25,7 @@ Yeah, this totally counts.
 
 No need to showcase it, I just wanted to pad my stats. Five submissions!
 
-https://refresh.fiveclawd.com/
+[FiveClawd External Link](https://refresh.fiveclawd.com/)
 
 ## Social Media
 

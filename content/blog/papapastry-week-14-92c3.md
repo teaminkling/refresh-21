@@ -28,7 +28,7 @@ This is the first non-meme rap song I've ever written. I could have gone down th
 
 This song will not appear on the refresh album.
 
-Link: https://www.youtube.com/watch?v=3D31aBLn-bs
+Link: [YouTube External Link](https://www.youtube.com/watch?v=3D31aBLn-bs)
 
 ----
 

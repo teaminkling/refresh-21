@@ -27,9 +27,9 @@ This song isn't "soft" but I wrote it by surrealist writing about the sea, the l
 
 (This is an old song of mine. Proper submission next week since this week has been hectic. This song will not appear on the Design Refresh album.)
 
-Link: https://soundcloud.com/papapastry/the-island
+Link: [SoundCloud External Link](https://soundcloud.com/papapastry/the-island)
 
-Spotify: https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76KtZtYVuzUYg
+Spotify: [Spotify External Link](https://open.spotify.com/artist/4xEOwl1iI2ixx7btyT89ou?si=xG3CeWkTS76KtZtYVuzUYg)
 
 ## Social Media
 

@@ -22,12 +22,11 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Audio/Ablet
 
 This one speaks for itself.
 
-- Twitter: <>
-- YouTube: <http://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg?sub_confirmation=1>
-- Spotify (latest release): <https://open.spotify.com/album/02mN7iFb1ZGfIQlJvUATgc?si=JDQri4OMRNCAIrXyi4I1hg>
-- Apple Music (latest release): <https://music.apple.com/us/album/lost-pastry-child/1556553688?uo=4&app=apple+music>
+- YouTube: [YouTube External Link](http://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg?sub_confirmation=1)
+- Spotify (latest release): [Spotify External Link](https://open.spotify.com/album/02mN7iFb1ZGfIQlJvUATgc?si=JDQri4OMRNCAIrXyi4I1hg)
+- Apple Music (latest release): [Apple External Link](https://music.apple.com/us/album/lost-pastry-child/1556553688?uo=4&app=apple+music)
 
-Link: https://youtu.be/KwACnHlAEmY
+Link: [YouTube External Link](https://youtu.be/KwACnHlAEmY)
 
 ## Social Media
 

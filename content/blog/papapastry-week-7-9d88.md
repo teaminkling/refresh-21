@@ -20,7 +20,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **Ableton Liv
 
 ## Artist's Notes
 
-<https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg>
+[YouTube External Link](https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg)
 
 (Headphones will benefit you for this song).
 
@@ -28,7 +28,7 @@ Week 7: **Disturbed Desert**. This art was lovingly created using: **Ableton Liv
 
 Oh, and the video? Yeah, I dunno.
 
-Link: https://youtu.be/X6Q_C0MF0WE (CC should be ready before the showcase)
+Link: [YouTube External Link](https://youtu.be/X6Q_C0MF0WE) (CC should be ready before the showcase)
 
 ## Social Media
 

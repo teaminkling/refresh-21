@@ -23,7 +23,7 @@ I didn't really get to post many wips for this piece because Discord decided it 
 
 ; /
 
-Link to art piece because apparently discord hates me and thinks this is explicit content: https://imgur.com/a/R9TdafM
+Link to art piece because apparently discord hates me and thinks this is explicit content: [Imgur External Link](https://imgur.com/a/R9TdafM)
 
 ## Social Media
 

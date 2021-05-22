@@ -20,7 +20,7 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **various t
 
 ## Artist's Notes
 
-Images in the imgur link: https://imgur.com/a/xaqXvNg
+Images in the imgur link: [Imgur External Link](https://imgur.com/a/xaqXvNg)
 
 It's been fun. Thanks everyone participating. Seeing everyone's work in this showcase format week by week has been a really great way to share art with each other, inspire, motivate, develop and helping me and others appreciate more things about the work people do as we're enabled to get into closer detail on the what, how & why in regards to the art people do. 
 

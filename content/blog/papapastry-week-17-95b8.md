@@ -28,9 +28,9 @@ Submission 4/5.
 
 A throwback to all of my audio pieces (all 17 of them!) over the design refresh.
 
-YT: https://www.youtube.com/watch?v=8xOJWodLB3Y
+YT: [YouTube External Link](https://www.youtube.com/watch?v=8xOJWodLB3Y)
 
-SC: <https://soundcloud.com/papapastry/medley-2021-design-refresh>
+SC: [SoundCloud External Link](https://soundcloud.com/papapastry/medley-2021-design-refresh)
 
 ## Social Media
 

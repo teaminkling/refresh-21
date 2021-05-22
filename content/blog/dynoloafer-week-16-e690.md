@@ -25,7 +25,7 @@ Week 16: **Scaling Giants**. This art was lovingly created using: **Paint Tool S
 
 It's disappointing and disheartening to see what happened to this deep-ocean beauty. The bastardizing of Shudo's ideas caused him to fall into a great despair, where he overdosed a few years later. I never knew Lugia's story before, but now that I do, she is the only legendary I look at and feel something. I hope it's the same for you too. She's truly the mother of all glory hidden in Pokemon's lore.
 
-https://www.youtube.com/watch?v=TQbKwNmsTes
+[YouTube External Link](https://www.youtube.com/watch?v=TQbKwNmsTes)
 
 here's a video with more information on Lugia's Story
 

@@ -27,7 +27,7 @@ So yeah, go read it 😘
 
 (Don't worry, it's short)
 
-https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1
+[WebToons External Link](https://www.webtoons.com/en/challenge/ozymandias/i-met-a-traveller/viewer?title_no=633899&episode_no=1)
 
 ## Social Media
 

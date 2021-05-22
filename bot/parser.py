@@ -13,7 +13,7 @@ from urllib.parse import quote
 from bot.regexes import (
     CONTENT_LINK_REGEX,
     HYPERLINK_REGEX,
-    MEDIUM_PARSING_REGEX,
+    LINK_SITE_NAME_EXTRACTOR, MEDIUM_PARSING_REGEX,
     RAW_SOCIAL_PARSING_REGEX,
     SINGLE_NEWLINE_REGEX,
     SOCIALS_ITEMIZATION_NATURAL_LANGUAGE_REGEX,
@@ -438,6 +438,42 @@ def extract_all_content(
             {"url": link} for link in links if re.findall(CONTENT_LINK_REGEX, link)
         ]
 
+        # Sometimes people point directly to links in the description, so we don't get rid of
+        # them. However, many links are quite long, and not all of them are content links. In
+        # either of these cases, we want to "condense" the links down.
+
+        for link in links:
+            # Discover what site the link goes to.
+
+            site_name: str = re.findall(LINK_SITE_NAME_EXTRACTOR, link)[0].capitalize()
+
+            # FIXME: Move to an external configuration.
+
+            if site_name == "Youtu":
+                site_name = "YouTube"
+            elif site_name == "Youtube":
+                site_name = "YouTube"
+            elif site_name == "Flic":
+                site_name = "Flickr"
+            elif site_name == "Itch":
+                site_name = "itch.io"
+            elif site_name == "Google":
+                site_name = "Google Docs"
+            elif site_name == "Wixmp":
+                site_name = "WixMP"
+            elif site_name == "Fliphtml5":
+                site_name = "FlipHTML5"
+            elif site_name == "Soundcloud":
+                site_name = "SoundCloud"
+            elif site_name == "Fiveclawd":
+                site_name = "FiveClawd"
+            elif site_name == "Tiktok":
+                site_name = "TikTok"
+            elif site_name == "Webtoons":
+                site_name = "WebToons"
+
+            description = description.replace(link, f"[{site_name} External Link]({link})")
+
         # Form an ID to be used as the slug for each submission.
 
         title = title.replace('"', "").strip() or "Untitled"
@@ -564,6 +600,11 @@ def remove_markdown_formatting(preamble: str, remainder: str) -> Tuple[str, str]
 
     preamble = re.sub(r"__(?P<unformatted>.*)__", r"\g<unformatted>", preamble)
     remainder = re.sub(r"__(?P<unformatted>.*)__", r"\g<unformatted>", remainder)
+
+    # Remove hyperlink escapes.
+
+    preamble = re.sub(r"<(?P<unformatted>http.*)>", r"\g<unformatted>", preamble)
+    remainder = re.sub(r"<(?P<unformatted>http.*)>", r"\g<unformatted>", remainder)
 
     return preamble, remainder
 

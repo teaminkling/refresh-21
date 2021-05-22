@@ -24,7 +24,7 @@ couldn't bare to draw anything this week, so i bound a book. getting the inner p
 
 Click for video of book 
 
-https://twitter.com/pumpkanart/status/1372889078400647169?s=21
+[Twitter External Link](https://twitter.com/pumpkanart/status/1372889078400647169?s=21)
 
 ## Social Media
 

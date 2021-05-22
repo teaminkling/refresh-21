@@ -22,10 +22,6 @@ Week 12: **Visual Words**. This art was lovingly created using: **procreate**.
 
 not sure if this counts as typography hahaha oOPs but uhh i really like writing even tho my handwriting is illegible at times so i honestly just wrote what came to mind which is that hm i guess i’m havin a tough time lately and i know a lot of my community is as well, so i kind of wrote this as a reminder for them (and myself, and you!!). kinda more the idea of repeating this to a mirror/yourself i guess? uhh ignore the meme-y ness at the bottom i was just writing random shit lol
 
-<>
-<>
-</>
-
 ## Social Media
 
 - **Instagram**: <a href='https://instagram.com/charmandaar_' target='_blank'>charmandaar_</a>

@@ -26,7 +26,7 @@ I couldn't resist. Thanks to @jumpingbeans for the script and visuals.
 
 I used a guitar with a steel slide, a special piano that uses one string per key (originally created by David Klavins), and Balinese Gamelan instruments.
 
-https://www.youtube.com/watch?v=87LKV9dcaj4
+[YouTube External Link](https://www.youtube.com/watch?v=87LKV9dcaj4)
 
 ## Social Media
 

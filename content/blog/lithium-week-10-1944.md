@@ -21,7 +21,7 @@ Week 10: **Folds and Folds**. This art was lovingly created using: **Clip Studio
 
 ## Artist's Notes
 
-Study of movement and clothing from an incredible performance by Kai during a Freestyle Roulette (link with timestamp cause y'all should watch this performance anyway https://youtu.be/XFUyeYrCcN0?t=280) - this moment was so emotive I just felt pulled to paint it in particular. Clothing and hoomans are not my forte. 
+Study of movement and clothing from an incredible performance by Kai during a Freestyle Roulette (link with timestamp cause y'all should watch this performance anyway [YouTube External Link](https://youtu.be/XFUyeYrCcN0?t=280)) - this moment was so emotive I just felt pulled to paint it in particular. Clothing and hoomans are not my forte. 
 
 lithiumreflections (IG, tumblr, twitter)
 

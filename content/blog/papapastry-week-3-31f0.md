@@ -29,9 +29,9 @@ To me "garnet red" meant a very bold sound that's not lowkey at all. Gems are fo
 
 Feat. a very special guest
 
-https://soundcloud.com/papapastry/tamago-tama-2021designrefresh
+[SoundCloud External Link](https://soundcloud.com/papapastry/tamago-tama-2021designrefresh)
 
-(Bonus rejected idea before I wrote the first one: <https://soundcloud.com/papapastry/a-stupid-little-jingle>)
+(Bonus rejected idea before I wrote the first one: [SoundCloud External Link](https://soundcloud.com/papapastry/a-stupid-little-jingle))
 
 ## Social Media
 

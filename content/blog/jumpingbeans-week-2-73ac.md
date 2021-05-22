@@ -26,7 +26,7 @@ not youtube, only using youtube as a platform to post this video
 
 inspirations-> john cage <3
 
-https://youtu.be/3imOd-rOjr8
+[YouTube External Link](https://youtu.be/3imOd-rOjr8)
 
 ## Social Media
 

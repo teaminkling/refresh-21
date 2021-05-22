@@ -27,7 +27,7 @@ To play with expressiveness would be the opposite of playing robotically. Adding
 
 Lines means melody lines, emphasis is about progression/phrase changes over time. "Look at me" represents the boisterous pride of what is being sung and represented.
 
-Link: https://soundcloud.com/papapastry/coming-up-spades-2021designrefresh-week-13
+Link: [SoundCloud External Link](https://soundcloud.com/papapastry/coming-up-spades-2021designrefresh-week-13)
 
 ----
 

@@ -23,7 +23,7 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **video**.
 
 ive ran out of ideas and time
 
-; https://www.youtube.com/watch?v=dQw4w9WgXcQ;
+; [YouTube External Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ);
 
 ## Social Media
 

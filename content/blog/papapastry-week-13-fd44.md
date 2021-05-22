@@ -33,7 +33,7 @@ yes i really did render this at 4K
 
 expect two submissions next week
 
-Link: https://www.youtube.com/watch?v=s2bUtKo88HQ
+Link: [YouTube External Link](https://www.youtube.com/watch?v=s2bUtKo88HQ)
 
 just Spotify search "papapastry"
 

@@ -27,7 +27,7 @@ Week 4: **Murky Silhouettes**. This art was lovingly created using: **Ableton Li
 
 "Monochromatic colour" to me means it shouldn't have any melody and "background colour" is "black" as in "black metal."
 
-https://soundcloud.com/papapastry/murke-shadoes-instrumental-week-4-2021designrefresh
+[SoundCloud External Link](https://soundcloud.com/papapastry/murke-shadoes-instrumental-week-4-2021designrefresh)
 
 ## Social Media
 

@@ -25,10 +25,10 @@ I was going to write a 5 minute epic rock opera piece with lots of contrasts, fu
 
 Link:
 
-- Soundcloud: https://soundcloud.com/papapastry/pain-2021-design-refresh
+- Soundcloud: [SoundCloud External Link](https://soundcloud.com/papapastry/pain-2021-design-refresh)
 
-- YT: <http://papapastry.io/youtube>
-- Spotify: <http://papapastry.io/spotify>
+- YT: [Papapastry External Link](http://papapastry.io/youtube)
+- Spotify: [Papapastry External Link](http://papapastry.io/spotify)
 
 ## Social Media
 

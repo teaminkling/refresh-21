@@ -25,7 +25,7 @@ Not entirely an aesthetic adherence to the theme but more of a compositional one
 
 (yeah it's a bit demo/garage quality but i only decided to join the challenge today heh)
 
-https://soundcloud.com/papapastry/beware-the-deep-week-2-2021designrefresh
+[SoundCloud External Link](https://soundcloud.com/papapastry/beware-the-deep-week-2-2021designrefresh)
 
 EDIT: I also have an early/meme version (I'll send it after you've seen the "real" version) cindy
 

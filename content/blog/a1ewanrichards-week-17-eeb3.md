@@ -26,7 +26,7 @@ A big up to @vectorong  and @cindry  for the zine inspiration, though mine looks
 
 Thank you for everything. Love you all. 🥰 
 
-Link to book: https://online.fliphtml5.com/jdhob/sioh/
+Link to book: [FlipHTML5 External Link](https://online.fliphtml5.com/jdhob/sioh/)
 
 ## Social Media
 

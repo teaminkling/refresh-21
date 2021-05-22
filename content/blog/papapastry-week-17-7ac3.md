@@ -34,9 +34,9 @@ Sorry for leaving people out, but there are only 17 weeks and I went for easiest
 
 That's it from me. Thanks for listening!
 
-YT: https://youtu.be/SeTmvYddJuY (Closed Captions)
+YT: [YouTube External Link](https://youtu.be/SeTmvYddJuY) (Closed Captions)
 
-SC: <https://soundcloud.com/papapastry/shorts-2021-design-refresh>
+SC: [SoundCloud External Link](https://soundcloud.com/papapastry/shorts-2021-design-refresh)
 
 ## Social Media
 

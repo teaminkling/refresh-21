@@ -30,11 +30,11 @@ Note: Please turn the volume all the way up. Might not be loud enough even then.
 
 Link:
 
-- YouTube (Showcase): https://www.youtube.com/watch?v=yxPwiVmq5PM
-- Soundcloud (No SFX): <https://soundcloud.com/papapastry/hades-album-version>
+- YouTube (Showcase): [YouTube External Link](https://www.youtube.com/watch?v=yxPwiVmq5PM)
+- Soundcloud (No SFX): [SoundCloud External Link](https://soundcloud.com/papapastry/hades-album-version)
 
-- YT: <http://papapastry.io/youtube>
-- Spotify: <http://papapastry.io/spotify>
+- YT: [Papapastry External Link](http://papapastry.io/youtube)
+- Spotify: [Papapastry External Link](http://papapastry.io/spotify)
 
 ## Social Media
 

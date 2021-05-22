@@ -24,7 +24,7 @@ i saw a dude making cool advertisement with a TV as background and thought " hmm
 
 also youtube bot sucks and should be cancelled. #youtubebotisoverparty
 
-https://vimeo.com/518609738
+[Vimeo External Link](https://vimeo.com/518609738)
 
 ## Social Media
 

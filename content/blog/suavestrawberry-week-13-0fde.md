@@ -21,7 +21,7 @@ Week 13: **Look At Me**. This art was lovingly created using: **procreate**.
 
 this is a comic I made with my friends a couple months ago currently we are working on episode 2 after a hiatus and I hope you enjoy the first episode. I put a lot of heart into it and I hope to become a WEBTOON original one day
 
-https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599
+[WebToons External Link](https://www.webtoons.com/en/challenge/fragments-of-remembrance-/list?title_no=489599)
 
 ## Social Media
 
