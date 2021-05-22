@@ -343,6 +343,11 @@ def determine_media_and_submission_thumbnail(submission):
             if not list_item_caption:
                 list_item_caption = "This submission contains a web link. Please view the full post to see it!"
 
+            # TODO: Use a flag rather than a string search here.
+
+            if submission_thumbnail_url and "placeholder" in submission_thumbnail_url:
+                submission_thumbnail_url = ""
+
             submission_thumbnail_url = (
                 submission_thumbnail_url or image_url or "img/other-placeholder.png"
             )
