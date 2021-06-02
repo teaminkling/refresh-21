@@ -2,6 +2,10 @@
 
 Source code for the `#2021DesignRefresh`'s supplementary software tools and marketing web frontend.
 
+## Introduction
+
+This project has been sundowned. It is live in a frozen state since 3rd June 2021 for the foreseeable future.
+
 ## Components
 
 ### Discord Bot (`/bot`)
