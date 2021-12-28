@@ -22,8 +22,6 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Procreate
 
 Didn't really reuse any pieces, moreso a reflection piece now that everything's coming to an end. This challenge has honestly made me pump out more work than I have in the last....decade LOL, and it wouldn't have been possible without everyone who participated, inspiring each other. YOU ALL INSPIRE ME. YEAH YOU LIKE THAT CHEESE? YOU ARE ALL AN INSPIRATION. GREAT JOB CINDY FOR PROVIDING THIS SPACE FOR ALL OF US TO COME TOGETHER AND LEARN AND GROW, VERY POGGIES as some would say. but also holy moly rushed tf outa this LOL
 
-urmomfinal.0pphands
-
 ## Social Media
 
 - N/A.

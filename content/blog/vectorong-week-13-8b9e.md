@@ -22,7 +22,7 @@ Week 13: **Look At Me**. This art was lovingly created using: **Mixed media (pla
 
 ## Artist's Notes
 
-Inspired by the song Bad Dream by Tatsuya Kitani ([YouTube External Link](https://www.youtube.com/watch?v=lkYeBXXHgY4))
+Inspired by the song Bad Dream by Tatsuya Kitani \([YouTube External Link](https://www.youtube.com/watch?v=lkYeBXXHgY4)\)
 
 *I'm forced to live a meaningless and unreasonable tragedy
 

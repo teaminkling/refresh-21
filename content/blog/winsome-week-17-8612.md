@@ -20,7 +20,7 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Photograp
 
 ## Artist's Notes
 
-I took inspiration from @arren's Week 1 submission "Sparkly Mandrake" ([FiveClawd External Link](https://refresh.fiveclawd.com/blog/arren-week-1-9c0e/)) This was one of the first pieces I saw when watching design refresh and it really captured my attention. I utilised my own Mandrake model from Week 7 ([FiveClawd External Link](https://refresh.fiveclawd.com/blog/winsome-week-7-16e6/)). I tried to capture a video of it to replicate the glitter of the original gif, but it didn't look very good. Really enjoyed participating in design refresh. Thanks everyone!
+I took inspiration from @arren's Week 1 submission "Sparkly Mandrake" \([FiveClawd External Link](https://refresh.fiveclawd.com/blog/arren-week-1-9c0e/)) This was one of the first pieces I saw when watching design refresh and it really captured my attention. I utilised my own Mandrake model from Week 7 ([FiveClawd External Link](https://refresh.fiveclawd.com/blog/winsome-week-7-16e6/)\). I tried to capture a video of it to replicate the glitter of the original gif, but it didn't look very good. Really enjoyed participating in design refresh. Thanks everyone!
 
 ## Social Media
 

@@ -27,9 +27,7 @@ paper aeroplanes DEMO track: [SoundCloud External Link](https://soundcloud.com/p
 
 the lyrics were based off poetry i wrote: [Google Docs External Link](https://docs.google.com/document/d/1v7MNRHeg6fDwUsURPJAf1XSptglTolwA1KtohM_4Rbk/edit?usp=sharing)
 
-charmandaar on twitch ()
-
-papapastry on yt ([YouTube External Link](https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg/videos))
+papapastry on yt \([YouTube External Link](https://www.youtube.com/channel/UC4nay640JrxBZhNMiVIYTFg/videos)\)
 
 ## Social Media
 

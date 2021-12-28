@@ -20,7 +20,7 @@ Week 9: **Bold Strokes**. This art was lovingly created using: **Digital (Clip S
 
 ## Artist's Notes
 
-Adapted public domain artwork ([Flickr External Link](https://flic.kr/p/hS7KBV)) - given fresh lines and CYMK colors. 
+Adapted public domain artwork \([Flickr External Link](https://flic.kr/p/hS7KBV)\) - given fresh lines and CYMK colors. 
 
 twitter lireflections, IG/tumblr lithiumreflections
 
