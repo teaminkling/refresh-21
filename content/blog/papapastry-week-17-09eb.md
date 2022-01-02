@@ -1,5 +1,5 @@
 +++
-title =       "refresh.fiveclawd.com"
+title =       "refresh21.fiveclawd.com"
 author =      "papapastry"
 date =        "2021-04-28"
 themes =      ["Week 17: The 4 R's: Finale"]
@@ -8,7 +8,7 @@ description = "by papapastry for week 17: The 4 R's: Finale. Created using: Go +
 [[images]]
       src = "img/other-placeholder.png"
       href = "/blog/papapastry-week-17-09eb"
-      alt = "refresh.fiveclawd.com"
+      alt = "refresh21.fiveclawd.com"
       caption = "Please view the full post to see the submission!"
       stretch = "cover"
 +++
@@ -40,7 +40,7 @@ No need to showcase it, I just wanted to pad my stats. Five submissions!
 
 {{< highlight txt >}}
 **Week**: 17
-**Title:** refresh.fiveclawd.com
+**Title:** refresh21.fiveclawd.com
 **Medium:** Go + Hugo, Python.
 **Description:**
 
