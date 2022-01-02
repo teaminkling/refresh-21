@@ -20,7 +20,7 @@ Week 17: **The 4 R's: Finale**. This art was lovingly created using: **Digital, 
 
 ## Artist's Notes
 
-I took inspiration from @a1ewanrichards "When the land becomes graveyards" \([FiveClawd External Link](https://refresh.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/)) I loved this piece because it tapped into a vivid memory of playing soccer opposite sugarcane fields, watching them slowly disintegrate into flames and having the ash gently fall on us as we practiced. Life felt like it was so vividly coloured back then. The colours were inspired by @DynoLoafer's "Dragon Collage" ([FiveClawd External Link](https://refresh.fiveclawd.com/blog/dynoloafer-week-9-09aa/)\), and the title is a line from Oscar A. Romero, some reading suggested from Ewan's original submission! 
+I took inspiration from @a1ewanrichards "When the land becomes graveyards" \([FiveClawd External Link](https://refresh21.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/)) I loved this piece because it tapped into a vivid memory of playing soccer opposite sugarcane fields, watching them slowly disintegrate into flames and having the ash gently fall on us as we practiced. Life felt like it was so vividly coloured back then. The colours were inspired by @DynoLoafer's "Dragon Collage" ([FiveClawd External Link](https://refresh21.fiveclawd.com/blog/dynoloafer-week-9-09aa/)\), and the title is a line from Oscar A. Romero, some reading suggested from Ewan's original submission! 
 I hope you can feel some of this dreamy warm memory with me by looking at this piece, smell the sweet smoke, feel the light gray ash in your hair, and the cool breeze on your skin as the sun gently sets
 
 ## Social Media
@@ -38,7 +38,7 @@ I hope you can feel some of this dreamy warm memory with me by looking at this p
 Week: 17
 Title: Peace is Dynamism
 Medium: Digital, Procreate
-Description: I took inspiration from @a1ewanrichards "When the land becomes graveyards" (https://refresh.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/) I loved this piece because it tapped into a vivid memory of playing soccer opposite sugarcane fields, watching them slowly disintegrate into flames and having the ash gently fall on us as we practiced. Life felt like it was so vividly coloured back then. The colours were inspired by @DynoLoafer's "Dragon Collage" (https://refresh.fiveclawd.com/blog/dynoloafer-week-9-09aa/), and the title is a line from Oscar A. Romero, some reading suggested from Ewan's original submission! 
+Description: I took inspiration from @a1ewanrichards "When the land becomes graveyards" (https://refresh21.fiveclawd.com/blog/a1ewanrichards-week-7-d4f0/) I loved this piece because it tapped into a vivid memory of playing soccer opposite sugarcane fields, watching them slowly disintegrate into flames and having the ash gently fall on us as we practiced. Life felt like it was so vividly coloured back then. The colours were inspired by @DynoLoafer's "Dragon Collage" (https://refresh21.fiveclawd.com/blog/dynoloafer-week-9-09aa/), and the title is a line from Oscar A. Romero, some reading suggested from Ewan's original submission! 
 I hope you can feel some of this dreamy warm memory with me by looking at this piece, smell the sweet smoke, feel the light gray ash in your hair, and the cool breeze on your skin as the sun gently sets 
 
 Social Media: https://twitter.com/pumpkanart

@@ -30,7 +30,7 @@ I planned to do a colossal anthology of pieces, week after week, each with diffe
 
 In either case, I'd need to take leave to have enough time to write that much music. Anyway:
 
-INSP: [FiveClawd External Link](https://refresh.fiveclawd.com/blog/trixynetex-week-7-f8df/)
+INSP: [FiveClawd External Link](https://refresh21.fiveclawd.com/blog/trixynetex-week-7-f8df/)
 
 When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.
 
@@ -66,7 +66,7 @@ In either case, I'd need to take leave to have enough time to write that much mu
 
 **Description:**
 
-INSP: https://refresh.fiveclawd.com/blog/trixynetex-week-7-f8df/
+INSP: https://refresh21.fiveclawd.com/blog/trixynetex-week-7-f8df/
 
 When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.
 
