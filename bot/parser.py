@@ -606,6 +606,11 @@ def remove_markdown_formatting(preamble: str, remainder: str) -> Tuple[str, str]
     preamble = re.sub(r"<(?P<unformatted>http.*)>", r"\g<unformatted>", preamble)
     remainder = re.sub(r"<(?P<unformatted>http.*)>", r"\g<unformatted>", remainder)
 
+    # Add escapes to parentheses surrounding hyperlinks.
+
+    preamble = re.sub(r"\((?P<unformatted>http.*)\)", r"\(\g<unformatted>\)", preamble)
+    remainder = re.sub(r"\((?P<unformatted>http.*)\)", r"\(\g<unformatted>\)", remainder)
+
     return preamble, remainder
 
 

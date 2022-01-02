@@ -1240,7 +1240,7 @@ Yeah, this totally counts.
 
 No need to showcase it, I just wanted to pad my stats. Five submissions!
 
-https://refresh.fiveclawd.com/
+https://refresh21.fiveclawd.com/
 
 =======================================================================================================================
 
@@ -1294,7 +1294,7 @@ In either case, I'd need to take leave to have enough time to write that much mu
 
 **Description:**
 
-INSP: https://refresh.fiveclawd.com/blog/trixynetex-week-7-f8df/
+INSP: https://refresh21.fiveclawd.com/blog/trixynetex-week-7-f8df/
 
 When @TrixyNetex submitted SOL 0 in Week 7, I remarked how similar it was to official modern NASA concept art for space tourism. I've always been fascinated with the idea of personification of robots for music and art, so I wrote a song around that idea.
 
@@ -1409,6 +1409,6 @@ ENTRY 116
 Week: 17
 Title: Mandrake Reflecting
 Medium: Photography
-Description: I took inspiration from @arren's Week 1 submission "Sparkly Mandrake" (https://refresh.fiveclawd.com/blog/arren-week-1-9c0e/) This was one of the first pieces I saw when watching design refresh and it really captured my attention. I utilised my own Mandrake model from Week 7 (https://refresh.fiveclawd.com/blog/winsome-week-7-16e6/). I tried to capture a video of it to replicate the glitter of the original gif, but it didn't look very good. Really enjoyed participating in design refresh. Thanks everyone!
+Description: I took inspiration from @arren's Week 1 submission "Sparkly Mandrake" (https://refresh21.fiveclawd.com/blog/arren-week-1-9c0e/) This was one of the first pieces I saw when watching design refresh and it really captured my attention. I utilised my own Mandrake model from Week 7 (https://refresh21.fiveclawd.com/blog/winsome-week-7-16e6/). I tried to capture a video of it to replicate the glitter of the original gif, but it didn't look very good. Really enjoyed participating in design refresh. Thanks everyone!
 
 =======================================================================================================================

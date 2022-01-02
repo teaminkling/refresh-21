@@ -47,7 +47,7 @@ RAW_SOCIAL_PARSING_REGEX: Pattern = re.compile(
         r"(?P<raw_socials>socia"
         r"(?:ls|"
         r"l media|"
-        r"sl|l)?(?! life)[:\-*]*[\s]+)"
+        r"sl|l|s)?(?! life)[:\-*]*[\s]+)"
         r"(?P<remainder>[\s\S]*)"
     ),
     flags=re.MULTILINE | re.IGNORECASE,
